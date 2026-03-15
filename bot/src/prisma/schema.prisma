@@ -1,0 +1,31 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id            Int       @id @default(autoincrement())
+  telegramId    BigInt    @unique
+  currentLesson Int       @default(1)
+  streak        Int       @default(0)
+  lastLessonAt  DateTime?
+  deliveryHour  Int       @default(9)
+  timezone      String    @default("Europe/Madrid")
+  isActive      Boolean   @default(true)
+  createdAt     DateTime  @default(now())
+  completions   LessonCompletion[]
+}
+
+model LessonCompletion {
+  id           Int      @id @default(autoincrement())
+  telegramId   BigInt
+  lessonNumber Int
+  completedAt  DateTime @default(now())
+  user         User     @relation(fields: [telegramId], references: [telegramId])
+
+  @@unique([telegramId, lessonNumber])
+}

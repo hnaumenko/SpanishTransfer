@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment (secrets)
+.env
+.env.local
+.env.*.local
+
+# Cursor (may contain API keys)
+.cursor/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Prisma
+prisma/migrations/**/migration_lock.toml
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+{
+  "name": "spanish-transfer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "migrate-locale": "npx tsx scripts/migrate-locale.ts",
+    "clean-examples": "find lessons -name 'examples.*.json' -delete",
+    "fetch-playlist": "npx tsx scripts/fetch-playlist.ts",
+    "generate-messages": "npx tsx scripts/generate-messages.ts",
+    "download-audio": "npx tsx scripts/download-audio.ts",
+    "generate-messages:test": "npx tsx scripts/generate-messages.ts --test",
+    "test-gemini": "npx tsx scripts/test-gemini.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.0",
+    "dotenv": "^16.4.0",
+    "openai": "^4.77.0",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

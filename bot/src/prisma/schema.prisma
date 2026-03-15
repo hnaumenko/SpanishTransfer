@@ -16,6 +16,7 @@ model User {
   deliveryHour  Int       @default(9)
   timezone      String    @default("Europe/Madrid")
   isActive      Boolean   @default(true)
+  locale        String    @default("uk")
   createdAt     DateTime  @default(now())
   completions   LessonCompletion[]
 }

@@ -45,6 +45,7 @@ export class SchedulerService {
         } else {
           const message = await this.lessons.getLessonMessage(
             user.currentLesson,
+            user.locale,
           );
           await this.bot.sendMessage(user.telegramId, message);
           await this.prisma.user.update({

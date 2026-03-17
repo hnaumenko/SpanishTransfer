@@ -25,3 +25,5 @@ _Soy una persona casada_ — Я одружена людина
 👉 *Спробуй вголос:* Estoy libre\. Soy una persona libre\. Está aburrido\.
 
 А от звідки ти родом — це *es* чи *está*? Розберемо в наступному уроці\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

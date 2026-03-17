@@ -34,3 +34,5 @@ _No vamos a quedarnos_ — Ми не залишимося
 👉 Спробуй вголос: "*No vamos a quedarnos porque estamos muy cansados*"\.
 
 У наступному уроці — ще одне дієслово, яке допоможе тобі говорити про плани та обов'язки\. Без нього — нікуди\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

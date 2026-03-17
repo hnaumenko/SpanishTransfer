@@ -27,3 +27,6 @@ _No me gusta nada más que esto_ — нічого не подобається б
 👉 Спробуй вголос: "*Estaba tan cansada que dormí todo el día*" \(я була така втомлена, що проспала весь день\)\.
 
 У наступному уроці — як сказати "стільки разів" і чому *cuántas veces* — жіночого роду\. Підказка: це через слово *otra*\.
+
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

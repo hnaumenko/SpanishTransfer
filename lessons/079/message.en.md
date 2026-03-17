@@ -29,3 +29,5 @@ _Es importante que entiendas esto_ — It's important that you understand this
 👉 Try it: Say *"Ojalá sea pronto"* out loud three times\. 
 
 Next lesson: the optional uses of subjunctive — where you can add humor, sarcasm, or serious shade to anything you say\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

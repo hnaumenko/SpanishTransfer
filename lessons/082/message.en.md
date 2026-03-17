@@ -30,3 +30,5 @@ _Lo increíble es que lo hacen otra vez_ — The incredible thing is that they'r
 👉 Say this now: *Lo increíble es que funciona\.* The incredible thing is that it works\.
 
 Next lesson: how to talk about the past using *era* — and why it sounds like an English word you already know\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

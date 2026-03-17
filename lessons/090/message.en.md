@@ -40,3 +40,5 @@ _Vos podés hacerlo_ — You can do it \(vos form\)
 👉 *Your mission now:* Get out there and practice\. Watch movies with subtitles\. Listen to music\. Don't stress if you don't understand everything at first — listening is a separate skill\. The more you break down what you hear, the more Spanish will *slow down*\.
 
 *Next time: Repeat this course after some real practice — you'll be amazed what clicks the second time around\.*
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

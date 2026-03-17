@@ -35,3 +35,5 @@ _Estudiaban juntos_ — They used to study together
 👉 *Say this now:* Pick one verb you use daily and put it in the line past\. Out loud\.
 
 *Next lesson:* the *dot* past — and why mixing it up with the *line* changes everything\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

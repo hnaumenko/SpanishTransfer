@@ -30,3 +30,5 @@ _Lo ves_ — You see him / You see it
 👉 *Say this out loud right now:* "Ella me ve\. Yo la veo\." \(She sees me\. I see her\.\)
 
 Next lesson: You'll learn the ONE situation where these little words can go in two completely different places in the same sentence\. It's weirder than you think\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

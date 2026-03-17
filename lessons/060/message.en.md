@@ -34,3 +34,6 @@ _Salimos ayer_ — We went out yesterday
 👉 *Say this out loud now:* "No salimos a menudo, pero salimos ayer\." \(We don't go out often, but we went out yesterday\.\)
 
 Next lesson: one sneaky verb that breaks all the rules\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

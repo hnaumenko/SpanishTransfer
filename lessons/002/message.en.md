@@ -37,3 +37,5 @@ _No es normal_ — It's not normal
 👉 *Say this out loud right now:* "_Es cultural\. No es personal\._"
 
 Next lesson: one tiny letter change that unlocks 900 more words instantly\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -35,3 +35,5 @@ _oír → oigo_ — чути → я чую
 👉 Спробуй вголос: "Quiero que vengas\." "No quiero que me distraigas\."
 
 У наступному уроці — ще одна зграя нерегулярних дієслів\. Але тепер ти вже знаєш їхній секрет\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

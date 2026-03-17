@@ -32,3 +32,5 @@ _8 por 8 es 64_ — 8 на 8 дорівнює 64
 👉 Спробуй вголос: *Estoy aquí por ti\. Gracias por escuchar\.*
 
 У наступному уроці — ще одна хитрість *por*, яка здивує\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

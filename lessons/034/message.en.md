@@ -29,3 +29,5 @@ _Están trabajando_ — They're working
 👉 Say this out loud now: "Estoy esperando aquí\." \(I'm waiting here\.\)
 
 Next lesson: how to turn ANY Spanish verb into a command\. Yes, even the weird ones\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

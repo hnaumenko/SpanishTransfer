@@ -32,3 +32,5 @@ _Son buenos_ — They're good people
 👉 *Say this out loud now:* "Estoy cansado\." Feel the difference?
 
 Next lesson: the forms of *estar* — and one word that works with *both* verbs to mean totally different things\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

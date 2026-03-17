@@ -30,3 +30,5 @@ _Salgo temprano para que llegues a tiempo_ — I leave early so you arrive on ti
 👉 *Say this now:* "He hecho todo para que tú también vuelvas\." \(I've done everything so you also come back\.\)
 
 *Next lesson: one verb that breaks in ways you won't expect\.\.\.*
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

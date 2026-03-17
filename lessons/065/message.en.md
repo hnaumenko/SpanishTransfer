@@ -26,3 +26,6 @@ _¿No comiste nada más?_ — Didn't you eat anything else?
 👉 Say this out loud right now: *"No encontré nada más en tu casa\."* \(I didn't find anything else in your house\.\)
 
 Next lesson: how one little word lets you talk about possession in ways English never could\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

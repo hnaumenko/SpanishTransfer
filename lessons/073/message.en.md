@@ -32,3 +32,5 @@ _Que vengan todos_ — Let them all come
 👉 Say this out loud: *Cuando comamos juntos, hablaremos*\. Feel that future uncertainty?
 
 Next lesson: one more sneaky situation where Spanish refuses to be direct\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

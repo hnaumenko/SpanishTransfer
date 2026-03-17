@@ -29,3 +29,5 @@ _Vuelvo en una hora_ — I'm coming back in an hour
 👉 Say this out loud: *Salgo mañana\. Lo compro pronto\.*
 
 Next lesson: the one verb where Spanish *does* love the "\-ing" form\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

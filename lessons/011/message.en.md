@@ -33,3 +33,6 @@ _Eliminan todo_ — They delete everything
 👉 Say this out loud right now: *"Hablo español\. No exagero\."*
 
 Next lesson: the \-er and \-ir verbs\. Spoiler — they team up together\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

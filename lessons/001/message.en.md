@@ -1,35 +1,36 @@
-🇪🇸 *Lesson 1*
+🇪🇸 *Introduction\. Lesson 1*
 
-You already know thousands of Spanish words\. You just don't realize it yet\.
+There is no traditional memorization here\. I will even ask you not to write anything down\. The goal of this course is for the new language to be built directly in your head, rather than staying in your notes\.
 
-Here's the first pattern that'll unlock your Spanish brain:
+At the core of this method lies *positive language transfer*\. English contains thousands of words of Latin origin that are almost identical to Spanish\. You don't need to learn them from scratch \- you just need to understand the transformation algorithm\.
 
-*\-al* in English → *\-al* in Spanish
-*\-ble* in English → *\-ble* in Spanish
+How does it work in practice? I will give you instructions \- pause, analyze, and build sentences on your own\. No one expects an instant answer\. The main rule: *think slowly to learn quickly*\.
 
-Thousands of words work exactly the same in both languages\. You already speak more Spanish than you think\.
+Here are the first constructions that already work\. Words ending in *\-al* in English sound exactly the same in Spanish\. We add the verb _es_ \(it is\) and get ready\-made phrases:
 
-Imagine you're talking about a new job:
-— How is it?
-— _Es normal\._ Not bad\. _No es ideal_, but it's _natural_\.
+• _es_ — it is / is
+• _no es_ — it is not
 
-See? You're already using Spanish\. Now here are 8 words you can use RIGHT NOW:
+• _Es normal_ — It is normal
+• _No es ideal_ — It is not ideal
+• _Es real_ — It is real
+• _No es legal_ — It is not legal
+• _Es original_ — It is original
+• _Es global_ — It is global
+• _No es formal_ — It is not formal
+• _Es natural_ — It is natural
 
-_normal_ — normal
-_ideal_ — ideal
-_natural_ — natural
-_real_ — real
-_final_ — final
-_total_ — total
-_posible_ — possible
-_increíble_ — incredible
+See the pattern? We take the vocabulary base that is already in your memory and simply transfer it into Spanish logic\.
 
-💡 *Here's the thing:* Don't try to memorize these\. Just notice the pattern\. Your brain will do the rest\.
+💡 Do not try to memorize these phrases on purpose\. Just *understand* their structure\. If you forget something \- that is absolutely normal and a natural part of the learning process\.
 
-👉 *Say this out loud right now:* "Es normal\. Es natural\. Es posible\."
+👉 Try saying it out loud right now: "_No es ideal, pero es natural_"\. Feel it? You are already building meaningful sentences on your own, relying on logic rather than memory\.
 
-Feel it? That's you speaking Spanish\.
+In the next lesson, we will cover another pattern that will instantly unlock a few hundred new words for you\.
 
-*Next lesson:* one simple word that lets you turn any of these into questions\. You'll be having real conversations by tomorrow\.
+*A few organizational details:*
+Every day you will receive 2 messages\. The first one at 09:00 \- is the main lesson\.
+And in the evening at 21:00 \- a short review of the material\.
+In science, this phenomenon is called memory consolidation during sleep \(Memory Consolidation\)\. In short: your brain doesn't turn off at night; it works like a backup server, transferring information from temporary storage \(hippocampus\) to long\-term memory \(neocortex\)\. You sleep, and your Spanish gets better\!
 
 ▶️ [Start course](https://t.me/SpanishMeBot?start=next_en)

@@ -25,3 +25,5 @@ The pattern: *Quiero saber* \+ whatever you want to know\.
 👉 Try saying it out loud: *Quiero saber si quiere venir a visitarme\.* I want to know if you want to come visit me\.
 
 Next lesson: the one verb that lets you talk about the future without learning future tense\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -42,3 +42,6 @@ _Así_ — Like this/that
 👉 Try it: Think of something you're organizing\. Say *"Quiero organizar lo de\.\.\."* out loud\.
 
 Next lesson: One tiny word that makes you sound 10x more natural when disagreeing\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

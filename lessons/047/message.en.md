@@ -25,3 +25,5 @@ _Todo se olvida_ — Everything gets forgotten
 👉 *Say this out loud now:* "Se rompe todo el tiempo\." Feel how natural it sounds?
 
 Next lesson: one more verb pattern that makes the past tense feel effortless\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

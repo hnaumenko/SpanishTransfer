@@ -35,3 +35,6 @@ _No hablamos así_ — ми так не говоримо
 👉 Скажи це зараз: *"Lo interesante es que yo como así\."* \(Цікаве те, що я так їм\.\)
 
 У наступному уроці — ще один секрет *lo*, який дозволить тобі говорити про емоції як native\.
+
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

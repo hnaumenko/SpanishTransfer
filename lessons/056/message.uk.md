@@ -36,3 +36,5 @@ _¿De dónde eres?_ — Звідки ти?
 👉 Спробуй вголос: "Я не знаю, з ким мені це робити" — _No sé con quién tengo que hacerlo_\.
 
 У наступному уроці — *cuál* vs *qué*\. Обидва "який", але один може образити\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

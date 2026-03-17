@@ -25,3 +25,5 @@ _Se necesita_ — It's needed / Wanted
 👉 *Say this now:* pick 3 examples above and say them out loud\. Feel how natural *se* becomes\.
 
 *Next lesson: how to say "I have 2 left" using this same se magic\.*
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

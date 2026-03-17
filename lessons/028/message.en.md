@@ -24,3 +24,5 @@ Also: those random double letters in English \(aggressive, addictive\)? They dis
 👉 *Say this out loud right now:* "Ella es muy creativa, pero él es muy negativo\."
 
 Next lesson: how ONE more ending pattern gives you access to 2,000\+ more Spanish words instantly\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

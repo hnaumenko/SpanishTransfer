@@ -33,3 +33,5 @@ _Digo_ — I say / tell
 👉 Try it: say *"No quiero que traigas eso"* \(I don't want you to bring that\)\.
 
 Next lesson: one more verb family that looks irregular\.\.\. but isn't\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

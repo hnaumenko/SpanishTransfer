@@ -35,3 +35,5 @@ _Todos los días_ — Every day
 👉 Say this out loud: _Lo hago por ti, pero no es para ti\._ \(I'm doing it because of you, but it's not for you\.\)
 
 Next lesson: how to push any verb into the future or turn it into "I would\.\.\." with just two letters\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

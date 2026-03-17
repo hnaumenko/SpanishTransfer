@@ -32,3 +32,6 @@ _¿Cómo es?_ — What's he/she like?
 👉 Say this out loud right now: *Soy estudiante\. Es especial\.*
 
 Next lesson: the one weird verb form that trips up *everyone* — even native speakers mess it up\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -34,3 +34,6 @@ _celebrar_ — to celebrate
 👉 *Say this now:* "Como mañana\." \(I'm eating tomorrow\.\)
 
 *Next lesson:* One irregular verb that breaks this rule — but unlocks 50 more verbs at once\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -72,37 +72,74 @@ export class SchedulerService {
     }
   }
 
-  @Cron('0 20 * * *', { timeZone: 'Europe/Madrid' })
+  @Cron('0 21 * * *', { timeZone: 'Europe/Madrid' })
   async sendEveningReminder(): Promise<void> {
-    this.logger.log('Running evening reminder cron');
-
-    // Find users whose lesson was sent today — morning cron ran at 9:00, evening at 20:00,
-    // so checking last 12 hours is sufficient to identify today's recipients.
-    const twelveHoursAgo = new Date(Date.now() - 12 * 60 * 60 * 1000);
+    this.logger.log('Evening reminder: starting delivery');
 
     const users = await this.prisma.user.findMany({
-      where: {
-        isActive: true,
-        lastLessonAt: { gte: twelveHoursAgo },
-      },
+      where: { isActive: true },
     });
 
-    this.logger.log(`Sending evening reminder to ${users.length} users`);
+    const eligible = users.filter((u) => this.isToday(u.lastLessonAt));
+    this.logger.log(`Evening reminder: ${eligible.length} eligible users`);
 
-    for (const user of users) {
+    let sent = 0;
+    let skipped = 0;
+    let failed = 0;
+
+    for (const user of eligible) {
+      const lessonNumber = user.currentLesson - 1;
+
+      if (lessonNumber < 1) {
+        skipped++;
+        continue;
+      }
+
       try {
-        // currentLesson was already incremented after morning send, so subtract 2 for display
-        const lessonNumber = user.currentLesson - 2;
-        const text = escMd(
-          `🔄 Нагадування\n\nСьогодні був урок ${lessonNumber}.\nПовтори ключові конструкції перед сном 💪`,
-        );
-        await this.bot.sendMessage(user.telegramId, text);
-        this.logger.log(`Sent evening reminder to user ${user.telegramId}`);
+        const message = await this.lessons.getReminderMessage(lessonNumber, user.locale);
+        await this.bot.sendMessage(user.telegramId, message);
+        sent++;
       } catch (error) {
-        this.logger.error(
-          `Failed to send reminder to user ${user.telegramId}: ${error}`,
-        );
+        const msg = error instanceof Error ? error.message : String(error);
+        if (msg.includes('404') || msg.includes('not found') || msg.includes('not found')) {
+          this.logger.warn(
+            `Evening reminder: no reminder file for lesson ${lessonNumber} [${user.locale}]`,
+          );
+          skipped++;
+        } else {
+          this.logger.error(
+            `Evening reminder: failed for user ${user.telegramId}: ${msg}`,
+          );
+          failed++;
+        }
       }
     }
+
+    this.logger.log(
+      `Evening reminder complete: ✅ ${sent} sent / ⏭ ${skipped} skipped / ❌ ${failed} failed`,
+    );
+  }
+
+  public async sendEveningReminderToUser(telegramId: bigint): Promise<void> {
+    const user = await this.prisma.user.findUnique({ where: { telegramId } });
+    if (!user) throw new Error(`User ${telegramId} not found`);
+
+    const lessonNumber = user.currentLesson - 1;
+    if (lessonNumber < 1) {
+      throw new Error(`User ${telegramId} has not started the course yet`);
+    }
+
+    const message = await this.lessons.getReminderMessage(lessonNumber, user.locale);
+    await this.bot.sendMessage(user.telegramId, message);
+  }
+
+  private isToday(date: Date | null): boolean {
+    if (!date) return false;
+    const now = new Date();
+    return (
+      date.getDate() === now.getDate() &&
+      date.getMonth() === now.getMonth() &&
+      date.getFullYear() === now.getFullYear()
+    );
   }
 }

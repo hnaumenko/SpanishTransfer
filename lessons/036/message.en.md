@@ -27,3 +27,5 @@ Notice something? Even irregular verbs like *ir* become regular in the future: *
 👉 *Say this now:* Pick any verb you know and make it future\. Out loud\.
 
 Next lesson: why Spanish speakers barely use this tense — and what they say instead\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

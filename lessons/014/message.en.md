@@ -29,3 +29,5 @@ _No sé cuándo viene_ — I don't know when he's coming
 👉 *Say this out loud right now:* "No sé qué quiere\."
 
 Next lesson: verbs that let you stack actions — "I'm going to," "I have to," "I can\." One pattern, endless combinations\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

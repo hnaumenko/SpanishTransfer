@@ -34,3 +34,5 @@ _Trajiste_ — you brought
 👉 Don't memorize these yet\. Just get familiar with the *sound* of rebellion\. Say one out loud right now: pick any example above and say it three times\.
 
 Next lesson: how these rebels unlock the past subjunctive — including "if I were you\.\.\."
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

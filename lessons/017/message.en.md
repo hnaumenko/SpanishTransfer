@@ -47,3 +47,6 @@ _queremos_ — we want \(no ie\)
 👉 *Say this now:* _Pensamos que es normal\. ¿Qué piensas tú?_ \(We think it's normal\. What do you think?\)
 
 Next lesson: words you already know that are secretly Arabic\. Hint: they all start with "al\-"\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

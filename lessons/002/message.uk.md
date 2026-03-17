@@ -29,3 +29,5 @@ _Es cultural_ — Це культурно
 "*Es natural\. No es ideal\.*"
 
 У наступному уроці — ще одна мегапростя річ, яка додасть тобі 2000 слів одним махом\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

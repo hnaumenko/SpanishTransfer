@@ -32,3 +32,6 @@ _Aprendemos español_ — ми вчимо іспанську
 👉 Спробуй вголос: "Vivimos aquí pero no entendemos todo\."
 
 У наступному уроці — чому іспанці кажуть *vivo* так, ніби губи ледь ворушаться\. Секрет м'якої *v*\.
+
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

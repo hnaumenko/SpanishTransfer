@@ -30,3 +30,6 @@ _Termino estudiando toda la noche_ — I end up studying all night
 👉 Try saying it out loud: *"Empiezo a entender\."* Now: *"Termino entendiendo\."*
 
 Next lesson: one sneaky verb that changes everything when you use the mood tense\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

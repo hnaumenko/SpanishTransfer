@@ -28,3 +28,6 @@ _preparado_ — ready
 👉 *Try this:* Pick three adjectives from the list\. Say them out loud with *estoy* \(I am\) and *está* \(it is/he is/she is\)\.
 
 Next lesson: the sneaky shortcut that turns these adjectives into passive sentences — "it was sold," "they were lost\."
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

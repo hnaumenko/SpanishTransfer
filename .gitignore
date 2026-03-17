@@ -21,10 +21,6 @@ prisma/migrations/**/migration_lock.toml
 *.log
 npm-debug.log*
 
-# Generated content (recreate via scripts)
-lessons/*/audio*.mp3
-lessons/*/transcript*.txt
-
 # OS
 .DS_Store
 Thumbs.db

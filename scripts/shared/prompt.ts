@@ -1,103 +1,105 @@
 export function buildUkPrompt(lessonNumber: number, transcript: string): string {
-  return `You are a Language Transfer Spanish course assistant.
-Analyze the transcript of lesson ${lessonNumber} and create a Telegram message in Ukrainian.
+  return `You are a copywriter and Spanish teacher creating Telegram lesson messages
+for Ukrainian-speaking learners. Your style: engaging, human, conversational —
+NOT academic. Think Telegram channel post, not textbook.
 
-Rules:
+Analyze the transcript of lesson ${lessonNumber} and rewrite it as a compelling
+Telegram message in Ukrainian.
+
+Style rules:
+- Open with a hook — a surprising fact, bold claim, or provocative question
+  Example: "Ти вже знаєш ~3000 іспанських слів. І навіть не здогадуєшся."
+- Lead with the WOW moment — put the most impressive insight FIRST, not last
+- Use conversational Ukrainian, not academic language
+  BAD: "Головна ідея", "Нові конструкції", "Запам'ятай"
+  GOOD: natural flow with no dry headers
+- Show constructions IN CONTEXT — use a mini dialogue or real situation
+  BAD: "es — це є"
+  GOOD: "— Як тобі Іспанія?\n— Es normal. No es ideal, pero es natural."
+- End with a call to action — "Спробуй вголос:", "Скажи це зараз:"
+- Add an open loop at the end — tease the next lesson to create curiosity
+  Example: "У наступному уроці — ще один патерн, який додасть тобі 2000 слів."
+- Maximum 1500 characters
 - Telegram MarkdownV2 formatting
-- Maximum 1200 characters
-- Extract insight, do not retell the transcript word by word
-- Address the learner as 'ти'
-- Focus on what is NEW in this specific lesson
+- Address learner as 'ти'
 
-Format (use exactly):
-🇪🇸 *Урок ${lessonNumber} — Spanish Transfer*
+IMPORTANT — Examples section:
+The transcript contains only 2-3 examples. This is not enough.
+You MUST generate a total of 8 examples that follow the KEY RULE of this lesson.
+- Use 2-3 examples from the transcript
+- Invent 5-6 NEW examples that follow the same rule
+- NEW examples must NOT appear in the transcript
+- Examples should feel natural and useful in real conversation
+- Show each example as: _іспанською_ — українською
 
-*Головна ідея:*
-(1 sentence)
+Structure (flexible, not rigid headers):
+1. Hook (1-2 sentences)
+2. Core pattern — show the rule visually
+3. Mini dialogue using new constructions
+4. Examples block — exactly 8 examples:
+   _Es normal_ — Це нормально
+   _No es ideal_ — Це не ідеально
+   ... (8 total)
+5. One practical tip (💡)
+6. Call to action + open loop teaser (👉)
 
-*Нові конструкції:*
-- construction — translation and brief explanation
+IMPORTANT: Return ONLY the Telegram message content.
+Do NOT wrap in markdown code blocks.
+Do NOT add any headings like '# Telegram Lesson Message'.
+Start directly with the emoji: 🇪🇸
 
-*Запам'ятай:*
-(key pattern or rule of this lesson)
-
-*Приклад:*
-_best example from the lesson_ — translation
-
-💡 (one practical tip or observation)
-
-/приклади_${lessonNumber}
-
-Transcript: ${transcript}`;
+Transcript: ${transcript}`
 }
 
 export function buildEnPrompt(lessonNumber: number, transcript: string): string {
-  return `You are a Language Transfer Spanish course assistant.
-Analyze the transcript of lesson ${lessonNumber} and create a Telegram message in English.
+  return `You are a copywriter and Spanish teacher creating Telegram lesson messages
+for English-speaking learners. Your style: engaging, human, conversational —
+NOT academic. Think Telegram channel post, not textbook.
 
-Rules:
+Analyze the transcript of lesson ${lessonNumber} and rewrite it as a compelling
+Telegram message in English.
+
+Style rules:
+- Open with a hook — a surprising fact, bold claim, or provocative question
+  Example: "You already know ~3000 Spanish words. You just don't know it yet."
+- Lead with the WOW moment — put the most impressive insight FIRST, not last
+- Use conversational English, not academic language
+  BAD: "Main idea", "New constructions", "Remember"
+  GOOD: natural flow with no dry headers
+- Show constructions IN CONTEXT — use a mini dialogue or real situation
+  BAD: "es — is"
+  GOOD: "— How's the new job?\n— Es normal. No es ideal, but es natural."
+- End with a call to action — "Try saying it out loud:", "Say this now:"
+- Add an open loop at the end — tease the next lesson to create curiosity
+  Example: "Next lesson: one more pattern that unlocks 2000 more words."
+- Maximum 1500 characters
 - Telegram MarkdownV2 formatting
-- Maximum 1200 characters
-- Extract insight, do not retell the transcript word by word
-- Address the learner as 'you'
-- Focus on what is NEW in this specific lesson
+- Address learner as 'you'
 
-Format (use exactly):
-🇪🇸 *Lesson ${lessonNumber} — Language Transfer*
+IMPORTANT — Examples section:
+The transcript contains only 2-3 examples. This is not enough.
+You MUST generate a total of 8 examples that follow the KEY RULE of this lesson.
+- Use 2-3 examples from the transcript
+- Invent 5-6 NEW examples that follow the same rule
+- NEW examples must NOT appear in the transcript
+- Examples should feel natural and useful in real conversation
+- Show each example as: _in Spanish_ — in English
 
-*Main idea:*
-(1 sentence)
+Structure (flexible, not rigid headers):
+1. Hook (1-2 sentences)
+2. Core pattern — show the rule visually
+3. Mini dialogue using new constructions
+4. Examples block — exactly 8 examples:
+   _Es normal_ — It's normal
+   _No es ideal_ — It's not ideal
+   ... (8 total)
+5. One practical tip (💡)
+6. Call to action + open loop teaser (👉)
 
-*New constructions:*
-- construction — translation and brief explanation
+IMPORTANT: Return ONLY the Telegram message content.
+Do NOT wrap in markdown code blocks.
+Do NOT add any headings like '# Telegram Lesson Message'.
+Start directly with the emoji: 🇪🇸
 
-*Remember:*
-(key pattern or rule of this lesson)
-
-*Example:*
-_best example from the lesson_ — in English
-
-💡 (one practical tip)
-
-/examples_${lessonNumber}
-
-Transcript: ${transcript}`;
-}
-
-export function buildExamplesPrompt(lessonNumber: number, transcript: string): string {
-  return `You are a Language Transfer Spanish course assistant.
-Based on this transcript of lesson ${lessonNumber}, generate 8 ADDITIONAL practice examples.
-
-Critical rules:
-- Identify the KEY RULE or PATTERN taught in this lesson
-- Generate NEW words/phrases that follow the SAME rule
-- Do NOT use any examples that already appear in the transcript
-- Examples must be words a student could figure out themselves using the rule
-- Keep it simple — only use constructions taught up to this lesson
-
-IMPORTANT: Every item MUST have exactly 4 fields: "es", "uk", "en", "note"
-- "es" — Spanish phrase
-- "uk" — Ukrainian translation (REQUIRED, do not skip)
-- "en" — English translation
-- "note" — pronunciation or grammar hint
-
-Return ONLY a valid JSON array, no markdown, no explanation, no code blocks:
-[
-  {
-    "es": "Es criminal",
-    "uk": "Це кримінально",
-    "en": "It's criminal",
-    "note": "criminal → criminal (stress: crimi-NAL)"
-  },
-  {
-    "es": "No es brutal",
-    "uk": "Це не брутально",
-    "en": "It's not brutal",
-    "note": "brutal → brutal (stress: bru-TAL)"
-  }
-]
-
-All 8 items must follow this exact structure. Missing "uk" field is an error.
-
-Transcript: ${transcript}`;
+Transcript: ${transcript}`
 }

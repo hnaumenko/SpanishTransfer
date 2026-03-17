@@ -4,7 +4,7 @@ import {
   OnModuleDestroy,
   OnModuleInit,
 } from '@nestjs/common';
-import { Bot } from 'grammy';
+import { Bot, InputFile } from 'grammy';
 import { BotUpdate } from './bot.update';
 
 @Injectable()
@@ -43,5 +43,9 @@ export class BotService implements OnModuleInit, OnModuleDestroy {
     await this.bot.api.sendMessage(Number(telegramId), text, {
       parse_mode: 'MarkdownV2',
     });
+  }
+
+  async sendAudio(telegramId: bigint, audio: InputFile | string): Promise<void> {
+    await this.bot.api.sendAudio(Number(telegramId), audio);
   }
 }

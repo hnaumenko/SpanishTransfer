@@ -30,6 +30,7 @@ export class BotUpdate {
     bot.command('pause', (ctx) => this.onPause(ctx));
     bot.command('resume', (ctx) => this.onResume(ctx));
     bot.command('skip', (ctx) => this.onSkip(ctx));
+    bot.command('next', (ctx) => this.onNext(ctx));
     bot.callbackQuery('locale_en', (ctx) => this.onLocaleSelected(ctx, 'en'));
     bot.callbackQuery('locale_uk', (ctx) => this.onLocaleSelected(ctx, 'uk'));
     bot.callbackQuery('locale_en_selected', (ctx) => ctx.answerCallbackQuery());
@@ -46,6 +47,24 @@ export class BotUpdate {
     if (!existing) {
       await this.prisma.user.create({ data: { telegramId } });
       this.logger.log(`New user registered: ${telegramId}`);
+    }
+
+    // Deep link from "Start first lesson" CTA in lesson 0
+    // ctx.match is 'next_uk' / 'next_en' (locale-encoded) or legacy 'next'
+    const match = ctx.match as string | undefined;
+    if (match === 'next_uk' || match === 'next_en' || match === 'next') {
+      const locale = match === 'next_en' ? 'en' : 'uk';
+      // folder 002 = display "Урок 1" (first real lesson)
+      await this.prisma.user.update({
+        where: { telegramId },
+        data: { locale, currentLesson: 2 },
+      });
+      try {
+        await this.replyWithLessonAndAudio(ctx, 2, locale);
+      } catch (error) {
+        this.logger.error(`Failed to send lesson 2 via deep link: ${error}`);
+      }
+      return;
     }
 
     await this.sendLesson1WithLocalePicker(ctx, 'uk');
@@ -71,6 +90,8 @@ export class BotUpdate {
     try {
       const message = await this.lessons.getLessonMessage(1, locale);
       await ctx.reply(message, { parse_mode: 'MarkdownV2', reply_markup: keyboard });
+      const audio = this.lessons.getLessonAudio(1);
+      if (audio !== null) await ctx.replyWithAudio(audio);
     } catch (error) {
       this.logger.error(`Failed to send lesson 1 [${locale}]: ${error}`);
       const errorText =
@@ -91,8 +112,7 @@ export class BotUpdate {
     }
 
     try {
-      const message = await this.lessons.getLessonMessage(user.currentLesson, user.locale);
-      await ctx.reply(message, { parse_mode: 'MarkdownV2' });
+      await this.replyWithLessonAndAudio(ctx, user.currentLesson, user.locale);
     } catch (error) {
       this.logger.error(
         `Failed to send lesson ${user.currentLesson} to ${telegramId}: ${error}`,
@@ -114,9 +134,11 @@ export class BotUpdate {
     }
 
     const dateStr = formatDate(user.createdAt);
+    // currentLesson is the folder number; folder 001 is intro, so display = currentLesson - 1
+    const displayLesson = Math.max(user.currentLesson - 1, 0);
     const text =
       `📊 Твій прогрес:\n` +
-      `📍 Урок: ${user.currentLesson} з 90\n` +
+      `📍 Урок: ${displayLesson} з 90\n` +
       `🔥 Streak: ${user.streak} днів\n` +
       `📅 Розпочато: ${dateStr}`;
 
@@ -164,14 +186,55 @@ export class BotUpdate {
       data: { currentLesson: newLesson },
     });
     await ctx.reply(
-      escMd(`⏭ Урок пропущено. Наступний урок: ${newLesson}`),
+      escMd(`⏭ Урок пропущено. Наступний урок: ${newLesson - 1}`),
       { parse_mode: 'MarkdownV2' },
     );
   }
 
+  private async replyWithLessonAndAudio(
+    ctx: Context,
+    lessonNumber: number,
+    locale: string,
+  ): Promise<void> {
+    const message = await this.lessons.getLessonMessage(lessonNumber, locale);
+    await ctx.reply(message, { parse_mode: 'MarkdownV2' });
+    const audio = this.lessons.getLessonAudio(lessonNumber);
+    if (audio !== null) {
+      await ctx.replyWithAudio(audio);
+    }
+  }
+
+  private async onNext(ctx: Context): Promise<void> {
+    const telegramId = BigInt(ctx.from!.id);
+    const user = await this.prisma.user.findUnique({ where: { telegramId } });
+
+    if (!user) {
+      await ctx.reply(escMd('Спочатку напиши /start 👋'), { parse_mode: 'MarkdownV2' });
+      return;
+    }
+
+    const nextLesson = user.currentLesson + 1;
+    await this.prisma.user.update({
+      where: { telegramId },
+      data: { currentLesson: nextLesson },
+    });
+
+    try {
+      await this.replyWithLessonAndAudio(ctx, nextLesson, user.locale);
+    } catch (error) {
+      this.logger.error(`Failed to send lesson ${nextLesson} to ${telegramId}: ${error}`);
+      await ctx.reply(
+        escMd('Не вдалося завантажити урок. Спробуй пізніше.'),
+        { parse_mode: 'MarkdownV2' },
+      );
+    }
+  }
+
   private async onExamples(ctx: Context): Promise<void> {
     const telegramId = BigInt(ctx.from!.id);
-    const lessonNumber = Number((ctx.match as RegExpMatchArray)[1]);
+    // Commands use display numbers (/приклади_1 = folder 002), convert to folder number
+    const displayNumber = Number((ctx.match as RegExpMatchArray)[1]);
+    const lessonNumber = displayNumber + 1;
 
     const user = await this.prisma.user.findUnique({ where: { telegramId } });
     const locale = user?.locale ?? 'uk';

@@ -1,4 +1,7 @@
 import { Injectable, Logger } from '@nestjs/common';
+import * as fs from 'fs';
+import * as path from 'path';
+import { InputFile } from 'grammy';
 
 interface ExamplesItem {
   es: string;
@@ -17,12 +20,35 @@ export class LessonsService {
     return base;
   }
 
+  private stripMarkdownWrapper(content: string): string {
+    let text = content.replace(/^#[^\n]*\n+/, '');
+    text = text.replace(/^```(?:markdown)?\n/, '');
+    text = text.replace(/\n```\s*$/, '');
+    return text.trim();
+  }
+
   private escapeMarkdown(text: string): string {
     return text.replace(/[_*[\]()~`>#+\-=|{}.!]/g, '\\$&');
   }
 
+  private isDev(): boolean {
+    return process.env.NODE_ENV !== 'production';
+  }
+
+  private lessonsDir(): string {
+    return path.join(process.cwd(), '..', 'lessons');
+  }
+
   async getLessonMessage(lessonNumber: number, locale: string = 'uk'): Promise<string> {
     const padded = String(lessonNumber).padStart(3, '0');
+
+    if (this.isDev()) {
+      const localPath = path.join(this.lessonsDir(), padded, `message.${locale}.md`);
+      this.logger.log(`[dev] Reading lesson ${lessonNumber} [${locale}] from ${localPath}`);
+      const raw = await fs.promises.readFile(localPath, 'utf-8');
+      return this.stripMarkdownWrapper(raw);
+    }
+
     const url = `${this.getBase()}/lessons/${padded}/message.${locale}.md`;
     this.logger.log(`Fetching lesson ${lessonNumber} [${locale}] from ${url}`);
     const response = await fetch(url);
@@ -31,21 +57,35 @@ export class LessonsService {
         `Failed to fetch lesson ${lessonNumber} [${locale}]: HTTP ${response.status}`,
       );
     }
-    return response.text();
+    return this.stripMarkdownWrapper(await response.text());
   }
 
   async getLessonExamples(lessonNumber: number, locale: string = 'uk'): Promise<string> {
     const padded = String(lessonNumber).padStart(3, '0');
-    const url = `${this.getBase()}/lessons/${padded}/examples.json`;
-    this.logger.log(`Fetching examples for lesson ${lessonNumber} [${locale}] from ${url}`);
-    const response = await fetch(url);
-    if (!response.ok) {
-      this.logger.warn(
-        `Examples not found for lesson ${lessonNumber}: HTTP ${response.status}`,
-      );
-      return '';
+    let examples: ExamplesItem[];
+
+    if (this.isDev()) {
+      const localPath = path.join(this.lessonsDir(), padded, 'examples.json');
+      this.logger.log(`[dev] Reading examples for lesson ${lessonNumber} from ${localPath}`);
+      try {
+        const raw = await fs.promises.readFile(localPath, 'utf-8');
+        examples = JSON.parse(raw) as ExamplesItem[];
+      } catch {
+        this.logger.warn(`Examples not found for lesson ${lessonNumber} at ${localPath}`);
+        return '';
+      }
+    } else {
+      const url = `${this.getBase()}/lessons/${padded}/examples.json`;
+      this.logger.log(`Fetching examples for lesson ${lessonNumber} [${locale}] from ${url}`);
+      const response = await fetch(url);
+      if (!response.ok) {
+        this.logger.warn(
+          `Examples not found for lesson ${lessonNumber}: HTTP ${response.status}`,
+        );
+        return '';
+      }
+      examples = (await response.json()) as ExamplesItem[];
     }
-    const examples = (await response.json()) as ExamplesItem[];
 
     const lines = examples.map((ex, i) => {
       const index = `${i + 1}\\.`;
@@ -68,6 +108,20 @@ export class LessonsService {
         : `*Examples for lesson ${lessonNumber}:*`;
 
     return `${header}\n\n${lines.join('\n\n')}`;
+  }
+
+  getLessonAudio(lessonNumber: number): InputFile | string | null {
+    const padded = String(lessonNumber).padStart(3, '0');
+
+    if (this.isDev()) {
+      for (const ext of ['mp3', 'm4a']) {
+        const localPath = path.join(this.lessonsDir(), padded, `audio.en.${ext}`);
+        if (fs.existsSync(localPath)) return new InputFile(localPath);
+      }
+      return null;
+    }
+
+    return `${this.getBase()}/lessons/${padded}/audio.en.mp3`;
   }
 
   getTotalLessons(): number {

@@ -3,7 +3,7 @@ import { YoutubeTranscript } from 'youtube-transcript';
 import * as fs from 'fs';
 import * as path from 'path';
 import * as dotenv from 'dotenv';
-import { buildUkPrompt, buildEnPrompt, buildExamplesPrompt } from './shared/prompt';
+import { buildUkPrompt, buildEnPrompt } from './shared/prompt';
 
 dotenv.config();
 
@@ -22,9 +22,31 @@ interface BatchRequest {
   };
 }
 
-async function fetchTranscript(videoId: string): Promise<string> {
-  const segments = await YoutubeTranscript.fetchTranscript(videoId, { lang: 'en' });
-  return segments.map((s) => s.text).join(' ');
+async function fetchTranscriptWithFallback(
+  videoId: string,
+  padded: string,
+): Promise<string | null> {
+  // Priority 1: English transcript
+  try {
+    const segments = await YoutubeTranscript.fetchTranscript(videoId, { lang: 'en' });
+    return segments.map((s) => s.text).join(' ');
+  } catch {
+    console.log(`   ⚠️  No English transcript, trying Greek...`);
+  }
+
+  // Priority 2: Greek transcript (saved as-is, no translation)
+  try {
+    const segments = await YoutubeTranscript.fetchTranscript(videoId, { lang: 'el' });
+    const text = segments.map((s) => s.text).join(' ');
+    const outputDir = path.join(process.cwd(), 'lessons', padded);
+    fs.mkdirSync(outputDir, { recursive: true });
+    fs.writeFileSync(path.join(outputDir, 'transcript.el.txt'), text, 'utf-8');
+    console.log(`   🇬🇷 Saved Greek transcript (${text.length} chars)`);
+    return text;
+  } catch (err) {
+    console.error(`   ❌ Greek transcript also failed: ${err}`);
+    return null;
+  }
 }
 
 async function main(): Promise<void> {
@@ -59,18 +81,43 @@ async function main(): Promise<void> {
 
     const ukMessageExists = fs.existsSync(path.join(outputDir, 'message.uk.md'));
     const enMessageExists = fs.existsSync(path.join(outputDir, 'message.en.md'));
-    const isFirstLesson = lesson.lesson === 1;
-    const examplesExists = isFirstLesson || fs.existsSync(path.join(outputDir, 'examples.json'));
 
-    if (ukMessageExists && enMessageExists && examplesExists) {
+    if (ukMessageExists && enMessageExists) {
       console.log(`⏭ lesson-${padded}: all files exist, skipping`);
       continue;
     }
 
+    if (lesson.videoId === 'ClG2KKF5v2M') {
+      console.log(`⚠️  lesson-${padded}: deleted video, skipping`);
+      transcriptFailed++;
+      continue;
+    }
+
     try {
-      process.stdout.write(`⬇️  Fetching transcript for lesson-${padded}...`);
-      const transcript = await fetchTranscript(lesson.videoId);
-      console.log(` ✅ (${transcript.length} chars)`);
+      const transcriptPath = path.join(outputDir, 'transcript.txt');
+      const transcriptElPath = path.join(outputDir, 'transcript.el.txt');
+      let transcript: string;
+
+      if (fs.existsSync(transcriptPath)) {
+        transcript = fs.readFileSync(transcriptPath, 'utf-8');
+        console.log(`📄 lesson-${padded}: loaded transcript from cache (${transcript.length} chars)`);
+      } else if (fs.existsSync(transcriptElPath)) {
+        transcript = fs.readFileSync(transcriptElPath, 'utf-8');
+        console.log(`📄 lesson-${padded}: loaded Greek transcript from cache (${transcript.length} chars)`);
+      } else {
+        process.stdout.write(`⬇️  Fetching transcript for lesson-${padded}...`);
+        const fetched = await fetchTranscriptWithFallback(lesson.videoId, padded);
+        if (fetched === null) {
+          transcriptFailed++;
+          continue;
+        }
+        transcript = fetched;
+        console.log(` ✅ (${transcript.length} chars)`);
+        fs.mkdirSync(outputDir, { recursive: true });
+        if (!fs.existsSync(transcriptElPath)) {
+          fs.writeFileSync(transcriptPath, transcript, 'utf-8');
+        }
+      }
 
       if (!ukMessageExists) {
         requests.push({
@@ -90,19 +137,6 @@ async function main(): Promise<void> {
             model: 'claude-sonnet-4-5',
             max_tokens: 1024,
             messages: [{ role: 'user', content: buildEnPrompt(lesson.lesson, transcript) }],
-          },
-        });
-      }
-
-      if (!examplesExists) {
-        requests.push({
-          custom_id: `examples-${padded}`,
-          params: {
-            model: 'claude-sonnet-4-5',
-            max_tokens: 1024,
-            messages: [
-              { role: 'user', content: buildExamplesPrompt(lesson.lesson, transcript) },
-            ],
           },
         });
       }
@@ -140,14 +174,11 @@ async function main(): Promise<void> {
 
   for await (const result of await client.messages.batches.results(batch.id)) {
     const id = result.custom_id;
-    // custom_id format: "lesson-uk-001", "lesson-en-001", "examples-001"
-    const isExamples = id.startsWith('examples-');
+    // custom_id format: "lesson-uk-001", "lesson-en-001"
     const locale = id.includes('-uk-') ? 'uk' : 'en';
-    const padded = isExamples
-      ? id.slice('examples-'.length)
-      : id.startsWith('lesson-uk-')
-        ? id.slice('lesson-uk-'.length)
-        : id.slice('lesson-en-'.length);
+    const padded = id.startsWith('lesson-uk-')
+      ? id.slice('lesson-uk-'.length)
+      : id.slice('lesson-en-'.length);
 
     if (result.result.type !== 'succeeded') {
       const errorType =
@@ -168,24 +199,10 @@ async function main(): Promise<void> {
     const outputDir = path.join(process.cwd(), 'lessons', padded);
     fs.mkdirSync(outputDir, { recursive: true });
 
-    if (isExamples) {
-      try {
-        // Strip markdown code block if Claude wrapped the JSON
-        const cleaned = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
-        JSON.parse(cleaned); // validate before saving
-        fs.writeFileSync(path.join(outputDir, 'examples.json'), cleaned, 'utf-8');
-        console.log(`✅ Saved ${id} (${cleaned.length} chars)`);
-        succeeded++;
-      } catch {
-        console.error(`❌ ${id}: Claude returned invalid JSON`);
-        failed++;
-      }
-    } else {
-      const filename = `message.${locale}.md`;
-      fs.writeFileSync(path.join(outputDir, filename), text, 'utf-8');
-      console.log(`✅ Saved ${id} (${text.length} chars)`);
-      succeeded++;
-    }
+    const filename = `message.${locale}.md`;
+    fs.writeFileSync(path.join(outputDir, filename), text, 'utf-8');
+    console.log(`✅ Saved ${id} (${text.length} chars)`);
+    succeeded++;
   }
 
   console.log(`\n📊 Summary: ✅ ${succeeded} succeeded / ❌ ${failed} failed`);

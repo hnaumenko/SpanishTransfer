@@ -48,6 +48,10 @@ export class SchedulerService {
             user.locale,
           );
           await this.bot.sendMessage(user.telegramId, message);
+          const audio = this.lessons.getLessonAudio(user.currentLesson);
+          if (audio !== null) {
+            await this.bot.sendAudio(user.telegramId, audio);
+          }
           await this.prisma.user.update({
             where: { id: user.id },
             data: {
@@ -87,7 +91,8 @@ export class SchedulerService {
 
     for (const user of users) {
       try {
-        const lessonNumber = user.currentLesson - 1;
+        // currentLesson was already incremented after morning send, so subtract 2 for display
+        const lessonNumber = user.currentLesson - 2;
         const text = escMd(
           `🔄 Нагадування\n\nСьогодні був урок ${lessonNumber}.\nПовтори ключові конструкції перед сном 💪`,
         );

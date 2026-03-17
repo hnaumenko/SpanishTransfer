@@ -1,8 +1,8 @@
 🇪🇸 *Lesson 87: The Rebels of Spanish Past Tense*
 
-Here's the thing about irregular verbs in the dot past: they're rebels, but they all rebel *the same way*\. Once you crack the pattern, you've got them all\.
+Here's the thing about irregular verbs in the preterite: they're rebels, but they all rebel *the same way*\. Once you crack the pattern, you've got them all\.
 
-Most verbs in the dot past are predictable\. But there's this gang of irregulars that do three sneaky things:
+Most verbs in the preterite are predictable\. But there's this gang of irregulars that do three sneaky things:
 
 1️⃣ They change their stem \(sometimes dramatically\)
 2️⃣ They mix endings from *both* \-ar and \-er/\-ir verbs
@@ -25,7 +25,7 @@ _Vinieron_ — they came
 _Supiste_ — you knew
 _Quisieron_ — they wanted
 
-💡 Feeling stuck mid\-conversation? Use the *line past* instead\. *Tenía que irme* works just fine instead of *tuve que irme*\. Don't let uncertainty shut you down\.
+💡 Feeling stuck mid\-conversation? Use the *imperfect past* instead\. *Tenía que irme* works just fine instead of *tuve que irme*\. Don't let uncertainty shut you down\.
 
 👉 *Say this now:* Pick three rebels above and create your own sentence\.
 

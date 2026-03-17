@@ -18,7 +18,7 @@ Here are 8 examples to lock this in:
 
 _hablara_ — he/she spoke \(subjunctive\)
 _comiera_ — he/she ate \(subjunctive\)
-_volviera a pasar_ — it happen again \(subjunctive\)
+_volviera a pasar_ — it happened again \(subjunctive\)
 _necesitáramos_ — we needed \(subjunctive\)
 _cerrara_ — it close \(subjunctive\)
 _organizáramos_ — we organize \(subjunctive\)

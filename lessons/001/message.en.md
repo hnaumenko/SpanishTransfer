@@ -32,4 +32,4 @@ Feel it? That's you speaking Spanish\.
 
 *Next lesson:* one simple word that lets you turn any of these into questions\. You'll be having real conversations by tomorrow\.
 
-▶️ [Почати курс](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Start course](https://t.me/SpanishMeBot?start=next_en)

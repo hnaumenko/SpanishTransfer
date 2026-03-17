@@ -2,7 +2,7 @@
 
 Ever wonder why Spanish verbs sometimes change their vowels? It's all about pressure\.
 
-You've seen how _quiero_ \(I want\) comes from _querer_, and how that *e* suddenly becomes *ie*\. Or how _puedo_ \(I can\) splits that *o* into *ue*\. Here's what's really happening: when you *stress* a vowel in the verb stem, it can split under pressure\. But here's the twist — there's one verb form where this *never* happens\.
+You've seen how _quiero_ \(I want\) comes from _querer_, and how that *e* suddenly becomes *ie*\. Or how _puedo_ \(I can\) splits that *o* into *ue*\. Here's what's really happening: when stress falls on a vowel in the verb stem, it can split under pressure\. But here's the twist — there's one verb form where this *never* happens\.
 
 The "we" form saves you\.
 

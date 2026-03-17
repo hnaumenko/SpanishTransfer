@@ -28,7 +28,7 @@ _Olvídalo_ — Forget it \(informal\)
 _Véndelo_ — Sell it \(informal\)
 _Cállate_ — Shut up \(informal\)
 
-💡 With positive commands, those little words \(*lo, la, me*\) stick to the END of the verb: *cóme*\+*lo* = *cómelo*\. Your ear knows it's a command instantly\.
+💡 With positive commands, those little words \(*lo, la, me*\) stick to the END of the verb: *cóme*\+*lo* = *cómelo*\. It's instantly recognizable as a command\.
 
 👉 Say this now: *"Cómelo\."* Feel how natural that shortcut is?
 

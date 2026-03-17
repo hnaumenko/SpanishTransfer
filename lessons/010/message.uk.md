@@ -30,7 +30,7 @@ _Revelar_ — розкривати
 
 _Separo, ventilo, dono, organizo, confirmo, creo, respiro, revelo_\.
 
-💡 Наголос завжди переходить на передостанній склад: *intentAR* → *inTENto*\. Якщо скажеш *intentÓ* — це вже минулий час\.
+💡 Наголос на передостанньому складі: *intentAR* → *inTENto*\. Коли говориш *intentó* з наголосом на останньому складі — це вже минулий час\.
 
 👉 Спробуй вголос: "_Mañana organizo todo\. Como tarde\._"
 

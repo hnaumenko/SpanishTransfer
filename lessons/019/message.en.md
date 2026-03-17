@@ -5,7 +5,7 @@ Ever stared at a Spanish word like *vamos* and wondered how to get the other for
 Take *vamos* \(we're going / let's go\)\. Chop off the *\-amos* and you get *v\-*\. Now you can build anything:
 
 — Where are you going?
-— *Voy* to the store\. *Vas* too?
+— *Voy* to the store\. _Vas_ too?
 — No, *vamos* together later\.
 
 *The complete set:*

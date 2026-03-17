@@ -27,8 +27,8 @@ _Perdemos siempre_ — ми завжди програємо
 _Comprendemos_ — ми розуміємо
 _Aprendemos español_ — ми вчимо іспанську
 
-💡 Для \-ar і \-er дієслів із зміною голосної \(e→ie, o→ue\) — у "ми"\-формі зміна *зника��*: _prefiero_, але _preferimos_\.
+💡 Для \-ar, \-er і \-ir дієслів із зміною голосної \(e→ie, o→ue\) — у "ми"\-формі зміна *зникає*: _prefiero_, але _preferimos_\.
 
-👉 Спробуй вголос: "Vivimos aquí pero no entendemos todo\." 
+👉 Спробуй вголос: "Vivimos aquí pero no entendemos todo\."
 
 У наступному уроці — чому іспанці кажуть *vivo* так, ніби губи ледь ворушаться\. Секрет м'якої *v*\.

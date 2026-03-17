@@ -29,7 +29,7 @@ _organizar_ — to organize
 _inspirar_ — to inspire
 _celebrar_ — to celebrate
 
-💡 Pro tip: The accent shifts when you add *\-o*\. It's *inténtar* \(to try\), but *inténto* \(I try\)\. Keep the stress on the second\-to\-last syllable\.
+💡 Pro tip: The stress shifts when you add *\-o*\. It's *intentAR* \(to try\), but *inTENto* \(I try\)\. When the stress is on the final syllable like *intentÓ*, that's the past tense\.
 
 👉 *Say this now:* "Como mañana\." \(I'm eating tomorrow\.\)
 

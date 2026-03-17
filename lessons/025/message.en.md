@@ -4,7 +4,7 @@ You've been translating "to" and "for" into Spanish\. Stop\. You don't need them
 
 In Spanish, *me* already means "me," "to me," AND "for me\." No extra words needed\. Same with *te* \(you\), *nos* \(us\)\. English keeps adding prepositions\. Spanish? Just uses one word\.
 
-Someone asking *¿Me compras algo?* Could mean "Will you buy something FOR me?" or even "from me" \(like a street vendor\)\. Context tells you which\.
+Someone asking *¿Me compras algo?* could mean "Will you buy something FOR me?" or even "from me" \(like a street vendor\)\. Context tells you which\.
 
 Look how simple this gets:
 

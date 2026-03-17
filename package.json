@@ -6,10 +6,15 @@
     "migrate-locale": "npx tsx scripts/migrate-locale.ts",
     "clean-examples": "find lessons -name 'examples.*.json' -delete",
     "fetch-playlist": "npx tsx scripts/fetch-playlist.ts",
+    "fetch-transcripts": "npx tsx scripts/fetch-transcripts.ts",
+    "fetch-transcripts:test": "npx tsx scripts/fetch-transcripts.ts --test",
     "generate-messages": "npx tsx scripts/generate-messages.ts",
     "download-audio": "npx tsx scripts/download-audio.ts",
+    "download-audio:test": "npx tsx scripts/download-audio.ts --test",
     "generate-messages:test": "npx tsx scripts/generate-messages.ts --test",
-    "test-gemini": "npx tsx scripts/test-gemini.ts"
+    "test-gemini": "npx tsx scripts/test-gemini.ts",
+    "translate-transcripts": "npx tsx scripts/translate-transcripts.ts",
+    "validate": "npx tsx scripts/validate-messages.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.36.0",

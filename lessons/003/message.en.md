@@ -1,20 +1,32 @@
-🇪🇸 *Lesson 3 — Spanish Transfer*
+🇪🇸 *Lesson 3: The \-ENTE Superpower*
 
-*Main idea:*
-You can convert thousands of English words ending in \-ant/\-ent, \-al, and \-ible/\-able into Spanish by applying simple patterns\.
+You just unlocked another 500\+ Spanish words\. And you already know them\.
 
-*New constructions:*
-\- \-ant/\-ent → \-ante/\-ente — _important_ → _importante_
-\- \-ly → \-mente — _normally_ → _normalmente_ \(one word\)
-\- j\-sound → h\-sound — _general_ → _general_ \(pronounced "heneral"\)
-\- \-ible/\-able → \-ible/\-able — _possible_ → _posible_ \(stress second\-from\-end\)
+Here's the pattern: most English words ending in *\-ant* or *\-ent* become Spanish words ending in *\-ante* or *\-ente*\.
 
-*Remember:*
-Stress is part of the word\. Don't memorize it—just observe where it falls naturally\.
+That's it\. Just add an *e*\.
 
-*Example:*
-_Normalmente es importante_ — Normally \(usually\) it's important
+Imagine this conversation:
+— How's the new boss?
+— *Es diferente\.* Not bad, *es importante\.*
+— Constantly changing things?
+— *Constantemente\.*
 
-💡 Feel free to experiment with converting words\. Making errors while testing these patterns is how you learn quickly and discover which words work\.
+Now watch how many words you already "know":
 
-/examples\_3
+_importante_ — important
+_diferente_ — different
+_constante_ — constant
+_elegante_ — elegant
+_urgente_ — urgent
+_evidente_ — evident
+_permanente_ — permanent
+_suficiente_ — sufficient
+
+Want the adverb? Just say the word: *constantemente* \(constantly\), *normalmente* \(normally\), *realmente* \(really\)\.
+
+💡 One weird rule: if the English word has a *j* sound \(not letter, *sound*\), that sound becomes *h* in Spanish\. Spelling stays the same, but pronunciation shifts: *general* and *original* are written identically in both languages — just say the *g* like a rough *h*\. Think Argentina: in Spanish it sounds like *Ar\-hen\-TEE\-na*\.
+
+👉 *Say this now:* "No es diferente\. Es importante\."
+
+Next lesson: words ending in \-ble\. Possible? *Posible\.* You'll add 400 more words in 60 seconds\.

@@ -22,49 +22,54 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
+  const isTest = process.argv.includes('--test');
+  if (isTest) console.log('🧪 Test mode: processing first 3 lessons only');
+
   const lessons = JSON.parse(fs.readFileSync(indexPath, 'utf-8')) as LessonIndex[];
-  console.log(`📚 Loaded ${lessons.length} lessons from index.json`);
+  const lessonsToProcess = lessons.slice(0, isTest ? 3 : lessons.length);
+  console.log(`📚 Loaded ${lessons.length} lessons from index.json\n`);
 
   let succeeded = 0;
   let skipped = 0;
   let failed = 0;
 
-  for (const lesson of lessons) {
+  for (const lesson of lessonsToProcess) {
     const padded = String(lesson.lesson).padStart(3, '0');
-    const audioPath = path.join(process.cwd(), 'lessons', padded, 'audio.mp3');
+    const outputDir = path.join(process.cwd(), 'lessons', padded);
+    const audioPath = path.join(outputDir, 'audio.en.mp3');
 
     if (fs.existsSync(audioPath)) {
-      console.log(`⏭ lesson-${padded} already exists, skipping`);
+      console.log(`⏭ lesson-${padded}: audio.en.mp3 already exists, skipping`);
       skipped++;
       continue;
     }
 
-    const outputDir = path.join(process.cwd(), 'lessons', padded);
     fs.mkdirSync(outputDir, { recursive: true });
 
     const videoUrl = `https://youtube.com/watch?v=${lesson.videoId}`;
-    const outputTemplate = path.join(outputDir, 'audio%(ext)s');
+    // yt-dlp will produce audio.en.mp3 directly via the output template
+    const outputTemplate = path.join(outputDir, 'audio.en.%(ext)s');
 
-    console.log(`⬇️  Downloading lesson ${padded}: ${lesson.title}`);
+    console.log(`⬇️  lesson-${padded}: ${lesson.title}`);
 
     try {
       execSync(`yt-dlp -x --audio-format mp3 -o "${outputTemplate}" "${videoUrl}"`, {
         stdio: 'pipe',
       });
-      console.log(`✅ Done lesson-${padded}`);
+      console.log(`✅ lesson-${padded}: saved audio.en.mp3`);
       succeeded++;
     } catch (err) {
-      console.error(`❌ Failed lesson-${padded}: ${err}`);
+      console.error(`❌ lesson-${padded}: ${err}`);
       failed++;
     }
 
-    // Avoid rate limiting between downloads
-    if (lesson.lesson < lessons.length) {
+    if (lesson.lesson < lessonsToProcess[lessonsToProcess.length - 1].lesson) {
       await sleep(2000);
     }
   }
 
   console.log(`\n📊 Summary: ✅ ${succeeded} downloaded / ⏭ ${skipped} skipped / ❌ ${failed} failed`);
+  if (failed > 0) process.exit(1);
 }
 
 main().catch((err) => {

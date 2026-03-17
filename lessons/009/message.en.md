@@ -20,7 +20,7 @@ The pattern: *Quiero saber* \+ whatever you want to know\.
 *Quiero saber cuándo* — I want to know when
 *¿Quieres saber?* — Do you want to know?
 
-💡 *Si* means both "yes" AND "if"\. Context makes it obvious: *Sí, quiero saber si viene* — Yes, I want to know if he's coming\.
+💡 Two similar words: *si* \(no accent\) \= "if/whether"\. *Sí* \(with accent\) \= "yes"\. Context makes it obvious: *Sí, quiero saber si viene* — Yes, I want to know if he's coming\.
 
 👉 Try saying it out loud: *Quiero saber si quiere venir a visitarme\.* I want to know if you want to come visit me\.
 

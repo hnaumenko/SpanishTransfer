@@ -1,4 +1,4 @@
-🇪🇸 *Lesson 48*
+🇪🇸 *Lesson 48: The Secret Word That Makes Passive Voice Disappear*
 
 Ever notice how Spanish loves to talk about things doing themselves? _Se vende_ \(it sells itself\) means "for sale\." _Se rompe_ \(it breaks itself\) means "it's breaking\." This tiny word *se* is everywhere, and once you crack it, Spanish starts to feel *way* more natural\.
 

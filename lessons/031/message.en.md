@@ -1,6 +1,6 @@
 🇪🇸 *Lesson 31: The E That Spanish Can't Live Without*
 
-Ever notice Spanish loves adding an E to the start of words? That's because Spanish *physically can't* start a word with ST\-, SP\-, or S\+consonant\. English does it all the time\. Spanish? Nope\.
+Ever notice Spanish loves adding an E to the start of words? That's because Spanish *physically can't* start a word with ST\-, SP\-, or SC\-\. English does it all the time\. Spanish? Nope\.
 
 Watch what happens:
 

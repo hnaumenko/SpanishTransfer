@@ -1,4 +1,4 @@
-🇪🇸 *Lesson 47*
+🇪🇸 *Lesson 47: When Things Do Things to Themselves*
 
 Ever noticed Spanish says "the dinner was burning itself" when you just mean "the dinner was burning"? Here's why — and how to use this pattern like a native\.
 

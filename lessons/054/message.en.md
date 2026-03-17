@@ -23,9 +23,7 @@ _mojado_ — wet
 _roto_ — broken
 _preparado_ — ready
 
-💡 *These adjectives almost always use ESTAR\.* Why? Because they describe states, not permanent characteristics\. *Está cerrado* \(it's closed\), *estoy cansado* \(I'm tired\)\.
-
-One weird exception: when you say "it IS a \[adjective\] \[noun\]" like "it's a closed person," use SER: *Es una persona cerrada\.* You're naming what someone IS, not describing a temporary state\.
+💡 *These adjectives almost always use ESTAR\.* Why? Because they describe states, not permanent characteristics\. *Está cerrado* \(it's closed\), *estoy cansado* \(I'm tired\)\. If you say "it IS a \[adjective\] \[noun\]" — like "it's a closed person" — use SER: *Es una persona cerrada\.* You're naming what someone IS, not describing a temporary state\.
 
 👉 *Try this:* Pick three adjectives from the list\. Say them out loud with *estoy* \(I am\) and *está* \(it is/he is/she is\)\.
 

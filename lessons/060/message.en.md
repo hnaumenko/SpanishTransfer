@@ -1,6 +1,6 @@
 🇪🇸 *Lesson 60*
 
-Here's something wild: in Spanish, "we speak" and "we spoke" are *the exact same word*\. 
+Here's something wild: in Spanish, "we speak" and "we spoke" are *the exact same word*\.
 
 Hablamos\. That's it\. Same form, two meanings\.
 

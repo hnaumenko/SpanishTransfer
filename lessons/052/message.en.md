@@ -26,3 +26,6 @@ _Salí para comprar café_ — I went out to buy coffee
 👉 *Say this now:* Pick one phrase above and say it out loud three times\. Make it yours\.
 
 *Next lesson:* The \-ing form you've been using wrong this whole time \(and the two ways to say "I was eating"\)\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

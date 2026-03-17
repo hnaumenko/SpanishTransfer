@@ -26,3 +26,5 @@
 💡 Коли кажеш "має бути щось" — це *tiene que haber*, бо йдеш від *hay*, а не від *ser/estar*\.
 
 👉 Спробуй вголос: *"Tiene que haber algo que puedas hacer"* \(має бути щось, що ти можеш зробити\)\. У наступному уроці — ще одна хитра ситуація, де subjuntivo з'являється несподівано\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

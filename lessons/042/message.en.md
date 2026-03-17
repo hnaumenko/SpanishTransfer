@@ -25,3 +25,5 @@ _vendría_ — I/he/she would come
 👉 *Say this now:* "Me gustaría comer ahora" \(I would like to eat now\)\.
 
 Next lesson: two verbs that break the rules — and why you'll love them anyway\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

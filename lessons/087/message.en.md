@@ -30,3 +30,5 @@ _Quisieron_ — they wanted
 👉 *Say this now:* Pick three rebels above and create your own sentence\.
 
 *Next lesson:* One more irregular you already use without realizing it — and it unlocks everyday conversation\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

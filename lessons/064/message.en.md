@@ -27,3 +27,6 @@ _¿Cuándo llegaste?_ — When did you arrive?
 👉 *Say this now:* Le respondí hace dos semanas\. \(I responded to her two weeks ago\.\)
 
 *Next lesson:* The past tense pattern hiding in plain sight — one sound change that makes everything click\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

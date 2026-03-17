@@ -26,3 +26,5 @@ The pattern is simple:
 👉 Say this now: *"Quiero comprar una cámara digital\."* \(I want to buy a digital camera\.\)
 
 Next lesson: how one tiny word lets you say "I'm staying," "I'm keeping it," and "it remains" — all with the same verb\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -22,3 +22,5 @@ And then there's *la mano* \(the hand\) — ends in \-o but it's *feminine*\. Wh
 👉 Say this now: *"Estoy manejando el problema"* \(I'm managing the problem\)\. Try using one \-ma word in a sentence today\.
 
 Next lesson: How to say "this" and "that" without thinking — and why *esta noche* isn't what you think it is\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -28,3 +28,6 @@ _influencia_ — influence
 👉 *Say this now:* "*Quiero experimentar\. Pero no es imposible\.*"
 
 *Next lesson:* The verb that unlocks "I'm trying" — and you already half\-know it\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

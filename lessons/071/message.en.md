@@ -25,3 +25,5 @@ _siempre cuento con ella_ — I always count on her
 👉 *Say this out loud now:* "Espero que cuentes conmigo" \(I hope you count on me\)\.
 
 *Next lesson:* Why "I like that she visits the teacher" needs a secret word that English doesn't have\.\.\. and when you forget it, chaos ensues\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -32,3 +32,5 @@ _espectacular_ — вражаючий
 👉 Спробуй вголос: *soy estudiante, es especial, es espectacular*\.
 
 У наступному уроці — розбираємо *ser* vs *estar*\. Коли говорити "він є втомлений", а коли — "він є лікар"? Це не так очевидно, як здається\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

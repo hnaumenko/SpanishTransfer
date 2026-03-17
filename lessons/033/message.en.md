@@ -30,3 +30,5 @@ _Es aburrido_ — He's boring
 👉 Say this now: *Estoy tan listo* \(I'm so ready\)\. Then try: *Soy tan listo* \(I'm so smart\)\. Feel the difference?
 
 Next lesson: the word *tan* unlocks a whole new way to exaggerate in Spanish\. You're already using it — now let's multiply it\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

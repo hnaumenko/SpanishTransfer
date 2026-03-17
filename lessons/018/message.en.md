@@ -28,3 +28,5 @@ _Bebemos_ — We drink
 👉 Say this now: *Vivimos aquí pero no entendemos todo\.* \(We live here but we don't understand everything\.\)
 
 Next lesson: one tiny word that completely changes how you talk about the past—without learning a single new verb form\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

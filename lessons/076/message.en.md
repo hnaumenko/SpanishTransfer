@@ -29,3 +29,5 @@ _Había tres opciones_ — There were three options
 👉 *Try it now:* Say "There were two people here that spoke Spanish" out loud\. \(Hint: *Había dos personas aquí que hablaban español*\.\)
 
 Next lesson: why that sentence uses *hablaban* and not *hablaron* — it'll change how you think about the past\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

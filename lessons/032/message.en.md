@@ -26,3 +26,5 @@ _Es una persona preocupada_ — He's a worried person \(characteristic\)
 👉 Say this out loud right now: *"Estoy ocupado, pero no soy una persona aburrida\."*
 
 Next lesson: one little word that changes where you're *from* into where you *are*\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

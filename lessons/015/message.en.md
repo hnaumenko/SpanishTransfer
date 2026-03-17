@@ -31,3 +31,5 @@ _sentir_ — to feel → _siento_
 👉 Say this now: *Pienso comer más tarde* \(I plan on eating later\)\.
 
 Next lesson: one verb breaks this rule completely — and it's one you'll use every single day\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

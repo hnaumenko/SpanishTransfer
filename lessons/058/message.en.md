@@ -38,3 +38,5 @@ _Olvidó_ — forgot
 👉 *Try this now:* Say "I bought it" and "I didn't send it yet\."
 
 Next lesson: the messy verbs that break all these rules \(but you'll still master them\)\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

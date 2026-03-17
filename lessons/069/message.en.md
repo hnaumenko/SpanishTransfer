@@ -34,3 +34,6 @@ _Quiero que lo esperes_ — I want you to wait for him/it
 👉 Try it out loud: *Quiero que hables\.* Feel the mood shift?
 
 Next lesson: when the mood tense becomes *optional*—and how it changes everything\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

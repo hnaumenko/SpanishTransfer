@@ -40,3 +40,5 @@ _Vendo_ — I sell
 👉 *Say this now:* ¿Qué haces? \(What are you doing?\)
 
 Next lesson: one tiny word that makes every sentence sound 10x more natural\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -23,3 +23,5 @@ Quick scene:
 👉 *Say this out loud right now: "Intento publicarlo ahora\."*
 
 Next lesson: a tiny word that turns "I try" into "I tried" — and unlocks the entire past tense\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

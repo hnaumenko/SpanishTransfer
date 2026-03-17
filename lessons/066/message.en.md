@@ -29,3 +29,6 @@ _El perro de Carlos_ — Carlos's dog
 👉 Say this out loud now: *"Ya no me duele la cabeza\."* \(My head doesn't hurt anymore\.\)
 
 Next lesson: how to say "I just did something" without sounding like a textbook\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

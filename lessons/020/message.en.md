@@ -28,3 +28,5 @@ _Te veo más tarde_ — I'll see you later
 👉 Say this out loud right now: *Nos vemos pronto\.*
 
 Next lesson: how to flip any sentence into a question without changing a single word\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

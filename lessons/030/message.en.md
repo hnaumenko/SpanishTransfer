@@ -23,3 +23,5 @@ _No nos quedamos_ — We're not staying
 🎯 *Say this now:* Pick three people you know and say where they're staying tonight using *se queda* or *se quedan*.
 
 Next lesson: how to say someone "must be" somewhere — and why it uses the same word as "owes." Wild connection ahead.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

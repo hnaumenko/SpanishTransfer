@@ -28,3 +28,5 @@ _Necesitaron_ → _necesitaran_ — щоб вони потребували
 👉 **Скажи зараз:** _Quería que volvieras_ — я хотів, щоб ти повернувся\.
 
 У наступному уроці — ще одна ситуація, коли subjuntivo з'являється сам, без жодного "я хочу"\.
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

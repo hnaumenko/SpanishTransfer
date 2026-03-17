@@ -124,6 +124,27 @@ export class LessonsService {
     return `${this.getBase()}/lessons/${padded}/audio.en.mp3`;
   }
 
+  async getReminderMessage(lessonNumber: number, locale: string = 'uk'): Promise<string> {
+    const padded = String(lessonNumber).padStart(3, '0');
+
+    if (this.isDev()) {
+      const localPath = path.join(this.lessonsDir(), padded, `reminder.${locale}.md`);
+      this.logger.log(`[dev] Reading reminder ${lessonNumber} [${locale}] from ${localPath}`);
+      const raw = await fs.promises.readFile(localPath, 'utf-8');
+      return this.stripMarkdownWrapper(raw);
+    }
+
+    const url = `${this.getBase()}/lessons/${padded}/reminder.${locale}.md`;
+    this.logger.log(`Fetching reminder ${lessonNumber} [${locale}] from ${url}`);
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(
+        `Reminder not found for lesson ${lessonNumber} [${locale}]: ${response.status}`,
+      );
+    }
+    return this.stripMarkdownWrapper(await response.text());
+  }
+
   getTotalLessons(): number {
     return 90;
   }

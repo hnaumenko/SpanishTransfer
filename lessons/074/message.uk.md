@@ -29,3 +29,6 @@ _Para que vengas_ — Щоб ти прийшов
 👉 Спробуй вголос: *He hecho todo para que vuelvas* \(Я зробив все, щоб ти повернувся\)\.
 
 У наступному уроці — ще один обов'язковий випадок subjuntivo\. І він — всюди\.
+
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

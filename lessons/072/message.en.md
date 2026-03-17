@@ -33,3 +33,6 @@ _Cállate_ — Shut up \(informal\)
 👉 Say this now: *"Cómelo\."* Feel how natural that shortcut is?
 
 Next lesson: the ONE exception that breaks this whole system — and why it exists\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

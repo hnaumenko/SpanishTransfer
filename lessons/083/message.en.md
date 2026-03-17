@@ -28,3 +28,5 @@ _Que no pagaste_ — The fact that you didn't pay
 👉 *Say this now:* Que llegaste tarde no es mi problema\.
 
 Next lesson: the "if I could" pattern that makes you sound like a native speaker in any hypothetical situation\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

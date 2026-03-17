@@ -35,3 +35,6 @@ _Separo, ventilo, dono, organizo, confirmo, creo, respiro, revelo_\.
 👉 Спробуй вголос: "_Mañana organizo todo\. Como tarde\._"
 
 У наступному уроці — два дієслова\-мутанти, які ламають всі правила\. Але їх легко запам'ятати разом\.
+
+
+▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)

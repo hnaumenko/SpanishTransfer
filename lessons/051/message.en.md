@@ -33,3 +33,6 @@ _Estoy por partir_ — I'm about to leave
 👉 Say this now: *Estoy cansado de esperar* \(I'm tired of waiting\)\.
 
 Next lesson: the one verb you're using wrong every single day — and how to fix it instantly\.
+
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

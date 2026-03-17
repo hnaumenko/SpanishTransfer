@@ -40,3 +40,5 @@ _Hemos viajado_ — We have traveled
 👉 Say this now: *He hablado mucho* \(I have spoken a lot\)\.
 
 Next lesson: how to build the past for *every other verb type*\.\.\. and one weird placement rule you need to know\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

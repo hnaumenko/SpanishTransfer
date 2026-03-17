@@ -31,6 +31,7 @@ export class BotUpdate {
     bot.command('resume', (ctx) => this.onResume(ctx));
     bot.command('skip', (ctx) => this.onSkip(ctx));
     bot.command('next', (ctx) => this.onNext(ctx));
+    bot.command('trigger_evening', (ctx) => this.onTriggerEvening(ctx));
     bot.callbackQuery('locale_en', (ctx) => this.onLocaleSelected(ctx, 'en'));
     bot.callbackQuery('locale_uk', (ctx) => this.onLocaleSelected(ctx, 'uk'));
     bot.callbackQuery('locale_en_selected', (ctx) => ctx.answerCallbackQuery());
@@ -225,6 +226,33 @@ export class BotUpdate {
       this.logger.error(`Failed to send lesson ${nextLesson} to ${telegramId}: ${error}`);
       await ctx.reply(
         escMd('Не вдалося завантажити урок. Спробуй пізніше.'),
+        { parse_mode: 'MarkdownV2' },
+      );
+    }
+  }
+
+  private async onTriggerEvening(ctx: Context): Promise<void> {
+    const telegramId = BigInt(ctx.from!.id);
+    const user = await this.prisma.user.findUnique({ where: { telegramId } });
+
+    if (!user) {
+      await ctx.reply(escMd('Спочатку напиши /start 👋'), { parse_mode: 'MarkdownV2' });
+      return;
+    }
+
+    const lessonNumber = user.currentLesson - 1;
+    if (lessonNumber < 1) {
+      await ctx.reply(escMd('Курс ще не розпочато.'), { parse_mode: 'MarkdownV2' });
+      return;
+    }
+
+    try {
+      const message = await this.lessons.getReminderMessage(lessonNumber, user.locale);
+      await ctx.reply(message, { parse_mode: 'MarkdownV2' });
+    } catch (error) {
+      this.logger.error(`Failed to send evening reminder to ${telegramId}: ${error}`);
+      await ctx.reply(
+        escMd('Не вдалося завантажити нагадування. Спробуй пізніше.'),
         { parse_mode: 'MarkdownV2' },
       );
     }

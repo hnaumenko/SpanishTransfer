@@ -34,3 +34,5 @@ _Demasiado tarde_ — Too late
 👉 Try it: Find one Spanish sentence today that confuses you\. Break it down\. What's happening?
 
 Next lesson: the word that changes gender\.\.\. but only sometimes\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

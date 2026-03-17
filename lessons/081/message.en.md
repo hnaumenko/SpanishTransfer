@@ -32,3 +32,5 @@ _regresara_ — he/she return \(subjunctive\)
 👉 Say this now: *Yo quería que él me llamara otra vez\.* \(I wanted him to call me again\.\)
 
 Next lesson: one more use of the past subjunctive that changes how you express regret\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

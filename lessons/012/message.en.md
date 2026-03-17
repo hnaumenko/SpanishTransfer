@@ -27,3 +27,5 @@ _¿Por qué no lo venden?_ — Why don't they sell it?
 👉 *Say this out loud now:* "Vende casas\. No vende coches\." \(He sells houses\. He doesn't sell cars\.\)
 
 Next lesson: one more vowel pattern and you'll control every major Spanish verb family\.
+
+▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)

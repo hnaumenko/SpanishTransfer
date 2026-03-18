@@ -28,6 +28,6 @@ _celebración / celebrar_ — celebration / to celebrate
 
 👉 *Try it now:* Say "I want to explore" and "I don't want to cancel" out loud\.
 
-*Next lesson:* One more shortcut that unlocks verbs you use every single day\.
+Next: single R vs double RR in Spanish pronunciation\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

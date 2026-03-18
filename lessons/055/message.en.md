@@ -27,7 +27,6 @@ _Hecho en China_ — Made in China
 
 👉 *Say this now:* _Debería haberlo hecho_ \(I should have done it\)\.
 
-Next lesson: One tiny word that turns any verb into "let's\.\.\."
+Next: The Preposition Rule That'll Save You From Sounding Like a Tourist
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

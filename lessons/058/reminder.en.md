@@ -1,4 +1,4 @@
-🌙 Lesson 58 — reminder
+🌙 *Lesson 58 — reminder*
 
 Simple past for \-ar verbs: drop \-ar and add \-é \(I\) or \-ó \(he/she\)\. The accent is essential — it marks past tense\.
 

@@ -1,4 +1,4 @@
-🌙 Lesson 65 — reminder
+🌙 *Lesson 65 — reminder*
 
 *Más* means "more" and also "else"\. *Nada más* is nothing else\. *Nadie más* is nobody else\. Spanish loves double negatives — they're correct\.
 

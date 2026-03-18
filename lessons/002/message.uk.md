@@ -28,6 +28,6 @@ _Es cultural_ — Це культурно
 👉 *Спробуй вголос:* 
 "*Es natural\. No es ideal\.*"
 
-У наступному уроці — ще одна мегапростя річ, яка додасть тобі 2000 слів одним махом\.
+Далі: слова на \-ant або \-ent стають \-ante або \-ente в іспанській\.
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

@@ -1,4 +1,4 @@
-🌙 Lesson 62 — reminder
+🌙 *Lesson 62 — reminder*
 
 *Le lo* → *se lo*\. Spanish avoids two L\-sounds back to back\.
 

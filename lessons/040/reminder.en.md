@@ -1,4 +1,4 @@
-🌙 Lesson 40 — reminder
+🌙 *Lesson 40 — reminder*
 
 Prepositions change everything\. *Me enamoro de ti* — I fall in love *of* you, not *with*\.
 

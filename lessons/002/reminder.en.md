@@ -1,4 +1,4 @@
-🌙 Lesson 2 — reminder
+🌙 *Lesson 2 — reminder*
 
 Words ending in \-al shift stress to the last syllable\. Then add _es_\.
 

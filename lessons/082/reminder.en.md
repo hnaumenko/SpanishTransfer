@@ -1,4 +1,4 @@
-🌙 Lesson 82 — reminder
+🌙 *Lesson 82 — reminder*
 
 Escape hatch: _Lo_ \+ adjective \+ _es que_ dodges the subjunctive entirely\.
 

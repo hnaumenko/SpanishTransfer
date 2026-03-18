@@ -26,6 +26,6 @@ Notice something? Even irregular verbs like *ir* become regular in the future: *
 
 👉 *Say this now:* Pick any verb you know and make it future\. Out loud\.
 
-Next lesson: why Spanish speakers barely use this tense — and what they say instead\.
+Next: Ever wonder why Spanish sometimes sounds like alphabet soup when people start stacking tiny words\.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

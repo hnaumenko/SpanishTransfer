@@ -41,4 +41,6 @@ _¿Por qué no has anticipado?_ — Чому ти не передбачив?
 У наступному уроці — ще одна форма минулого, яка працює не з *\-ado*\. І вона ще простіша\.
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+Далі: Я це вже зробив
+
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

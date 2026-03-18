@@ -1,4 +1,4 @@
-🌙 Lesson 31 — reminder
+🌙 *Lesson 31 — reminder*
 
 Spanish can't start words with ST\-, SP\-, or SC\-\. So it adds *e* to the front: *student* → _estudiante_, *Spain* → _España_\.
 

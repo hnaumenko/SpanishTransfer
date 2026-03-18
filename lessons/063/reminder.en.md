@@ -1,4 +1,4 @@
-🌙 Lesson 63 — reminder
+🌙 *Lesson 63 — reminder*
 
 *Acordar* means to remember\. To say "I remember," you must say "I remember myself" — *me acuerdo*\. Negatives split: *no me acuerdo*\.
 

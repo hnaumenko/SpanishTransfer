@@ -1,4 +1,4 @@
-🌙 Lesson 42 — reminder
+🌙 *Lesson 42 — reminder*
 
 *Me gustaría* \= I would like \(it would please me\)\. *Podría* \= could/would\.
 

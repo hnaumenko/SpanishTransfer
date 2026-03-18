@@ -1,4 +1,4 @@
-🌙 Lesson 49 — reminder
+🌙 *Lesson 49 — reminder*
 
 Three rebels: *ser* → _era_ \(I was\), *ver* → _veía_ \(I saw\), *ir* → _iba_ \(I went\)\. They break all patterns\.
 

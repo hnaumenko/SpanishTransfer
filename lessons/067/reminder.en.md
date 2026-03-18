@@ -1,4 +1,4 @@
-🌙 Lesson 67 — reminder
+🌙 *Lesson 67 — reminder*
 
 Rule 1: vowel/N/S at end → stress second\-to\-last syllable\. Rule 2: any other consonant → stress last syllable\. Accent marks show exceptions\.
 

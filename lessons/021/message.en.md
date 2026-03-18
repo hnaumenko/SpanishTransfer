@@ -39,6 +39,6 @@ _Hemos viajado_ — We have traveled
 
 👉 Say this now: *He hablado mucho* \(I have spoken a lot\)\.
 
-Next lesson: how to build the past for *every other verb type*\.\.\. and one weird placement rule you need to know\.
+Next: You already know one past tense pattern: he hablado \. But what about "I've lost," "I've sold," "I\.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

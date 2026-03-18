@@ -1,4 +1,4 @@
-🌙 Lesson 59 — reminder
+🌙 *Lesson 59 — reminder*
 
 Simple past for \-er/\-ir verbs: drop the ending and add \-í \(I\) or \-ió \(he/she\)\.
 

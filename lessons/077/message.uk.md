@@ -25,6 +25,6 @@ _¡Qué bueno que estés aquí\!_ — як добре, що ти тут\!
 
 👉 Вголос: *"¡Qué increíble que estés aquí\!"*
 
-У наступному уроці — як *que* перетворює факти на аргументи в розмові\.
+Далі: Три дієслова, які змінюють все
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

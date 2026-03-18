@@ -1,4 +1,4 @@
-🌙 Lesson 78 — reminder
+🌙 *Lesson 78 — reminder*
 
 _Seguir_, _empezar_, and _terminar_ are picky verbs\. They take either gerunds or infinitives\.
 

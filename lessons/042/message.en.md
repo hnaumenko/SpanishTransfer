@@ -24,6 +24,6 @@ _vendría_ — I/he/she would come
 
 👉 *Say this now:* "Me gustaría comer ahora" \(I would like to eat now\)\.
 
-Next lesson: two verbs that break the rules — and why you'll love them anyway\.
+Next: You already know the conditional: hablaría — "I would speak\." Now go one level deeper: habría hab\.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

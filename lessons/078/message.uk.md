@@ -39,4 +39,6 @@ _Siguen siendo gratuitos_ — Вони як і раніше безкоштовн
 У наступному уроці — як розпізнати subjuntivo на слух, коли спілкуєшся онлайн\.
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+Далі: Коли іспанці стають суперстиційними
+
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

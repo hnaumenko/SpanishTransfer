@@ -1,4 +1,4 @@
-🌙 Lesson 16 — reminder
+🌙 *Lesson 16 — reminder*
 
 When stress falls on a vowel in Spanish, it splits: O becomes UE, E becomes IE\. This is a system, not an exception\.
 

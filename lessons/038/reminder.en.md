@@ -1,4 +1,4 @@
-🌙 Lesson 38 — reminder
+🌙 *Lesson 38 — reminder*
 
 *Se* personalizes the verb: *quedar* → *quedarse*\. New meaning — no new words\.
 

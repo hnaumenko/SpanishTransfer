@@ -1,4 +1,4 @@
-🌙 Lesson 84 — reminder
+🌙 *Lesson 84 — reminder*
 
 GO\-verbs add _\-go_ only in the "I" form\: _tengo, vengo, salgo, pongo_\.
 

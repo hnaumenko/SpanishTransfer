@@ -1,4 +1,4 @@
-🌙 Lesson 36 — reminder
+🌙 *Lesson 36 — reminder*
 
 Future \= verb \+ *haber* sounds \(drop the H\): é, ás, á, emos, án\.
 

@@ -1,4 +1,4 @@
-🌙 Lesson 27 — reminder
+🌙 *Lesson 27 — reminder*
 
 Adjectives come *after* the noun, not before\. _Cámara digital_ — digital camera\.
 

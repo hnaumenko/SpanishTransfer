@@ -1,4 +1,4 @@
-🌙 Lesson 34 — reminder
+🌙 *Lesson 34 — reminder*
 
 *Estoy* \+ verb\-ando/\-iendo \= happening RIGHT NOW\. Not tomorrow, not later, THIS SECOND\.
 

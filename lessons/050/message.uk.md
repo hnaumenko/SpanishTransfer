@@ -29,6 +29,6 @@ _Por el trabajo_ — через роботу
 
 👉 Спробуй вголос: "Залишаюся на три дні заради тебе" — *Me quedo por tres días por ti*\.
 
-У наступному уроці — ще одне значення *por*, яке спростить тобі половину розмов\.
+Далі: Estoy por ti
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

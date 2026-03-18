@@ -1,4 +1,4 @@
-🌙 Lesson 68 — reminder
+🌙 *Lesson 68 — reminder*
 
 Three forms\: *este/esta* \(this\), *ese/esa* \(that\), *esto/eso* \(this/that with no gender\)\. Use *esto* for abstract situations and ideas\.
 

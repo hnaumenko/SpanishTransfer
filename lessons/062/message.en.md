@@ -25,6 +25,6 @@ _Se la di_ — I gave it \(fem\.\) to him/her
 
 👉 Say it: *"Se lo di a ella\."* \(I gave it to her\.\)
 
-Next lesson: more pronouns in action — doubles, reflexives, all in one sentence\.
+Next: The verb that makes you talk about yourself
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

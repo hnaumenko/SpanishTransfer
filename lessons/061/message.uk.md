@@ -24,6 +24,6 @@ _Lo supe entonces_ — я тоді зрозумів
 
 👉 Вголос: *"Cocinaba cuando llegó María\. Me gustó verla\."*
 
-У наступному уроці — як складати займенники разом без плутанини\.
+Далі: Se lo — коли два займенники зустрічаються
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

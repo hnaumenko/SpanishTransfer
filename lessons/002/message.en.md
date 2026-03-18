@@ -36,6 +36,6 @@ _No es normal_ — It's not normal
 
 👉 *Say this out loud right now:* "_Es cultural\. No es personal\._"
 
-Next lesson: one tiny letter change that unlocks 900 more words instantly\.
+Next: words ending in \-ant or \-ent become \-ante or \-ente in Spanish\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

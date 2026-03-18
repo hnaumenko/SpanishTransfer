@@ -1,4 +1,4 @@
-🌙 Lesson 35 — reminder
+🌙 *Lesson 35 — reminder*
 
 Spanish uses simple present for the future: *salgo mañana* \(I leave tomorrow\)\. No \-ing needed\.
 

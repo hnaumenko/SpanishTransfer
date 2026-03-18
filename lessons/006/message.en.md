@@ -22,6 +22,6 @@ Quick scene:
 
 👉 *Say this out loud right now: "Intento publicarlo ahora\."*
 
-Next lesson: a tiny word that turns "I try" into "I tried" — and unlocks the entire past tense\.
+Next: You know how verbs of movement work in English? Spanish does something sneaky with them\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

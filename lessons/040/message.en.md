@@ -21,6 +21,6 @@ _Confío en ti_ — I trust in you
 
 👉 Next time you hit a verb with a "wrong" preposition, don't just memorize it\. Ask yourself: what does this tell me about how Spanish speakers see this idea?
 
-*Next lesson: the verb that lets you talk about falling, failing, and dropping\.\.\. all with one word\.*
+Next: The Future Lives in the Past
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

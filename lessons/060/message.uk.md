@@ -28,6 +28,6 @@ _Nos perdimos ayer_ — Ми загубилися вчора
 
 👉 Спробуй вголос: "_Comimos mucho ayer\._" А тепер: "_Comemos mucho siempre\._"
 
-У наступному уроці — ти дізнаєшся, чому іспанці так люблять слово *que*\.
+Далі: Як іспанці розповідають історії
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

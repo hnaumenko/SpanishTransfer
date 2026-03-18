@@ -27,6 +27,6 @@ _Adonde vayas, voy contigo_ — Wherever you go, I go with you
 
 👉 Try saying it out loud: *Hazlo como quieras* \(Do it however you like\)\.
 
-Next lesson: why *ojalá* \(I hope\) needs this same mood — and how to wish for anything in Spanish\.
+Next: The Word That Doesn't Change \(When English Does\)
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

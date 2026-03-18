@@ -24,6 +24,6 @@ _Pon atención_ — Pay attention
 
 👉 *Try it now:* How would you say "Come when you finish" informally? \(Hint: _venir_ → _vengo_\)
 
-Next lesson: why some commands completely break their own rules\.
+Next: The Go\-Verb Plot Twist
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

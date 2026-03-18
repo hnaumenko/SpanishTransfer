@@ -24,6 +24,6 @@ _Era difícil_ — it was difficult
 
 👉 Say this out loud: *"No podía dormir porque tenía hambre\."*
 
-Next lesson: dot and line in the same sentence — how narratives actually work\.
+Next: You just unlocked hundreds of new Spanish adjectives\. And you've been using this pattern since le\.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

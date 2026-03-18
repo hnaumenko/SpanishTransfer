@@ -27,6 +27,6 @@ _el idioma_ — the language
 
 👉 *Say this now:* "¿Has comprendido el sistema?" out loud three times\.
 
-*Next lesson:* How to say "I've got lost" \(and why Spanish makes you "lose yourself"\)\.
+Next: The verb that unlocks half your conversations
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

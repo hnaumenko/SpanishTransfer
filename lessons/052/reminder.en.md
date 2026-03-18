@@ -1,4 +1,4 @@
-🌙 Lesson 52 — reminder
+🌙 *Lesson 52 — reminder*
 
 When English "to" means "in order to," you need *para* in Spanish\. It marks purpose and intention\.
 

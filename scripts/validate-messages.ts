@@ -170,7 +170,7 @@ function findMessageFiles(dir: string): string[] {
     const lessonDir = path.join(dir, entry);
     if (!fs.statSync(lessonDir).isDirectory()) continue;
     for (const file of fs.readdirSync(lessonDir).sort()) {
-      if (file.startsWith('message.') && file.endsWith('.md')) {
+      if ((file.startsWith('message.') || file.startsWith('reminder.')) && file.endsWith('.md')) {
         result.push(path.join(lessonDir, file));
       }
     }

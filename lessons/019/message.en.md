@@ -32,7 +32,6 @@ _Ellos van mañana_ — They're going tomorrow
 
 👉 Say this out loud right now: *"Tengo que ir\. ¿Vamos?"*
 
-Next lesson: two words that end in *\-e* — one's masculine, one's feminine\. How do you tell them apart?
+Next: You Don't Need the Future Tense
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

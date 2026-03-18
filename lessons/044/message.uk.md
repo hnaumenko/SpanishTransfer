@@ -25,6 +25,6 @@
 *Estoy manejando el problema\.* — Я впоравляюся з проблемою\.
 *Me gustaría tomar una foto\.* — Я б хотів зробити фото\.
 
-У наступному уроці — як показати на речі пальцем по\-іспанськи: *este, ese, aquel*\. Ближче, далі, зовсім далеко\.
+Далі: Le gusta, le interesa, le parece — один патерн для всіх
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

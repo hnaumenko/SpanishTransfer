@@ -1,4 +1,4 @@
-🌙 Lesson 32 — reminder
+🌙 *Lesson 32 — reminder*
 
 *Es* \= who you are\. *Está* \= how you feel right now\. Same adjective, different verb, different meaning\.
 

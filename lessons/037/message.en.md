@@ -34,6 +34,6 @@ _Les mando un mensaje_ — I send them a message
 
 👉 Say this out loud three times: *"Le hablo, les hablo\."*
 
-Next lesson: what happens when you stack them *all* together\.
+Next: You already know se as "himself/herself\." But se has a second life: it anchors the action to the \.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

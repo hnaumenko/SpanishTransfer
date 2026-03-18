@@ -1,4 +1,4 @@
-🌙 Lesson 86 — reminder
+🌙 *Lesson 86 — reminder*
 
 GO\-verbs contract in the future\. The E becomes D\: _tener_ → _tendré_\.
 

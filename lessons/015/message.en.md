@@ -30,6 +30,6 @@ _sentir_ — to feel → _siento_
 
 👉 Say this now: *Pienso comer más tarde* \(I plan on eating later\)\.
 
-Next lesson: one verb breaks this rule completely — and it's one you'll use every single day\.
+Next: Why Spanish Verbs "Split" \(And How to Use Them\)
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

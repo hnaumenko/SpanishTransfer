@@ -46,7 +46,6 @@ _queremos_ — we want \(no ie\)
 
 👉 *Say this now:* _Pensamos que es normal\. ¿Qué piensas tú?_ \(We think it's normal\. What do you think?\)
 
-Next lesson: words you already know that are secretly Arabic\. Hint: they all start with "al\-"\.
+Next: Here's the wildest thing about Spanish verbs: there's ONLY ONE place in the entire language where\.\.\.
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -28,6 +28,6 @@ _Esto se olvida fácil_ — це легко забувається
 
 👉 Спробуй вголос: *La cena se quemaba\. Esos se rompen todo el tiempo\.*
 
-У наступному уроці — як одне маленьке слово перетворює будь\-яке дієслово на пасивний стан\. Без зайвих форм\.
+Далі: Минуле, яке все ще живе
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

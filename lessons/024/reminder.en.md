@@ -1,4 +1,4 @@
-🌙 Lesson 24 — reminder
+🌙 *Lesson 24 — reminder*
 
 _Dar_ — to give\. Forms: _doy_, _das_, _da_, _dan_\. Pronouns stack: _me lo das_ — are you giving it to me?
 

@@ -1,4 +1,4 @@
-🌙 Lesson 33 — reminder
+🌙 *Lesson 33 — reminder*
 
 *Estar* \+ adjective \= temporary state\. *Ser* \+ adjective \= permanent characteristic\. Same word, opposite life\.
 

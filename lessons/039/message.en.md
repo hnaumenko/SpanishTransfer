@@ -32,6 +32,6 @@ _Te doy la llave_ — I give you the key
 
 👉 *Say this now:* "Le compro flores" \(I buy her flowers\)\.
 
-*Next lesson: One weird trick that turns any verb into a command\.\.\.*
+Next: Ever notice how prepositions flip between languages? In English you "fall in love with" someone\. \.\.\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

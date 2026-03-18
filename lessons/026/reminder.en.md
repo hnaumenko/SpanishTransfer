@@ -1,6 +1,6 @@
-🌙 Lesson 26 — reminder
+🌙 *Lesson 26 — reminder*
 
-_Me llamo_ — I call myself\. _Me quedo_ — I stay (remain myself)\. Reflexive verbs add "myself" to the verb\.
+_Me llamo_ — I call myself\. _Me quedo_ — I stay \(remain myself\)\. Reflexive verbs add "myself" to the verb\.
 
 _Me llamo_ — I call myself\.
 _Me quedo_ — I stay\.

@@ -1,6 +1,6 @@
-🌙 Lesson 74 — reminder
+🌙 *Lesson 74 — reminder*
 
-E shifts to I when stressed\. *Elijo* not *elego*\. After *para que* = always subjunctive\. *Para que vuelvas* = so that you come back\.
+E shifts to I when stressed\. *Elijo* not *elego*\. After *para que* \= always subjunctive\. *Para que vuelvas* \= so that you come back\.
 
 _Para que coman_ — so they eat\.
 _Para que entiendas_ — so you understand\.

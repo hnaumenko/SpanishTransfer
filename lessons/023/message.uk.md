@@ -29,6 +29,6 @@ _el idioma_ — мова
 
 👉 **Спробуй вголос:** "He perdido el aroma\. ¿Has comprendido el sistema?"
 
-*У наступному уроці — як сказати "я загубився" і чому іспанці "втрачають себе", а не просто губляться\.*
+Далі: Dar — дієслово, яке ти вже використовуєш щодня
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

@@ -1,4 +1,4 @@
-🌙 Lesson 88 — reminder
+🌙 *Lesson 88 — reminder*
 
 The biggest rebels\: _puse, hice, vine, traje, fui_\. Stems shift completely\.
 

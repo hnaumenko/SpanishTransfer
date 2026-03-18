@@ -1,4 +1,4 @@
-🌙 Lesson 80 — reminder
+🌙 *Lesson 80 — reminder*
 
 _Se_ \+ _me/te/le_ turns accidents into things that happen *to* you, not *by* you\.
 

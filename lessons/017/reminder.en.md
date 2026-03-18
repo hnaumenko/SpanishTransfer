@@ -1,4 +1,4 @@
-🌙 Lesson 17 — reminder
+🌙 *Lesson 17 — reminder*
 
 When you say "we," the stress moves to the ending and the split disappears\. _Pienso_ splits, but _pensamos_ doesn't\.
 

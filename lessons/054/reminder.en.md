@@ -1,4 +1,4 @@
-🌙 Lesson 54 — reminder
+🌙 *Lesson 54 — reminder*
 
 Those verb forms after *haber* \(sold, lost, closed\) work as adjectives\. They describe a state, not an action\.
 
@@ -8,4 +8,4 @@ _Está terminado_ — it's finished\.
 _Están vendidos_ — they're sold\.
 _Está mojado_ — it's wet\.
 
-Gold rule: these almost always use *estar* because they describe temporary states, not permanent traits\.
+These almost always use *estar* \(temporary states\)\.

@@ -24,6 +24,6 @@ _Lo supe entonces_ — I knew it then
 
 👉 Say it out loud: *"Cocinaba cuando llegó María\. Me gustó verla\."*
 
-Next lesson: stacking pronouns together without getting lost\.
+Next: You know le  and lo \. But what happens when both show up in one sentence?
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

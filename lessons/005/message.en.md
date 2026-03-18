@@ -27,7 +27,6 @@ _influencia_ — influence
 
 👉 *Say this now:* "*Quiero experimentar\. Pero no es imposible\.*"
 
-*Next lesson:* The verb that unlocks "I'm trying" — and you already half\-know it\.
+Next: How \-tion nouns become Spanish verbs like intento \(I'm trying\)\.
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

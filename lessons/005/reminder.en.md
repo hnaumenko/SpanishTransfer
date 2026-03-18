@@ -1,4 +1,4 @@
-🌙 Lesson 5 — reminder
+🌙 *Lesson 5 — reminder*
 
 Stop forcing the rolled R\. Relax, listen, let it come naturally\.
 

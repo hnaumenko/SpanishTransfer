@@ -132,14 +132,8 @@ export class BotUpdate {
 
     if (isNewUser) {
       await this.sendIntroLesson(ctx, locale);
-    } else {
-      // Returning user — just confirm, no lesson. Next lesson via schedule or "Next lesson" button.
-      const info =
-        locale === 'en'
-          ? escMd('✅ Language changed to English. Next lesson will arrive on schedule.')
-          : escMd('✅ Мову змінено на українську. Наступний урок прийде за розкладом.');
-      await ctx.reply(info, { parse_mode: 'MarkdownV2' });
     }
+    // Returning user — confirmation only, no lesson
   }
 
   private async sendIntroLesson(ctx: Context, locale: string): Promise<void> {

@@ -31,7 +31,6 @@ _¿Cómo es?_ — What's he/she like?
 
 👉 Say this out loud right now: *Soy estudiante\. Es especial\.*
 
-Next lesson: the one weird verb form that trips up *everyone* — even native speakers mess it up\.
+Next: Ever notice how English uses completely different words for "boring" and "bored"? Spanish just pi\.\.\.
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

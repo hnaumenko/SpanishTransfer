@@ -1,4 +1,4 @@
-🌙 Lesson 20 — reminder
+🌙 *Lesson 20 — reminder*
 
 For future: add a time word like _mañana_, _pronto_ or use _voy a_ \+ verb\. You don't need future tense\.
 

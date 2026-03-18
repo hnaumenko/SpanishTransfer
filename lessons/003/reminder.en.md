@@ -1,4 +1,4 @@
-🌙 Lesson 3 — reminder
+🌙 *Lesson 3 — reminder*
 
 English \-ant and \-ent words\? Add *e*\. Stress falls on the second\-to\-last syllable\.
 

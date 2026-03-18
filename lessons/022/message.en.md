@@ -38,6 +38,6 @@ _No he recibido el mensaje_ — I haven't received the message
 
 👉 *Say this out loud now:* "He perdido mi dinero\. ¿Has encontrado el tuyo?" \(I've lost my money\. Have you found yours?\)
 
-Next lesson: how to stack pronouns with this past tense to say "I've lost *it*," "I've sold *it*," "I've told *her*\."
+Next: The Greek Trick That'll Save You From Embarrassing Mistakes
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

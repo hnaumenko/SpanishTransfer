@@ -1,4 +1,4 @@
-🌙 Lesson 4 — reminder
+🌙 *Lesson 4 — reminder*
 
 Words ending in \-tion become \-ción in Spanish\. Remove \-ción, add \-ar → verb\.
 

@@ -1,4 +1,4 @@
-🌙 Lesson 30 — reminder
+🌙 *Lesson 30 — reminder*
 
 _Quedar_ — to remain/stay\. _Me quedo_ — I stay\. _Se queda_ — he stays\. _Nos quedamos_ — we stay\.
 

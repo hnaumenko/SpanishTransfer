@@ -37,6 +37,6 @@ _Quiero saber_ — Хочу знати
 
 👉 Спробуй вголос: *Tengo que salir\. Voy a comer\. Puedo hacerlo*\.
 
-У наступному уроці — ще одне слово, яке працює як *que*\. І відкриває нову пачку фраз\.
+Далі: Чому "хочу" — quiero, а не "quero"?
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

@@ -40,6 +40,6 @@ _trabajarías_ — you would work
 
 👉 *Say this now:* "Bailaría pero no tengo tiempo" \(I would dance but I don't have time\)\.
 
-*Next lesson:* One little word that makes verbs talk about *themselves* — and why "it gets contaminated" is actually "it contaminates itself" in Spanish\.
+Next: The Secret to Sounding Polite in Spanish
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

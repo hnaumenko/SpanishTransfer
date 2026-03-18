@@ -1,6 +1,6 @@
-🌙 Lesson 15 — reminder
+🌙 *Lesson 15 — reminder*
 
-When E in a verb root is stressed, it splits into IE\. Remove stress = E returns\.
+When E in a verb root is stressed, it splits into IE\. Remove stress \= E returns\.
 
 _Tengo_ — I have\.
 _Tienes_ — you have\.

@@ -1,4 +1,4 @@
-🌙 Lesson 87 — reminder
+🌙 *Lesson 87 — reminder*
 
 Irregular preterite verbs change stems but use simple endings\: _\-e, \-iste, \-o, \-imos, \-ieron_\.
 

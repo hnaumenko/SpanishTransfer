@@ -27,6 +27,6 @@ _puede_ — he/she can
 
 👉 Say this out loud right now: *"No puedo dormir\. Empiezo a trabajar mañana\."*
 
-Next lesson: one weird verb that breaks *every* rule — and you use it 50 times a day\.
+Next: Ever wonder why Spanish verbs sometimes change their vowels? It's all about pressure\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,4 +1,4 @@
-🌙 Lesson 66 — reminder
+🌙 *Lesson 66 — reminder*
 
 Drop the possessive\. Instead of "my leg," Spanish says "it hurts me the leg" — *me duele la pierna*\. Possession uses *de*: *la casa de María*\.
 

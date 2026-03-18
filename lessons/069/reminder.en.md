@@ -1,6 +1,6 @@
-🌙 Lesson 69 — reminder
+🌙 *Lesson 69 — reminder*
 
-Subjunctive = mood for wanting, doubting, hoping\. After "I want that" flip the verb\. AR verbs borrow ER endings, ER verbs borrow AR endings\.
+Subjunctive \= mood for wanting, doubting, hoping\. After "I want that" flip the verb\. AR verbs borrow ER endings, ER verbs borrow AR endings\.
 
 _Quiero que hables_ — I want you to speak\.
 _Necesito que vengas_ — I need you to come\.

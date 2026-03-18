@@ -28,7 +28,6 @@ No "for\." No "to\." Just flow\.
 
 👉 Say this out loud right now: *Me quedo aquí hasta las nueve\.* \(I'm staying here until 9:00\.\)
 
-Next lesson: one little word that makes your Spanish sound 10x more natural\. Native speakers use it constantly\.
+Next: The Power of "Me" \(myself\)
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

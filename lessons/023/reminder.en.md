@@ -1,4 +1,4 @@
-🌙 Lesson 23 — reminder
+🌙 *Lesson 23 — reminder*
 
 Words ending in \-ma are usually masculine, even though they look feminine\. They came from Greek\.
 

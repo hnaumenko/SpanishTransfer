@@ -1,4 +1,4 @@
-🌙 Lesson 39 — reminder
+🌙 *Lesson 39 — reminder*
 
 Spanish drops prepositions\. *Me compra* \(buys me\) — no *para*\. *Le hablo* \(speak to him\) — no *con*\.
 

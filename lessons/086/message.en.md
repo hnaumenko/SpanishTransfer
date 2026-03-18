@@ -30,6 +30,6 @@ _Saldré mañana_ — I will leave tomorrow
 
 👉 Say this out loud now: *"Vendré más tarde\."*
 
-Next lesson: one sneaky verb that looks normal but hides a *huge* irregularity in the future tenses\.
+Next: The Rebels of Spanish Past Tense
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

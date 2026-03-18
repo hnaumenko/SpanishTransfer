@@ -28,6 +28,6 @@ _¿por quién lo haces?_ — who are you doing it for/because of?
 
 👉 *Say this out loud now:* ¿Con quién vas? \(Who are you going with?\)
 
-Next lesson: how to work *backwards* from any Spanish word to unlock its infinite forms\.
+Next: The Power of LO
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

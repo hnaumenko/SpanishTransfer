@@ -1,4 +1,4 @@
-🌙 Lesson 77 — reminder
+🌙 *Lesson 77 — reminder*
 
 *¡Qué \+ adjective\!* \= exclamation\. *Es \[value\] que* \= subjunctive trigger\.
 

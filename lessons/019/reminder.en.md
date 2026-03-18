@@ -1,4 +1,4 @@
-🌙 Lesson 19 — reminder
+🌙 *Lesson 19 — reminder*
 
 From the "we" form, you can build all other forms\. From _vamos_ → _va_, _vas_, _van_\. _Voy_ is the exception\.
 

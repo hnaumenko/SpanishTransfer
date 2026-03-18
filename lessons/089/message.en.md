@@ -33,6 +33,6 @@ _Demasiado tarde_ — Too late
 
 👉 Try it: Find one Spanish sentence today that confuses you\. Break it down\. What's happening?
 
-Next lesson: the word that changes gender\.\.\. but only sometimes\.
+Next: You're a Spanish Speaker Now
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

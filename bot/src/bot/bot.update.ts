@@ -80,6 +80,25 @@ export class BotUpdate {
     const telegramId = BigInt(ctx.from!.id);
     const locale = match === 'next_en' ? 'en' : 'uk';
 
+    // Daily limit: 3 lessons per day via deep link (owner is exempt)
+    const isOwner = process.env.OWNER_TELEGRAM_ID && telegramId === BigInt(process.env.OWNER_TELEGRAM_ID);
+    const todayStart = new Date();
+    todayStart.setUTCHours(0, 0, 0, 0);
+    const todayCount = isOwner ? 0 : await this.prisma.userEvent.count({
+      where: { telegramId, event: 'NEXT_LESSON_LINK', createdAt: { gte: todayStart } },
+    });
+
+    if (todayCount >= 3) {
+      const msg =
+        locale === 'en'
+          ? '⏳ You\'ve completed 3 lessons today\\. The next one arrives tomorrow at 9:00\\. Your brain retains more with breaks — that\'s not a limit, that\'s science\\.'
+          : '⏳ Ти вже пройшов 3 уроки сьогодні\\. Наступний урок прийде завтра о 9:00\\. Мозок краще засвоює матеріал з перервами — це не обмеження, це наука\\.';
+      await ctx.reply(msg, { parse_mode: 'MarkdownV2' });
+      return;
+    }
+
+    void this.analytics.track(telegramId, 'NEXT_LESSON_LINK', undefined, locale);
+
     let user = await this.prisma.user.findUnique({ where: { telegramId } });
     if (!user) {
       // Brand new user clicking "next" link — create with lesson 2

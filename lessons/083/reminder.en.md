@@ -1,4 +1,4 @@
-🌙 Lesson 83 — reminder
+🌙 *Lesson 83 — reminder*
 
 _Que_ turns actions into facts\: _Que lo compraste_ — the fact that you bought it\.
 

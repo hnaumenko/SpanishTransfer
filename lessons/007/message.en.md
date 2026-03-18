@@ -26,6 +26,6 @@ _Voy a demostrar_ — I'm going to demonstrate
 
 👉 Say this out loud: *Voy a pasar a verte* \(I'm going to pass by to see you\)\.
 
-Next lesson: one simple word that lets you talk about the past without conjugating\.
+Next: Change one letter and unlock four meanings at once\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -27,6 +27,6 @@ _Es natural_ — It's natural
 
 👉 *Say this now:* "¿Quiere venir a visitarme?" \(Do you want to come visit me?\)
 
-*Next lesson: the word that makes you sound polite in ANY situation\.*
+Next: You Already Know "Savvy"
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

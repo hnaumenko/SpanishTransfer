@@ -32,7 +32,6 @@ _Cállate_ — Shut up \(informal\)
 
 👉 Say this now: *"Cómelo\."* Feel how natural that shortcut is?
 
-Next lesson: the ONE exception that breaks this whole system — and why it exists\.
+Next: Ever notice how Spanish gets superstitious about the future? The language literally refuses to tr\.\.\.
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

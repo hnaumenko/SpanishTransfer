@@ -33,6 +33,6 @@ _Les gustaría bailar_ — They would like to dance
 
 👉 Say this now: *"Me interesa\. Me parece bien\."* Get comfortable with this structure\.
 
-Next lesson: how to say "I want to put salt *on it*" without saying "on it" at all\.
+Next: The Three Spanish Pasts \(And You Already Know One\)
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

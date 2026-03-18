@@ -28,7 +28,6 @@ _¿Se te acaba siempre?_ — Does it always run out on you?
 
 👉 Say this out loud: *"Se me quemó la cena\."* Feel how you're not taking blame? You're just a victim of circumstances\.
 
-Next: Why Spanish says "I have hunger" instead of "I'm hungry" — and what it reveals about the language\.
+Next: The Past Subjunctive — Easier Than You Think
 
-
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

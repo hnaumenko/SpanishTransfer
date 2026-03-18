@@ -24,6 +24,6 @@ _Habría dicho_ — I would have said
 
 👉 Say this: *"Habría ido, pero no tenía dinero\."* \(I would have gone, but I didn't have money\.\)
 
-Next lesson: how *deber* becomes "should have\."
+Next: When Spanish breaks its own rules
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

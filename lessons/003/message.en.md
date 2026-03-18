@@ -29,6 +29,6 @@ Want the adverb? Just say the word: *constantemente* \(constantly\), *normalment
 
 👉 *Say this now:* "No es diferente\. Es importante\."
 
-Next lesson: words ending in \-ble\. Possible? *Posible\.* You'll add 400 more words in 60 seconds\.
+Next: words ending in \-tion in English become \-ción in Spanish\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

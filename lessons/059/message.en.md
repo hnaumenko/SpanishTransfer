@@ -33,6 +33,6 @@ _Dormí mejor que él_ — I slept better than him
 
 👉 *Say this out loud now:* "Comí más que él\."
 
-Next lesson: three tiny words that create double negatives in Spanish \(yes, you CAN say "I didn't see nothing"\)\.
+Next: Here's something wild: in Spanish, "we speak" and "we spoke" are the exact same word\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

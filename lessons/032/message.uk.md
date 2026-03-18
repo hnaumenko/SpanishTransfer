@@ -26,4 +26,6 @@ _Soy una persona casada_ — Я одружена людина
 
 А от звідки ти родом — це *es* чи *está*? Розберемо в наступному уроці\.
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+Далі: Коли іспанське "бути" грає в ігри
+
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

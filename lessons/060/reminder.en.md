@@ -1,4 +1,4 @@
-🌙 Lesson 60 — reminder
+🌙 *Lesson 60 — reminder*
 
 The "we" form is tricky: *hablamos* \= we speak AND we spoke\. Same form, two meanings\.
 

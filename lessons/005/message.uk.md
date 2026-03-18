@@ -25,7 +25,6 @@ _Influencia_ — вплив
 
 👉 Спробуй вголос: *"Quiero experimentar\. Pero no es imposible\."*
 
-У наступному уроці — дієслово для "я намагаюся"\. Ти вже наполовину знаєш його\.
+Далі: Як розуміти тисячи іспанських слів, навіть якщо ти їх ніколи не вчив\.
 
-
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

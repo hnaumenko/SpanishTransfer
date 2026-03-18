@@ -1,4 +1,4 @@
-🌙 Lesson 79 — reminder
+🌙 *Lesson 79 — reminder*
 
 When Spanish talks about the future, it uses subjunctive after _cuando_, like it's afraid to jinx things\.
 

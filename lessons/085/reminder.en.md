@@ -1,4 +1,4 @@
-🌙 Lesson 85 — reminder
+🌙 *Lesson 85 — reminder*
 
 GO\-verb commands: formal keeps the G \(_salga, ponga, haga_\), informal drops it \(_sal, pon, haz_\)\.
 

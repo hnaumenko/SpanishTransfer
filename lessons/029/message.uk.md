@@ -35,6 +35,6 @@ _Somos humanos_ — Ми люди
 
 👉 Спробуй вголос: _Estoy muy cansado\. Siempre estoy cansado\._
 
-У наступному уроці — як один і той самий прикметник _змінює значення_ залежно від ser чи estar\.
+Далі: Де ти? Куди йдеш? І чому іспанці постійно кажуть "debe"?
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

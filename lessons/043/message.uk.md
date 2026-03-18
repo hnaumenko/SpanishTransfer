@@ -24,6 +24,6 @@ _Habría dicho_ — я б сказав
 
 👉 Спробуй вголос: *"Habría ido, pero no tenía dinero\."*
 
-У наступному уроці — як *deber* перетворюється на "мав би"\.
+Далі: Коли \-o — це вона, а \-a — це він
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

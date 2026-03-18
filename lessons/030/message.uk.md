@@ -33,6 +33,6 @@ _No vamos a quedarnos_ — Ми не залишимося
 
 👉 Спробуй вголос: "*No vamos a quedarnos porque estamos muy cansados*"\.
 
-У наступному уроці — ще одне дієслово, яке допоможе тобі говорити про плани та обов'язки\. Без нього — нікуди\.
+Далі: Чому іспанські слова починаються з E?
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

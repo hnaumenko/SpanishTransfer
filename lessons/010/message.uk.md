@@ -37,4 +37,6 @@ _Separo, ventilo, dono, organizo, confirmo, creo, respiro, revelo_\.
 У наступному уроці — два дієслова\-мутанти, які ламають всі правила\. Але їх легко запам'ятати разом\.
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+Далі: Як сказати "Я", не заплутавшись
+
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

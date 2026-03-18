@@ -26,6 +26,6 @@ _Se da cuenta_ — he/she realizes
 
 👉 Say this now: *"Me quedo aquí\. ¿Te das cuenta?"*
 
-Next lesson: what happens when pronouns start stacking on top of each other\.
+Next: Spanish Hates Prepositions \(And You Should Too\)
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

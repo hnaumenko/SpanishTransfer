@@ -1,4 +1,4 @@
-🌙 Lesson 51 — reminder
+🌙 *Lesson 51 — reminder*
 
 After *por*, *para*, *de*, *sin* — always use the infinitive form\. Spanish doesn't use \-ing after prepositions like English does\.
 

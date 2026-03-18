@@ -1,4 +1,4 @@
-🌙 Lesson 55 — reminder
+🌙 *Lesson 55 — reminder*
 
 Irregular past participles break the pattern\. Memorize these common ones\.
 

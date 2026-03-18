@@ -29,6 +29,6 @@ _Salgo temprano para que llegues a tiempo_ — I leave early so you arrive on ti
 
 👉 *Say this now:* "He hecho todo para que tú también vuelvas\." \(I've done everything so you also come back\.\)
 
-*Next lesson: one verb that breaks in ways you won't expect\.\.\.*
+Next: Turn "where" into "wherever" and "what" into "whatever"
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

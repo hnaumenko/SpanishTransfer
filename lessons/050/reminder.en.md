@@ -1,4 +1,4 @@
-🌙 Lesson 50 — reminder
+🌙 *Lesson 50 — reminder*
 
 Spanish has two words for "for": *para* \(for someone\) and *por* \(because of/for a period\)\.
 

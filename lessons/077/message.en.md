@@ -25,6 +25,6 @@ _¡Qué bueno que estés aquí\!_ — how great that you're here\!
 
 👉 Say it out loud: *"¡Qué increíble que estés aquí\!"*
 
-Next lesson: how *que* turns facts into arguments in real conversation\.
+Next: The Secret Patterns Hidden After Common Verbs
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

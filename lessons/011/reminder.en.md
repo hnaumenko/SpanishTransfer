@@ -1,6 +1,6 @@
-🌙 Lesson 11 — reminder
+🌙 *Lesson 11 — reminder*
 
-Any verb \+ *\-o* = "I do it"\. Two verbs together\? Only the first changes\.
+Any verb \+ *\-o* \= "I do it"\. Two verbs together\? Only the first changes\.
 
 _Hablo_ — I speak\.
 _Como_ — I eat\.

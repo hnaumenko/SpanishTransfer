@@ -1,6 +1,6 @@
-🌙 Lesson 14 — reminder
+🌙 *Lesson 14 — reminder*
 
-*Tengo que* \+ verb = I have to\. *Voy a* \+ verb = I'm going to\. *Puedo* \+ verb = I can\.
+*Tengo que* \+ verb \= I have to\. *Voy a* \+ verb \= I'm going to\. *Puedo* \+ verb \= I can\.
 
 _Tengo que salir_ — I have to leave\.
 _Voy a comer_ — I'm going to eat\.

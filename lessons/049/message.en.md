@@ -31,6 +31,6 @@ _Ellos iban a la playa los domingos_ — They used to go to the beach on Sundays
 
 👉 Try it now: How would YOU say "I was going to study but I forgot"?
 
-Next lesson: the verbs you *think* are irregular but actually aren't\.
+Next: The Two Spanish Words for "For" \(and When You're Using the Wrong One\)
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

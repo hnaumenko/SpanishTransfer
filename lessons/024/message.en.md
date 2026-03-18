@@ -31,6 +31,6 @@ _Quiero dártelo_ — I want to give it to you
 
 👉 *Say this now:* Pick 3 examples and say them out loud\. Feel how *me*, *te*, *lo* just click together?
 
-*Next lesson:* One tiny word that makes *dar* sound 10x more native\.
+Next: You've been translating "to" and "for" into Spanish\. Stop\. You don't need them\.
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

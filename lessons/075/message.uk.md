@@ -3,9 +3,9 @@
 Ти вже вмієш казати _donde quieres_ — "де ти хочеш"\. А тепер додамо магії: одна зміна дієслова — і ось _donde_ перетворюється на *куди б не*\.
 
 Формула проста:
-donde \+ *Subjuntivo* = куди б не
-como \+ *Subjuntivo* = як би не
-lo que \+ *Subjuntivo* = що б не
+donde \+ *Subjuntivo* \= куди б не
+como \+ *Subjuntivo* \= як би не
+lo que \+ *Subjuntivo* \= що б не
 
 Уяви ситуацію:
 — Де мені це зробити?

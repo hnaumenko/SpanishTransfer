@@ -12,7 +12,7 @@ Watch this in action:
 — What's so incredible?
 — *Lo increíble es que vuelven\.* The incredible thing is that they're coming back\.
 
-See that? *Lo \+ adjective \+ es que* = your escape hatch\.
+See that? *Lo \+ adjective \+ es que* \= your escape hatch\.
 
 Here are 8 ways to use it:
 

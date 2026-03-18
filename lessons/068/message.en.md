@@ -35,4 +35,4 @@ _Nada me gustó más que eso_ — Nothing pleased me more than that
 *Next up:* The word that made us say "so tired" we slept all day\. One tiny word\. Huge impact\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

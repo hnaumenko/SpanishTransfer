@@ -6,4 +6,4 @@ _Soy profesor_ — teacher (trait)\.
 _Estoy cansado_ — tired (state)\.
 _Está muerto_ — dead (state!)\.
 
-Ask: is it a characteristic or a state?
+Ask: is it a characteristic or a state\?

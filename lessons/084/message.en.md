@@ -7,7 +7,7 @@ Here's the good news: they're *predictably* weird\. Once you know the pattern, y
 Look at this:
 — *Tengo* un problema — I have a problem
 — *Vengo* mañana — I'm coming tomorrow
-— *Salgo* a las ocho* — I'm leaving at eight
+— *Salgo* a las ocho — I'm leaving at eight
 — *Pongo* la mesa — I'm setting the table
 
 See the *\-go*? That's your signal\. And here's the twist: when these verbs go into the mood tense \(the "I want that you\.\.\." tense\), the *\-go* becomes *\-g\-* for *everyone*\.

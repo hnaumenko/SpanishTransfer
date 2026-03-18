@@ -6,4 +6,4 @@ _¿Dónde estás?_ — where are you?
 _¿Dónde vas a estar?_ — where will you be?
 _Debe estar aquí_ — he must be here\.
 
-Reflexive pattern: "remain yourself" = stay\.
+Reflexive pattern: "remain yourself" \= stay\.

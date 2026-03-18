@@ -9,7 +9,7 @@ Here's the pattern: Spanish uses *le* \(to him/her\) \+ *el/la* \(the\) instead 
 — Did you respond to her?
 — Yes, I responded to her the message\. A month ago\.
 
-Notice *hace un mes* \(it makes one month\) = one month ago\. Spanish literally says "it makes two weeks" instead of "two weeks ago\."
+Notice *hace un mes* \(it makes one month\) \= one month ago\. Spanish literally says "it makes two weeks" instead of "two weeks ago\."
 
 Here are 8 real examples you'll actually use:
 
@@ -29,4 +29,4 @@ _¿Cuándo llegaste?_ — When did you arrive?
 *Next lesson:* The past tense pattern hiding in plain sight — one sound change that makes everything click\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

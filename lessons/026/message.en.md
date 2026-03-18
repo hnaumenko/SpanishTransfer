@@ -27,7 +27,7 @@ _Me llamo Ana_ — My name is Ana \(I call myself Ana\)
 
 💡 To introduce yourself, don't say "my name is\." Say *me llamo* \+ your name\. And to ask someone? *¿Cómo te llamas?* \(How do you call yourself?\)
 
-👉 Say this out loud right now: *"Me llamo \[your name\]\. Voy a quedarme aquí\."*
+👉 Say this out loud right now: *"Me llamo \\\[your name\\\]\. Voy a quedarme aquí\."*
 
 Next lesson: one more reflexive verb that'll change how you talk about your daily routine\.
 

@@ -7,7 +7,7 @@
 — *¿Qué pasó con la cena?*
 — *La cena se quemaba\.* \(Вечеря горіла\.\)
 
-Не *quemaba la cena* — бо тоді незрозуміло: вечеря горіла *що*? А *se quemaba* = горіла сама, згоріла\.
+Не *quemaba la cena* — бо тоді незрозуміло: вечеря горіла *що*? А *se quemaba* \= горіла сама, згоріла\.
 
 *Quemar* — палити
 *Quemaba la cena* — він/вона палив/ла вечерю

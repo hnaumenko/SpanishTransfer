@@ -3,6 +3,8 @@ import { Cron } from '@nestjs/schedule';
 import { PrismaService } from '../prisma/prisma.service';
 import { LessonsService } from '../lessons/lessons.service';
 import { BotService } from '../bot/bot.service';
+import { AnalyticsService } from '../analytics/analytics.service';
+import { buildDailyReport } from './report.util';
 
 function escMd(text: string): string {
   return text.replace(/[_*[\]()~`>#+=|{}.!\-\\]/g, '\\$&');
@@ -21,6 +23,7 @@ export class SchedulerService {
     private readonly prisma: PrismaService,
     private readonly lessons: LessonsService,
     private readonly bot: BotService,
+    private readonly analytics: AnalyticsService,
   ) {}
 
   @Cron('0 9 * * *', { timeZone: 'Europe/Madrid' })
@@ -41,14 +44,29 @@ export class SchedulerService {
             where: { id: user.id },
             data: { isActive: false },
           });
+          void this.analytics.track(user.telegramId, 'COURSE_COMPLETED', undefined, user.locale);
           this.logger.log(`User ${user.telegramId} completed the course`);
         } else {
-          const message = await this.lessons.getLessonMessage(
-            user.currentLesson,
-            user.locale,
-          );
-          await this.bot.sendMessage(user.telegramId, message);
-          const audio = this.lessons.getLessonAudio(user.currentLesson);
+          const lessonNumber = user.currentLesson;
+          let message: string;
+          try {
+            message = await this.lessons.getLessonMessage(lessonNumber, user.locale);
+          } catch (fetchError) {
+            const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
+            void this.analytics.track(user.telegramId, 'ERROR_LESSON_FETCH', lessonNumber, user.locale, { error: msg });
+            throw fetchError;
+          }
+          try {
+            await this.bot.sendMessage(user.telegramId, message);
+          } catch (sendError) {
+            const msg = sendError instanceof Error ? sendError.message : String(sendError);
+            void this.analytics.track(user.telegramId, 'ERROR_BOT_SEND', lessonNumber, user.locale, {
+              error: msg,
+              telegramId: user.telegramId.toString(),
+            });
+            throw sendError;
+          }
+          const audio = this.lessons.getLessonAudio(lessonNumber);
           if (audio !== null) {
             await this.bot.sendAudio(user.telegramId, audio);
           }
@@ -60,9 +78,8 @@ export class SchedulerService {
               lastLessonAt: new Date(),
             },
           });
-          this.logger.log(
-            `Sent lesson ${user.currentLesson} to user ${user.telegramId}`,
-          );
+          void this.analytics.track(user.telegramId, 'LESSON_RECEIVED', lessonNumber, user.locale);
+          this.logger.log(`Sent lesson ${lessonNumber} to user ${user.telegramId}`);
         }
       } catch (error) {
         this.logger.error(
@@ -98,10 +115,11 @@ export class SchedulerService {
       try {
         const message = await this.lessons.getReminderMessage(lessonNumber, user.locale);
         await this.bot.sendMessage(user.telegramId, message);
+        void this.analytics.track(user.telegramId, 'REMINDER_RECEIVED', lessonNumber, user.locale);
         sent++;
       } catch (error) {
         const msg = error instanceof Error ? error.message : String(error);
-        if (msg.includes('404') || msg.includes('not found') || msg.includes('not found')) {
+        if (msg.includes('404') || msg.includes('not found')) {
           this.logger.warn(
             `Evening reminder: no reminder file for lesson ${lessonNumber} [${user.locale}]`,
           );
@@ -118,6 +136,25 @@ export class SchedulerService {
     this.logger.log(
       `Evening reminder complete: ✅ ${sent} sent / ⏭ ${skipped} skipped / ❌ ${failed} failed`,
     );
+  }
+
+  @Cron('0 22 * * *', { timeZone: 'Europe/Madrid' })
+  async sendDailyReport(): Promise<void> {
+    const ownerId = process.env.OWNER_TELEGRAM_ID;
+    if (!ownerId) {
+      this.logger.warn('Daily report: OWNER_TELEGRAM_ID not set, skipping');
+      return;
+    }
+
+    try {
+      const stats = await this.analytics.getDailyStats();
+      const dropOff = await this.analytics.getDropOffStats();
+      const report = buildDailyReport(stats, dropOff);
+      await this.bot.sendMessage(BigInt(ownerId), report);
+      this.logger.log('Daily report sent to owner');
+    } catch (error) {
+      this.logger.error(`Failed to send daily report: ${error}`);
+    }
   }
 
   public async sendEveningReminderToUser(telegramId: bigint): Promise<void> {

@@ -4,7 +4,7 @@ You already know how to say "I would" in Spanish\. You just haven't used it yet\
 
 Here's the pattern: take any verb, add *\-ía* to the end, and boom — you've got "would\."
 
-*hablar* \(to speak\) \+ *\-ía* = *hablaría* \(I/he/she/it/you formal would speak\)
+*hablar* \(to speak\) \+ *\-ía* \= *hablaría* \(I/he/she/it/you formal would speak\)
 
 — Could you help me tomorrow?
 — *Hablaría con mi jefe, pero no está\.* \(I would talk to my boss, but he's not here\.\)
@@ -20,7 +20,7 @@ _podrías_ — you could
 _dirías_ — you would say
 _vendría_ — I/he/she would come
 
-💡 *Watch out\!* Spanish says "it pleases me" where English says "I like\." So *me gusta* = "it pleases me" \(I like it\)\. Don't say *yo gusto* unless you want to announce "I please myself\!" 😅
+💡 *Watch out\!* Spanish says "it pleases me" where English says "I like\." So *me gusta* \= "it pleases me" \(I like it\)\. Don't say *yo gusto* unless you want to announce "I please myself\!" 😅
 
 👉 *Say this now:* "Me gustaría comer ahora" \(I would like to eat now\)\.
 

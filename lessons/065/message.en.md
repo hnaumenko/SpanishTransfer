@@ -3,8 +3,8 @@
 You already know how to say "more"\. But did you know *más* can also mean *else*?
 
 Here's the pattern:
-*nada* \(nothing\) \+ *más* = nothing else
-*nadie* \(nobody\) \+ *más* = nobody else
+*nada* \(nothing\) \+ *más* \= nothing else
+*nadie* \(nobody\) \+ *más* \= nobody else
 
 Picture this:
 — Did you eat anything else?
@@ -28,4 +28,4 @@ _¿No comiste nada más?_ — Didn't you eat anything else?
 Next lesson: how one little word lets you talk about possession in ways English never could\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

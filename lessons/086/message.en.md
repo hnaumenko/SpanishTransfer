@@ -11,7 +11,7 @@ Look:
 
 Now imagine this conversation:
 *— Will you come later?*
-*— Vendré más tarde, but I don't have time\.*
+*— Vendré más tarde\.* I'll come later, but I don't have time\.
 *— We would come, but we're busy\.*
 *— Vendríamos, pero estamos ocupados\.*
 

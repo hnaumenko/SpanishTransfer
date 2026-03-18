@@ -13,6 +13,7 @@ interface ExamplesItem {
 @Injectable()
 export class LessonsService {
   private readonly logger = new Logger(LessonsService.name);
+  private readonly cache = new Map<string, string>();
 
   private getBase(): string {
     const base = process.env.GITHUB_RAW_BASE;
@@ -50,6 +51,9 @@ export class LessonsService {
     }
 
     const url = `${this.getBase()}/lessons/${padded}/message.${locale}.md`;
+    const cached = this.cache.get(url);
+    if (cached !== undefined) return cached;
+
     this.logger.log(`Fetching lesson ${lessonNumber} [${locale}] from ${url}`);
     const response = await fetch(url);
     if (!response.ok) {
@@ -57,7 +61,9 @@ export class LessonsService {
         `Failed to fetch lesson ${lessonNumber} [${locale}]: HTTP ${response.status}`,
       );
     }
-    return this.stripMarkdownWrapper(await response.text());
+    const content = this.stripMarkdownWrapper(await response.text());
+    this.cache.set(url, content);
+    return content;
   }
 
   async getLessonExamples(lessonNumber: number, locale: string = 'uk'): Promise<string> {

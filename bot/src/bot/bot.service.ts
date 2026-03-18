@@ -23,43 +23,20 @@ export class BotService implements OnModuleInit, OnModuleDestroy {
     this.bot = new Bot(token);
     this.botUpdate.register(this.bot);
 
-    if (process.env.NODE_ENV === 'production') {
-      const webhookUrl = process.env.WEBHOOK_URL;
-      if (!webhookUrl) {
-        throw new Error('WEBHOOK_URL env var is not set in production');
-      }
-      void this.bot.api
-        .setWebhook(`${webhookUrl}/bot`)
-        .then(() => {
-          this.logger.log(`Webhook set: ${webhookUrl}/bot`);
-        })
-        .catch((err: unknown) => {
-          this.logger.error('Failed to set webhook', err);
-        });
-    } else {
-      void this.bot
-        .start({
-          onStart: (botInfo) => {
-            this.logger.log(`Bot @${botInfo.username} started polling`);
-          },
-        })
-        .catch((err: unknown) => {
-          this.logger.error('Bot polling crashed', err);
-        });
-    }
+    void this.bot
+      .start({
+        onStart: (botInfo) => {
+          this.logger.log(`Bot @${botInfo.username} started polling`);
+        },
+      })
+      .catch((err: unknown) => {
+        this.logger.error('Bot polling crashed', err);
+      });
   }
 
   async onModuleDestroy(): Promise<void> {
-    if (process.env.NODE_ENV === 'production') {
-      await this.bot.api.deleteWebhook();
-    } else {
-      await this.bot.stop();
-    }
+    await this.bot.stop();
     this.logger.log('Bot stopped');
-  }
-
-  getBot(): Bot {
-    return this.bot;
   }
 
   async sendMessage(telegramId: bigint, text: string): Promise<void> {

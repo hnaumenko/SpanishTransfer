@@ -113,27 +113,34 @@ export class BotUpdate {
   private async onLocaleSelected(ctx: Context, locale: string): Promise<void> {
     const telegramId = BigInt(ctx.from!.id);
 
-    const existing = await this.prisma.user.findUnique({ where: { telegramId } });
-    const isNewUser = !existing || existing.currentLesson <= 1;
+    try {
+      const existing = await this.prisma.user.findUnique({ where: { telegramId } });
+      const isNewUser = !existing || existing.currentLesson <= 1;
 
-    await this.prisma.user.update({
-      where: { telegramId },
-      data: {
-        locale,
-        ...(isNewUser ? { currentLesson: 1 } : {}),
-      },
-    });
+      this.logger.log(`onLocaleSelected: user=${telegramId} locale=${locale} isNewUser=${isNewUser} currentLesson=${existing?.currentLesson}`);
 
-    void this.analytics.track(telegramId, 'LOCALE_SELECTED', undefined, locale);
-    await ctx.answerCallbackQuery();
+      await this.prisma.user.upsert({
+        where: { telegramId },
+        update: { locale },
+        create: { telegramId, locale },
+      });
 
-    const confirmation = locale === 'en' ? '🇬🇧 English selected\u0021' : '🇺🇦 Українську обрано\u0021';
-    await ctx.reply(confirmation);
+      void this.analytics.track(telegramId, 'LOCALE_SELECTED', undefined, locale);
 
-    if (isNewUser) {
-      await this.sendIntroLesson(ctx, locale);
+      const confirmation = locale === 'en' ? '🇬🇧 English selected\u0021' : '🇺🇦 Українську обрано\u0021';
+
+      // Replace original message (removes keyboard, prevents double-click)
+      await ctx.editMessageText(confirmation);
+      await ctx.answerCallbackQuery();
+
+      if (isNewUser) {
+        await this.sendIntroLesson(ctx, locale);
+      }
+      // Returning user — confirmation only, no lesson
+    } catch (error) {
+      this.logger.error(`onLocaleSelected failed for ${telegramId}: ${error}`);
+      await ctx.answerCallbackQuery();
     }
-    // Returning user — confirmation only, no lesson
   }
 
   private async sendIntroLesson(ctx: Context, locale: string): Promise<void> {

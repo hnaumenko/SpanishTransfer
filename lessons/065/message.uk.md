@@ -26,4 +26,4 @@ _nadie más llegó_ — ніхто більше не прийшов
 У наступному уроці — як сказати "ще раз" і "знову" так, щоб звучати як locals\.
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Наступний урок](https://t\.me/SpanishMeBot?start=next_uk)

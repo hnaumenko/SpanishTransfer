@@ -21,6 +21,20 @@ model User {
   completions   LessonCompletion[]
 }
 
+model UserEvent {
+  id           Int      @id @default(autoincrement())
+  telegramId   BigInt
+  event        String
+  lessonNumber Int?
+  locale       String?
+  metadata     Json?
+  createdAt    DateTime @default(now())
+
+  @@index([telegramId])
+  @@index([event])
+  @@index([createdAt])
+}
+
 model LessonCompletion {
   id           Int      @id @default(autoincrement())
   telegramId   BigInt

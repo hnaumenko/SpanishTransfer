@@ -8,9 +8,9 @@
 
 Це і є закінчення майбутнього\. Просто додай їх до *infinitivo* \(повної форми дієслова\):
 
-*comer* \(їсти\) \+ *é* = *comeré* — я з'їм  
-*ir* \(йти\) \+ *ás* = *irás* — ти підеш  
-*encontrar* \(знайти\) \+ *á* = *encontrará* — він/вона знайде
+*comer* \(їсти\) \+ *é* \= *comeré* — я з'їм
+*ir* \(йти\) \+ *ás* \= *irás* — ти підеш
+*encontrar* \(знайти\) \+ *á* \= *encontrará* — він/вона знайде
 
 — *¿Cuándo irás a España?*  
 — *Iré en junio\. Comeré paella todos los días\.*

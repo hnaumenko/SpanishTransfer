@@ -1,6 +1,6 @@
 🇪🇸 *Lesson 33: When Spanish words change personality*
 
-Ever noticed how some people are smart, while others are just... ready? In Spanish, it's the same word: *listo*\. But which verb you use — *ser* or *estar* — completely flips the meaning\.
+Ever noticed how some people are smart, while others are just\.\.\. ready? In Spanish, it's the same word: *listo*\. But which verb you use — *ser* or *estar* — completely flips the meaning\.
 
 Here's the magic:
 *Estar listo* — I'm ready \(right now, a state\)

@@ -2,8 +2,8 @@
 
 *Hablamos* \= "ми говоримо" й "ми говорили"\. Та сама форма для обох часів\.
 
-_Hablamos_ — we speak\.
-_Hablamos ayer_ — we spoke\.
-_Hablamos mañana_ — we'll speak\.
+_Hablamos_ — ми говоримо\.
+_Hablamos ayer_ — ми говорили\.
+_Hablamos mañana_ — ми говоритимемо\.
 
 Золото: додай "ayer" чи "mañana" — ясно стає\.

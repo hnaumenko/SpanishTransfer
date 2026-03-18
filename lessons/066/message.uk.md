@@ -31,4 +31,4 @@ _Me duele la espalda_ — Болить мені спина
 У наступному уроці — ще одна хитрість з присвійністю, яка здивує\.
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Наступний урок](https://t\.me/SpanishMeBot?start=next_uk)

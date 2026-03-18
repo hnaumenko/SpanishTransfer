@@ -4,10 +4,10 @@ You've been saying "for" wrong half the time\. Spanish has two completely differ
 
 Here's the split:
 
-*Para* = for \(as in "for someone"\)
+*Para* \= for \(as in "for someone"\)
 _Lo compro para ti_ — I'm buying it for you
 
-*Por* = for \(as in "because of" or time periods\)
+*Por* \= for \(as in "because of" or time periods\)
 _Lo compro por ti_ — I'm buying it because of you
 
 See the difference? One means "this is yours\." The other means "you're the reason I did this\."

@@ -37,4 +37,4 @@ _escribes_ — ти пишеш → _escribas_ — щоб ти писав
 👉 Спробуй вголос: "Я хочу, щоб ти зачекав" — склав? А тепер у наступному уроці — ситуації, де subjuntivo *необов'язковий*, але додає драми\. 🔥
 
 
-▶️ [Наступний урок](https://t.me/SpanishMeBot?start=next_uk)
+▶️ [Наступний урок](https://t\.me/SpanishMeBot?start=next_uk)

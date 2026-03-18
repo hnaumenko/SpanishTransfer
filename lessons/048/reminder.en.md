@@ -1,9 +1,10 @@
 🌙 Lesson 48 — reminder
 
-Three rebels: *ser* → _era_ \(I was\), *ver* → _veía_ \(I saw\), *ir* → _iba_ \(I went\)\. They break all patterns\.
+*Se* \= passive voice without special forms\. When something *is done* but we don't say or don't know by whom\.
 
-_Era estudiante_ — I was a student\.
-_Veía películas_ — I watched movies\.
-_Iba al gimnasio_ — I used to go to the gym\.
+_Se vende_ — for sale\.
+_Se habla español_ — Spanish is spoken\.
+_Se alquila_ — for rent\.
+_Se necesita_ — wanted/needed\.
 
-Gold: _iba a_ \+ infinitive \= "I was going to…" for plans that didn't happen\.
+On signs you see _Se vende_, _Se alquila_, _Se necesita_ — markers that something *is being done*\.

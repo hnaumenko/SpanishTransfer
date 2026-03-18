@@ -6,10 +6,10 @@ You already learned one: _He comido_ \(I have eaten\)\.
 
 Now meet the other two: *the line* and *the dot*\.
 
-🟦 *The Line* = ongoing, repeated, habitual past
+🟦 *The Line* \= ongoing, repeated, habitual past
 _I was eating, I used to eat, I would eat every day_
 
-⚫️ *The Dot* = one\-time, finished action
+⚫️ *The Dot* \= one\-time, finished action
 _I ate\. Done\._
 
 Today: the *line* past\. It's shockingly simple\.
@@ -30,7 +30,7 @@ _Vivía_ — I/he/she was living, used to live
 _Trabajaba mucho_ — I/he/she used to work a lot
 _Estudiaban juntos_ — They used to study together
 
-💡 *Pro move:* "I was waiting for you" = _Te esperaba_\. Not _esperaba por ti_\. Spanish skips the preposition\.
+💡 *Pro move:* "I was waiting for you" \= _Te esperaba_\. Not _esperaba por ti_\. Spanish skips the preposition\.
 
 👉 *Say this now:* Pick one verb you use daily and put it in the line past\. Out loud\.
 

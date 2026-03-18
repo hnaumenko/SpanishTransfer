@@ -6,4 +6,4 @@ _El coche rojo_ — червона машина\.
 _La casa grande_ — великий будинок\.
 _Un problema serio_ — серйозна проблема\.
 
-Множина: прикметник теж множинівною — _los coches rojos_\.
+Множина: прикметник теж множиною — _los coches rojos_\.

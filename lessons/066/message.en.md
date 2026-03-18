@@ -31,4 +31,4 @@ _El perro de Carlos_ — Carlos's dog
 Next lesson: how to say "I just did something" without sounding like a textbook\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

@@ -11,8 +11,8 @@
 — "Коли ми поїмо разом \(завтра\), ми поговоримо"\. Бачиш? *Comamos* \(не *comemos*\)\.
 
 **Схема проста:**
-quando \+ subjuntivo = про майбутнє
-quando \+ indicativo = взагалі, завжди
+quando \+ subjuntivo \= про майбутнє
+quando \+ indicativo \= взагалі, завжди
 
 *Ще приклади з que* \(нехай, хай\):
 _Que espere_ — Хай почекає

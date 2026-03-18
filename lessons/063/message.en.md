@@ -34,4 +34,4 @@ _no me acuerdo de eso_ — I don't remember that
 Next lesson: another verb that does this trick—and it's one you'll use every single day\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

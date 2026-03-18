@@ -41,4 +41,4 @@ Each one ends in N, O, or E, so you'd *expect* the stress on the second\-to\-las
 Next lesson: one tiny Spanish sound that English speakers almost always get wrong—and how to fix it in 30 seconds\.
 
 
-▶️ [Next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)

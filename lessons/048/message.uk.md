@@ -6,7 +6,7 @@
 
 Забирай закінчення *\-er* або *\-ir*, додавай *\-ía*\.
 
-*Comer* \(їсти\) → *com* \+ *ía* = *comía* — я їв, я їла
+*Comer* \(їсти\) → *com* \+ *ía* \= *comía* — я їв, я їла
 
 — ¿Qué hacías en Madrid?
 — *Comía en restaurantes pequeños\.*

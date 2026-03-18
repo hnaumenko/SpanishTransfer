@@ -30,7 +30,7 @@ _¿Les escribes?_ — Do you write to them?
 _Le compro café_ — I buy him coffee
 _Les mando un mensaje_ — I send them a message
 
-💡 Bonus: *Me doy cuenta* \(I give myself account\) = I realize\. *¿Te das cuenta?* = Do you realize?
+💡 Bonus: *Me doy cuenta* \(I give myself account\) \= I realize\. *¿Te das cuenta?* \= Do you realize?
 
 👉 Say this out loud three times: *"Le hablo, les hablo\."*
 

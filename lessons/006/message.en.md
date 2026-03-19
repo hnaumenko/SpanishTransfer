@@ -1,27 +1,27 @@
-🇪🇸 *Lesson 6: You Already Know These Verbs*
+🇪🇸 *Lesson 6 — Language Transfer*
 
-Ever noticed how "intend" and "intent" look almost identical in English? Spanish does the same thing\. If you know the noun *intención*, you automatically understand *intento* — I try, I'm trying\.
+*Main idea:*
+Your brain can easily guess vocabulary\. If you hear _intento_ \(I am trying\), you can link it directly to the English word "intention"\. And that _\-o_ ending on verbs always means "I" \(I am doing\)\.
 
-Here's the pattern: Spanish takes English nouns ending in *\-tion* and turns them into verbs you can use RIGHT NOW\.
+*New constructions:*
+Let's add some new words\. Note: the letter _V_ in Spanish usually sounds like a soft _B_\.
 
-*Intento publicarlo* — I'm trying to publish it
-*Intento administrarlo* — I'm trying to manage it  
-*Intento imitarlo* — I'm trying to imitate it
-*Intento cancelarlo* — I'm trying to cancel it
-*Intento visitarlo* — I'm trying to visit it
-*Intento organizarlo* — I'm trying to organize it
-*Intento separarlo* — I'm trying to separate it
-*Intento prepararlo* — I'm trying to prepare it
+• _intento_ — I try / I am trying
+• _voy_ — I go / I am going
+• _visitar_ — to visit
+• _ahora_ — now
 
-Quick scene:
-— *Quiero cancelarlo, pero no quiero cancelarlo ahora\.*
-— Why not?
-— *Intento administrarlo mejor primero\.*
+• _hospital_ — hospital
+• _horrible_ — horrible
+• _visible_ — visible
+• _virus_ — virus
 
-💡 One sneaky thing: that H in *ahora* \(now\) is completely silent\. Think "a\-OH\-ra," not "ah\-hora\." Same with *hospital* — it's "ospital" in your mind\.
+*Remember:*
+The letter _H_ in Spanish is completely silent\! Do not even think about pronouncing it\. _Hospital_ sounds exactly like "ospital", and _ahora_ sounds like "a\-OH\-ra"\.
 
-👉 *Say this out loud right now: "Intento publicarlo ahora\."*
+*Example:*
+_Intento visitarlo ahora\._ — I am trying to visit it now\.
 
-Next: You know how verbs of movement work in English? Spanish does something sneaky with them\.
+Next: learning even more verbs and exploring new patterns\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -4,8 +4,6 @@ There is no traditional memorization here\. I will even ask you not to write any
 
 At the core of this method lies *positive language transfer*\. English contains thousands of words of Latin origin that are almost identical to Spanish\. You don't need to learn them from scratch \- you just need to understand the transformation algorithm\.
 
-How does it work in practice? I will give you instructions \- pause, analyze, and build sentences on your own\. No one expects an instant answer\. The main rule: *think slowly to learn quickly*\.
-
 Here are the first constructions that already work\. Words ending in *\-al* in English sound exactly the same in Spanish\. We add the verb _es_ \(it is\) and get ready\-made phrases:
 
 • _es_ — it is / is
@@ -23,8 +21,6 @@ Here are the first constructions that already work\. Words ending in *\-al* in E
 See the pattern? We take the vocabulary base that is already in your memory and simply transfer it into Spanish logic\.
 
 💡 Do not try to memorize these phrases on purpose\. Just *understand* their structure\. If you forget something \- that is absolutely normal and a natural part of the learning process\.
-
-👉 Try saying it out loud right now: "_No es ideal, pero es natural_"\. Feel it? You are already building meaningful sentences on your own, relying on logic rather than memory\.
 
 In the next lesson, we will cover another pattern that will instantly unlock a few hundred new words for you\.
 

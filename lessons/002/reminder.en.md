@@ -1,11 +1,15 @@
-🌙 *Lesson 2 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Words ending in \-al shift stress to the last syllable\. Then add _es_\.
+Today we transferred *\-al* words and practiced shifting the stress \(to the last syllable\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Es metal_ — it is metal\.
-_Es ideal_ — it is ideal\.
-_No es fatal_ — it is not fatal\.
-_Es cultural_ — it is cultural\.
-_Es legal_ — it is legal\.
+1️⃣ It is not fatal\.
+👉 ||No es fatal\.||
 
-Remember: pronounce each vowel clearly — no blended English sounds\.
+2️⃣ It is ideal\.
+👉 ||Es ideal\.||
+
+3️⃣ It is not legal, but it is normal\.
+👉 ||No es legal, pero es normal\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

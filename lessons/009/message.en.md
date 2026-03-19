@@ -1,29 +1,27 @@
-🇪🇸 *Lesson 9: You Already Know "Savvy"*
+🇪🇸 *Lesson 9 — Language Transfer*
 
-Ever heard someone say "he's got savvy" in English? That's Spanish\. It comes from *saber* — to know\. The V sound in English comes from the B in Spanish\. Same word, different accent\.
+*Main idea:*
+You already know the verb "to know" — _saber_ \(think of the English slang "savvy"\)\. More importantly, you are now ready to build huge sentences by breaking them down into small, manageable blocks\!
 
-Here's how *saber* works in real life:
+*New constructions:*
+Note the word _explicar_ \(to explain\) — it is an exception to our usual rules\. We also add _te_ \(informal "you" / "to you"\):
 
-— *¿Por qué no quiere venir?*
-— *No sé\. Quiero saber si quiere visitarme\.*
-— Why doesn't he want to come?
-— I don't know\. I want to know if he wants to visit me\.
+• _saber_ — to know
+• _si_ — if / whether
+• _sí_ — yes
+• _explicar_ — to explain \(think of the English word _inexplicable_\)
 
-The pattern: *Quiero saber* \+ whatever you want to know\.
+• _te_ — you / to you \(informal\)
+• _quiero saber si_ — I want to know if
+• _explicarte_ — to explain to you
+• _justificarme_ — to justify myself
 
-*Quiero saber* — I want to know
-*No quiero saber* — I don't want to know
-*Quiere saber* — He/she wants to know
-*No quiere saber* — He/she doesn't want to know
-*Quiero saber si* — I want to know if
-*Quiero saber por qué* — I want to know why
-*Quiero saber cuándo* — I want to know when
-*¿Quieres saber?* — Do you want to know?
+*Remember:*
+Do not be afraid of long sentences\! Put 100% of your mental energy into one block at a time\. Say "I want to know", then forget it and focus on "if she wants", then "to come"\. Once you say a block, let it go\!
 
-💡 Two similar words: *si* \(no accent\) \= "if/whether"\. *Sí* \(with accent\) \= "yes"\. Context makes it obvious: *Sí, quiero saber si viene* — Yes, I want to know if he's coming\.
+*Example:*
+_No intento justificarme, pero quiero explicarte algo\._ — I am not trying to justify myself, but I want to explain something to you\.
 
-👉 Try saying it out loud: *Quiero saber si quiere venir a visitarme\.* I want to know if you want to come visit me\.
-
-Next: You Already Know 500 Spanish Verbs
+Next: discovering that you already know 500 Spanish verbs\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

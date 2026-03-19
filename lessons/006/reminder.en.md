@@ -1,9 +1,15 @@
-🌙 *Lesson 6 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Regular verbs \+ *\-o* ending \= "I do it"\. Stress shifts: intentAR → inTENto\.
+Today we learned that verbs ending in *\-o* mean "I", and the letter *H* is always completely silent\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Hablo español_ — I speak Spanish\.
-_Cancelo el plan_ — I cancel the plan\.
-_Organizo todo_ — I organize everything\.
+1️⃣ I am trying\.
+👉 ||Intento\.||
 
-Trap: H is always silent\. Hospital sounds like "ospital"\.
+2️⃣ I am going now\.
+👉 ||Voy ahora\.||
+
+3️⃣ I am trying to visit it now\.
+👉 ||Intento visitarlo ahora\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

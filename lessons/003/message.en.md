@@ -1,33 +1,25 @@
-🇪🇸 *Lesson 3: The \-ENTE Superpower*
+🇪🇸 *Lesson 3 — Language Transfer*
 
-You just unlocked another 500\+ Spanish words\. And you already know them\.
+*Main idea:*
+Another superpower pattern\! Most English words ending in *\-ant* or *\-ent* simply get an extra vowel at the end in Spanish: *\-ante* or *\-ente*\. Just add an *e*\.
 
-Here's the pattern: most English words ending in *\-ant* or *\-ent* become Spanish words ending in *\-ante* or *\-ente*\.
+*New constructions:*
+Combine these words with _es_ \(it is\) or _no es_ \(it is not\):
 
-That's it\. Just add an *e*\.
+• _Es importante_ — It is important
+• _No es diferente_ — It is not different
+• _Es constante_ — It is constant
+• _Es evidente_ — It is evident
+ciente_ — It is not sufficient
+• _Es permanente_ — It is permanent
+• _Es urgente_ — It is urgent
+• _No es relevante_ — It is not relevant
 
-Imagine this conversation:
-— How's the new boss?
-— *Es diferente\.* Not bad, *es importante\.*
-— Constantly changing things?
-— *Constantemente\.*
+If an English word has a "G" sound \(like the letter "g" in _general_ or _original_\), it becomes an "h" sound in Spanish\. The spelling stays exactly the same, but the pronunciation changes: _general_ is pronounced "he\-ne\-RAL"\.
 
-Now watch how many words you already "know":
+*Example:*
+_Generalmente es posible\._ — Generally it is possible\.
 
-_importante_ — important
-_diferente_ — different
-_constante_ — constant
-_elegante_ — elegant
-_urgente_ — urgent
-_evidente_ — evident
-_permanente_ — permanent
-_suficiente_ — sufficient
-
-Want the adverb? Just say the word: *constantemente* \(constantly\), *normalmente* \(normally\), *realmente* \(really\)\.
-
-💡 One weird rule: if the English word has a *j* sound \(not letter, *sound*\), that sound becomes *h* in Spanish\. Spelling stays the same, but pronunciation shifts: *general* and *original* are written identically in both languages — just say the *g* like a rough *h*\. Think Argentina: in Spanish it sounds like *Ar\-hen\-TEE\-na*\.
-
-👉 *Say this now:* "No es diferente\. Es importante\."
 
 Next: words ending in \-tion in English become \-ción in Spanish\.
 

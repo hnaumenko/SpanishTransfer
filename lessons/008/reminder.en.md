@@ -1,10 +1,15 @@
-🌙 *Lesson 8 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-One word *la* \= four meanings: her, it \(feminine\), you \(formal, fem\.\), formal you\.
+Today we learned to ask questions just by changing our intonation and discovered the word _debo_ \(I must / I owe\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Quiero verla_ — I want to see her\.
-_¿Quiere visitarla\?_ — Do you want to visit her\.
-_Debo identificarla_ — I must identify her\.
-_Quiere invitarla_ — He wants to invite her\.
+1️⃣ I must continue\.
+👉 ||Debo continuar\.||
 
-Context always makes it clear\. One word, infinite uses\.
+2️⃣ Why do you not want to come\?
+👉 ||¿Por qué no quiere venir\?||
+
+3️⃣ I want to come to see her \(or it\)\.
+👉 ||Quiero venir a verla\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

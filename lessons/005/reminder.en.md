@@ -1,9 +1,15 @@
-🌙 *Lesson 5 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Stop forcing the rolled R\. Relax, listen, let it come naturally\.
+Today we learned to relax our mouth for the rolled _RR_ and discovered that an experience is an experiment\.
+Translate these phrases in your head, then tap the black rectangles:
 
-_Pero_ — but\.
-_Perro_ — dog\.
-_Experimentar_ — to experience\.
+1️⃣ But \(not a dog\!\)\.
+👉 ||Pero\.||
 
-Tonight: listen to Spanish sounds\. Your brain absorbs what your mouth can't force\.
+2️⃣ Dog\.
+👉 ||Perro\.||
+
+3️⃣ I want to experience it \(to experiment\)\.
+👉 ||Quiero experimentar\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

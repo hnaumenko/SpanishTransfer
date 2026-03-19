@@ -1,9 +1,15 @@
-🌙 *Lesson 9 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Saber* — to know \(same root as English "savvy"\)\. *Quiero saber si* — I want to know if\.
+Today we learned the verb _saber_ \(to know\) and practiced building long sentences block by block without overwhelming our brains\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_No quiero saber_ — I don't want to know\.
-_Quiero saber por qué_ — I want to know why\.
-_¿Por qué no quiere saber\?_ — Why doesn't he want to know\.
+1️⃣ I want to know\.
+👉 ||Quiero saber\.||
 
-Build in chunks: *quiero saber* \+ *si quiere* \+ *venir*\.
+2️⃣ I want to know if you want to come\.
+👉 ||Quiero saber si quiere venir\.||
+
+3️⃣ I want to explain something to you\.
+👉 ||Quiero explicarte algo\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

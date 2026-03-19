@@ -1,31 +1,26 @@
-🇪🇸 *Lesson 5: Stop Trying to Roll the R\. It Will Come\.*
+🇪🇸 *Lesson 5 — Language Transfer*
 
-Everyone worries about the Spanish rolled R\. Here's the secret: the harder you try, the worse it gets\.
+*Main idea:*
+Everyone worries about the Spanish rolled "RR"\. The secret? The harder you try, the worse it gets\. Tension blocks the sound\. Relax your mouth, keep listening, and one day it will just pop out naturally\.
 
-The teacher spent years frustrated, mouth tight, forcing it\. Then one day in Peru, speaking about rice — *arroz* — the R just appeared\. The lesson? Relax\. Expose yourself to the sound\. It arrives on its own\.
+*New constructions:*
+A single _R_ inside a word is a quick tap\. A double _RR_ \(or _R_ at the beginning of a word\) is rolled\. Let's see the difference and learn some new words:
 
-*Single R vs Double RR:*
+• _pero_ — but
+• _perro_ — dog
+• _arroz_ — rice
+• _celebrar_ — to celebrate
 
-_pero_ — but \(soft R — a quick tap, like a soft D\)
-_perro_ — dog \(rolled RR — when your mouth is ready\)
-_arroz_ — rice \(RR at the start\)
+• _participar_ — to participate
+• _experimentar_ — to experience / to experiment
+• _existir_ — to exist
+• _influencia_ — influence
 
-Don't worry if you can't do it yet\. Even some native speakers can't\.
+*Remember:*
+In Spanish, "to experiment" and "to experience" are the exact same verb: _experimentar_\. Your experience is your experiment\. Observe and learn\!
 
-*8 words from this lesson:*
-
-_pero_ — but
-_perro_ — dog
-_arroz_ — rice
-_celebrar_ — to celebrate
-_participar_ — to participate
-_experimentar_ — to experience / to experiment
-_existir_ — to exist
-_influencia_ — influence
-
-💡 *Best insight in Spanish:* "to experience" and "to experiment" are the *same verb* — *experimentar*\. Your experience is your experiment\. You observe, you learn\.
-
-👉 *Say this now:* "*Quiero experimentar\. Pero no es imposible\.*"
+*Example:*
+_Quiero experimentar, pero es diferente\._ — I want to experience it, but it is different\.
 
 Next: How \-tion nouns become Spanish verbs like intento \(I'm trying\)\.
 

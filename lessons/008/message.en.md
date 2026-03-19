@@ -1,31 +1,26 @@
-🇪🇸 *Lesson 8*
+🇪🇸 *Lesson 8 — Language Transfer*
 
-Change one letter and unlock four meanings at once\.
+*Main idea:*
+By changing the last letter of _lo_ to an _a_, we get the feminine _la_ \(her, it, or formal you\)\. Also, to ask a question in Spanish, you do not need helper words like "do" or "does" — just change your intonation\!
 
-You already know *lo* \(him / it / you formal\)\. Now flip the *o* to an *a* and you get *la* — which means *her*, *it* \(feminine word\), AND *you* \(formal, speaking to a woman\)\.
+*New constructions:*
+The verb form _quiere_ groups four meanings: he wants, she wants, it wants, or you want \(formally\)\. We also add a new movement verb _venir_ \(to come\) and _debo_ \(I must\)\.
 
-Here's where it gets wild: this pattern works everywhere\. Not just with *lo/la*, but with verbs too\. *Es* means *he is*, *she is*, *it is*, AND *you are* \(formal\)\. *Quiere* means *he wants*, *she wants*, *it wants*, AND *you want* \(formal\)\.
+• _la casa_ — the house
+• _por qué_ — why
+• _venir_ — to come
+• _venir a visitarme_ — to come to visit me
 
-Picture this:
-— *¿Quiere visitarme?*
-— *Sí, quiero\.*
-— Do you want to visit me?
-— Yes, I want to\.
+• _quiere_ — he / she / you want
+• _¿quiere\?_ — do you want\? / does he want\?
+• _debo_ — I must
+• _debo identificarla_ — I must identify her / it
 
-Now try these out loud:
+*Remember:*
+The word _debo_ literally means "I owe" \(it shares the same root as the English word "debt"\)\. Spanish speakers literally say "I owe to continue" instead of "I must continue"\.
 
-_La quiero ver_ — I want to see her / it / you \(formal, woman\)
-_Es normal_ — It's normal / He's normal / She's normal
-_Quiere venir_ — He/she/you want\(s\) to come
-_No es ideal_ — It's not ideal
-_Quiere la casa_ — He/she/you want\(s\) the house
-_¿Es posible?_ — Is it possible?
-_La debo identificar_ — I must identify her/it/you
-_Es natural_ — It's natural
-
-💡 One verb form\. Four meanings\. Context tells you which one\.
-
-👉 *Say this now:* "¿Quiere venir a visitarme?" \(Do you want to come visit me?\)
+*Example:*
+_¿Por qué no quiere venir a verla\?_ — Why do you not want to come to see her / it\?
 
 Next: You Already Know "Savvy"
 

@@ -1,31 +1,27 @@
-🇪🇸 *Lesson 7*
+🇪🇸 *Lesson 7 — Language Transfer*
 
-You know how verbs of movement work in English? Spanish does something sneaky with them\.
+*Main idea:*
+When you put two verbs together and the first one is a verb of movement \(like "I go" or "I pass by"\), Spanish adds the preposition _a_ \(to\) between them to show the feeling of motion\. Even if you are just talking about your plans for the future\!
 
-When you use a movement verb \(like *voy* — I'm going, or *pasar* — to pass by\) followed by another action, Spanish slips in an extra *a* to show that motion feeling\. Even when you're just talking about the future\.
+*New constructions:*
+Movement verbs take an extra _a_ \(_voy a\.\.\._, _pasar a\.\.\._\)\. Normal verbs \(_quiero_, _intento_\) do not\. Let's add the word _algo_ \(something\)\.
 
-Think of it like this:
-— Where are you?
-— At home\.
-— *Voy a pasar a mostrarte algo* — I'm going to pass by to show you something\.
+• _voy a continuar_ — I am going to continue
+• _intento continuar_ — I try to continue
+• _quiero mostrarte_ — I want to show you
+• _voy a examinar_ — I am going to examine
 
-See that? *Voy a pasar* \(going to pass\) then *a mostrarte* \(to show you\)\. The *a* appears twice because both involve movement or direction\.
+• _voy a ver_ — I am going to see
+• _intento verlos_ — I am trying to see them \(_lo_ → _los_\)
+• _voy a pasar_ — I am going to pass by
+• _voy a pasar a verte_ — I am going to pass by to see you
 
-Here are 8 examples to nail this:
+*Remember:*
+If you do not know how to translate a phrasal verb like "carry on" or "show", look for its Latin equivalent in your head: "continue", "demonstrate" \(_demostrar_ → drop the _de\-_ → _mostrar_ — to show\)\.
 
-_Voy a continuar_ — I'm going to continue
-_Voy a examinar_ — I'm going to examine
-_Intento ver_ — I'm trying to see
-_Voy a ver_ — I'm going to see
-_Voy a pasar a visitarte_ — I'm going to pass by to visit you
-_Quiero pasar a mostrarte algo_ — I want to pass by to show you something
-_Voy a intentar verlos_ — I'm going to try to see them
-_Voy a demostrar_ — I'm going to demonstrate
+*Example:*
+_Voy a pasar a mostrarte algo\._ — I am going to pass by to show you something\.
 
-💡 Not all verbs need this\. Only verbs of *movement* \(going, passing, coming\) get the extra *a*\. *Quiero* \(I want\) or *intento* \(I try\)? No extra *a*\.
-
-👉 Say this out loud: *Voy a pasar a verte* \(I'm going to pass by to see you\)\.
-
-Next: Change one letter and unlock four meanings at once\.
+Next: learning how one word can give you four different meanings\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

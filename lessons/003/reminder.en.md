@@ -1,11 +1,15 @@
-🌙 *Lesson 3 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-English \-ant and \-ent words\? Add *e*\. Stress falls on the second\-to\-last syllable\.
+Today we learned how to create *\-mente* words \(English *\-ly*\) and explored *\-ible* / *\-able* words\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Es importante_ — it is important\.
-_No es diferente_ — it is not different\.
-_Es constante_ — it is constant\.
-_Es urgente_ — it is urgent\.
-_Es evidente_ — it is evident\.
+1️⃣ Normally it is possible\.
+👉 ||Normalmente es posible\.||
 
-Just listen and absorb the sound\.
+2️⃣ It is really flexible\.
+👉 ||Es realmente flexible\.||
+
+3️⃣ It is constantly different\.
+👉 ||Es constantemente diferente\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

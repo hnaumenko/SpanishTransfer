@@ -1,40 +1,28 @@
-🇪🇸 *Lesson 2: You already know 3,000 Spanish words*
+🇪🇸 *Lesson 2 — Language Transfer*
 
-You just don't know it yet\.
+*Main idea:*
+English contains thousands of words ending in *\-al* that come from Latin\. In Spanish, they are exactly the same, but the stress changes\. If a Spanish word ends in a consonant \(like *\-l*\), the stress always falls on the *last* syllable: NOrrmal → normAL\.
 
-Here's the secret: English is half Latin\. Spanish is basically modern Latin\. So thousands of English words already have Spanish twins\.
+*New constructions:*
+Let's add the universal verb _es_ \(it is / he is / she is\):
 
-*The AL Rule*
+• _es_ — it is / he is / she is
+• _no es_ — it is not
 
-Words ending in \-AL in English? They're almost always the same in Spanish\. Just shift the stress to the *final* syllable\.
+• _Es normal_ — It is normal
+• _Es metal_ — It is metal
+• _Es legal_ — It is legal
+• _Es ilegal_ — It is illegal
+• _Es natural_ — It is natural
+• _Es ideal_ — It is ideal
+• _No es fatal_ — It is not fatal
+• _Es cultural_ — It is cultural
 
-English: NORmal \(stress on first syllable\)
-Spanish: norMAL \(stress on last syllable\)
+*Remember:*
+Want a perfect Spanish accent? Pronounce every vowel exactly as written\. *A* is always "ah", *E* is always "eh", *I* is always "ee"\. No "swallowed" or ambiguous English sounds\!
 
-Try this conversation:
-— How's the new job?
-— _Es normal\._ No _es ideal_, but _es natural\._
-
-Now look at these 8 words you already "know":
-
-_normal_ — normal
-_metal_ — metal
-_legal_ — legal
-_natural_ — natural
-_ideal_ — ideal
-_cultural_ — cultural
-_total_ — total
-_personal_ — personal
-
-💡 *Quick tip:* Want a perfect Spanish accent? Pronounce every vowel exactly as written\. A is always *ah*, E is always *eh*, I is always *ee*\. No weird English sounds\.
-
-Also: _es_ \= is/he is/she is\. 
-_No es_ \= isn't/he isn't/she isn't\.
-
-_Es legal_ — It's legal
-_No es normal_ — It's not normal
-
-👉 *Say this out loud right now:* "_Es cultural\. No es personal\._"
+*Example:*
+_No es fatal, pero es normal\._ — It is not fatal, but it is normal\.
 
 Next: words ending in \-ant or \-ent become \-ante or \-ente in Spanish\.
 

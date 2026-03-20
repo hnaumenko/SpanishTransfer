@@ -1,10 +1,15 @@
-🌙 *Lesson 12 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Verbs ending in \-er use vowel E\. Person comes first: _me lo venden_ — they sell it to me\.
+Today we learned *\-er* verbs \(using the E sound\) and word order: the person always comes before the object \(to\-me it they sell\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Vendo_ — I sell\.
-_Vende_ — he sells\.
-_Venden_ — they sell\.
-_Me lo vende_ — he sells it to me\.
+1️⃣ I sell them \(the houses\)\.
+👉 ||Las vendo\.||
 
-Hear the E sound\? That's an \-er verb\.
+2️⃣ They sell to us\.
+👉 ||Nos venden\.||
+
+3️⃣ They do not sell it to me\.
+👉 ||No me lo venden\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

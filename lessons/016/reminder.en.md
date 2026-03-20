@@ -1,9 +1,15 @@
-🌙 *Lesson 16 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-When stress falls on a vowel in Spanish, it splits: O becomes UE, E becomes IE\. This is a system, not an exception\.
+Today we learned how the vowel O splits into UE when stressed \(_dormir_ → _duermo_\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Duermo_ — I sleep\.
-_Puedo_ — I can\.
-_Encuentro_ — I find\.
+1️⃣ I sleep\.
+👉 ||Duermo\.||
 
-Before sleep: say _duermo_, _empiezo_, _puedo_ out loud\.
+2️⃣ I find it\.
+👉 ||Lo encuentro\.||
+
+3️⃣ I fall asleep \(I sleep myself\)\.
+👉 ||Me duermo\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

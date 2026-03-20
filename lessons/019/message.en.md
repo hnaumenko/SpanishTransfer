@@ -1,36 +1,28 @@
-🇪🇸 *Lesson 19: Work Backwards and Unlock the Whole Verb*
+🇪🇸 *Lesson 19 — Language Transfer*
 
-Ever stared at a Spanish word like *vamos* and wondered how to get the other forms? Here's the secret: work backwards\. Strip off the ending, find the core, and rebuild\.
+*Main idea:*
+Sometimes the easiest way to learn a verb is to work backwards\. Take the word _vamos_ \("we go" or "let's go"\)\. If you chop off the _\-mos_ ending, you are left with the root _va_\. From there, you can easily build all the other forms\!
 
-Take *vamos* \(we're going / let's go\)\. Chop off the *\-amos* and you get *v\-*\. Now you can build anything:
+*New constructions:*
+The "to" form is _ir_ \(to go\)\. It is highly irregular, but the "I" form is easy to remember if you think of the English word "voyage"\.
 
-— Where are you going?
-— *Voy* to the store\. _Vas_ too?
-— No, *vamos* together later\.
+• _ir_ — to go
+• _voy_ — I go
+• _vamos_ — we go / let's go
+• _va_ — he / she goes
 
-*The complete set:*
-You already know *voy* \(I go\) from "voyage"\. Now add the rest:
+• _vas_ — you go \(informal\)
+• _van_ — they go
+• _esta noche_ — tonight
+• _la carne_ — the meat
 
-_Voy_ — I go / I'm going
-_Vas_ — you go / you're going
-_Va_ — he/she goes, you formal go
-_Vamos_ — we go / let's go
-_Van_ — they go / you plural go
+*Remember:*
+The French word for "good" is "bon"\. In Spanish, when you stress that "O", it splits into "UE"\. That is exactly how we get the word _bueno_\!
 
-💡 Fun fact: *ir* \(to go\) comes from TWO different verbs that merged over time\. That's why it's so irregular\. But who cares? You don't need history — just *voy* and *va*, and work backwards from there\.
-
-*Now try these in real life:*
-
-_Tengo que ir_ — I have to go
-_Puedo ir_ — I can go
-_Quiero ir_ — I want to go
-_Tengo que ir esta noche_ — I have to go tonight
-_¿Adónde vas?_ — Where are you going?
-_Voy al supermercado_ — I'm going to the supermarket
-_Vamos a la playa_ — Let's go to the beach
-_Ellos van mañana_ — They're going tomorrow
-
-👉 Say this out loud right now: *"Tengo que ir\. ¿Vamos?"*
+*Examples:*
+• _Tengo que ir esta noche\._ — I have to go tonight\.
+• _¿A dónde vas\?_ — Where are you going\?
+• _No como carne\._ — I do not eat meat\.
 
 Next: You Don't Need the Future Tense
 

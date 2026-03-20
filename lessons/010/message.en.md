@@ -1,38 +1,31 @@
-🇪🇸 *Lesson 10: You Already Know 500 Spanish Verbs*
+🇪🇸 *Lesson 10 — Language Transfer*
 
-Every English word ending in *\-tion*, *\-ation*, *\-ition* becomes a Spanish verb\. Just drop the ending, add *\-ar*, and boom — you're fluent\.
+*Main idea:*
+In Spanish, all verbs in their base form end in *\-ar*, *\-er*, or *\-ir*\. To say "I do something", simply drop this ending and add *\-o*\.
 
-Here's the pattern:
+*New constructions:*
+Transforming words into the "I" form:
 
-🔹 English: separ*ation* → Spanish: *separar* \(to separate\)
-🔹 English: simul*ation* → Spanish: *simular* \(to simulate\)
-🔹 English: revel*ation* → Spanish: *revelar* \(to reveal\)
+• _separo_ — I separate
+• _dono_ — I donate
+• _creo_ — I create
+• _respiro_ — I breathe
 
-Every Spanish verb in its "to" form ends in *\-ar*, *\-er*, or *\-ir*\. To say "I," just chop off the ending and add *\-o*:
+• _organizo_ — I organize
+• _como_ — I eat
+• _intento_ — I try
+• _confirmo_ — I confirm
 
-*separar* → *separo* \(I separate\)
-*revelar* → *revelo* \(I reveal\)
+*Remember:*
+The stress shifts\! In the base form, stress is on the last syllable \(_intentAR_\), but in the "I" form, it moves to the penultimate syllable \(_inTENto_\)\. Also, you can use the present tense for the future if you add a context word like _mañana_ \(tomorrow\)\.
 
-Now picture this:
-— *¿Comes con Pablo mañana?*
-— Sí\. *Como tarde\.*
-\(— Eating with Pablo tomorrow? — Yeah\. I'm eating late\.\)
+*Example:*
+• _Separo, dono, creo, respiro\._ — I separate, donate, create, breathe\.
+• _Mañana organizo todo\._ — Tomorrow I organize everything\.
+• _Confirmo mañana\._ — I confirm tomorrow\.
+• _Intento\._ — I try\.
+• _Mañana como con Pablo\._ — Tomorrow I eat with Pablo\.
 
-Here are 8 verbs you already "know":
-
-_separar_ — to separate
-_ventilar_ — to ventilate
-_donar_ — to donate
-_crear_ — to create
-_confirmar_ — to confirm
-_organizar_ — to organize
-_inspirar_ — to inspire
-_celebrar_ — to celebrate
-
-💡 Pro tip: The stress shifts when you add *\-o*\. It's *intentAR* \(to try\), but *inTENto* \(I try\)\. When the stress is on the final syllable like *intentÓ*, that's the past tense\.
-
-👉 *Say this now:* "Como mañana\." \(I'm eating tomorrow\.\)
-
-Next: You already know the secret pattern behind thousands of Spanish verbs\. You just need to unlock it\.
+Next: Two mutant verbs that break all the rules\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

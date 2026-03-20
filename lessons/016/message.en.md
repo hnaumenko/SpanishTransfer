@@ -1,32 +1,29 @@
-🇪🇸 *Lesson 16: Why Spanish Verbs "Split" \(And How to Use Them\)*
+🇪🇸 *Lesson 16 — Language Transfer*
 
-Here's something wild: Spanish verbs don't just conjugate — they *split*\. The vowels literally change shape when you stress them\. You've been seeing this everywhere and didn't realize it\.
+*Main idea:*
+When the stress falls on the vowel "O" in the root of a verb, it often splits into "UE"\. You can see this clearly when words cross from English to Spanish \(like port → puerto, nov → nuevo, mort → muerto\)\.
 
-Look: _puerto_ \(port\), _nuevo_ \(new from "nov"\), _muerte_ \(death from "mort"\)\. That O becomes UE when stressed\. Same thing happens to E — it splits into IE\.
+*New constructions:*
+Let's look at some new verbs where "O" becomes "UE", alongside our previous rule of "E" splitting to "IE" \(_empezar_\):
 
-This is happening *right now* in present tense verbs:
+• _empezar_ — to start
+• _empiezo_ — I start
+• _dormir_ — to sleep
+• _duermo_ — I sleep
 
-**empezar** \(to start\) → **empiezo** \(I start\)
-**dormir** \(to sleep\) → **duermo** \(I sleep\)
+• _encontrar_ — to find
+• _encuentro_ — I find
+• _mostrar_ — to show
+• _muestro_ — I show
 
-— When does the meeting start?
-— *Empieza* a las tres\. But I *duermo* in every meeting anyway\.
+*Remember:*
+To say "I fall asleep", Spanish speakers literally say "I sleep myself" — _me duermo_\. Always run back to the "to" form of the verb \(_dormir_, _empezar_\) so you do not get confused by the vowels\!
 
-Here are 8 verbs where this split happens\. Say them out loud:
+*Examples:*
+• _¿Cuándo empiezas\?_ — When do you start\?
+• _Lo encuentro horrible\._ — I find it horrible\.
+• _Me duermo\._ — I fall asleep\.
 
-_empiezo_ — I start
-_empiezas_ — you start
-_duermo_ — I sleep
-_duermes_ — you sleep
-_encuentro_ — I find / I meet
-_muestro_ — I show
-_puedo_ — I can
-_puede_ — he/she can
-
-💡 Pro trick: always check the *tú* form first\. If it splits there \(*empiezas*, *duermes*\), it splits everywhere except *nosotros* and *vosotros*\.
-
-👉 Say this out loud right now: *"No puedo dormir\. Empiezo a trabajar mañana\."*
-
-Next: Ever wonder why Spanish verbs sometimes change their vowels? It's all about pressure\.
+Next: Why "we" saves the verbs
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

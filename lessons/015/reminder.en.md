@@ -1,11 +1,15 @@
-🌙 *Lesson 15 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-When E in a verb root is stressed, it splits into IE\. Remove stress \= E returns\.
+Today we learned that a stressed E in the root often splits into IE \(pensar → pienso\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Tengo_ — I have\.
-_Tienes_ — you have\.
-_Quiero_ — I want\.
-_Quieres_ — you want\.
-_Pienso_ — I think\.
+1️⃣ I plan on eating later\.
+👉 ||Pienso comer más tarde\.||
 
-Always check the *tú* form to stay confident\.
+2️⃣ What is happening\?
+👉 ||¿Qué pasa\?||
+
+3️⃣ I do not understand it\.
+👉 ||No lo entiendo\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

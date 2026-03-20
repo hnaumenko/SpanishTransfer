@@ -1,11 +1,15 @@
-🌙 *Lesson 10 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Every \-ar verb: add *\-o* for "I do it"\. Stress shifts: intentAR → inTENto\.
+Today we learned how to form the "I" perspective \(add *\-o*\) and use the present tense for future plans\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Separo_ — I separate\.
-_Vendo_ — I sell\.
-_Creo_ — I believe\.
-_Respiro_ — I breathe\.
-_Como mañana_ — I eat tomorrow\.
+1️⃣ I breathe\.
+👉 ||Respiro\.||
 
-Stress on last syllable \= past tense\. Context clears ambiguity\.
+2️⃣ I try\.
+👉 ||Intento\.||
+
+3️⃣ Tomorrow I eat with Pablo\.
+👉 ||Mañana como con Pablo\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

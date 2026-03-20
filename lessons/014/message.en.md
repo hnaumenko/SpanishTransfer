@@ -1,33 +1,29 @@
-🇪🇸 *Lesson 14: I Know \(But It's Weird\)*
+🇪🇸 *Lesson 14 — Language Transfer*
 
-The verb "to know" in Spanish breaks its own rules\. And it's one of the most useful verbs you'll ever learn\.
+*Main idea:*
+Some very common verbs have an irregular "I" form ending in *\-go* \(tengo, salgo, pongo\)\. Also, by adding the word *que* to *tengo*, you instantly get the super useful phrase "I have to"\.
 
-Here's the twist: *saber* should become *sabo* for "I know\," right? Nope\. It's *sé*\. Just *sé*\. So short that people often say *lo sé* — "I know it" — instead\.
+*New constructions:*
+Let's add some new words and learn how to talk about obligations and plans:
 
-But here's the good news: everything else is regular\. *Sabe* \(he/she knows\), *saben* \(they know\)\. Easy\.
+• _sé_ — I know \(this is an exception\!\)
+• _él_ / _ella_ — he / she
+• _salir_ / _salgo_ — to leave / I leave
+• _poner_ / _pongo_ — to put / I put
 
-Now watch what happens when you combine it with *qué* \(what\):
-— What does he want?
-— *No sé qué quiere\.*
-I don't know what he wants\.
+• _suponer_ / _supongo_ — to suppose / I suppose
+• _tengo que_ — I have to
+• _puedo_ — I can
+• _voy a_ — I am going to
 
-See how *qué quiere* flows together? Two words become one sound\. Get comfortable with that\.
+*Remember:*
+If you know that _poner_ becomes _pongo_, you automatically know all similar words from English\. Compose becomes _componer_ \(_compongo_\), suppose becomes _suponer_ \(_supongo_\)\.
 
-*8 examples to lock this in:*
+*Examples:*
+• _No sé qué quiere\._ — I do not know what he wants\.
+• _Tengo que salir ahora\._ — I have to leave now\.
+• _Supongo que no puedes venir\._ — I suppose that you cannot come\.
 
-_Lo sé_ — I know it
-_No sé_ — I don't know
-_Él sabe_ — He knows
-_Ella no sabe_ — She doesn't know
-_No sé qué hacer_ — I don't know what to do
-_¿Sabes dónde está?_ — Do you know where it is?
-_Sé la verdad_ — I know the truth
-_No sé cuándo viene_ — I don't know when he's coming
+Next: Why is "I want" quiero and not quero?
 
-💡 *Pro tip:* When you hear *no sé qué*, don't pause between the words\. Let them blur: *noséqué*\. That's how natives say it\.
-
-👉 *Say this out loud right now:* "No sé qué quiere\."
-
-Next: Ever notice how some Spanish words sound weirdly similar to English ones, but with a twist? Tempo\.\.\.
-
-▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️[Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

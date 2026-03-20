@@ -1,31 +1,28 @@
-🇪🇸 *Lesson 18*
+🇪🇸 *Lesson 18 — Language Transfer*
 
-Here's the wildest thing about Spanish verbs: there's ONLY ONE place in the entire language where \-ar and \-er verbs behave differently\. Just one\. And you're about to learn it\.
+*Main idea:*
+This is the ONLY place in the entire Spanish language where *\-er* and *\-ir* verbs behave differently\! In the "we" form, each group uses its own unique vowel: *\-ar* → *\-amos*, *\-er* → *\-emos*, *\-ir* → *\-imos*\.
 
-For "we" in the present tense:
-• \-ar verbs → \-*amos*
-• \-er verbs → \-*emos*
-• \-ir verbs → \-*imos*
+*New constructions:*
+Let's look at the "we" form for different verbs\. We also add _aquí_ \(here\) and _siempre_ \(always\):
 
-That's it\. Everywhere else? They follow the same rules\. But here, they split\.
+• _entender_ — to understand
+• _entendemos_ — we understand
+• _perder_ — to lose
+• _perdemos_ — we lose
 
-— ¿Dónde vives?
-— *Vivo aquí*\. No *vivimos* en Madrid, pero *entendemos* el acento\.
+• _vivir_ — to live
+• _vivimos_ — we live
+• _venir_ — to come
+• _venimos_ — we come
 
-Watch how these work:
+*Remember:*
+The letter _V_ in Spanish is pronounced like a soft _B_\. The word _vivir_ sounds like "bibir"\. The closer you match this accent, the faster you will understand native speakers\!
 
-_Preferimos_ — We prefer
-_Venimos_ — We come
-_Vivimos_ — We live
-_Entendemos_ — We understand
-_Sabemos_ — We know
-_Perdemos_ — We lose
-_Comemos_ — We eat
-_Bebemos_ — We drink
-
-💡 Notice *vivimos*? That V is pronounced like a soft B in Spanish\. Say "bee\-BEE\-mos" not "viv\-emos"\. The more you match the accent around you, the faster you'll understand native speakers\.
-
-👉 Say this now: *Vivimos aquí pero no entendemos todo\.* \(We live here but we don't understand everything\.\)
+*Examples:*
+• _¿Dónde vivimos\?_ — Where do we live\?
+• _No vivimos aquí, pero venimos siempre\._ — We do not live here, but we always come\.
+• _Entendemos todo\._ — We understand everything\.
 
 Next: Work Backwards and Unlock the Whole Verb
 

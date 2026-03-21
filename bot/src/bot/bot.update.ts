@@ -36,6 +36,7 @@ export class BotUpdate {
     bot.command('next', (ctx) => this.onNext(ctx));
     bot.command('trigger_evening', (ctx) => this.onTriggerEvening(ctx));
     bot.command('stats', (ctx) => this.onStats(ctx));
+    bot.command('reset', (ctx) => this.onReset(ctx));
     bot.callbackQuery('locale_en', (ctx) => this.onLocaleSelected(ctx, 'en'));
     bot.callbackQuery('locale_uk', (ctx) => this.onLocaleSelected(ctx, 'uk'));
     bot.callbackQuery('locale_en_selected', (ctx) => ctx.answerCallbackQuery());
@@ -66,7 +67,16 @@ export class BotUpdate {
 
     // Show locale picker only — no lesson yet
     await ctx.reply(
-      escMd('👋 Привіт! Я SpanishMe — твій щоденний тренер іспанської 🇪🇸\n\nОберіть мову курсу:'),
+      escMd(
+        'Hola! 🇪🇸\n\n' +
+        'Цей бот допоможе тобі опанувати іспанську мову за методикою Language Transfer.\n\n' +
+        '🛠 Що ти отримаєш:\n' +
+        '• 90 послідовних аудіо-уроків (один на день).\n' +
+        '• Ранкові уроки о 09:00 та вечірні закріплення о 21:00.\n' +
+        '• Жодних конспектів — тільки розуміння структури.\n\n' +
+        '• Чітку і передбачувану структуру кожного уроку.\n\n' +
+        'Оберіть мову курсу:',
+      ),
       {
         parse_mode: 'MarkdownV2',
         reply_markup: new InlineKeyboard()
@@ -387,6 +397,22 @@ export class BotUpdate {
       this.logger.error(`Failed to send stats to ${telegramId}: ${error}`);
       await ctx.reply(escMd('Не вдалося отримати статистику.'), { parse_mode: 'MarkdownV2' });
     }
+  }
+
+  private async onReset(ctx: Context): Promise<void> {
+    const ownerId = process.env.OWNER_TELEGRAM_ID;
+    if (!ownerId || ctx.from!.id !== Number(ownerId)) {
+      await ctx.reply(escMd('⛔ Доступ заборонено.'), { parse_mode: 'MarkdownV2' });
+      return;
+    }
+
+    const telegramId = BigInt(ctx.from!.id);
+    await this.prisma.userEvent.deleteMany({ where: { telegramId } });
+    await this.prisma.lessonCompletion.deleteMany({ where: { telegramId } });
+    await this.prisma.user.delete({ where: { telegramId } });
+
+    await ctx.reply(escMd('♻️ Прогрес скинуто. Напиши /start щоб почати знову.'), { parse_mode: 'MarkdownV2' });
+    this.logger.log(`Owner ${telegramId} reset their progress`);
   }
 
   private async onExamples(ctx: Context): Promise<void> {

@@ -1,6 +1,4 @@
-🇪🇸 *Introduction\. Lesson 1*
-
-There is no traditional memorization here\. I will even ask you not to write anything down\. The goal of this course is for the new language to be built directly in your head, rather than staying in your notes\.
+🇪🇸 *Introduction\. Lesson 1 — Language Transfer*
 
 At the core of this method lies *positive language transfer*\. English contains thousands of words of Latin origin that are almost identical to Spanish\. You don't need to learn them from scratch \- you just need to understand the transformation algorithm\.
 
@@ -23,10 +21,5 @@ See the pattern? We take the vocabulary base that is already in your memory and 
 💡 Do not try to memorize these phrases on purpose\. Just *understand* their structure\. If you forget something \- that is absolutely normal and a natural part of the learning process\.
 
 In the next lesson, we will cover another pattern that will instantly unlock a few hundred new words for you\.
-
-*A few organizational details:*
-Every day you will receive 2 messages\. The first one at 09:00 \- is the main lesson\.
-And in the evening at 21:00 \- a short review of the material\.
-In science, this phenomenon is called memory consolidation during sleep \(Memory Consolidation\)\. In short: your brain doesn't turn off at night; it works like a backup server, transferring information from temporary storage \(hippocampus\) to long\-term memory \(neocortex\)\. You sleep, and your Spanish gets better\!
 
 ▶️ [Start course](https://t.me/SpanishMeBot?start=next_en)

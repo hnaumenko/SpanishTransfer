@@ -1,31 +1,29 @@
-🇪🇸 *Lesson 20: You Don't Need the Future Tense*
+🇪🇸 *Lesson 20 — Language Transfer*
 
-Here's something wild: in Spanish, you can talk about the future without using future tense at all\. You already know how\.
+*Main idea:*
+You do not need to learn the future tense to talk about the future\! Just use the present tense and add a time word \(_mañana_, _pronto_\), or use the _voy a_ \+ verb construction \(I am going to\)\.
 
-The secret? Just add a future word \(like *mañana*, *pronto*\) and use present tense\. Or say "I'm going to\.\.\." exactly like English\.
+*New constructions:*
+The verb _ver_ \(to see\) has an irregular "I" form — _veo_\. Let's also add some useful time words:
 
-Picture this:
-— When are you seeing María?
-— *La veo mañana\.* \(I see her tomorrow\.\)
-— We're meeting at 8\.
-— *Nos vemos a las ocho\.* \(We see each other at 8\.\)
+• _veo_ — I see
+• _vemos_ — we see
+• _pronto_ — soon
+• _nos_ — us / each other
 
-*Pronto* means "soon" — you've heard "Get here pronto\!" That's your future context right there\.
+• _nos vemos_ — we see each other / see you
+• _la semana_ — the week
+• _que viene_ — that comes
+• _la semana que viene_ — next week
 
-Here are 8 ways to use this:
+*Remember:*
+The phrase _nos vemos_ \(literally "we see each other"\) is the most popular way to say goodbye in Spanish\. The future tense is automatically implied\!
 
-_La veo mañana_ — I'm seeing her tomorrow
-_Nos vemos pronto_ — We'll see each other soon
-_¿Vas a verlo?_ — Are you going to see him?
-_Voy a verla esta noche_ — I'm going to see her tonight
-_¿No vas a vernos pronto?_ — Aren't you going to see us soon?
-_Hablamos la semana que viene_ — Let's talk next week
-_¿Ves a tus amigos mañana?_ — Are you seeing your friends tomorrow?
-_Te veo más tarde_ — I'll see you later
-
-💡 *Nos vemos* is how you say goodbye — literally "we see each other\!" The future is implied\.
-
-👉 Say this out loud right now: *Nos vemos pronto\.*
+*Examples:*
+• _Nos vemos la semana que viene\._ — We will see each other next week\.
+• _¿Por qué no vas a vernos pronto\?_ — Why are you not going to see us soon\?
+• _La veo esta noche\._ — I am seeing her tonight\.
+• _Hablamos mañana\._ — Let's talk tomorrow\.
 
 Next: You already know how to talk about the past in Spanish\. Really\.
 

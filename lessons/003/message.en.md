@@ -1,26 +1,29 @@
 🇪🇸 *Lesson 3 — Language Transfer*
 
 *Main idea:*
-Another superpower pattern\! Most English words ending in *\-ant* or *\-ent* simply get an extra vowel at the end in Spanish: *\-ante* or *\-ente*\. Just add an *e*\.
+Most English words ending in *\-ant* or *\-ent* become Spanish by simply adding an *e* at the end\. Also, the English *\-ly* ending translates directly to *\-mente* in Spanish\.
 
 *New constructions:*
-Combine these words with _es_ \(it is\) or _no es_ \(it is not\):
+Words ending in *\-ible* and *\-able* stay exactly the same, just pronounce them with Spanish vowels:
 
-• _Es importante_ — It is important
-• _No es diferente_ — It is not different
-• _Es constante_ — It is constant
-• _Es evidente_ — It is evident
-ciente_ — It is not sufficient
-• _Es permanente_ — It is permanent
-• _Es urgente_ — It is urgent
-• _No es relevante_ — It is not relevant
+• _importante_ — important
+• _diferente_ — different
+• _posible_ — possible
+• _probable_ — probable
 
-If an English word has a "G" sound \(like the letter "g" in _general_ or _original_\), it becomes an "h" sound in Spanish\. The spelling stays exactly the same, but the pronunciation changes: _general_ is pronounced "he\-ne\-RAL"\.
+• _normalmente_ — normally
+• _constantemente_ — constantly
+• _generalmente_ — generally
+• _originalmente_ — originally
 
-*Example:*
-_Generalmente es posible\._ — Generally it is possible\.
+*Remember:*
+If an English word has a soft "j" sound \(like the letter "g" in _general_ or _original_\), it becomes a rough "h" sound in Spanish\. The spelling stays exactly the same, but the pronunciation changes: _general_ is pronounced "he\-ne\-RAL"\.
 
+*Examples:*
+• _Es importante\._ — It is important\.
+• _Normalmente es posible\._ — Normally it is possible\.
+• _Es constantemente diferente\._ — It is constantly different\.
 
 Next: words ending in \-tion in English become \-ción in Spanish\.
 
-▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)
+▶️[Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

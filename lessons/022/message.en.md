@@ -1,43 +1,29 @@
-🇪🇸 *Lesson 22*
+🇪🇸 *Lesson 21 — Language Transfer*
 
-You already know one past tense pattern: *he hablado* \(I've spoken\)\. But what about "I've lost," "I've sold," "I've eaten"?
+*Main idea:*
+You can already talk about the past\! Spanish speakers use the "I have done" structure \(Present Perfect\) much more often than English speakers, often using it instead of a simple "I did"\.
 
-The good news? Same verb, *he*, same structure\. The only thing that changes is the ending of the verb itself\.
+*New constructions:*
+The helping verb _haber_ is irregular, but use the vowels *E* and *A* as your guide\. Remember it always starts with a silent *H*\. To make the past action for *\-ar* verbs, just replace *\-ar* with *\-ado*:
 
-Here's the pattern:
+• _he_ — I have
+• _hemos_ — we have
+• _ha_ — he / she / it / you \(formal\) has
+• _has_ — you have \(informal\)
 
-For *\-ar* verbs: drop the *\-r*, add *\-ado*
-hablar → hablado \(spoken\)
+• _han_ — they have
+• _hablado_ — spoken
+• _he hablado_ — I have spoken
+• _por mucho tiempo_ — for a long time \(for much time\)
 
-For *\-er* and *\-ir* verbs: drop the *\-r*, add *\-ido*
-comer → comido \(eaten\)
-vivir → vivido \(lived\)
-perder → perdido \(lost\)
-vender → vendido \(sold\)
+*Remember:*
+The word _por_ is used for periods of time\. And to make a negative sentence, the _no_ goes at the very beginning: _no lo he anticipado_ \(I have not anticipated it\)\.
 
-Look how it flows:
+*Examples:*
+• _¿Dónde lo has celebrado\?_ — Where have you celebrated it\?
+• _Lo hemos anticipado por mucho tiempo\._ — We have anticipated it for a long time\.
+• _Ha tomado el coche\._ — He / she has taken the car\.
 
-— ¿Has perdido tu teléfono?
-— Sí, *he perdido* mi teléfono\. Pero *he encontrado* un nuevo\.
-
-\(Have you lost your phone?
-Yes, I've lost my phone\. But I've found a new one\.\)
-
-Here are 8 examples:
-
-_He perdido_ — I've lost
-_He vendido_ — I've sold
-_He comido_ — I've eaten
-_He vivido_ — I've lived
-_He subido_ — I've gone up
-_He corrido_ — I've run
-_¿Has comprendido?_ — Have you understood?
-_No he recibido el mensaje_ — I haven't received the message
-
-💡 Notice: *\-ado* for \-ar verbs, *\-ido* for \-er/\-ir verbs\. Two patterns, one rule\.
-
-👉 *Say this out loud now:* "He perdido mi dinero\. ¿Has encontrado el tuyo?" \(I've lost my money\. Have you found yours?\)
-
-Next: The Greek Trick That'll Save You From Embarrassing Mistakes
+Next: You already know one past tense pattern: he hablado\. But what about "I've lost," "I've sold"\.\.\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

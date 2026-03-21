@@ -1,30 +1,26 @@
-🇪🇸 *Lesson 12: The Magic E*
+🇪🇸 *Lesson 12 — Language Transfer*
 
-Spanish has a secret: *\-er* verbs swap the A for an E\. That's it\. One tiny shift unlocks a whole new family of verbs\.
+*Main idea:*
+Verbs ending in *\-er* use the vowel *E* as their principal sound\. Also, English words ending in *\-ty* \(like diversity\) become *\-dad* in Spanish and are always feminine words\!
 
-You already know *contaminar* uses the vowel A everywhere \(*contamina*, *contaminan*\)\. Now meet *vender* — to sell\. Its magic vowel? *E*\.
+*New constructions:*
+Let's use the verb _vender_ \(to sell — think of a "vending machine"\) and the new word _nos_ \(us / to us\)\.
 
-Watch it work:
+• _vendo_ — I sell
+• _vende_ — he / she / you \(formal\) sells
+• _venden_ — they sell
+• _nos_ — us / to us
 
-— *¿Vende algo?*
-— *Sí, vende casas\.*
-— Does he sell anything?
-— Yeah, he sells houses\.
+• _la casa_ — the house
+• _las casas_ — the houses
+• _las vendo_ — I sell them \(feminine\)
+• _diversidad_ — diversity
 
-Here are 8 ways to use this pattern:
+*Remember:*
+When you use "to me/us" and "it" together, the *person always comes first*\. You do not say "they sell it to me", you literally say "to me it they sell" — _me lo venden_\.
 
-_Vendo_ — I sell
-_Vende_ — he/she/you formal sells
-_Venden_ — they/you all sell
-_Lo vende_ — he sells it
-_Las venden_ — they sell them \(fem\.\)
-_Me vende algo_ — he sells me something
-_Nos venden casas_ — they sell us houses
-_¿Por qué no lo venden?_ — Why don't they sell it?
-
-💡 Here's the trick: when you're dealing with "it" and "me" together, the *person* always goes first\. Not "they sell it to me" — just *me lo venden*\. Person first, thing second\.
-
-👉 *Say this out loud now:* "Vende casas\. No vende coches\." \(He sells houses\. He doesn't sell cars\.\)
+*Example:*
+_No nos lo venden\._ — They do not sell it to us\.
 
 Next: How to use ANY Spanish verb
 

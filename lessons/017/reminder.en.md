@@ -1,9 +1,15 @@
-🌙 *Lesson 17 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-When you say "we," the stress moves to the ending and the split disappears\. _Pienso_ splits, but _pensamos_ doesn't\.
+Today we learned that in the "we" form, the stress moves to the ending, so the vowels never split \(_pienso_ → _pensamos_\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Queremos_ — we want\.
-_Dormimos_ — we sleep\.
-_Encontramos_ — we find\.
+1️⃣ We think\.
+👉 ||Pensamos\.||
 
-Tip: when in doubt, check the "we" form\.
+2️⃣ We find it\.
+👉 ||Lo encontramos\.||
+
+3️⃣ We close\.
+👉 ||Cerramos\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

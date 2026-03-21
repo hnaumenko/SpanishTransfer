@@ -1,36 +1,29 @@
-🇪🇸 *Lesson 11*
+🇪🇸 *Lesson 11 — Language Transfer*
 
-You already know the secret pattern behind thousands of Spanish verbs\. You just need to unlock it\.
+*Main idea:*
+The biggest group of verbs in Spanish ends in *\-ar*\. To use them, we chop off the *\-ar* and add new endings\. The "a" sound is the principal vowel for this group\!
 
-Here's the deal: *every* regular verb in Spanish follows the same simple rule\. Take any verb ending in \-ar, chop off those two letters, and boom — you've got a magic stem that works everywhere\.
+*New constructions:*
+Here are the basic endings for *\-ar* verbs:
+*\-o* — I
+*\-a* — he / she / it / you \(formal\)
+*\-an* — they / you all
 
-Watch this happen with *eliminar* \(to delete\):
-— *¿Eliminas los emails viejos?*
-— *Sí, elimino todo\.*
-— Did you delete the old emails?
-— Yeah, I delete everything\.
+• _elimino_ — I delete / I eliminate
+• _elimina_ — he / she deletes
+• _dura mucho_ — it lasts a lot
+• _exagera_ — he / she exaggerates
 
-The pattern is dead simple:
-*eliminAR* → *elimin\-* \+ your ending
+• _mastico_ — I chew
+• _colaboran_ — they collaborate
+• _hablo_ — I speak
+• _hablan_ — they speak
 
-For "I": add *\-o* → *elimino*
-For "he/she/you formal": add *\-a* → *elimina*
-For "they/you guys": add *\-an* → *eliminan*
+*Remember:*
+In the present tense, the stress always falls on the *second\-to\-last* syllable: e\-li\-MI\-no, e\-xa\-GE\-ra\. If you accidentally put the stress on the very last syllable \(like elimiNÓ\), a Spanish speaker will think you are talking in the past tense\!
 
-Here are 8 verbs that follow this exact rule:
-
-_Tolero_ — I tolerate
-_Dura mucho_ — It lasts a long time
-_No exagera_ — He's not exaggerating
-_Mastico_ — I chew
-_Colaboran_ — They collaborate
-_Hablo con María_ — I speak with María
-_No invitan a Pablo_ — They don't invite Pablo
-_Eliminan todo_ — They delete everything
-
-💡 That *a* sound is your anchor\. *Habla*, *elimina*, *exagera* — you hear it? That's the \-ar verb signature\.
-
-👉 Say this out loud right now: *"Hablo español\. No exagero\."*
+*Example:*
+_No exagero, colaboran mucho\._ — I do not exaggerate, they collaborate a lot\.
 
 Next: The Magic E
 

@@ -1,9 +1,15 @@
-🌙 *Lesson 19 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-From the "we" form, you can build all other forms\. From _vamos_ → _va_, _vas_, _van_\. _Voy_ is the exception\.
+Today we learned to work backwards, breaking down _vamos_ to get _va_, _vas_, and _van_\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Vas_ — you go\.
-_Van_ — they go\.
-_Tengo que ir_ — I have to go\.
+1️⃣ I have to go tonight\.
+👉 ||Tengo que ir esta noche\.||
 
-Trick: _voy a_ means "I'm going to"\.
+2️⃣ Where are you going\?
+👉 ||¿A dónde vas\?||
+
+3️⃣ I do not eat meat\.
+👉 ||No como carne\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

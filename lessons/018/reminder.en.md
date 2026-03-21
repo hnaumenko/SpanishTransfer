@@ -1,9 +1,15 @@
-🌙 *Lesson 18 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-For "we," there are three different endings: \-ar → \-amos, \-er → \-emos, \-ir → \-imos\. This is the only place they differ\.
+Today we learned the endings for the "we" form \(*\-amos*, *\-emos*, *\-imos*\) and the soft V sound\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Vivimos_ — we live\.
-_Entendemos_ — we understand\.
-_Preferimos_ — we prefer\.
+1️⃣ We live here\.
+👉 ||Vivimos aquí\.||
 
-Note: V sounds like soft B in Spanish\.
+2️⃣ We understand\.
+👉 ||Entendemos\.||
+
+3️⃣ We always come\.
+👉 ||Siempre venimos\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

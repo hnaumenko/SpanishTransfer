@@ -1,43 +1,26 @@
-🇪🇸 *Lesson 13: How to use ANY Spanish verb*
+🇪🇸 *Lesson 13 — Language Transfer*
 
-Ever noticed how *hacer* \(to do/make\) sounds completely different from how it's spelled? That silent H is just Spanish messing with you\. But here's what matters: it's an *\-er* verb\. And once you know that? You can use it\.
+*Main idea:*
+To speak informally to "you", just add the *\-s* sound to the verb\. To talk about "them" or "you all", add an *\-n*\. But the golden rule is: always run back to the "to" form \(*\-ar* or *\-er*\) to make sure you use the correct vowel\!
 
-Here's the pattern:
+*New constructions:*
+Let's look at the verbs _hacer_ \(to do/make\), _esperar_ \(to wait/hope\), and _puedo_ \(I can\):
 
-Take *any* regular verb → chop off the ending → slap on the right sound:
+• _hace_ — he / she does
+• _haces_ — you do \(informal\)
+• _hacen_ — they do
+• _¿qué haces\?_ — what are you doing\?
 
-• *\-ar* verbs → key sound is *a*
-• *\-er* verbs → key sound is *e*
+• _puedo_ — I can
+• _puedes_ — you can \(informal\)
+• _espero_ — I wait / I hope
+• _esperan_ — they wait
 
-Then add:
-🔹 nothing for *I*
-🔹 *s* for informal *you*
-🔹 *n* for *they* or formal *you all*
+*Remember:*
+Your brain will try to trick you\. After saying _espero_, it might want to say _espere_ for "he waits"\. Stop for a split second and run back to the infinitive: _esperar_\. Since it is an *\-ar* verb, the correct form is _espera_\!
 
-Watch it in action:
-
-— *¿Qué haces?*
-— *Espero\. ¿Y tú?*
-— *No puedo hacer nada\.*
-
-\(— What are you doing?
-— I'm waiting\. You?
-— I can't do anything\.\)
-
-Here are 8 examples you'll actually use:
-
-_Haces_ — You do/make
-_Hacen_ — They do/make
-_Puedes venir_ — You can come
-_Espero_ — I wait / I hope
-_Esperan_ — They wait / They hope
-_No puedo_ — I can't
-_¿Por qué no puedes?_ — Why can't you?
-_Vendo_ — I sell
-
-💡 Don't memorize which ending goes where\. Just *use* them\. Your brain will lock in "s \= informal you" and "n \= they" through practice, not drilling\.
-
-👉 *Say this now:* ¿Qué haces? \(What are you doing?\)
+*Example:*
+_¿Qué haces\? Espero a mi amigo\._ — What are you doing\? I am waiting for my friend\.
 
 Next: I Know \(But It's Weird\)
 

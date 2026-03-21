@@ -1,50 +1,28 @@
-🇪🇸 *Lesson 17*
+🇪🇸 *Lesson 17 — Language Transfer*
 
-Ever wonder why Spanish verbs sometimes change their vowels? It's all about pressure\.
+*Main idea:*
+When you say "we", the stress moves to the ending \(*\-amos*\)\. Because the root vowel is no longer stressed, the vowel splits \(*O* → *UE*, *E* → *IE*\) simply do not happen\!
 
-You've seen how _quiero_ \(I want\) comes from _querer_, and how that *e* suddenly becomes *ie*\. Or how _puedo_ \(I can\) splits that *o* into *ue*\. Here's what's really happening: when stress falls on a vowel in the verb stem, it can split under pressure\. But here's the twist — there's one verb form where this *never* happens\.
+*New constructions:*
+The "we" form for *\-ar* verbs always ends in *\-amos*\. Compare how the vowels behave in the "I" form versus the "we" form:
 
-The "we" form saves you\.
+• _pienso_ — I think
+• _pensamos_ — we think
+• _encuentro_ — I find
+• _encontramos_ — we find
 
-When you say "we want," it's _queremos_\. Not _quieremos_\. Why? Because the stress moved\. You're saying quer\-E\-mos, so that first *e* is relaxed\. No pressure, no split\.
+• _muestro_ — I show
+• _mostramos_ — we show
+• _cierro_ — I close
+• _cerramos_ — we close
 
-Here's how it works across the board:
+*Remember:*
+If you are unsure whether a verb splits in the "we" form — just remember that it *never* does\. The stress always falls safely on the *\-amos* ending\.
 
-_encuentro_ — I find
-_encuentran_ — they find
-_encontramos_ — we find \(no split\!\)
-
-_pienso_ — I think
-_piensa_ — she thinks
-_pensamos_ — we think \(stays intact\)
-
-_cierro_ — I close
-_cierras_ — you close
-_cerramos_ — we close \(back to normal\)
-
-_muestro_ — I show
-_muestran_ — they show
-_mostramos_ — we show \(o stays put\)
-
-_duermo_ — I sleep
-_duerme_ — he sleeps
-_dormimos_ — we sleep \(no ue\)
-
-_cuelgo_ — I hang
-_cuelgan_ — they hang
-_colgamos_ — we hang \(safe again\)
-
-_pierdo_ — I lose
-_pierdes_ — you lose
-_perdemos_ — we lose \(e intact\)
-
-_quiero_ — I want
-_quiere_ — she wants
-_queremos_ — we want \(no ie\)
-
-💡 If you're unsure whether a verb splits, just go back to the infinitive\. That's your control center\.
-
-👉 *Say this now:* _Pensamos que es normal\. ¿Qué piensas tú?_ \(We think it's normal\. What do you think?\)
+*Examples:*
+• _Pensamos que es normal\._ — We think that it is normal\.
+• _No lo encontramos\._ — We do not find it\.
+• _¿A qué hora cerramos\?_ — At what time do we close\?
 
 Next: Here's the wildest thing about Spanish verbs: there's ONLY ONE place in the entire language where\.\.\.
 

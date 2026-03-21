@@ -1,10 +1,15 @@
-🌙 *Lesson 14 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Tengo que* \+ verb \= I have to\. *Voy a* \+ verb \= I'm going to\. *Puedo* \+ verb \= I can\.
+Today we learned *\-go* verbs \(tengo, salgo\) and the essential *tengo que* \(I have to\) construction\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Tengo que salir_ — I have to leave\.
-_Voy a comer_ — I'm going to eat\.
-_Puedo hacerlo_ — I can do it\.
-_Quiero saber_ — I want to know\.
+1️⃣ I know it\.
+👉 ||Lo sé\.||
 
-Four keys unlock Spanish speech\.
+2️⃣ I have to leave now\.
+👉 ||Tengo que salir ahora\.||
+
+3️⃣ I suppose that you cannot\.
+👉 ||Supongo que no puedes\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

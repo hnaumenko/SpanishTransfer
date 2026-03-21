@@ -1,10 +1,15 @@
-🌙 *Lesson 13 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Hacer* — to do/make \(exception: *hago*, not *haco*\)\. Add *\-s* for informal you, *\-n* for them\.
+Today we learned to add *\-s* for "you" and *\-n* for "they", always making sure to check the original verb's ending first\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Haces_ — you do\.
-_Hacen_ — they do\.
-_¿Qué haces\?_ — what do you do\.
-_Esperan_ — they wait\.
+1️⃣ What are you doing\?
+👉 ||¿Qué haces\?||
 
-S \= informal you\. N \= they\. Your anchor sounds\.
+2️⃣ Why can't you come\?
+👉 ||¿Por qué no puedes venir\?||
+
+3️⃣ They are not waiting for me\.
+👉 ||No me esperan\.||
+
+Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸

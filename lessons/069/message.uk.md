@@ -13,7 +13,7 @@
 \- _Quiero que esperes_ \(I want you to wait\) — Я хочу, щоб ти почекав
 \- _Quiero que esperes por él_ \(I want you to wait for him\) — Я хочу, щоб ти почекав на нього
 \- _¿Quieres que espere por ti?_ \(Do you want me to wait for you?\) — Хочеш, щоб я почекав на тебе?
-\- _Necesito que lo prepare_ \(I need you to prepare it\) — Мені потрібно, щоб ви це приготували
+\- _Necesito que lo prepares_ \(I need you to prepare it\) — Мені потрібно, щоб ти це приготував
 \- _Prefiero que se quede_ \(I prefer him to stay\) — Я віддаю перевагу, щоб він залишився
 \- _Prefiero que no se queden aquí_ \(I prefer them not to stay here\) — Я віддаю перевагу, щоб вони тут не залишалися
 \- _Prefiero que se lo des a él_ \(I prefer you to give it to him\) — Я віддаю перевагу, щоб ти віддав це йому

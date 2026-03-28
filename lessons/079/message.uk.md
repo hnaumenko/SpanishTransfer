@@ -15,7 +15,7 @@
 
 *Приклади:*
 \- _Déjeme un mensaje_ \(Leave me a message\) — Залиште мені повідомлення
-\- _Quiero que me deje un mensaje_ \(I want you to leave me a message\) — Я хочу, щоб ти залишив мені повідомлення
+\- _Quiero que me dejes un mensaje_ \(I want you to leave me a message\) — Я хочу, щоб ти залишив мені повідомлення
 \- _Cuando te deje el mensaje, llámame_ \(When he leaves you the message, call me\) — Коли він залишить тобі повідомлення, подзвони мені
 \- _Es esencial que vea mi mensaje_ \(It's essential that he sees my message\) — Важливо, щоб він побачив моє повідомлення
 \- _Ojalá deje un mensaje_ \(Hopefully she leaves a message\) — Сподіваюся, вона залишить повідомлення

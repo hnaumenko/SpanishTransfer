@@ -10,7 +10,7 @@
 Найпоширеніша помилка — загубити останнє _r_ в інфінітиві перед закінченням\. Спершу подумай все дієслово \(_preparar_\), а тоді додай закінчення: _prepararé_\.
 
 *Приклади:*
-\- _Comeré con ellos mañana_ \(I will eat with them tomorrow\) — Я поснідаю з ними завтра\.
+\- _Comeré con ellos mañana_ \(I will eat with them tomorrow\) — Я їстиму з ними завтра\.
 \- _Iremos a encontrarlos_ \(We will go to find them\) — Ми підемо, щоб знайти їх\.
 \- _Él organizará la fiesta_ \(He will organize the party\) — Він організує вечірку\.
 \- _Estaré cansado_ \(I will be tired\) — Я буду втомлений\.

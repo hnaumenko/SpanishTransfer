@@ -27,7 +27,7 @@ The mood tense comes after _que_ when you're expressing what you want to happen 
 \- _Quiero que esperes por él_ — I want you to wait for him
 \- _¿Quieres que espere?_ — Do you want me to wait?
 \- _¿Quieres que yo espere por ti?_ — Do you want me to wait for you?
-\- _Necesito que lo prepare_ — I need you to prepare it
+\- _Necesito que lo prepares_ — I need you to prepare it
 \- _Hace falta que comamos pronto_ — It is necessary that we eat soon
 \- _Prefiero que se quede_ — I prefer him to stay
 \- _Prefiero que no se queden aquí_ — I prefer them not to stay here

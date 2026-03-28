@@ -26,7 +26,7 @@
 \- _Encontramos el problema_ \(We find the problem\) — Ми знаходимо проблему
 \- _¿Qué pensamos hacer?_ \(What do we plan to do?\) — Що ми плануємо робити?
 \- _Cerramos la puerta_ \(We close the door\) — Ми закриваємо двері
-\- _Mostramos la demonstración_ \(We show the demonstration\) — Ми показуємо демонстрацію
+\- _Mostramos la demostración_ \(We show the demonstration\) — Ми показуємо демонстрацію
 
 Далі: У наступному уроці розберемо відмінність між дієсловами на _\-ar_, _\-er_ та _\-ir_ у формі "ми" — це єдине місце в усій мові, де вони відрізняються\.
 

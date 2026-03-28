@@ -21,7 +21,7 @@
 \- _Esperamos que le cuenten a María_ \(We hope that they tell Maria\) — Ми сподіваємося, що вони розкажуть Марії
 \- _Espero que vean a María_ \(I hope that they see María\) — Сподіваюся, вони побачать Марію
 \- _Espero que comprendas a David_ \(I hope you understand David\) — Сподіваюся, ти розумієш Давида
-\- _Me gusta que la profesora visite_ \(I like that the teacher visits\) — Мені подобається, що викладачка відвідує
+\- _Me gusta que la profesora visite la escuela_ \(I like that the teacher visits the school\) — Мені подобається, що викладачка відвідує школу
 \- _Me gusta que visite a la profesora_ \(I like that she visits the teacher\) — Мені подобається, що вона відвідує викладачку
 
 Далі: У наступному уроці розберемо, як іспанська використовує наказовий спосіб для команд — і чому позитивні неформальні накази мають особливий ярлик\.

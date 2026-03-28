@@ -16,7 +16,7 @@ _Cuando \+ subjunctive_ з'являється тільки для майбутн
 \- _Que termine ya_ \(Let it finish already\) — Нехай уже закінчується\.
 \- _Que se calle_ \(Let him shut up\) — Нехай він замовкне\.
 \- _Cuando comamos juntos, hablamos_ \(When we eat together, we speak\) — Коли ми їмо разом, ми розмовляємо \(взагалі\)\.
-\- _Cuando comamos juntos, hablamos_ \(When we eat together, we will speak\) — Коли ми поїмо разом, ми поговоримо \(майбутнє\)\.
+\- _Cuando comamos juntos, hablaremos_ \(When we eat together, we will speak\) — Коли ми поїмо разом, ми поговоримо \(майбутнє\)\.
 \- _La vemos cuando vamos_ \(We see her when we go\) — Ми бачимо її, коли ходимо \(взагалі\)\.
 \- _La vemos cuando vayamos_ \(We will see her when we go\) — Ми побачимо її, коли підемо \(майбутнє\)\.
 

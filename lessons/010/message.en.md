@@ -36,7 +36,7 @@ When you have a future context like _mañana_, you can just use the present tens
 \- _Como con Pablo mañana_ — I'm eating with Pablo tomorrow
 \- _Voy a comer con Pablo mañana_ — I'm going to eat with Pablo tomorrow
 \- _Organizo_ — I organize
-\- _Voy a tener\_\_lo más tarde_ — I'm going to have it later
+\- _Voy a tenerlo más tarde_ — I'm going to have it later
 \- _Vengo mañana_ — I'm coming tomorrow
 
 Next: Lesson 11 explains how verbs split into two groups for he/she/you/they forms, and why \-_ar_ verbs use the vowel _a_ throughout\.

@@ -1,9 +1,19 @@
-🌙 *Lesson 42 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Me gustaría* \= I would like \(it would please me\)\. *Podría* \= could/would\.
+Today we learned that Spanish uses *gustar* \(to be pleasing\) instead of "to like," which flips the subject and object — "I like it" becomes "it pleases me" \(*me gusta*\)\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Me gustaría comer_ — I'd like to eat\.
-_Podrías venir?_ — Could you come?
-_Nos gustaría ver_ — We'd like to see\.
+1️⃣ I would like to see you\.
+👉 ||Me gustaría verte\.||
 
-Every day conditional forms\.
+2️⃣ Could you come to my house?
+👉 ||¿Podrías venir a mi casa?||
+
+3️⃣ We would like to eat now\.
+👉 ||Nos gustaría comer ahora\.||
+
+4️⃣ Could you tell me if you want to come?
+👉 ||¿Podrías decirme si quieres venir?||
+
+5️⃣ I like them\.
+👉 ||Me gustan\.||

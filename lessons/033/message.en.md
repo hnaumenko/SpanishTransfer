@@ -1,34 +1,27 @@
-🇪🇸 *Lesson 33: When Spanish words change personality*
+🇪🇸 *Lesson 33 — Language Transfer*
 
-Ever noticed how some people are smart, while others are just\.\.\. ready? In Spanish, it's the same word: *listo*\. But which verb you use — *ser* or *estar* — completely flips the meaning\.
+*What this lesson is about:*
+Some adjectives change meaning entirely depending on whether you use _ser_ or _estar_\. It's not just about characteristics versus states — the actual meaning of the word shifts\. _Listo_ with _estar_ means "ready" \(a state you're in\), but _listo_ with _ser_ means "smart" \(a characteristic you have\)\. Similarly, _bueno_ with _ser_ means "good person" or "good at something," while with _estar_ it suggests "attractive" or "in good form\."
 
-Here's the magic:
-*Estar listo* — I'm ready \(right now, a state\)
-*Ser listo* — I'm smart \(that's who I am, a characteristic\)
+*New constructions:*
+\- _listo_ — ready \(with _estar_\); smart \(with _ser_\)
+\- _tan_ — so \(as in "so tired," "so bored"\)
+\- _bueno_ — good person / good at something \(with _ser_\); attractive / in good form \(with _estar_\)
+\- _feliz_ — happy
 
-Same adjective\. Different verb\. Different universe\.
+*Remember:*
+You don't need to memorize which adjectives work with _ser_ or _estar_ — you learn it by listening and noticing how people use them\. If you're unsure, you can always play it safe by saying something like _soy una persona feliz_ \(I am a happy person\) instead of just _soy feliz_\.
 
-Picture this:
-— *¿Estás lista?*
-— Sí, *estoy lista*\. 
-— Bueno, porque *eres muy lista*\.
-\(— Ready? — Yep, I'm ready\. — Good, because you're really smart\.\)
+*Examples:*
+\- _Estoy listo_ — I am ready
+\- _Es muy listo_ — He is very smart
+\- _Estoy tan cansado_ — I am so tired
+\- _Es tan aburrido_ — It is so boring
+\- _Son buenos_ — They are good people
+\- _Está bueno_ — He is attractive
+\- _Estoy feliz_ — I am happy
+\- _Soy feliz_ — I am a happy person
 
-Here are 8 words that pull this trick:
-
-_Estoy listo_ — I'm ready
-_Soy listo_ — I'm smart
-_Es bueno_ — He's a good person
-_Está bueno_ — He's attractive
-_Estoy feliz_ — I'm happy \(right now\)
-_Soy feliz_ — I'm a happy person
-_Estoy aburrido_ — I'm bored
-_Es aburrido_ — He's boring
-
-💡 Not sure which to use? Play it safe: say *Soy una persona feliz* instead of just *Soy feliz*\. Totally correct, zero confusion\.
-
-👉 Say this now: *Estoy tan listo* \(I'm so ready\)\. Then try: *Soy tan listo* \(I'm so smart\)\. Feel the difference?
-
-Next: Right NOW vs\. Later
+Next: Lesson 34 introduces the true present continuous in Spanish — the form you use only when you want to emphasize what you're doing right now in this moment, not for future plans like English does\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

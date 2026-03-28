@@ -1,9 +1,19 @@
-🌙 *Lesson 29 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Two "to be" verbs: _ser_ — characteristics \(who you are\), _estar_ — states \(where you are, how you feel\)\.
+Today we learned that *estar* is used for states rather than characteristics — being tired, being dead, or where you are are all states, even if they last forever\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Soy profesor_ — teacher \(trait\)\.
-_Estoy cansado_ — tired \(state\)\.
-_Está muerto_ — dead \(state\!\)\.
+1️⃣ I'm tired\.
+👉 ||Estoy cansado\.||
 
-Ask: is it a characteristic or a state\?
+2️⃣ We're always tired\.
+👉 ||Siempre estamos cansados\.||
+
+3️⃣ They're very tired \(all female\)\.
+👉 ||Están muy cansadas\.||
+
+4️⃣ You're dead \(informal\)\.
+👉 ||Estás muerto\.||
+
+5️⃣ He's always very tired\.
+👉 ||Siempre está muy cansado\.||

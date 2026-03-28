@@ -1,34 +1,32 @@
-🇪🇸 *Lesson 66: Stop saying "my" so much\!*
+🇪🇸 *Lesson 66 — Language Transfer*
 
-Here's a weird Spanish habit: they avoid possessive words way more than we do\. Instead of "my leg hurts," they literally say *"it hurts me the leg\."*
+*The core rule:*
+Spanish uses possessive words like _mi_ \(my\) and _tu_ \(your\) much less than English does\. Instead of saying "my leg hurts," you say "it hurts me the leg\." Instead of "Jose's house," you say "the house of Jose\." This approach treats possession differently — it shifts focus from ownership to relationship\.
 
-Sounds backward? Maybe\. But once you see the pattern, it unlocks how Spanish talks about body parts, people's stuff, and even headaches\.
+*New constructions:*
+\- _doler_ — to hurt
+\- _la pierna_ — the leg
+\- _Me duele la pierna_ — my leg hurts \(literally: it hurts me the leg\)
+\- _más_ — anymore \(in this context\)
+\- _el dolor_ — pain
+\- _la cabeza_ — the head
+\- _Tengo dolor de cabeza_ — I have a headache
+\- _la casa de José_ — Jose's house \(literally: the house of Jose\)
+\- _la fiesta de María_ — Maria's party
+\- _solo_ — only, just
 
-Watch this:
-— *Mi pierna duele\.*
-— Nope\. Spanish doesn't say that\.
-— *Me duele la pierna\.* — It hurts me the leg\.
+*Remember:*
+When talking about body parts or possession, Spanish avoids the possessive and uses _de_ \(of\) or an indirect object pronoun instead\.
 
-See? You drop "my" and flip it: *me duele* \(it hurts me\) \+ *la pierna* \(the leg\)\.
+*Examples:*
+\- _Me duele la pierna_ — My leg hurts
+\- _Ya no me duele la pierna_ — My leg doesn't hurt anymore
+\- _Tenía dolor de cabeza_ — I had a headache
+\- _Vamos a la casa de José_ — We are going to Jose's house
+\- _Vamos a la fiesta de María_ — We are going to Maria's party
+\- _No hablé con nadie más en la fiesta de María_ — I didn't speak with anybody else at Maria's party
+\- _Solo hablé contigo_ — I only spoke with you
 
-Same goes for possession with names\. Not "Maria's party\." Instead: *la fiesta de María* — the party *of* María\.
+Next: Lesson 67 explains Spanish accent rules — where stress naturally falls depending on how a word ends, and when written accents show you're breaking that pattern\.
 
-Here are 8 examples you'll actually use:
-
-_Me duele la pierna_ — My leg hurts
-_Ya no me duele_ — It doesn't hurt me anymore
-_Tengo dolor de cabeza_ — I have a headache
-_La casa de José_ — Jose's house
-_Vamos a la fiesta de María_ — We're going to Maria's party
-_El carro de mi hermano_ — My brother's car
-_La oficina de Ana_ — Ana's office
-_El perro de Carlos_ — Carlos's dog
-
-💡 Pro tip: When talking about body parts, always use *me duele* \(it hurts me\), never *mi* \(my\)\.
-
-👉 Say this out loud now: *"Ya no me duele la cabeza\."* \(My head doesn't hurt anymore\.\)
-
-Next lesson: how to say "I just did something" without sounding like a textbook\.
-
-
-▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

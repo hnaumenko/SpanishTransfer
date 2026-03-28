@@ -1,38 +1,29 @@
-🇪🇸 *Lesson 59: Spanish Past Tense \+ One Word That Changes Everything*
+🇪🇸 *Lesson 59 — Language Transfer*
 
-Here's the trick with Spanish past tense for *regular* verbs: just accent the ending and you're done\.
+*Key pattern:*
+Spanish uses _que_ to mean "than" in comparisons\. This is the same word that means "what" and "that"\. When comparing, you say things like _más que_ \(more than\)\. In English we often say "more than him," but Spanish is more literal: you say _más que él_ \(more than he\), because you really mean "more than he ate\."
 
-For *\-ar* verbs:
-• I → *\-é*
-• he/she/you formal → *\-ó*
+*New constructions:*
+\- _que_ — than \(in comparisons\)
+\- _nada_ — nothing
+\- _nadie_ — nobody
+\- _durar_ — to last
+\- _durante_ — during, for \(with time\)
+\- _sin_ — without
+\- _parar_ — to stop
 
-For *\-er* and *\-ir* verbs:
-• I → *\-í*
-• he/she/you formal → *\-ió*
+*Remember:*
+English has some peculiar uses of "me" and "him" that don't make logical sense\. When you say "me" in phrases like "he ate more than me," you really mean "I"\. Spanish cuts through this and uses the logical form\. Don't let English habits create negative language transfer\.
 
-*hablar* \(to speak\) → *hablé* \(I spoke\), *habló* \(he spoke\)
-*comer* \(to eat\) → *comí* \(I ate\), *comió* \(he ate\)
-*salir* \(to leave\) → *salí* \(I left\), *salió* \(she left\)
+*Examples:*
+\- _Comí más que él_ — I ate more than him
+\- _Él comió más que yo_ — He ate more than me
+\- _No vi nada_ — I didn't see anything
+\- _Nadie vio nada_ — Nobody saw anything
+\- _Duró dos minutos_ — It lasted two minutes
+\- _Comió durante media hora_ — He ate for half an hour
+\- _Habló durante media hora sin parar_ — He spoke for half an hour without stopping
 
-Now here's the word that unlocks comparisons: *que* \(than\)\.
-
-— Did you eat more than him?
-— *Comí más que él\.*
-
-📌 *Eight examples you need:*
-_Hablé más que él_ — I spoke more than him
-_Comió más que yo_ — He ate more than me
-_Vi más que ella_ — I saw more than her
-_Salí antes que tú_ — I left before you
-_Corrí más rápido que él_ — I ran faster than him
-_Bebí menos que ella_ — I drank less than her
-_Trabajé más horas que tú_ — I worked more hours than you
-_Dormí mejor que él_ — I slept better than him
-
-💡 Watch out\! English says "me" but Spanish says *yo*\. "He ate more than me" is really "He ate more than *I* ate\." Spanish is more logical here\.
-
-👉 *Say this out loud now:* "Comí más que él\."
-
-Next: Here's something wild: in Spanish, "we speak" and "we spoke" are the exact same word\.
+Next: Lesson 60 shows how the "we" form stays the same in present and past tense for most verbs — which means context becomes important\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

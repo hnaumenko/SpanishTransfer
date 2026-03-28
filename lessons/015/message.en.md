@@ -1,21 +1,27 @@
 🇪🇸 *Lesson 15 — Language Transfer*
 
-Ever notice how some Spanish words sound weirdly similar to English ones, but with a twist? *Tempo* becomes *tiempo*, *concert* becomes *concierto*\. That E splits into IE — and this exact thing happens inside Spanish verbs all the time\.
+*Key pattern:*
+When a verb has an _e_ in its root and you stress that _e_ in the present tense, it often splits into _ie_\. This happens in forms like _tengo_ \(I have\) becoming _tiene_ \(he/she/it has\), or _venir_ \(to come\) becoming _viene_ \(he/she/it comes\)\. You can see this same pattern between English and Spanish words: "tempo" becomes _tiempo_, "concert" becomes _concierto_\.
 
-Here's the pattern: when a verb has an E in its root \(*tener*, *venir*, *querer*\), and you stress that E, it splits into IE\.
-
-*tener* \(to have\) → *tengo* \(I have\), but *tienes* \(you have\), *tiene* \(he/she has\)
-*venir* \(to come\) → *vengo* \(I come\), but *vienes* \(you come\), *viene* \(he/she comes\)
-*querer* \(to want\) → *quiero* \(I want\), *quieres* \(you want\), *quiere* \(he/she wants\)
+*New constructions:*
+\- _pasar_ — to pass; also to happen
+\- _¿Qué pasa?_ — What's happening?
+\- _pensar_ — to think
+\- _entender_ — to understand
+\- _perder_ — to lose
 
 *Remember:*
-Your brain will try to trick you\. After saying _pienso_, it will intuitively want to say _piense_ for "he thinks" just to match the vowel sound\. Always run back to the "to" form\! Since it is _pensar_ \(an *\-ar* verb\), the correct form is _piensa_\.
+Always go back to the _tú_ form before deciding how to conjugate a verb\. That way you know where you are and you're not guessing\.
 
 *Examples:*
-• _¿Qué pasa\?_ — What is happening\?
-• _Pienso comer más tarde\._ — I plan on eating later\.
-• _No lo entiendo\._ — I do not understand it\.
+\- _Quiero saber qué pasa_ — I want to know what's happening
+\- _Pienso comer más tarde_ — I plan on eating later
+\- _Él piensa_ — He thinks
+\- _Entiendo_ — I understand
+\- _Pierdo_ — I lose
+\- _¿Cuándo vienes?_ — When are you coming?
+\- _Ella viene_ — She comes
 
-Next: Why Spanish Verbs "Split" \(And How to Use Them\)
+Next: Lesson 16 shows you how the letter _o_ in a verb splits into _ue_ when stressed — the same pattern you just learned, but with a different vowel\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

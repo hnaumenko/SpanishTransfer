@@ -1,33 +1,30 @@
-🇪🇸 *Lesson 34: Right NOW vs\. Later*
+🇪🇸 *Lesson 34 — Language Transfer*
 
-You've been using "hablo" to mean both "I speak" AND "I'm speaking\." But what if you want to scream "I'M SPEAKING RIGHT NOW\!"? There's a whole different form for that\.
+*The core rule:*
+English overuses the \-ing form for all kinds of situations, including future plans\. Spanish doesn't\. In Spanish, you use the simple present tense for most situations — _hablo_ means both "I speak" and "I'm speaking"\. The special \-ing structure in Spanish \(_estoy hablando_\) exists, but you only use it when you want to emphasize what you're doing right this moment, not for plans or general ongoing situations\.
 
-Here's the trick: Spanish saves the \-ing form for *this exact moment*\. Not tomorrow\. Not later\. RIGHT NOW\.
+*New constructions:*
+\- _desayunar_ — to have breakfast \(literally "to un\-fast"\)
+\- _desayuno_ — the breakfast \(noun\)
+\- _esperar_ — to wait or to hope
+\- _vender_ — to sell
+\- _estar \+ \-ando/\-iendo_ — structure for "I am doing" right now
+\- _\-ando_ — the \-ing ending for \-ar verbs \(remove \-ar, add \-ando\)
+\- _\-iendo_ — the \-ing ending for \-er/\-ir verbs \(remove \-er/\-ir, add \-iendo\)
 
-The pattern:
-**estoy \+ verb\-ando/iendo**
+*Remember:*
+Because we're using _estar_ for the "I am doing" structure, we always use it for states — what we're doing is always a temporary state\.
 
-Take any verb → chop off the ending → add *\-ando* \(for \-ar verbs\) or *\-iendo* \(for \-er/\-ir verbs\)\.
+*Examples:*
+\- _Estoy hablando_ — I'm speaking \(right now\)
+\- _Estoy esperando aquí_ — I'm waiting here
+\- _Estamos desayunando_ — We're having breakfast \(right now\)
+\- _Preparo mañana_ — I'm preparing it tomorrow
+\- _Está comiendo_ — He's eating / She's eating / You're eating \(formal\)
+\- _Lo venden mañana_ — They're selling it tomorrow
+\- _Estoy comiendo_ — I'm eating \(right now\)
+\- _Están vendiendo_ — They're selling \(right now\)
 
-Mini scene: Someone interrupts you on a call\.
-— ¿Puedo hablar?
-— *Estoy hablando\.* \(I'm speaking\. Right now\. Wait\.\)
-
-Here are 8 examples:
-
-_Estoy esperando_ — I'm waiting \(right now\)
-_Estoy comiendo_ — I'm eating
-_Estoy durmiendo_ — I'm sleeping
-_Estamos desayunando_ — We're having breakfast
-_Está vendiendo_ — He's/She's selling
-_Estoy preparando_ — I'm preparing
-_Estoy hablando_ — I'm speaking
-_Están trabajando_ — They're working
-
-💡 Don't say "Estoy comiendo mañana" \(I'm eating tomorrow\)\. That's weird\. Just say "Como mañana" \(I eat/I'm eating tomorrow\)\. Save estoy \+ \-ando/\-iendo for *right this second*\.
-
-👉 Say this out loud now: "Estoy esperando aquí\." \(I'm waiting here\.\)
-
-Next: Why "I'm leaving" is just "I leave" in Spanish
+Next: Lesson 35 explores how to use _ser_ and _estar_ with characteristics like "sincere" and "honest," and when to say "I am being" something instead of just "I am" something\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

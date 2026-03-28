@@ -1,39 +1,22 @@
-🇪🇸 *Lesson 46: The Three Spanish Pasts \(And You Already Know One\)*
+🇪🇸 *Lesson 46 — Language Transfer*
 
-English has a mess of past tenses: "I ate," "I was eating," "I used to eat," "I would eat\.\.\." Spanish? Just three clean categories\.
+*The core rule:*
+English has many past tenses, but we can divide them into three groups, and Spanish has three matching forms\. We've already learned "I have eaten"\. Now we focus on the line in the past — ongoing or repeated actions like "I was eating," "I used to eat," or "I would eat all the time\." For AR verbs, take off the R and add _aba_ to get I/he/she/it/you formal, then add S for you informal, MOS for we, or N for they/you guys\.
 
-You already learned one: _He comido_ \(I have eaten\)\. 
+*New constructions:*
+This lesson teaches the imperfect past \(line in the past\) for AR verbs\. Take off the R ending and add: _aba_ for I/he/she/it/you formal, _abas_ for you informal, _ábamos_ for we, _aban_ for they/you guys\. The accent stays on the first A throughout\.
 
-Now meet the other two: *the line* and *the dot*\.
+*Remember:*
+The line in the past covers everything ongoing or repeated — "I was doing," "I used to do," and "I would do" all use the same form in Spanish\.
 
-🟦 *The Line* \= ongoing, repeated, habitual past
-_I was eating, I used to eat, I would eat every day_
+*Examples:*
+\- _Hablaba_ — I was speaking / I used to speak
+\- _Esperabas_ — You were waiting / You used to wait
+\- _Intentaban encontrarlo_ — They were trying to find it
+\- _Intentaban encontrármelo_ — They were trying to find it for me
+\- _Esperábamos_ — We were waiting / We used to wait
+\- _Hablaban_ — They were speaking / You guys were speaking
 
-⚫️ *The Dot* \= one\-time, finished action
-_I ate\. Done\._
-
-Today: the *line* past\. It's shockingly simple\.
-
-Take any verb\. Chop off the ending\. Add *\-aba* \(for \-ar verbs\) or *\-ía* \(for \-er/\-ir verbs\)\.
-
-— *How often did you call her back then?*
-— _La llamaba todos los días\._ I used to call her every day\.
-
-*Eight examples to lock this in:*
-
-_Hablaba_ — I/he/she/you was speaking, used to speak
-_Esperábamos_ — We were waiting, used to wait
-_Intentaba_ — I/he/she was trying
-_Bailabas_ — You \(informal\) were dancing
-_Comían_ — They/you guys were eating, used to eat
-_Vivía_ — I/he/she was living, used to live
-_Trabajaba mucho_ — I/he/she used to work a lot
-_Estudiaban juntos_ — They used to study together
-
-💡 *Pro move:* "I was waiting for you" \= _Te esperaba_\. Not _esperaba por ti_\. Spanish skips the preposition\.
-
-👉 *Say this now:* Pick one verb you use daily and put it in the line past\. Out loud\.
-
-Next: When Things Do Things to Themselves
+Next: Lesson 47 introduces vocabulary for dinner and continues practicing the imperfect past, including reflexive constructions like "it was burning itself" to express passive ideas\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

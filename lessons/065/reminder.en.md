@@ -1,9 +1,20 @@
-🌙 *Lesson 65 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Más* means "more" and also "else"\. *Nada más* is nothing else\. *Nadie más* is nobody else\. Spanish loves double negatives — they're correct\.
+Today we learned how to say "else" by adding *más* after negative words, and how possessive words like *mi*, *tu*, *su*, and *nuestro* change to match the number of things possessed\.
 
-_No comí nada más_ — I didn't eat anything else\.
-_Nadie más llegó_ — Nobody else arrived\.
-_No vi nada más en tu casa_ — I didn't see anything else in your house\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Say out loud: "No encontré nada más\."
+1️⃣ I don't want anything else\.
+👉 ||No quiero nada más\.||
+
+2️⃣ We arrived at his house at the same time\.
+👉 ||Llegamos a su casa a la vez\.||
+
+3️⃣ I want to see them one more time\.
+👉 ||Quiero verlos una vez más\.||
+
+4️⃣ Nobody else came to our house\.
+👉 ||Nadie más vino a nuestra casa\.||
+
+5️⃣ I saw it with my own eyes\.
+👉 ||Lo vi con mis propios ojos\.||

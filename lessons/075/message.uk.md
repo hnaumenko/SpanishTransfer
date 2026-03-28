@@ -1,36 +1,34 @@
-🇪🇸 *Урок 75: Коли "де" стає "куди б не", а "що" перетворюється на "що б не"*
+🇪🇸 *Урок 75 — Language Transfer*
 
-Ти вже вмієш казати _donde quieres_ — "де ти хочеш"\. А тепер додамо магії: одна зміна дієслова — і ось _donde_ перетворюється на *куди б не*\.
+*Що вчимо:*
+Коли додаємо мудтенс до питальних слів \(_dónde_, _cómo_, _qué_\), вони змінюють значення: _donde_ перетворюється на "wherever", _como_ — на "however", _qué_ — на "whatever"\. Це не обов'язково, але додає відтінок невизначеності\. Наприклад, _haz lo que prefieras_ \(do what you prefer\) звучить нейтрально, а _hagas lo que prefieras_ \(do whatever you prefer\) — м'якше і відкритіше\.
 
-Формула проста:
-donde \+ *Subjuntivo* \= куди б не
-como \+ *Subjuntivo* \= як би не
-lo que \+ *Subjuntivo* \= що б не
+*Нові конструкції:*
+\- _haz_ \(do, informal command\) — неправильна форма наказу від _hacer_; не _hace_ без _s_, а окрема форма
+\- _dondequiera que_ \(wherever\) — _donde_ \+ мудтенс перетворює "where" на "wherever"
+\- _comoquiera que_ \(however\) — _como_ \+ мудтенс дає значення "however"
+\- _lo que_ \+ мудтенс \(whatever\) — конструкція для "що б не"
+\- _necesitar_ \(to need\) — necesites, necesite\.\.\. у мудтенсі
+\- _elegir_ \(to choose\) — _e_ → _i_ під наголосом: _elijo_, _eliges_
+\- _seguir_ \(to follow, to continue\) — _e_ → _i_ під наголосом: _sigo_, _sigues_
+\- _conseguir_ \(to get, to manage\) — _e_ → _i_ під наголосом
+\- _perseguir_ \(to chase\) — _e_ → _i_ під наголосом
+\- _sea_ \(be, subjunctive\) — база мудтенсу від _ser_; неправильна
+\- _así_ \(like this/that\) — "так", "таким чином"
+\- _ojalá_ \(I hope, if only\) — вираз бажання \+ мудтенс; буквально "o God it be"
 
-Уяви ситуацію:
-— Де мені це зробити?
-— *Hazlo donde quieras*\. Куди б не хотів\.
-— А як?
-— *Como te guste*\. Як тобі подобається\.
+*Запам'ятай:*
+Неправильна форма наказу _haz_ \(не _hace_\) — одне з небагатьох винятків у формулі "забери _s_ з _tú_\-форми"\.
 
-*8 прикладів з життя:*
+*Приклади:*
+\- _Hazlo_ \(Do it\) — Зроби це
+\- _Hazlo donde quieras_ \(Do it wherever you want\) — Зроби це, де хочеш
+\- _Hazlo como te guste_ \(Do it how you like\) — Зроби так, як тобі подобається
+\- _Haz lo que prefieras_ \(Do what you prefer\) — Роби, що волієш
+\- _Come lo que prefieras_ \(Eat whatever you prefer\) — Їж, що хочеш
+\- _Te sigo adondequiera que vayas_ \(I follow you wherever you go\) — Я йду за тобою, куди б ти не пішов
+\- _Prefiero que sea así_ \(I prefer it to be like this\) — Я воліла б, щоб це було так
 
-_Hazlo donde quieras_ — Зроби це, де хочеш / куди б не хотів
-_Como te guste_ — Як тобі подобається / як би не подобалось
-_Lo que prefieras_ — Що ти віддаєш перевагу / що б не віддавав перевагу
-_Come lo que prefieras_ — Їж, що віддаєш перевагу / що б не віддавав перевагу
-_Cuando necesites_ — Коли тобі потрібно / коли б не потрібно
-_Te sigo adonde vayas_ — Я йду за тобою, куди б ти не йшов
-_Lo que sea_ — Що б не було / все, що завгодно
-_Sea como sea_ — Як би не було / так чи інакше
-
-💡 Бонус: наказ від *hacer* — не *hace*, а *haz*\. Неправильний, але дуже розповсюджений\.
-
-👉 Спробуй вголос: *"Hazlo cuando quieras"* — Зроби це, коли захочеш\.
-
-У наступному уроці — ще одне дієслово, яке ламає всі правила в Subjuntivo\. Підказка: воно означає "бути"\.
-
-
-Далі: Там є\.\.\. але інакше
+Далі: У наступному уроці дізнаємось, що іспанське _hay_ \(there is/are\) не змінюється за числом, а його минула форма _había_ працює і для "був", і для "було", і для "були"\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

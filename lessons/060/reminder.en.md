@@ -1,9 +1,20 @@
-🌙 *Lesson 60 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-The "we" form is tricky: *hablamos* \= we speak AND we spoke\. Same form, two meanings\.
+Today we learned that the "we" form looks identical in present and past tense for \-ar, \-er, and \-ir verbs, so context words tell us which tense is meant\.
 
-_Hablamos ayer_ — we spoke yesterday\.
-_Hablamos mañana_ — we'll speak tomorrow\.
-_Hablamos ahora_ — we're speaking now\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Gold: throw in "ayer" \(yesterday\) or "mañana" \(tomorrow\) to make it obvious\.
+1️⃣ When we spoke, I understood everything\.
+👉 ||Cuando hablamos, comprendí todo\.||
+
+2️⃣ We waited a lot yesterday\.
+👉 ||Esperamos mucho ayer\.||
+
+3️⃣ We don't go out often\.
+👉 ||No salimos a menudo\.||
+
+4️⃣ We always get lost, but we didn't get lost yesterday\.
+👉 ||Siempre nos perdemos, pero no nos perdimos ayer\.||
+
+5️⃣ Tomorrow we will speak\.
+👉 ||Mañana hablamos\.||

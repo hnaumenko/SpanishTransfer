@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned to work backwards, breaking down _vamos_ to get _va_, _vas_, and _van_\.
+Today we learned how to work backwards from conjugated verbs to find the stem and build other forms, plus key words like "always," "tonight," and "meat\."
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ I have to go tonight\.
+1️⃣ Where are you going?
+👉 ||¿A dónde vas?||
+
+2️⃣ I have to go tonight\.
 👉 ||Tengo que ir esta noche\.||
 
-2️⃣ Where are you going\?
-👉 ||¿A dónde vas\?||
-
-3️⃣ I do not eat meat\.
+3️⃣ I don't eat meat\.
 👉 ||No como carne\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ I don't eat meat and I don't drink alcohol\.
+👉 ||No como carne y no tomo alcohol\.||
+
+5️⃣ I eat meat and I drink alcohol\.
+👉 ||Como carne y tomo alcohol\.||

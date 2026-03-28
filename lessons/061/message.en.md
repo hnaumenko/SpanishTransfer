@@ -1,29 +1,28 @@
-🇪🇸 *Lesson 61*
+🇪🇸 *Lesson 61 — Language Transfer*
 
-Spanish storytelling always has two layers: *background* and *event\.*
+*What this lesson is about:*
+This lesson brings together the two past tenses you've learned\. The line past \(_imperfect_\) describes what was happening, while the dot past \(_preterite_\) marks the moment something happened\. You'll often use them in the same sentence: "I was cooking when the phone rang\." The choice between them isn't always about a difference in time — it often comes from how you're thinking about the event in your mind\.
 
-Background \= line \(ongoing\)\. Event \= dot \(the interruption\)\.
+*New constructions:*
+\- _llamar_ — to call
+\- _sonar_ — to sound, to ring
+\- _sonó_ — it rang, it sounded \(dot past\)
+\- _parecer_ — to seem, to appear
+\- _me gustó_ — I liked it \(literally "it pleased me," dot past\)
+\- _me gustaba_ — I liked it, I was liking it \(line past\)
+\- _me parecía_ — it was seeming to me, it seemed to me \(line past\)
 
-— *Cocinaba cuando sonó el teléfono\.*
-— I was cooking when the phone rang\.
+*Remember:*
+Even when English doesn't use "was \-ing," Spanish often does\. You choose the line past when you're thinking about something ongoing, and the dot past when you're thinking about a specific moment\.
 
-*Cocinaba* is the line — the cooking was in progress\. *Sonó* is the dot — the phone rang and cut through it\.
+*Examples:*
+\- _Cocinaba cuando el teléfono sonó_ — I was cooking when the phone rang\.
+\- _Me gustó_ — I liked it\.
+\- _No me gustó_ — I didn't like it\.
+\- _Me gustaba_ — I liked it \(over time\)\.
+\- _Me parecía bien_ — It seemed good to me\.
+\- _Estudiaba cuando María llegó_ — I was studying when María arrived\.
 
-Feel the rhythm with these examples:
-
-_Cocinaba_ — I was cooking \(ongoing\)
-_Sonó el teléfono_ — the phone rang
-_Llegó María_ — María arrived
-_Me gustó_ — I liked it \(that specific moment\)
-_Me gustaba_ — I liked it \(ongoing, habitual\)
-_Parecía bien_ — it seemed fine
-_Estaba cansado_ — I was tired
-_Lo supe entonces_ — I knew it then
-
-💡 The line sets the scene\. The dot breaks it\. The difference between *gustó* and *gustaba* is the difference between a moment and a habit\.
-
-👉 Say it out loud: *"Cocinaba cuando llegó María\. Me gustó verla\."*
-
-Next: You know le  and lo \. But what happens when both show up in one sentence?
+Next: Lesson 62 explores how Spanish handles pronoun combinations like "I gave it to him" and why certain automatic changes happen when two pronouns meet\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

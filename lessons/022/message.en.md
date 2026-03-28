@@ -1,29 +1,36 @@
-🇪🇸 *Lesson 21 — Language Transfer*
+🇪🇸 *Lesson 22 — Language Transfer*
 
-*Main idea:*
-You can already talk about the past\! Spanish speakers use the "I have done" structure \(Present Perfect\) much more often than English speakers, often using it instead of a simple "I did"\.
+*The core rule:*
+When you have two verbs together and one is in the complete form \(infinitive\), the little pronouns like _lo_, _la_, _los_, _las_ can go after the complete verb or before the changed verb\. But here's something unusual: with _haber_ \(to have\), you get two changed verbs together — a rare situation in Spanish\. That means the pronoun can only go in one place: before the _haber_ form\.
 
 *New constructions:*
-The helping verb _haber_ is irregular, but use the vowels *E* and *A* as your guide\. Remember it always starts with a silent *H*\. To make the past action for *\-ar* verbs, just replace *\-ar* with *\-ado*:
-
-• _he_ — I have
-• _hemos_ — we have
-• _ha_ — he / she / it / you \(formal\) has
-• _has_ — you have \(informal\)
-
-• _han_ — they have
-• _hablado_ — spoken
-• _he hablado_ — I have spoken
-• _por mucho tiempo_ — for a long time \(for much time\)
+\- _terminar_ — to finish
+\- _he terminado_ — I have finished
+\- _hemos_ — we have
+\- _vendido_ — sold \(from _vender_\)
+\- _venido_ — come \(from _venir_\)
+\- _perdido_ — lost \(from _perder_\)
+\- _nosotros_ — we \(masculine or mixed\)
+\- _nosotras_ — we \(feminine\)
+\- _ver_ — to see
+\- _veo_ — I see
+\- _nos_ — us
+\- _ellos_ — they \(masculine or mixed\)
+\- _ellas_ — they \(feminine\)
 
 *Remember:*
-The word _por_ is used for periods of time\. And to make a negative sentence, the _no_ goes at the very beginning: _no lo he anticipado_ \(I have not anticipated it\)\.
+The _e_ in _he_ \(I have\) connects to the _e_ in _hemos_ \(we have\) — it helps you remember that both forms share the same vowel\.
 
 *Examples:*
-• _¿Dónde lo has celebrado\?_ — Where have you celebrated it\?
-• _Lo hemos anticipado por mucho tiempo\._ — We have anticipated it for a long time\.
-• _Ha tomado el coche\._ — He / she has taken the car\.
+\- _He terminado_ — I have finished
+\- _Lo he terminado_ — I have finished it
+\- _Hemos perdido_ — We have lost
+\- _Él ha perdido_ — He has lost
+\- _Ellos ven_ — They see
+\- _Ellos me ven_ — They see me
+\- _Nosotros vemos_ — We see
+\- _He vendido_ — I have sold
 
-Next: You already know one past tense pattern: he hablado\. But what about "I've lost," "I've sold"\.\.\.
+Next: The next lesson reviews all the forms of _haber_ and introduces a group of masculine nouns ending in _\-ma_ that come from Greek — a common trap for learners\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

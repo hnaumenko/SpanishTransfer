@@ -1,9 +1,19 @@
-🌙 *Lesson 66 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Drop the possessive\. Instead of "my leg," Spanish says "it hurts me the leg" — *me duele la pierna*\. Possession uses *de*: *la casa de María*\.
+Today we learned that Spanish avoids possessive words for body parts and relationships, using indirect object pronouns or "de" instead\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Me duele la pierna_ — My leg hurts\.
-_La oficina de Ana_ — Ana's office\.
-_Vamos a la fiesta de María_ — We're going to María's party\.
+1️⃣ My leg hurts\.
+👉 ||Me duele la pierna\.||
 
-Say now: "Ya no me duele\."
+2️⃣ I had a headache\.
+👉 ||Tenía dolor de cabeza\.||
+
+3️⃣ We are going to Jose's house\.
+👉 ||Vamos a la casa de José\.||
+
+4️⃣ My leg doesn't hurt anymore\.
+👉 ||Ya no me duele la pierna\.||
+
+5️⃣ I didn't speak with anybody else at Maria's party\.
+👉 ||No hablé con nadie más en la fiesta de María\.||

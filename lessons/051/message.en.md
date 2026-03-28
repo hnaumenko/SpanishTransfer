@@ -1,37 +1,28 @@
-🇪🇸 *Lesson 51*
+🇪🇸 *Lesson 51 — Language Transfer*
 
-Ever notice how "I'm there for you" sounds weird if you translate it word\-for\-word? That's because *estoy* already means you're in a state or location\. So you don't need "there" at all\.
+*Key pattern:*
+Spanish has two words for "for": _para_ and _por_\. _Por_ is more flexible and covers several situations\. Use _por_ when you mean "because of" \(_estoy aquí por ti_ — I'm here because of you\), when exchanging one thing for another \(_cambiaría esto por eso_\), and in times tables\. After prepositions like _por_ or _para_, Spanish doesn't use the \-ing form — it just uses the infinitive\. _Gracias por venir_ means "thanks for coming," not "thanks for to come\."
 
-When you use *estar* instead of *ser*, you're already talking about where something is or how it is right now\. That's why Spanish speakers just say:
+*New constructions:*
+\- _por_ — for \(in the sense of because of, exchanging, or more flexible meanings\)
+\- _cambiar_ — to change
+\- _forma_ — way, form
+\- _discutir_ — to argue \(not to discuss\)
+\- _actual_ — current \(not actual\)
+\- _llamar_ — to call
 
-— *¿Estás?* \(knocking on a door\)
-— Yeah, I'm here\!
+*Remember:*
+After prepositions in Spanish, you use the infinitive form of the verb, never the \-ing form\. English says "thanks for coming" but Spanish says _gracias por venir_ \(thanks for to come\)\.
 
-No need for "there" or "here"\. *Estar* does the work\.
+*Examples:*
+\- _Estoy por ti_ — I'm here for you
+\- _Estoy aquí por ti_ — I'm here because of you
+\- _He venido por ti_ — I have come because of you
+\- _Cambiaría esto por eso_ — I would change this one for that one
+\- _Gracias por llamar_ — Thanks for calling
+\- _Estoy cansada de trabajar_ — I'm tired of working
+\- _No creo en discutir de esta forma_ — I don't believe in arguing in this way
 
-So "I'm there for you" becomes:
-*Estoy por ti* — I'm here because of you
-
-And "I'm here for you" in the literal sense:
-*Estoy para ti* — I'm for you
-
-Wait\. *Para* AND *por* both mean "for"? Yep\. *Para* is literal \("this is for you"\)\. *Por* is flexible — it covers because of, in exchange for, and more\.
-
-Here are 8 ways *por* works:
-
-_Estoy por ti_ — I'm here because of you
-_Gracias por venir_ — Thanks for coming
-_Cambiaría esto por eso_ — I'd exchange this for that
-_Es por ti que hemos venido_ — It's because of you that we've come
-_Gracias por llamarme_ — Thanks for calling me
-_Lo hago por amor_ — I do it out of love
-_Pasé por la casa_ — I passed by the house
-_Estoy por partir_ — I'm about to leave
-
-💡 After *por*, *para*, *de*, *sin* — any preposition — you use the *\-ar/\-er/\-ir* form\. NOT \-ing\. English says "thanks for coming," Spanish says *gracias por venir*\.
-
-👉 Say this now: *Estoy cansado de esperar* \(I'm tired of waiting\)\.
-
-Next: Ever notice how Spanish speakers learning English say "I'm here for see you"? That's not bad Engl\.\.\.
+Next: Lesson 52 shows when _para_ means "in order to" and why Spanish speakers sometimes say "I am here for see you" in English\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,33 +1,30 @@
-🇪🇸 *Lesson 56: The Preposition Rule That'll Save You From Sounding Like a Tourist*
+🇪🇸 *Lesson 56 — Language Transfer*
 
-Here's something English does that Spanish *never* allows: ending sentences with prepositions\.
+*Main idea:*
+In Spanish, prepositions never come at the end of a sentence like they can in English\. You can't say "Where are you from?" — you have to say "From where are you?" The same goes for any sentence with a preposition: "the girl I work with" becomes "the girl with whom I work\." It might sound formal in English, but in Spanish it's just the standard way to speak\.
 
-In English, you say "Where are you from?" — preposition at the end\. Totally normal\.
+*New constructions:*
+\- _Estados Unidos_ — United States
+\- _unir_ — to unite
+\- _la chica_ — the girl \(informal\)
+\- _el chico_ — the guy
+\- _cual_ — which
+\- _quien_ — who
+\- _quienes_ — who \(plural\)
 
-In Spanish? That's *impossible*\. You *must* say "From where are you?" — *¿De dónde eres?*
+*Remember:*
+You can work backwards from a conjugated verb to find its infinitive\. If you see _unidos_, you know _\-ido_ was added, so you can remove it and try _\-ir_ or _\-er_ to find the infinitive _unir_\. This is a skill worth building\.
 
-Think of it this way: Spanish always puts the preposition *before* the question word or the thing it connects to\. Always\.
+*Examples:*
+\- _¿De dónde eres?_ — Where are you from?
+\- _¿A dónde vas?_ — Where are you going?
+\- _Es la chica con quien trabajaba\._ — It's the girl I was working with\.
+\- _No sé con cual quiere hacerlo\._ — I don't know which one he wants to do it with\.
+\- _¿Quién está?_ — Who is here?
+\- _¿Quiénes van?_ — Who is going? \(plural\)
+\- _No sé con quien tengo que hacerlo\._ — I don't know who I have to do it with\.
+\- _No sé por quien tengo que hacerlo\._ — I don't know who I have to do it because of\.
 
-— ¿A dónde vas?
-— Voy a Estados Unidos\.
-
-Notice: "To where are you going?" not "Where are you going to?"
-
-Here are 8 examples you'll actually use:
-
-_la chica con la que trabajo_ — the girl I work with \(literally: with whom I work\)
-_la chica con la que iba a la fiesta_ — the girl I was going to the party with
-_no sé con quién tengo que hacerlo_ — I don't know who I have to do it with
-_¿de dónde eres?_ — where are you from?
-_¿para quién es esto?_ — who is this for?
-_el restaurante en el que comimos_ — the restaurant we ate at
-_la película de la que hablamos_ — the movie we talked about
-_¿por quién lo haces?_ — who are you doing it for/because of?
-
-💡 When you catch yourself wanting to end with a preposition in Spanish, pause\. Rearrange\. Put that preposition *first*\.
-
-👉 *Say this out loud now:* ¿Con quién vas? \(Who are you going with?\)
-
-Next: The Power of LO
+Next: Lesson 57 covers one rare moment in Spanish where _\-er_ and _\-ir_ verbs split apart — and a useful shortcut for saying "the interesting thing" or "the easy thing" without using the word for "thing\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

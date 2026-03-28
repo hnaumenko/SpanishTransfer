@@ -1,39 +1,37 @@
-🇪🇸 *Lesson 69: The Mood Tense That Makes Spanish Feel Alive*
+🇪🇸 *Lesson 69 — Language Transfer*
 
-English has it too\. We just forgot about it\.
+*What this lesson is about:*
+Spanish has a mood tense, also called the subjunctive, that expresses mood rather than time\. English has traces of this too — you can say "it is important that you are here" or "it is important that you be here," and the second one feels more serious\. The construction is simple: verbs from the \-ar group use \-er/\-ir endings in the mood tense, and verbs from the \-er/\-ir group use \-ar endings\. This tense is obligatory in certain situations and optional in others, where it changes the feeling of what you say\.
 
-"It is important that you *be* here\." Not "you are"—*be*\. Feel the difference? That's a mood tense\. It makes things feel more serious, more urgent\. Spanish does this ALL the time\.
+*New constructions:*
+\- _ablo_ / _hable_ — switching from present to mood tense for "I speak"
+\- _habla_ / _hable_ — "he speaks" becomes mood tense
+\- _hablan_ / _hablen_ — "they speak" becomes mood tense
+\- _hablamos_ / _hablemos_ — "we speak" becomes mood tense
+\- _como_ / _coma_ — "I eat" becomes mood tense \(also he/she/you formal\)
+\- _comen_ / _coman_ — "they eat" becomes mood tense
+\- _quiero que\.\.\._ — "I want that\.\.\." \(requires mood tense after _que_\)
+\- _necesidad_ — necessity
+\- _necesitar_ — to need
+\- _faltar_ — to be short of, to be missing, to lack
+\- _falta_ — lack \(noun\)
+\- _hace falta_ — it is necessary \(literally "it makes lack"\)
+\- _preferir_ — to prefer
+\- _prefiero_ — I prefer
 
-*Here's the beautiful part:*
-To form it, you just **flip the endings**\.
+*Remember:*
+The mood tense comes after _que_ when you're expressing what you want to happen — you're putting your subjectivity onto the world\.
 
-AR verbs → borrow ER/IR endings
-ER/IR verbs → borrow AR endings
+*Examples:*
+\- _Quiero que esperes_ — I want you to wait
+\- _Quiero que esperes por él_ — I want you to wait for him
+\- _¿Quieres que espere?_ — Do you want me to wait?
+\- _¿Quieres que yo espere por ti?_ — Do you want me to wait for you?
+\- _Necesito que lo prepare_ — I need you to prepare it
+\- _Hace falta que comamos pronto_ — It is necessary that we eat soon
+\- _Prefiero que se quede_ — I prefer him to stay
+\- _Prefiero que no se queden aquí_ — I prefer them not to stay here
 
-*hablar* \(to speak\): él *habla* → él *hable*
-*comer* \(to eat\): yo *como* → yo *coma*
+Next: Lesson 70 shows how to use _lo_ for "what" when it's not a question, and how to avoid ambiguity when talking about the past\.
 
-You use it when you're putting your subjectivity onto the world\. "I want that you wait\." In Spanish, that "you wait" flips into the mood tense:
-
-— *Quiero que esperes\.*
-— I want you to wait\.
-
-*8 examples to lock this in:*
-
-_Quiero que hables_ — I want you to speak
-_¿Quieres que coma?_ — Do you want me to eat?
-_Es importante que escuches_ — It's important that you listen
-_Necesito que vengas_ — I need you to come
-_Espero que entiendas_ — I hope you understand
-_Prefiero que aprendas_ — I prefer that you learn
-_Dudo que trabajes_ — I doubt that you work
-_Quiero que lo esperes_ — I want you to wait for him/it
-
-💡 Every time you say "I want that\.\.\.", flip the verb that follows\.
-
-👉 Try it out loud: *Quiero que hables\.* Feel the mood shift?
-
-Next lesson: when the mood tense becomes *optional*—and how it changes everything\.
-
-
-▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

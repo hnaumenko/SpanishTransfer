@@ -1,9 +1,19 @@
-🌙 *Урок 74 — нагадування*
+🌙 *Час пrigадати іспанську\!*
 
-E перетворюється на I коли на неї падає наголос\. *Elijo* \(ель\-И\-хо\) не *elego*\. Завжди subjuntivo після *para que*\. *Para que vuelvas* — щоб ти повернувся\.
+Сьогодні ми дізналися, що після _para_ \(щоб\) завжди йде subjuntivo, а також вивчили дієслова _elegir_, _romper_ і _volver_\.
+Переклади ці фрази в голові, а потім натисни на чорний прямокутник, щоб перевірити себе:
 
-_Para que entiendas_ — щоб ти розумів\.
-_He hecho para que vuelvas_ — я це зробив, щоб ти повернувся\.
-_Para que coman_ — щоб вони їли\.
+1️⃣ Не хочу, щоб ти обирав за мене\.
+👉 ||No quiero que elijas por mí\.||
 
-Скажи: "Hazlo para que vuelvas\."
+2️⃣ Ми приготували, щоб вони поїли\.
+👉 ||Hemos cocinado para que coman\.||
+
+3️⃣ Я зробив це, щоб ти повернувся\.
+👉 ||Lo he hecho para que vuelvas\.||
+
+4️⃣ Не хочу, щоб воно зламалося\.
+👉 ||No quiero que se rompa\.||
+
+5️⃣ Ми зробили все, щоб і ти теж повернувся\.
+👉 ||Hemos hecho todo para que tú también vuelvas\.||

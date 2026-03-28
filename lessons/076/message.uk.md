@@ -1,30 +1,24 @@
-🇪🇸 *Урок 76: Там є\.\.\. але інакше*
+🇪🇸 *Урок 76 — Language Transfer*
 
-Знаєш, що в іспанській немає окремого слова для "там є"? Англійці кажуть *there is/are*, ми — "там є/є", а іспанці просто кажуть *hay*\. І це слово *ніколи не змінюється*\.
+*Головна ідея:*
+В іспанській для "there is" і "there are" використовується одне слово — _hay_, яке не змінюється за числом\. Так само його форма минулого часу _había_ означає і "there was", і "there were"\. Це дієслово походить від _haber_, і коли ми говоримо "there has to be" \(має існувати щось\), то використовуємо _tiene que haber_, а не _ser_ чи _estar_\.
 
-*Hay* — там є \(один\)
-*Hay* — там є \(багато\)
-*Había* — там було \(один\)
-*Había* — там було \(багато\)
+*Нові конструкції:*
+\- _hay_ — there is / there are; не змінюється за числом
+\- _había_ — there was / there were; також не змінюється
+\- _alguien_ — somebody, хтось
+\- _tiene que haber_ — there has to be; конструкція існування, а не буття
 
-Уяви ситуацію:
-— *¿Hay alguien aquí que hable español?*
-— *Sí, hay dos personas que hablan español\.*
+*Запам'ятай:*
+Коли в англійській ми кажемо "there were two people that spoke Spanish", в іспанській використовуємо лінію минулого \(_hablaban_\), бо йдеться про факт, що вони були носіями мови, а не про конкретний момент розмови\.
 
-Перше речення: "Хтось тут є?" — ми не знаємо, чи існує ця людина, тому *hable* \(subjuntivo\)\.
-Друге: "Є дві людини" — ми просто констатуємо факт, тому *hablan*\.
+*Приклади:*
+\- _Hay alguien aquí que quiere hablar con usted_ \(There is somebody here that wants to speak with you\) — Тут є хтось, хто хоче з вами поговорити\.
+\- _¿Hay alguien aquí que hable español?_ \(Is there somebody here that speaks Spanish?\) — Тут є хтось, хто говорить іспанською?
+\- _Hay dos personas que hablan español_ \(There are two people that speak Spanish\) — Є дві особи, які говорять іспанською\.
+\- _Había dos personas aquí que hablaban español_ \(There were two people here that spoke Spanish\) — Тут було дві особи, які говорили іспанською\.
+\- _Tiene que haber algo que puedas hacer_ \(There has to be something that you can do\) — Має бути щось, що ти можеш зробити\.
 
-*Hay* — там є
-*Hay alguien* — там є хтось
-*Hay algo* — там є щось
-*Había dos personas* — там було дві людини
-*Tiene que haber algo* — має бути щось
-*Debe haber una solución* — має існувати рішення
-*¿Hay tiempo?* — є час?
-*No hay problema* — немає проблеми
-
-💡 Коли кажеш "має бути щось" — це *tiene que haber*, бо йдеш від *hay*, а не від *ser/estar*\.
-
-Далі: Qué — вигук і тригер для subjuntivo
+Далі: У наступному уроці розглянемо, як _qué_ використовується для вираження сильних емоцій \("як красиво\!"\) і як працює з mood tense у певних конструкціях\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

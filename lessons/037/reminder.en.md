@@ -1,9 +1,20 @@
-🌙 *Lesson 37 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Lo/la* \= direct object \(who\)\. *Le* \= indirect object \(to whom\)\.
+Today we learned that pronouns starting with L change to _le_ and _les_ when they mean "to/for someone," and when two pronouns appear together, the person always comes before the thing\.
 
-_Le doy algo_ — I give him something\.
-_Le hablo_ — I speak to him\.
-_Le cocino_ — I cook for her\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Combined: *Me lo das?* — You give it to me? \(thing \+ to whom\)\.
+1️⃣ Will they give it to me?
+👉 ||¿Me lo darán?||
+
+2️⃣ I'm cooking something for you guys\.
+👉 ||Les estoy cocinando algo\.||
+
+3️⃣ I realize\.
+👉 ||Me doy cuenta\.||
+
+4️⃣ They have spoken to her\.
+👉 ||Le han hablado\.||
+
+5️⃣ He's cooking them for us\.
+👉 ||Nos las cocina\.||

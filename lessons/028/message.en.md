@@ -1,28 +1,33 @@
-🇪🇸 *Lesson 28*
+🇪🇸 *Lesson 28 — Language Transfer*
 
-Here's something wild: Spanish slang changes like crazy from country to country, but the core language? Rock solid\. Unlike Arabic, where Moroccan and Egyptian dialects are practically different languages, all Spanish speakers understand each other perfectly\. 
+*Main idea:*
+Nouns in Spanish change their ending for gender, unlike adjectives that only change if they end in O\. A male teacher is _profesor_, but a female teacher is _profesora_\. Words ending in a consonant add ES \(not just S\) to make them plural: _profesores_ or _profesoras_\. English words ending in \-ive tend to become \-ivo in Spanish: positive becomes _positivo_, but remember it's pronounced with an S sound, not a Z\.
 
-But slang? That's where it gets fun\. Money has a dozen names: _dinero_ \(the standard\), _plata_ \(literally "silver"\), _pasta_ \(Spain's favorite\)\. And "car"? You've got _carro_, _coche_, _auto_, _máquina_—pick your country, pick your word\.
+*New constructions:*
+\- _el caro_ / _los caros_ — the car / the cars \(masculine noun\)
+\- _caro_ — expensive \(adjective\)
+\- _profesor_ / _profesora_ — male teacher / female teacher
+\- _profesores_ / _profesoras_ — teachers \(masculine/mixed or feminine plural\)
+\- _doctor_ / _doctora_ — male doctor / female doctor
+\- _muy_ — very
+\- _él_ — he
+\- _ella_ — she
+\- _ellos_ / _ellas_ — they \(masculine/mixed or feminine\)
+\- _positivo_, _atractivo_, _agresivo_, _negativo_, _intensivo_, _nativo_ — adjectives from English \-ive words
 
-Now here's the real pattern that unlocks everything:
+*Remember:*
+Nouns add ES to form the plural when they end in a consonant, not just S\. This applies to words like _profesor_ → _profesores_ and _doctor_ → _doctores_\.
 
-Words ending in *\-ive* in English become *\-ivo/\-iva* in Spanish\.
+*Examples:*
+\- _El caro es caro_ — The car is expensive
+\- _Los caros son caros_ — The cars are expensive
+\- _Es profesor_ — He is a teacher
+\- _Ella es doctora_ — She is a doctor
+\- _Ellos son profesores_ — They are teachers
+\- _Ella es muy atractiva_ — She is very attractive
+\- _Él es muy negativo_ — He is very negative
+\- _Es intensivo_ — It is intensive
 
-_Es adictivo_ — It's addictive
-_Es positivo_ — It's positive
-_Es intuitivo_ — It's intuitive
-_Es atractivo_ — It's attractive
-_Es creativo_ — It's creative
-_Es agresivo_ — It's aggressive
-_Es negativo_ — It's negative
-_Es intensivo_ — It's intensive
-
-💡 Watch out\: English speakers want to say "posi*tive*" with a Z sound\. In Spanish, it's always an S: posi*tivo*\.
-
-Also: those random double letters in English \(aggressive, addictive\)? They disappear in Spanish\. Single letters only—except for RR and ÑÑ\.
-
-👉 *Say this out loud right now:* "Ella es muy creativa, pero él es muy negativo\."
-
-Next: The Two "To Be" Verbs — Why Spanish Makes You Think Differently
+Next: Lesson 29 introduces the second verb for "to be" in Spanish — _estar_ — which forces you to distinguish between states and characteristics, not temporary versus permanent\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

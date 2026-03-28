@@ -1,30 +1,30 @@
-🇪🇸 *Lesson 77*
+🇪🇸 *Lesson 77 — Language Transfer*
 
-You know *que* as "that\." But there are two distinct words: *¡qué\!* \(with accent\) is an exclamation, and *que* \(no accent\) is the trigger for the subjunctive after value judgments\.
+*What this lesson is about:*
+In Spanish, _qué_ doesn't just mean "what" — it also works like "how" to express strong emotion or emphasis\. You can say _¡Qué bueno\!_ \(how good\!\) or _¡Qué increíble\!_ \(how incredible\!\)\. This is how Spanish turns up the volume on reactions\. There's also a different use of _que_ in sentences like "it's okay that you ask" — here it connects clauses in a way that often triggers the subjunctive mood\.
 
-*¡Qué bonito\!* — How beautiful\! No verb needed — just the exclamation\.
+*New constructions:*
+\- _¡Qué\.\.\.\!_ — how\.\.\.\! \(expressing emphasis or emotion\)
+\- _¡Qué bueno\!_ — how good\!
+\- _¡Qué increíble\!_ — how incredible\!
+\- _¡Qué bonito\!_ — how beautiful\!
+\- _preguntar_ — to ask
+\- _responder_ — to reply
+\- _pregunte_ — ask \(subjunctive form\)
+\- _responda_ — reply \(subjunctive form\)
 
-Now with a judgment and the subjunctive:
-— *No es necesario que respondas\.*
-— It's not necessary for you to reply\.
-— *Es terrible que venga\.*
-— It's terrible that he's coming\.
+*Remember:*
+When _que_ introduces a clause after expressions like "it's okay that" or "it's not necessary that," the verb that follows goes into the subjunctive mood\.
 
-*Preguntar* — to ask\. *Responder* — to reply\. Both wrap neatly into *que* constructions\.
+*Examples:*
+\- _¡Qué bueno\!_ — How good\!
+\- _¡Qué increíble\!_ — How incredible\!
+\- _¡Qué bonito\!_ — How beautiful\!
+\- _Es increíble que venga aquí_ — It's incredible that he should come here
+\- _Está bien que pregunte_ — It's okay that you ask
+\- _No es necesario que responda_ — It's not necessary that I reply
+\- _Es posible que pregunte pronto_ — It's possible that he'll ask soon
 
-_¡Qué bonito\!_ — How beautiful\!
-_¡Qué bueno\!_ — How great\!
-_¡Qué increíble\!_ — How incredible\!
-_Es terrible que venga_ — it's terrible that he's coming
-_Es bueno que estés_ — it's good that you're here
-_No es necesario que respondas_ — you don't have to reply
-_Es importante que preguntes_ — it's important that you ask
-_¡Qué bueno que estés aquí\!_ — how great that you're here\!
-
-💡 *¡Qué \+ adjective\!* \= exclamation \(no verb\)\. *Es \[value\] que* \+ verb \= subjunctive required\. Any value judgment triggers it\.
-
-👉 Say it out loud: *"¡Qué increíble que estés aquí\!"*
-
-Next: The Secret Patterns Hidden After Common Verbs
+Next: Lesson 78 explores how Spanish uses the infinitive versus the \-ing form after verbs like "continue," "start," and "finish" — and why the choice changes the meaning\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,27 +1,30 @@
 🇪🇸 *Lesson 13 — Language Transfer*
 
-*Main idea:*
-To speak informally to "you", just add the *\-s* sound to the verb\. To talk about "them" or "you all", add an *\-n*\. But the golden rule is: always run back to the "to" form \(*\-ar* or *\-er*\) to make sure you use the correct vowel\!
+*What this lesson is about:*
+The verb _hacer_ \(to do or to make\) is an AR verb, which means it follows the pattern you already know\. For all AR verbs, you take off the \-ar ending and add \-o for I, \-a for he/she/you formal, \-an for they/you plural, and \-as for you informal\. The pattern is simple: the core sound is A, and you add S for informal you or N for they/you plural — exactly like the E sound works for ER verbs\.
 
 *New constructions:*
-Let's look at the verbs _hacer_ \(to do/make\), _esperar_ \(to wait/hope\), and _puedo_ \(I can\):
-
-• _hace_ — he / she does
-• _haces_ — you do \(informal\)
-• _hacen_ — they do
-• _¿qué haces\?_ — what are you doing\?
-
-• _puedo_ — I can
-• _puedes_ — you can \(informal\)
-• _espero_ — I wait / I hope
-• _esperan_ — they wait
+\- _hacer_ — to do or to make
+\- _¿Qué?_ — what
+\- _puedo_ — I can, I am able
+\- _puede_ — he/she/it can, you \(formal\) can
+\- _puedes_ — you \(informal\) can
+\- _esperar_ — to wait or to hope
+\- _vocabulario_ — vocabulary \(from _boca_, mouth\)
 
 *Remember:*
-Your brain will try to trick you\. After saying _espero_, it might want to say _espere_ for "he waits"\. Stop for a split second and run back to the infinitive: _esperar_\. Since it is an *\-ar* verb, the correct form is _espera_\!
+The S for informal you and N for they/you plural are associations you'll see all throughout Spanish verb structure\. You're not memorizing them — you're internalizing them by using them in different contexts\.
 
-*Example:*
-_¿Qué haces\? Espero a mi amigo\._ — What are you doing\? I am waiting for my friend\.
+*Examples:*
+\- _Hace_ — He/she is doing it, you \(formal\) are doing it
+\- _Lo hacen_ — They're doing it
+\- _Lo haces_ — You're doing it \(informal\)
+\- _¿Qué haces?_ — What are you doing?
+\- _¿Puedes venir?_ — Can you come?
+\- _¿Por qué no puedes venir?_ — Why can't you come?
+\- _Quiero saber por qué no puedes venir_ — I want to know why you can't come
+\- _Esperan_ — They wait/are waiting
 
-Next: I Know \(But It's Weird\)
+Next: Lesson 14 introduces the irregular verb _saber_ \(to know\) and shows you how most of its forms are actually regular — plus you'll learn the words for he and she\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,36 +1,27 @@
-🇪🇸 *Урок 70: Слово, яке змінює все*
+🇪🇸 *Урок 70 — Language Transfer*
 
-Ти вже знаєш іспанське *qué* — "що?" у питаннях\. Але коли "що" *не питання*, все змінюється\.
+*Ключовий принцип:*
+Коли "what" не є питанням, а з'єднує дві частини речення \(як у фразі "I saw what you did"\), іспанською це буде _lo que_\. Наприклад: "I cooked what they're eating" перекладається як _cociné lo que están comiendo_\. Це той самий _lo que_, що ми вже знаємо, але тут він працює як сполучник, а не питальне слово\.
 
-Подивись:
-— *¿Qué haces?* — Що ти робиш? \(питання\)
-— *Vi lo que haces\.* — Я бачив, що ти робиш\. \(не питання\)
+*Нові конструкції:*
+\- _necesidad_ \(necessity\) — необхідність; слова на \-ity стають словами на \-idad в іспанській
+\- _necesitar_ \(to need\) — потребувати; після нього використовується subjuntivo
+\- _faltar_ \(to lack, to be missing\) — бракувати, не вистачати
+\- _falta_ \(lack, absence\) — брак, відсутність; часто у виразах _falta de respeto_ \(брак поваги\)
+\- _hace falta_ \(it's necessary\) — треба, необхідно; буквально "робить брак", після цього виразу йде subjuntivo
+\- _preferir_ \(to prefer\) — віддавати перевагу; після нього також subjuntivo
 
-У другому реченні "що" \= *lo que*\. Не *qué*, а *lo que*\.
+*Запам'ятай:*
+Subjuntivo з'являється не лише після певних слів, а там, де ти накладаєш свою суб'єктивність на світ — виражаєш бажання, потребу, перевагу\. Коли відчуваєш цю інтонацію впливу чи оцінки, шукай subjuntivo\.
 
-Ще приклад:
-— *No quiero que hables de lo que hablamos\.*
-— Не хочу, щоб ти говорив про те, що ми обговорювали\.
+*Приклади:*
+\- _No quiero que hables de lo que hablamos_ \(I don't want you to speak about what we spoke about\) — Не хочу, щоб ти говорив про те, про що ми говорили
+\- _Necesito que lo prepares_ \(I need you to prepare it\) — Мені потрібно, щоб ти це приготував
+\- _Hace falta que comamos pronto_ \(It's necessary that we eat soon\) — Треба, щоб ми скоро поїли
+\- _Prefiero que él se quede_ \(I prefer him to stay\) — Я вважаю за краще, щоб він залишився
+\- _Prefiero que no se queden aquí_ \(I prefer them not to stay here\) — Краще, щоб вони тут не залишалися
+\- _Prefiero que se lo des a él_ \(I prefer you to give it to him\) — Я б вважав за краще, щоб ти віддав це йому
 
-Бачиш? *Lo que* \= "те, що" / "що" \(коли не питання\)\.
+Далі: У наступному уроці розглянемо дієслово _contar_ \(рахувати, розповідати\) та особливу роль прийменника _a_, коли дія спрямована на конкретну людину\.
 
-*Всі приклади:*
-
-_Lo que haces_ — те, що ти робиш
-_Lo que cociné_ — те, що я приготував
-_Lo que comieron_ — те, що вони з'їли
-_Lo que necesitas_ — те, що тобі потрібно
-_Lo que dijiste_ — те, що ти сказав
-_Lo que vimos_ — те, що ми бачили
-_Lo que falta_ — те, чого бракує
-_Lo que prefiero_ — те, що я вважаю за краще
-
-💡 *Falta* \(бракувати\) теж працює з нашим настроєм:
-_Hace falta que comamos pronto_ — Треба, щоб ми поїли незабаром
-
-👉 Спробуй вголос: "Я бачив те, що ти приготував"\. Скажи це зараз\.
-
-У наступному уроці — ще один дієслово, яке змушує все після нього працювати інакше\. І ти вже користуєшся ним щодня\.
-
-
-▶️ [Наступний урок](https://t\.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

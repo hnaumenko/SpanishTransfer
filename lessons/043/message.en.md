@@ -1,29 +1,27 @@
-🇪🇸 *Lesson 43*
+🇪🇸 *Lesson 43 — Language Transfer*
 
-You already know the conditional: *hablaría* — "I would speak\." Now go one level deeper: *habría hablado* — "I would have spoken\."
+*Key pattern:*
+Spanish builds "would have" constructions using _habría_ \(or _habrían_, _habríamos_, etc\.\) plus the past participle of the verb\. The structure mirrors English exactly: "would have" \+ past participle\. The key is to stop translating words like "gone" or "eaten" and instead think of the form that comes after _haber_ — the _\-ado_ or _\-ido_ ending\.
 
-Formula: *habría* \+ past participle \(\-ado / \-ido\)\.
+*New constructions:*
+\- _habría_ — I/he/she/it would have
+\- _habrían_ — they would have
+\- _habría ido_ — I/he/she would have gone
+\- _habrían venido_ — they would have come
+\- _nos habría gustado_ — we would have liked them \(literally: would have pleased us\)
+\- _debería_ — I/he/she should \(from _deber_, formed with conditional like "would"\)
 
-— *¿Por qué no llamaste?*
-— *Habría llamado, pero no tenía tiempo\.*
-— Why didn't you call?
-— I would have called, but I didn't have time\.
+*Remember:*
+Don't search for English translations like "gone," "eaten," or "walked"\. Instead, find the version of the verb that comes after _haber_ — the _\-ado_ or _\-ido_ form\. This keeps you from getting lost in how different English past participles look\.
 
-*Habría* is the conditional of *haber* — the same engine you use for the future tense, now powering "would have\."
+*Examples:*
+\- _Habría ido_ — I would have gone
+\- _Habrían venido_ — They would have come
+\- _Nos habría gustado_ — We would have liked it
+\- _Me habría gustado ir_ — I would have liked to go
+\- _Habríamos comido_ — We would have eaten
+\- _Debería hacerlo_ — I should do it
 
-_Habría ido_ — I would have gone
-_Habría comido_ — I would have eaten
-_Habría venido_ — I would have come
-_Habría hablado_ — I would have spoken
-_Habría podido_ — I would have been able to
-_Habrían venido_ — they would have come
-_Habría gustado_ — it would have pleased \(I would have liked it\)
-_Habría dicho_ — I would have said
-
-💡 Participles: *\-ar* → *\-ado* \(hablado\), *\-er/\-ir* → *\-ido* \(comido, ido\)\. Irregular ones to learn: *dicho, hecho, visto, vuelto*\.
-
-👉 Say this: *"Habría ido, pero no tenía dinero\."* \(I would have gone, but I didn't have money\.\)
-
-Next: When Spanish breaks its own rules
+Next: Lesson 44 explores masculine words ending in _\-a_, like _el problema_ and _el planeta_, and how exceptions to gender patterns trace back to Greek origins\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,9 +1,20 @@
-🌙 *Lesson 68 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Three forms\: *este/esta* \(this\), *ese/esa* \(that\), *esto/eso* \(this/that with no gender\)\. Use *esto* for abstract situations and ideas\.
+Today we learned how to use "this" and "that" in Spanish — matching gender when pointing at nouns \(este hombre, esa noche\), but using neutral forms \(esto, eso\) when speaking generally\.
 
-_Este hombre_ — this man\.
-_Esa noche_ — that night\.
-_Nada me gustó más que eso_ — Nothing pleased me more than that\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Say now: "I don't believe this\."
+1️⃣ I don't believe this\.
+👉 ||No creo esto\.||
+
+2️⃣ Those men\.
+👉 ||Esos hombres\.||
+
+3️⃣ I was so tired\.
+👉 ||Estaba tan cansada\.||
+
+4️⃣ I don't know how many times I visited him\.
+👉 ||No sé cuántas veces lo visité\.||
+
+5️⃣ Nothing pleased me more than that\.
+👉 ||Nada me gustó más que eso\.||

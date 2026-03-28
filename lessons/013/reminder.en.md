@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned to add *\-s* for "you" and *\-n* for "they", always making sure to check the original verb's ending first\.
+Today we learned how the verb *hacer* \(to do/make\) follows the AR verb pattern, and we practiced using *poder* \(can\) with different subjects\.
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ What are you doing\?
-👉 ||¿Qué haces\?||
+1️⃣ What are you doing?
+👉 ||¿Qué haces?||
 
-2️⃣ Why can't you come\?
-👉 ||¿Por qué no puedes venir\?||
+2️⃣ They're doing it\.
+👉 ||Lo hacen\.||
 
-3️⃣ They are not waiting for me\.
-👉 ||No me esperan\.||
+3️⃣ Can you come?
+👉 ||¿Puedes venir?||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ I want to know why you can't come\.
+👉 ||Quiero saber por qué no puedes venir\.||
+
+5️⃣ They are waiting\.
+👉 ||Esperan\.||

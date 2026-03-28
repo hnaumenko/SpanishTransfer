@@ -1,29 +1,26 @@
-🇪🇸 *Урок 43: Як сказати "я б зробив" — і про минуле*
+🇪�🇸 *Урок 43 — Language Transfer*
 
-Ти вже знаєш умовний спосіб: *hablaría* — "я б говорив"\. Тепер іди на крок глибше: *habría hablado* — "я б уже поговорив"\.
+*Що вчимо:*
+Сьогодні будуємо складніші конструкції з _habría_ \("would have"\)\. Якщо _habría_ \+ дієслово — це "умовне минуле", то структура виглядає так: _habría_ \+ закінчення \-_ado_ або \-_ido_\. Не шукай переклад слів типу "gone" чи "eaten" — шукай форму після "have"\. В англійській ця форма змінюється \(_gone_, _eaten_, _walked_\), а в іспанській завжди одна логіка: \-_ado_ для дієслів на \-_ar_, \-_ido_ для дієслів на \-_er_/\-_ir_\.
 
-Формула: *habría* \+ дієприкметник \(\-ado / \-ido\)\.
+*Нові конструкції:*
+\- _habría ido_ \(would have gone\) — "would have" \+ дієслово руху; _ido_ — це форма після _haber_ від _ir_
+\- _habrían venido_ \(they would have come\) — множина; _venido_ від _venir_
+\- _me habría gustado_ \(it would have pleased me / I would have liked\) — дослівно "сподобалося б мені"
+\- _nos habrían gustado_ \(we would have liked them\) — дослівно "сподобалися б нам"
+\- _deber_ у умовній формі \(should\) — "повинен був би"; _debería_ \= I should, _deberían_ \= they should
 
-— *¿Por qué no llamaste?*
-— *Habría llamado, pero no tenía tiempo\.*
-— Чому не подзвонив?
-— Подзвонив би, але не було часу\.
+*Запам'ятай:*
+Не намагайся перекласти "gone" чи "walked" — знайди форму дієслова, яка йде після _haber_\. В англійській вона різна, в іспанській — завжди \-_ado_ або \-_ido_\.
 
-*Habría* — це умовний спосіб від *haber*\. Ти вже знаєш *haber* як двигун майбутнього часу\. Тепер він відкриває "я б зробив"\.
+*Приклади:*
+\- _Habría ido\._ \(I would have gone\.\) — Я б пішов\.
+\- _Habrían venido\._ \(They would have come\.\) — Вони б прийшли\.
+\- _Me habría gustado\._ \(It would have pleased me\.\) — Мені б сподобалось\.
+\- _Nos habrían gustado\._ \(They would have pleased us\.\) — Нам би сподобались\.
+\- _Debería hablar\._ \(I should speak\.\) — Мені слід говорити\.
+\- _Me lo darían\._ \(They would give it to me\.\) — Вони б мені це дали\.
 
-_Habría ido_ — я б пішов
-_Habría comido_ — я б з'їв
-_Habría venido_ — я б прийшов
-_Habría hablado_ — я б поговорив
-_Habría podido_ — я б зміг
-_Habrían venido_ — вони б прийшли
-_Habría gustado_ — сподобалося б
-_Habría dicho_ — я б сказав
-
-💡 Запам'ятай дієприкметники: *\-ar* → *\-ado* \(hablado\), *\-er/\-ir* → *\-ido* \(comido, ido\)\. Неправильні: *dicho, hecho, visto, vuelto*\.
-
-👉 Спробуй вголос: *"Habría ido, pero no tenía dinero\."*
-
-Далі: Коли \-o — це вона, а \-a — це він
+Далі: У наступному уроці розберемо слова на \-_ma_, що прийшли з грецької та мають чоловічий рід, хоч і закінчуються на _a_, а також різницю між _este_ і _ese_\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

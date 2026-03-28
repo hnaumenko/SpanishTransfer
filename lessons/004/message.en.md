@@ -1,27 +1,27 @@
 🇪🇸 *Lesson 4 — Language Transfer*
 
 *Main idea:*
-English words ending in *\-tion* become Spanish words ending in *\-ción* \(preparation → preparación\)\. But here is the real magic: if you remove the *\-ción* and add *\-r*, you instantly get the verb\!
+Words ending in \-tion in English become \-ción in Spanish, pronounced with the stress on the final syllable\. This is one of the most useful patterns because there are hundreds of these words\. Even better: if you drop the \-ción and add \-r, you get the verb\. So _preparación_ becomes _preparar_, _confirmación_ becomes _confirmar_\. You now know around a thousand verbs\.
 
 *New constructions:*
-We take _quiero_ \(I want\) or _no quiero_ \(I do not want\) and combine it with our new verbs\. The word _me_ \(myself / me\) simply attaches to the end of the action\.
-
-• _preparar_ — to prepare
-• _confirmar_ — to confirm
-• _generar_ — to generate
-• _cancelar_ — to cancel
-
-• _explorar_ — to explore
-• _cooperar_ — to cooperate
-• _quiero_ — I want
-• _prepararme_ — to prepare myself \(to get ready\)
+\- _te quiero_ — I love you \(literally "I want you," casual, for friends or lovers\)
+\- _quiero_ — I want
+\- _no quiero_ — I don't want
+\- _me_ — me, myself
+\- _quiero prepararme_ — I want to prepare myself / I want to get ready
 
 *Remember:*
-In English, Latin words can sound quite formal or literary\. In Spanish, they do not sound formal at all — they are completely normal, everyday words\.
+Latin words sound formal in English because we also have Germanic alternatives, but in Spanish they're just normal everyday words\. _Preparar_ doesn't sound fancy — it's simply how you say "to prepare\."
 
-*Example:*
-_No quiero cancelar, quiero prepararme\._ — I do not want to cancel, I want to get ready\.
+*Examples:*
+\- _Quiero cooperar_ — I want to cooperate
+\- _Quiero cancelar_ — I want to cancel
+\- _No quiero cancelar_ — I don't want to cancel
+\- _Quiero explorar_ — I want to explore
+\- _Quiero prepararme_ — I want to get ready
+\- _Quiero confirmar_ — I want to confirm
+\- _No quiero complicar_ — I don't want to complicate
 
-Next: Single R vs double RR in Spanish pronunciation\.
+Next: The next lesson introduces the rolled R sound and explains why you shouldn't worry if you can't pronounce it yet — even some native speakers struggle with it\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,44 +1,32 @@
-🇪🇸 *Lesson 21*
+🇪🇸 *Lesson 21 — Language Transfer*
 
-You already know how to talk about the past in Spanish\. Really\.
+*What this lesson is about:*
+Spanish has three main ways to talk about the past, just like English: I ate, I was eating, and I have eaten\. The first one you'll learn is "I have eaten" — and surprisingly, it uses the present tense\. The verb _haber_ means "to have" in this sense \(not possession\), and though it's extremely irregular, there's a logical way to remember all its forms using the two vowels inside the word itself: A and E\.
 
-Most learners wait months to learn past tense\. But here's what they miss: you can use *present tense words* to unlock the past right now\. Spanish has three main past forms \(just like English: "I ate," "I was eating," "I have eaten"\)\. The easiest one? "I have eaten\." And it's used *way more* in Spanish than in English\.
+*New constructions:*
+\- _haber_ — to have \(in the sense of "I have eaten," not possession\)
+\- _he_ — I have
+\- _hemos_ — we have
+\- _ha_ — he/she/it has, you \(formal\) have
+\- _han_ — they have, you \(plural\) have
+\- _has_ — you \(informal\) have
+\- _por_ — for \(periods of time\)
+\- _tiempo_ — time
+\- _tomar_ — to take, sometimes to drink
 
-The magic verb is *haber* \(to have\)\. Super irregular, but there's a cheat code: just look at the two vowels inside — *a* and *e*\.
+*Remember:*
+To make the past form of \-ar verbs, drop the \-r and add \-ado\. This "have" past is used even more in Spanish than in English, so you can comfortably say "have you celebrated?" where English might prefer "did you celebrate?"
 
-*E* \+ *emos* → I and we
-*A* \+ additions → everyone else
+*Examples:*
+\- _He hablado_ — I have spoken
+\- _No he hablado_ — I haven't spoken
+\- _Hemos anticipado_ — We have anticipated
+\- _¿Has celebrado?_ — Have you celebrated?
+\- _¿Dónde has celebrado?_ — Where have you celebrated?
+\- _He tomado_ — I have taken
+\- _¿Ha tomado?_ — Has she taken?
+\- _Lo ha tomado_ — She has taken it
 
-• _He_ — I have
-• _Hemos_ — We have
-• _Ha_ — He/she/it has, you \(formal\) have
-• _Han_ — They have, you all have
-• _Has_ — You \(informal\) have
-
-Now add the action\. Take any \-ar verb, drop the *\-r*, add *\-ado*:
-hablar → hablado \(spoken\)
-tomar → tomado \(taken\)
-anticipar → anticipado \(anticipated\)
-
-— ¿*Has celebrado*?
-— No\. *No he celebrado*\.
-— ¿Por qué no *has celebrado*?
-
-Here are 8 examples you can use today:
-
-_He hablado_ — I have spoken
-_Hemos tomado_ — We have taken
-_¿Has celebrado?_ — Have you celebrated?
-_No he anticipado_ — I haven't anticipated
-_Ha preparado_ — He/she has prepared
-_Han terminado_ — They have finished
-_¿Dónde has comprado?_ — Where have you bought?
-_Hemos viajado_ — We have traveled
-
-💡 In Spanish, you can say "Have you eaten?" instead of "Did you eat?" almost always\. It sounds *more* natural than in English\.
-
-👉 Say this now: *He hablado mucho* \(I have spoken a lot\)\.
-
-Next: You already know one past tense pattern: he hablado \. But what about "I've lost," "I've sold," "I\.\.\.
+Next: The next lesson shows you how to form the past with \-er and \-ir verbs, which use \-ido instead of \-ado — and reveals the one moment in all of Spanish where \-er and \-ir verbs behave differently\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

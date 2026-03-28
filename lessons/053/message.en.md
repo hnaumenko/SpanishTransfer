@@ -1,29 +1,25 @@
-🇪🇸 *Lesson 53*
+🇪🇸 *Lesson 53 — Language Transfer*
 
-Spanish has two ways to talk about the past: a *dot* and a *line\.*
+*What this lesson is about:*
+Spanish uses the imperfect tense \(the ongoing line in the past\) much more freely than English does\. You can say _no podría hacerlo porque no tenía tiempo_ even though in English we might use a simple past for "didn't have\." Spanish also contrasts these two past tenses — the line and the dot — in ways that don't match English directly, so you'll often choose based on context rather than translating the English form exactly\.
 
-The *dot* is a completed action — it happened and finished\. The *line* is an ongoing state or background condition\.
+*New constructions:*
+\- _ayer_ — yesterday
+\- _necesitar_ — to need
+\- _la gente_ — the people
+\- _habría_ — there would be / I would have \(conditional form of _haber_\)
 
-"I couldn't do it because I didn't have the time" — both are lines, because they describe states, not events:
+*Remember:*
+The imperfect ending _\-ía_ for _haber_ naturally loses its "e" sound when people speak, and Spanish has formalized this: it's written _habría_, not _habería_\.
 
-— *No podía hacerlo porque no tenía tiempo\.*
-— I couldn't \(ongoing state\) because I didn't have time \(ongoing state\)\.
+*Examples:*
+\- _No podría hacerlo porque no tenía tiempo_ — I couldn't do it because I didn't have the time
+\- _No podía hacerlo ayer_ — I couldn't do it yesterday
+\- _La gente necesita comer_ — People need to eat
+\- _Habría sido diferente_ — It would have been different
+\- _No tenía dinero_ — I didn't have money
+\- _Necesitaba más tiempo_ — I needed more time
 
-Feel the difference:
-
-_No podía_ — I couldn't \(ongoing\)
-_No tenía tiempo_ — I didn't have time
-_Quería hablar_ — I wanted to speak
-_Sabía que venía_ — I knew he was coming
-_Vivía en Madrid_ — I lived in Madrid
-_Trabajaba mucho_ — I worked a lot
-_Tenía hambre_ — I was hungry
-_Era difícil_ — it was difficult
-
-💡 Feelings, states, background conditions → line \(imperfect\)\. Single completed events → dot \(preterite\)\. Don't translate — feel it\.
-
-👉 Say this out loud: *"No podía dormir porque tenía hambre\."*
-
-Next: You just unlocked hundreds of new Spanish adjectives\. And you've been using this pattern since le\.\.\.
+Next: The next lesson shows how the _\-ado_ and _\-ido_ forms that follow _haber_ can also work as adjectives — giving you hundreds of new words instantly\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

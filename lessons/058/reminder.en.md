@@ -1,12 +1,19 @@
-🌙 *Lesson 58 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Simple past for \-ar verbs: drop \-ar and add \-é \(I\) or \-ó \(he/she\)\. The accent is essential — it marks past tense\.
+Today we learned how to form the preterite tense for \-ar verbs to express completed past actions — add \-é for "I" and \-ó for "he/she/it/you formal" after dropping the \-ar\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Hablé_ — I spoke\.
-_Habló_ — he spoke\.
-_Compré_ — I bought\.
-_Compró_ — she bought\.
-_Olvidé_ — I forgot\.
-_Olvidó_ — he forgot\.
+1️⃣ I forgot\.
+👉 ||Olvidé\.||
 
-The accent matters\. Say them aloud to hear the stress difference\.
+2️⃣ She bought it for me\.
+👉 ||Lo compró para mí\.||
+
+3️⃣ I didn't send it to you yet\.
+👉 ||No te lo envié todavía\.||
+
+4️⃣ It was sent yesterday\.
+👉 ||Se envió ayer\.||
+
+5️⃣ I don't know why he didn't speak with me\.
+👉 ||No sé por qué no habló conmigo\.||

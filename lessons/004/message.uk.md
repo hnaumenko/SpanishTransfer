@@ -1,27 +1,28 @@
 🇪🇸 *Урок 4 — Language Transfer*
 
 *Головна ідея:*
-Англійські слова на *\-tion* стають іспанськими на *\-ción* \(preparation → preparación\)\. Але ось справжня магія: якщо прибрати *\-ción* і додати *\-r*, ти миттєво отримуєш дієслово\!
+Англійські слова на \-tion стають іспанськими словами на \-ción, де наголос завжди падає на останній склад\. _Preparation_ → _preparación_, _confirmation_ → _confirmación_\. Якщо прибрати закінчення \-ción і додати \-r, отримаєш дієслово: _preparación_ → _preparar_, _confirmación_ → _confirmar_\. Це правило одразу дає тобі близько тисячі дієслів\.
 
 *Нові конструкції:*
-Ми беремо _quiero_ \(я хочу\) або _no quiero_ \(я не хочу\) і додаємо наші нові дієслова\. Займенник _me_ \(себе / мене\) просто "приклеюється" в кінець\.
-
-• _preparar_  \(to prepare\)  —  готувати
-• _confirmar_  \(to confirm\)  —  підтверджувати
-• _generar_  \(to generate\)  —  генерувати
-• _cancelar_  \(to cancel\)  —  скасовувати
-
-• _explorar_  \(to explore\)  —  досліджувати
-• _cooperar_  \(to cooperate\)  —  співпрацювати
-• _quiero_  \(I want\)  —  я хочу
-• _prepararme_  \(to prepare myself\)  —  підготуватися
+\- _quiero_ \(I want\) — я хочу; базове дієслово для побудови складних речень
+\- _no quiero_ \(I don't want\) — я не хочу; _no_ завжди стоїть перед дієсловом
+\- _te quiero_ \(I want you\) — я тебе кохаю \(буквально: я хочу тебе\); неформальне, використовується з друзями та коханими
+\- слова на \-ción: _opinión, pasión, preparación, generación, confirmación, conversación, confrontación, complicación, cooperación, cancelación, exploración_
+\- дієслова на \-ar: _preparar, generar, confirmar, firmar, complicar, cooperar, cancelar, explorar_
+\- _me_ \(me / myself\) — мене / себе; використовується як прямий додаток і для зворотних дієслів
 
 *Запам'ятай:*
-В англійській мові слова латинського походження звучать дуже офіційно \(наприклад, "я хочу підготувати себе"\)\. Але в іспанській вони є частиною звичайної повсякденної розмови\. Не бійся звучати "занадто розумно"\!
+Латинські слова в іспанській не звучать формально, на відміну від англійської\. _Preparar_ — це звичайне повсякденне слово, а не урочисте\.
 
-*Приклад:*
-_No quiero cancelar, quiero prepararme\._  —  Я не хочу скасовувати, я хочу підготуватися\.
+*Приклади:*
+\- _Quiero preparar\._ \(I want to prepare\.\) — Я хочу приготувати\.
+\- _Quiero cooperar\._ \(I want to cooperate\.\) — Я хочу співпрацювати\.
+\- _Quiero cancelar\._ \(I want to cancel\.\) — Я хочу скасувати\.
+\- _No quiero cancelar\._ \(I don't want to cancel\.\) — Я не хочу скасовувати\.
+\- _Quiero explorar\._ \(I want to explore\.\) — Я хочу досліджувати\.
+\- _Quiero prepararme\._ \(I want to prepare myself\.\) — Я хочу підготуватися\.
+\- _Quiero confirmar\._ \(I want to confirm\.\) — Я хочу підтвердити\.
 
-Далі: одинарне R і подвійне RR у вимові іспанської\.
+Далі: У наступному уроці розберемо вимову подвійної _r_ в іспанській та дізнаємось, чому _experimentar_ означає одночасно «експериментувати» і «переживати»\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

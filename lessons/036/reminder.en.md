@@ -1,10 +1,20 @@
-🌙 *Lesson 36 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Future \= verb \+ *haber* sounds \(drop the H\): é, ás, á, emos, án\.
+Today we learned how to form the future tense by taking the full infinitive and adding endings that match the forms of _haber_ you already know\.
 
-_Iré_ — I will go\.
-_Comerás_ — You will eat\.
-_Prepararé_ — I will prepare\.
-_Dormirán_ — They will sleep\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Stress always on the ending — you're literally pushing it into the future\.
+1️⃣ I will stay here\.
+👉 ||Me quedaré aquí\.||
+
+2️⃣ We will find it\.
+👉 ||Lo encontraremos\.||
+
+3️⃣ Why won't you go?
+👉 ||¿Por qué no irás?||
+
+4️⃣ They will organize the party\.
+👉 ||Organizarán la fiesta\.||
+
+5️⃣ It will be interesting\.
+👉 ||Será interesante\.||

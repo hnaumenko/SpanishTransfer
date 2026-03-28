@@ -1,33 +1,30 @@
-🇪🇸 *Lesson 35: Why "I'm leaving" is just "I leave" in Spanish*
+🇪🇸 *Lesson 35 — Language Transfer*
 
-Here's something that'll mess with your head: Spanish almost never uses the "\-ing" form where English does\. 
+*Key pattern:*
+When we want to express being in a state right now — not as a characteristic — we use _estar_ plus the characteristic word itself, just like English "being\." For example, "I am being sincere" becomes _estoy siendo sincero_\. The Spanish present tense carries both meanings: "I leave" and "I'm leaving\." We resist the temptation to add an \-ing equivalent everywhere English uses it\.
 
-When you say "I'm leaving tomorrow," Spanish just says "I leave tomorrow\." When you say "I'm buying them next week," Spanish says "I buy them next week\."
+*New constructions:*
+\- _sincero/a_ — sincere
+\- _sincer_ — sincerity
+\- _honesto/a_ — honest
+\- _salir_ — to go out or to leave; irregular first person: _salgo_
+\- _pronto_ — soon
+\- _la semana que viene_ — next week \(literally "the week that comes"\)
+\- _ahora_ — now
 
-Sounds weird? It's actually simpler\.
+*Remember:*
+Spanish looks at the concept itself when choosing _ser_ or _estar_\. Sincerity is a characteristic, so we use _ser_ for "I am sincere\." But we can still say "I am being sincere" using _estar siendo_ when we mean that state right now\.
 
-The trick: Spanish uses the simple present for *almost everything* — unless you're literally doing it *right this second*\.
+*Examples:*
+\- _Soy sincero_ — I am sincere
+\- _Somos sinceros_ — We are sincere
+\- _Estoy siendo sincero_ — I'm being sincere
+\- _Estamos siendo honestos_ — We're being honest
+\- _Salgo pronto_ — I'm leaving soon
+\- _Los compro mañana_ — I'm buying them tomorrow
+\- _Los compro la semana que viene_ — I'm buying them next week
+\- _Los compro ahora_ — I'm buying them now
 
-— *¿Ya compraste el libro?* 
-— *Lo compro mañana\.* 
-— Did you buy the book? 
-— I'm buying it tomorrow\.
-
-Here are 8 examples that follow this pattern:
-
-_Salgo pronto_ — I'm leaving soon  
-_Lo compro la semana que viene_ — I'm buying it next week  
-_Salgo mañana_ — I'm leaving tomorrow  
-_Los vendo el lunes_ — I'm selling them on Monday  
-_Voy al banco después_ — I'm going to the bank later  
-_Empiezo el curso en enero_ — I'm starting the course in January  
-_Te llamo esta noche_ — I'm calling you tonight  
-_Vuelvo en una hora_ — I'm coming back in an hour
-
-💡 Only use *estoy \+ \-ando/\-iendo* when it's happening *right now*: *Estoy saliendo* \(I'm walking out the door this second\)\.
-
-👉 Say this out loud: *Salgo mañana\. Lo compro pronto\.*
-
-Next: The Future That's Been Hiding in Plain Sight
+Next: Lesson 36 introduces the future tense in Spanish, which builds directly on the forms of _haber_ you already know — with no new sounds to learn\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,29 +1,30 @@
-🇪🇸 *Урок 27: Де живуть прикметники в іспанській*
+🇪🇸 *Урок 27 — Language Transfer*
 
-Чому "велика машина" іспанською — це "машина велика"? Бо прикметники в іспанській живуть *після* іменника\. Не "rojo auto", а "auto rojo"\. Не "digital cámara", а "cámara digital"\.
+*Що вчимо:*
+В іспанській прикметники стоять *після* іменника, а не перед ним, як в українській чи англійській\. Замість "велика машина" кажемо "машина велика" — _coche grande_\. Це стандартна позиція, хоч іноді для наголосу порядок може змінюватись\. Прикметники також узгоджуються в роді й числі з іменником: якщо іменник у множині, прикметник теж стає множинним\.
 
-Уяви діалог у магазині техніки:
-— *Quiero comprar una cámara digital\.*
-— *¿Puedes ver la cámara grande?*
-— *Sí, pero prefiero la cámara roja\.*
+*Нові конструкції:*
+\- _la situación_ \(the situation\) — ситуація; жіночого роду
+\- _global_ \(global\) — глобальний; прикметник, що не змінюється за родом
+\- _digital_ \(digital\) — цифровий
+\- _la cámara_ \(the camera\) — камера; жіночого роду
+\- _el coche / el carro / el auto / la máquina_ \(the car\) — автомобіль; рід залежить від слова
+\- _grande_ \(big\) — великий
+\- _rojo_ \(red\) — червоний; _j_ вимовляється як "х"
+\- _en_ \(in\) — в, у
 
-Бачиш? Digital, grande, rojo — всі йдуть *після* cámara\.
+*Запам'ятай:*
+Коли будуєш речення, почни з дієслова — це хребет\.
 
-Ось 8 прикладів, щоб це відчути:
+*Приклади:*
+\- _La situación global_ \(The global situation\) — Глобальна ситуація
+\- _Quiero comprar una cámara digital_ \(I want to buy a digital camera\) — Я хочу купити цифрову камеру
+\- _El coche grande_ \(The big car\) — Великий автомобіль
+\- _Los coches grandes_ \(The big cars\) — Великі автомобілі
+\- _Me quedo en el coche rojo_ \(I'm staying in the red car\) — Я залишаюся в червоному автомобілі
+\- _He comprado un coche rojo_ \(I have bought a red car\) — Я купив червоний автомобіль
+\- _Me he comprado un coche rojo_ \(I have bought myself a red car\) — Я купив собі червоний автомобіль
 
-_la situación global_ — глобальна ситуація
-_una cámara digital_ — цифрова камера
-_el coche rojo_ — червона машина
-_la casa grande_ — великий будинок
-_un problema serio_ — серйозна проблема
-_la comida española_ — іспанська їжа
-_el hotel moderno_ — сучасний готель
-_una persona interesante_ — цікава людина
-
-💡 Коли множина? Прикметник теж стає множиною: _los coches rojos_, _las casas grandes_\.
-
-👉 Спробуй вголос: "Quiero comprar el coche rojo" \(Хочу купити червону машину\)\. Скажи це зараз — дай прикметнику його місце після іменника\.
-
-Далі: Як один патерн дає тобі сотні готових слів
+Далі: У наступному уроці розглянемо, як прикметники на \-ivo \(похідні від англійських на \-ive\) змінюються за родом і числом, і як рід іменника визначає форму прикметника\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

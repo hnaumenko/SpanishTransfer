@@ -1,29 +1,41 @@
-🇪🇸 *Lesson 85: The "GO" Verb Trick Nobody Tells You*
+🇪🇸 *Lesson 85 — Language Transfer*
 
-You know how some Spanish verbs add a random "g" that seems to come out of nowhere? _Tengo_, _salgo_, _pongo_\. There's actually a beautiful pattern hiding here — and it's your shortcut to giving commands like a native\.
+*What this lesson is about:*
+Go verbs — verbs where the "I" form in the present tense ends in _\-go_ — follow a special shortcut for informal positive commands\. Instead of using the mood tense like you do for formal commands, you simply drop the _\-go_ and use what's left\. So _tengo_ becomes _ten_, _salgo_ becomes _sal_, and _digo_ becomes _di_\. It's a more efficient pattern than the regular shortcut, and once you spot the _\-go_, you know exactly what to do\.
 
-Here's the magic: these "go verbs" keep that G in formal commands and when talking about the future\. But for casual commands? Just *drop the GO*\.
+*New constructions:*
+\- _salir_ — to leave, to go out
+\- _salgo_ — I leave, I go out
+\- _sal_ — leave \(informal command\)
+\- _salga_ — leave \(formal command\)
+\- _salgan_ — leave \(plural formal command\)
+\- _poner_ — to put
+\- _pongo_ — I put
+\- _pon_ — put \(informal command\)
+\- _ponga_ — put \(formal command\)
+\- _tener_ — to have
+\- _tengo_ — I have
+\- _ten_ — have \(informal command\)
+\- _tenga_ — have \(formal command\)
+\- _decir_ — to say, to tell
+\- _digo_ — I say, I tell
+\- _di_ — say, tell \(informal command\)
+\- _diga_ — say, tell \(formal command\)
+\- _dígame_ — tell me \(formal, often used when answering the phone\)
 
-Watch:
-— ¿Cuándo sales?
-— *Sal ahora\.* Leave now\. \(informal command\)
-— *Salga por aquí\.* Leave this way\. \(formal\)
+*Remember:*
+In Spain, _dígame_ is what many people say when they answer the phone formally, while _dime_ is the informal version — both literally mean "tell me" but function as "hello\."
 
-*Eight examples you'll actually use:*
+*Examples:*
+\- _Sal_ — Leave
+\- _Pon esto aquí_ — Put this here
+\- _Ten la llave_ — Have the key
+\- _Dime cuando vengas_ — Tell me when you come
+\- _Dígame cuando lo haga_ — Tell me when you do it
+\- _Sal cuando puedas_ — Leave when you can
+\- _Pon el libro aquí_ — Put the book here
+\- _Di la verdad_ — Tell the truth
 
-_Ten paciencia_ — Have patience
-_Pon la mesa_ — Set the table
-_Sal temprano_ — Leave early
-_Dime la verdad_ — Tell me the truth
-_Ven aquí_ — Come here
-_Haz tu cama_ — Make your bed
-_Ten cuidado_ — Be careful
-_Pon atención_ — Pay attention
-
-💡 Fun fact: When Spaniards answer the phone, you'll hear *"Diga"* \(formal\) or *"Dime"* \(casual\)\. Both mean "tell me" — but one drops the GO, the other keeps the G\.
-
-👉 *Try it now:* How would you say "Come when you finish" informally? \(Hint: _venir_ → _vengo_\)
-
-Next: The Go\-Verb Plot Twist
+Next: Lesson 86 shows how go verbs also behave irregularly in the future tenses — they contract in a consistent way when building "will" and "would\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

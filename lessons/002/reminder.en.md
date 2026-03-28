@@ -1,15 +1,20 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we transferred *\-al* words and practiced shifting the stress \(to the last syllable\)\.
+Today we learned that English words ending in \-al transfer directly to Spanish, but you stress the last syllable instead of the first\.
+
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ It is not fatal\.
-👉 ||No es fatal\.||
+1️⃣ It's illegal\.
+👉 ||Es ilegal\.||
 
-2️⃣ It is ideal\.
-👉 ||Es ideal\.||
+2️⃣ It's not cultural\.
+👉 ||No es cultural\.||
 
-3️⃣ It is not legal, but it is normal\.
-👉 ||No es legal, pero es normal\.||
+3️⃣ She is liberal\.
+👉 ||Es liberal\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ It's not ideal\.
+👉 ||No es ideal\.||
+
+5️⃣ That's natural\.
+👉 ||Es natural\.||

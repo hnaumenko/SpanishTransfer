@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned the rule of movement verbs: if there is motion \(_voy_, _pasar_\), we add an _a_\. If not \(_quiero_\), we don't\.
+Today we learned that verbs of movement like "voy" or "pasar" add an extra "a" before the next verb to show motion, even when talking about the future\.
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ I want to show you something\.
-👉 ||Quiero mostrarte algo\.||
+1️⃣ I'm going to continue\.
+👉 ||Voy a continuar\.||
 
-2️⃣ I am going to pass by\.
-👉 ||Voy a pasar\.||
+2️⃣ I'm trying to show something\.
+👉 ||Intento mostrar algo\.||
 
-3️⃣ I am going to pass by to show you something\.
-👉 ||Voy a pasar a mostrarte algo\.||
+3️⃣ I want to see them\.
+👉 ||Quiero verlos\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ I'm going to pass by to visit you\.
+👉 ||Voy a pasar a visitarte\.||
+
+5️⃣ I want to pass by to show you something\.
+👉 ||Quiero pasar a mostrarte algo\.||

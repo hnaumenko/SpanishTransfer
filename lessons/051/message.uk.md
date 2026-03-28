@@ -1,36 +1,28 @@
-🇪🇸 *Урок 51: Estoy por ti*
+🇪🇸 *Урок 51 — Language Transfer*
 
-Коли хтось каже "I'm there for you", іспанці просто кажуть *estoy por ti*\. Без "там"\. Бо *estar* вже несе в собі ідею місця й стану — навіщо повторюватись?
+*Що вчимо:*
+Іспанська має два слова для англійського "for" — _para_ і _por_\. _Para_ означає "для" у прямому сенсі \(щось призначене для когось\), а _por_ набагато гнучкіше: "через", "заради", "замість"\. Коли ми говоримо "дякую за те, що прийшов" \(_gracias por venir_\), ми бачимо ще одну важливу різницю: після прийменників в іспанській не вживається форма \-ing, як в англійській\. Замість неї завжди йде інфінітив\.
 
-Уяви: стукають у двері\.
-— *¿Estás?* \(Ти тут?\)
-Або в месенджері пишуть просто:
-— *¿Estás?*
-Ніхто не каже "are you there" — просто *estás*\.
+*Нові конструкції:*
+\- _por_ \(for, because of, in exchange for\) — використовується для причини \("заради тебе"\), обміну \("це на те"\) або руху через місце
+\- _estoy_ \(I am, from estar\) — "я є" для станів і місцезнаходження; _estar por ti_ \= "я тут заради тебе"
+\- _cambiar_ \(to change\) — змінювати; _cambiaría esto por eso_ \= "я б поміняв це на те"
+\- _forma_ \(way\) — спосіб; _una forma de hacerlo_ \= "спосіб це зробити"
+\- _discutir_ \(to argue\) — сперечатися, а не просто обговорювати; хибний друг англійської "discuss"
+\- _crear_ \(to create\) — створювати; форма _creo_ виглядає так само, як _creo_ від _creer_ \(вірити\)
 
-А тепер — *por* vs\. *para*\.
+*Запам'ятай:*
+Після прийменників іспанська завжди використовує інфінітив, а не \-ing форму: _gracias por venir_ \(дякую за те, що прийшов\), _cansado de trabajar_ \(втомився працювати\)\. Це одна з найчастіших помилок при перекладі з англійської\.
 
-*Por* — це "через", "за", "заради"\.
-*Para* — це "для" у прямому сенсі\.
+*Приклади:*
+\- _Estoy por ti_ \(I'm there for you\) — Я тут заради тебе
+\- _Estoy aquí por ti_ \(I am here because of you\) — Я тут через тебе
+\- _He venido por ti_ \(I have come because of you\) — Я прийшов через тебе
+\- _Cambiaría esto por eso_ \(I would change this one for that one\) — Я б поміняв це на те
+\- _Estoy cansada de trabajar_ \(I am tired of working\) — Я втомилася працювати
+\- _No creo en discutir de esta forma_ \(I don't believe in arguing in this way\) — Я не вірю в те, щоб так сперечатися
+\- _Gracias por llamar_ \(Thanks for calling\) — Дякую, що подзвонив
 
-— *He venido por ti\.* \(Я прийшов заради тебе\.\)
-— *Es por ti que estamos aquí\.* \(Це через тебе ми тут\.\)
-
-Ось 8 прикладів з *por*:
-
-_Estoy por ti_ — Я тут заради тебе
-_Gracias por venir_ — Дякую, що прийшов
-_Gracias por llamarme_ — Дякую, що подзвонив мені
-_Estoy cansada de trabajar_ — Я втомилася працювати
-_Cambiaría esto por eso_ — Я б поміняв це на те
-_No creo en discutir de esta forma_ — Не вірю в сварки в такий спосіб
-_Es una forma de hacerlo_ — Це спосіб це зробити
-_8 por 8 es 64_ — 8 на 8 дорівнює 64
-
-💡 Після *por*, *para*, *de*, *sin* — завжди інфінітив\. Не *\-ing*\! *Gracias por venir*, а не "coming"\.
-
-👉 Спробуй вголос: *Estoy aquí por ti\. Gracias por escuchar\.*
-
-Далі: Іспанці кажуть "Estoy tomando un curso" навіть коли в цю секунду не на уроці\. Чому? Бо вони бачат\.\.\.
+Далі: У наступному уроці розберемо, як _para_ вживається у значенні "щоб" або "для того, щоб", коли інфінітив виражає мету дії\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

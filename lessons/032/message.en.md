@@ -1,30 +1,33 @@
-🇪🇸 *Lesson 32*
+🇪🇸 *Lesson 32 — Language Transfer*
 
-Ever notice how English uses completely different words for "boring" and "bored"? Spanish just picks *es* or *está* and you're done\. The catch? You need to decide: is this a characteristic or a temporary state?
+*Main idea:*
+Some Spanish adjectives change meaning depending on whether you use _ser_ or _estar_\. For example, _aburrido_ with _estar_ means "bored" \(a state\), but with _ser_ it means "boring" \(a characteristic\)\. If you're unsure which verb to use with an adjective, you can always play it safe by saying "I am a \[adjective\] person" — _soy una persona \[adjective\]_ — because _persona_ always goes with _ser_\.
 
-Think about it: "He is boring" \(characteristic\) vs\. "He is bored" \(state\)\. In Spanish, the adjective stays the same — *aburrido* — but the verb changes everything:
+*New constructions:*
+\- _aburrido_ — boring \(with ser\) or bored \(with estar\)
+\- _de_ — from, of
+\- _¿de dónde eres?_ — where are you from? \(informal\)
+\- _¿de dónde es?_ — where is he/she from?
+\- _¿de dónde son?_ — where are they from?
+\- _libre_ — free
+\- _persona_ — person \(always feminine\)
+\- _casado/a_ — married
+\- _ocupado/a_ — busy, occupied
+\- _preocupado/a_ — worried, preoccupied
 
-— *¿Cómo está tu hermano?*
-— *Está aburrido\.* \(He's bored — right now, a state\)
+*Remember:*
+When you want to express a characteristic but aren't sure if an adjective works flexibly with both verbs, using _soy una persona \[adjective\]_ keeps you grammatically safe — _persona_ always pairs with _ser_\.
 
-But if your friend asks about that guy from the party:
-— *Es aburrido\.* \(He's boring — that's just who he is\)
+*Examples:*
+\- _Está aburrido_ — He is bored
+\- _Es aburrida_ — She is boring
+\- _Estoy libre_ — I am free \(as in available\)
+\- _Soy una persona libre_ — I am a free person
+\- _Estoy ocupada_ — I am busy
+\- _Somos personas ocupadas_ — We are busy people
+\- _Está preocupado_ — He is worried
+\- _Es una persona preocupada_ — He is a worried person
 
-Here are 8 examples that show this pattern in action:
-
-_Está aburrido_ — He's bored
-_Es aburrido_ — He's boring
-_Estoy libre_ — I'm free \(available now\)
-_Soy una persona libre_ — I'm a free person \(by nature\)
-_Está ocupado_ — He's busy \(right now\)
-_Es una persona ocupada_ — He's a busy person \(always\)
-_Estoy preocupado_ — I'm worried \(today\)
-_Es una persona preocupada_ — He's a worried person \(characteristic\)
-
-💡 Not sure if it's *es* or *está*? Use the safety net: *Soy una persona ocupada* \(I'm a busy person\)\. Now you're definitely talking about a characteristic, and you're safe\.
-
-👉 Say this out loud right now: *"Estoy ocupado, pero no soy una persona aburrida\."*
-
-Next: When Spanish words change personality
+Next: Lesson 33 explores _listo_, an adjective that means "ready" with _estar_ but "smart" with _ser_ — and how this distinction opens up more expressive possibilities\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

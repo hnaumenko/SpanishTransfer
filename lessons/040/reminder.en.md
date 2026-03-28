@@ -1,9 +1,19 @@
-🌙 *Lesson 40 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Prepositions change everything\. *Me enamoro de ti* — I fall in love *of* you, not *with*\.
+Today we learned that prepositions often differ between English and Spanish, like "fall in love *with*" becoming "fall in love *of*," or "dream *about*" becoming "dream *with*"\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Pienso en ti_ — I think *in* you\.
-_Sueño contigo_ — I dream *with* you\.
-_Depende de ella_ — It depends *of* her\.
+1️⃣ I fall in love with you\.
+👉 ||Me enamoro de ti\.||
 
-*Conmigo* and *contigo* are merged words\.
+2️⃣ I dream about you\.
+👉 ||Sueño contigo\.||
+
+3️⃣ Do you want to come with me?
+👉 ||¿Quieres venir conmigo?||
+
+4️⃣ It depends on if she wants to go\.
+👉 ||Depende de si ella quiere ir\.||
+
+5️⃣ We think about her\.
+👉 ||Pensamos en ella\.||

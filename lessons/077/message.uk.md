@@ -1,30 +1,26 @@
-🇪🇸 *Урок 77: Qué — вигук і тригер для subjuntivo*
+🇪🇸 *Урок 77 — Language Transfer*
 
-Ти вже знаєш *que* як "що"\. Але є два різні слова: *¡qué\!* \(з наголосом\) — вигук, і *que* \(без наголосу\) — тригер для subjuntivo після оцінки\.
+*Про що цей урок:*
+Коли ти хочеш посилити емоцію чи подив, іспанці використовують _qué_ перед прикметником\. Це як англійське "how" у значенні "який же\!", "так сильно\!"\. Але _que_ має й інше значення — як англійське "that" у реченнях на кшталт "okay that you ask"\. Це _que_ вводить підрядні речення та часто працює з subjunctive\.
 
-*¡Qué bonito\!* — Як гарно\! Ніякого дієслова — просто вигук\.
+*Нові конструкції:*
+\- _¡Qué increíble\!_ \(how incredible\) — Як неймовірно\! Вираз подиву\.
+\- _¡Qué bueno\!_ \(how good\) — Як добре\!
+\- _¡Qué bonito\!_ \(how beautiful\) — Як гарно\!
+\- _preguntar_ \(to ask\) — запитувати
+\- _responder_ \(to reply\) — відповідати
+\- _pronto_ \(soon\) — скоро
 
-А тепер з оцінкою і subjuntivo:
-— *No es necesario que respondas\.*
-— Тебе не обов'язково відповідати\.
-— *Es terrible que venga\.*
-— Жахливо, що він іде\.
+*Запам'ятай:*
+_Que_ може бути і емоційним підсиленням \("як\!"\), і нейтральним сполучником \("що", "аби"\)\. Коли вводить побажання чи думку, зазвичай йде subjunctive\.
 
-*Preguntar* — запитувати\. *Responder* — відповідати\. І вони теж загортаються в *que*\.
+*Приклади:*
+\- _¡Qué bueno que vengas\!_ \(How good that you come\) — Як добре, що ти прийдеш\!
+\- _No es necesario que respondas pronto_ \(It's not necessary that you reply soon\) — Не обов'язково, щоб ти швидко відповідав\.
+\- _Está bien que preguntes, pero no tengo que responder_ \(It's okay that you ask, but I don't have to reply\) — Нічого, що ти питаєш, але я не зобов'язаний відповідати\.
+\- _¡Qué increíble que hable español\!_ \(How incredible that he speaks Spanish\) — Як неймовірно, що він говорить іспанською\!
+\- _Es importante que respondas_ \(It's important that you reply\) — Важливо, щоб ти відповів\.
 
-_¡Qué bonito\!_ — Як гарно\!
-_¡Qué bueno\!_ — Як добре\!
-_¡Qué increíble\!_ — Як неймовірно\!
-_Es terrible que venga_ — жахливо, що він іде
-_Es bueno que estés_ — добре, що ти тут
-_No es necesario que respondas_ — не обов'язково відповідати
-_Es importante que preguntes_ — важливо, щоб ти запитав
-_¡Qué bueno que estés aquí\!_ — як добре, що ти тут\!
-
-💡 *¡Qué \+ прикметник\!* — вигук без дієслова\. *Es \[оцінка\] que \+* дієслово — subjuntivo обов'язковий\. Оцінка вимагає subjuntivo\.
-
-👉 Вголос: *"¡Qué increíble que estés aquí\!"*
-
-Далі: Три дієслова, які змінюють все
+Далі: У наступному уроці розбираємо, як після дієслів _empezar_, _seguir_ і _terminar_ змінюється значення залежно від того, використовуєш ти інфінітив чи герундій\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

@@ -1,11 +1,20 @@
-🌙 *Lesson 54 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Those verb forms after *haber* \(sold, lost, closed\) work as adjectives\. They describe a state, not an action\.
+Today we learned that past participles can work as adjectives that agree with the noun they describe, and they almost always use estar instead of ser\.
 
-_Está perdido_ — he got lost\.
-_Estoy cansado_ — I'm tired\.
-_Está terminado_ — it's finished\.
-_Están vendidos_ — they're sold\.
-_Está mojado_ — it's wet\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-These almost always use *estar* \(temporary states\)\.
+1️⃣ The door is closed\.
+👉 ||La puerta está cerrada\.||
+
+2️⃣ I am tired \(if you're male\)\.
+👉 ||Estoy cansado\.||
+
+3️⃣ They are sold \(feminine plural\)\.
+👉 ||Están vendidas\.||
+
+4️⃣ It is a wet chair\.
+👉 ||Es una silla mojada\.||
+
+5️⃣ The movie is finished\.
+👉 ||La película está terminada\.||

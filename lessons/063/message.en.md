@@ -1,37 +1,25 @@
-🇪🇸 *Lesson 63: The verb that makes you talk about yourself*
+🇪🇸 *Lesson 63 — Language Transfer*
 
-Ever notice how some Spanish verbs are… weirdly selfish? They literally make you say "I remember *myself*" instead of just "I remember\."
+*Key pattern:*
+The verb _acordarse_ \(to remember\) is a reflexive verb\. You literally say "I remember myself" to mean "I remember"\. The reflexive pronoun goes before the verb, so _me acuerdo_ means "I remember"\. When you make it negative, the _no_ comes first: _no me acuerdo_\.
 
-The verb *acordar* \(to remember\) works like this\.
+*New constructions:*
+\- _acordarse_ — to remember \(reflexive: "to remember oneself"\)
+\- _me acuerdo_ — I remember
+\- _no me acuerdo_ — I don't remember
+\- _nos acordamos_ — we remember
+\- _no nos acordamos_ — we don't remember
 
-You can't just say you remember\. You have to say you remember *yourself*:
-*me acuerdo* — I remember myself → I remember
-*no me acuerdo* — I don't remember myself → I don't remember
+*Remember:*
+With _gustar_ and similar verbs, take the middle road translation \("it is pleasing to him"\) until you're extremely comfortable\. Otherwise you'll confuse who is doing the liking\. _Le gusta a ella_ means "it is pleasing to her" \(she likes it\), not "she is pleasing\."\
 
-It's like the verb insists: "Hey, YOU are doing the remembering, don't forget that\!"
+*Examples:*
+\- _Me acuerdo_ — I remember
+\- _No me acuerdo_ — I don't remember
+\- _No me acuerdo si se lo di a él o a ella_ — I don't remember if I gave it to him or to her
+\- _No nos acordamos si se lo dimos a él o a ellas_ — We don't remember if we gave it to him or to them
+\- _Le gustaba a ella_ — She liked it \(it was pleasing to her\)
 
-Quick scene:
-— *¿Se lo diste?*
-— *No me acuerdo\.* Maybe\. Maybe not\.
-— Come on\!
-— *No me acuerdo si se lo di a él o a ella\.* I swear\.
+Next: Lesson 64 shows how to use _hace_ to say "ago" in Spanish — literally "it makes two weeks" for "two weeks ago"\.
 
-Here are 8 ways to use it:
-
-_me acuerdo_ — I remember
-_no me acuerdo_ — I don't remember
-_no me acuerdo si se lo di_ — I don't remember if I gave it to him
-_nos acordamos_ — we remember
-_no nos acordamos_ — we don't remember
-_no nos acordamos si se lo dimos_ — we don't remember if we gave it to them
-_¿te acuerdas?_ — do you remember?
-_no me acuerdo de eso_ — I don't remember that
-
-💡 Notice: *me* doesn't split from *acuerdo* unless there's stress\. *No me acuerdo*\. Simple\.
-
-👉 Say this out loud three times: *No me acuerdo si se lo di\.*
-
-Next lesson: another verb that does this trick—and it's one you'll use every single day\.
-
-
-▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

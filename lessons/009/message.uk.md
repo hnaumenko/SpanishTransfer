@@ -1,27 +1,29 @@
 🇪🇸 *Урок 9 — Language Transfer*
 
-*Головна ідея:*
-Ти вже знаєш дієслово "знати" — _saber_\. В англійській є сленгове слово "savvy" \(тямити\), яке прийшло з латини і походить саме від нього\. А головне: ти вже можеш будувати величезні речення, якщо збиратимеш їх послідовно, по маленьких блоках\!
+*Про що цей урок:*
+Ти вже знаєш більше іспанських слів, ніж думаєш\. Дієслово _saber_ \(to know\) пов'язане з англійським сленгом "savvy" — обидва йдуть від латині\. Так само _sí_ \(yes\) означає ще й "if"\. Головна ідея уроку: не бійся будувати складні речення\. Якщо розбити їх на блоки, все стає простим\.
 
 *Нові конструкції:*
-Зверни увагу на слово _explicar_ \(пояснювати\) — воно не закінчується на _\-ción_, це виняток\. Також додаємо _te_ \(тобі / тебе\):
-
-• _saber_ \(to know\) — знати
-• _si_ \(if / whether\) — якщо / чи
-• _sí_ \(yes\) — так
-• _explicar_ \(to explain\) — пояснювати \(згадай _inexplicable_\)
-
-• _te_ \(you / to you\) — тебе / тобі \(неформально\)
-• _quiero saber si_ \(I want to know if\) — я хочу знати, чи
-• _explicarte_ \(to explain to you\) — пояснити тобі
-• _justificarme_ \(to justify myself\) — виправдати себе
+\- _saber_ \(to know\) — знати; звідси англійське "savvy"
+\- _sí_ \(yes / if\) — так / якщо; одне слово для двох значень
+\- _venir_ \(to come\) — приходити; від "convenient" \(що приходить разом\)
+\- _algo_ \(something\) — щось
+\- _pero_ \(but\) — але
+\- _explicar_ \(to explain\) — пояснювати; виняток, не від "explanation", а від кореня з "inexplicable"
+\- _justificar_ \(to justify\) — виправдовувати
+\- _informar_ \(to inform\) — повідомляти
 
 *Запам'ятай:*
-Не лякайся довгих речень\! Направ 100% своєї уваги на один блок за раз\. Скажи "я хочу знати", забудь про нього і переходь до наступного: "чи він хоче", і далі "прийти"\. Сказав блок — відпустив\.
+_Me_ означає і "мене", і "себе" — у реченні _no intento justificarme_ це "себе"\.
 
-*Приклад:*
-_No intento justificarme, pero quiero explicarte algo\._ — Я не намагаюся виправдовуватися, але хочу пояснити тобі дещо\.
+*Приклади:*
+\- _Quiero saber_ \(I want to know\) — Я хочу знати
+\- _No quiero saber_ \(I don't want to know\) — Я не хочу знати
+\- _Quiero saber si quiere invitarme_ \(I want to know if he wants to invite me\) — Я хочу знати, чи він хоче мене запросити
+\- _¿Por qué no quiere venir a la casa a visitarme?_ \(Why doesn't she want to come to the house to visit me?\) — Чому вона не хоче прийти додому, щоб мене відвідати?
+\- _No intento justificarme, pero quiero explicarte algo_ \(I'm not trying to justify myself, but I want to explain something to you\) — Я не намагаюся виправдатися, але хочу тобі щось пояснити
+\- _¿Por qué no quiere informarme?_ \(Why doesn't he want to inform me?\) — Чому він не хоче мені повідомити?
 
-Далі: ти вже знаєш 500 іспанських дієслів\.
+Далі: У наступному уроці розберемо, як працюють закінчення дієслів у формі "я" та як перетворити інфінітив на теперішній час\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

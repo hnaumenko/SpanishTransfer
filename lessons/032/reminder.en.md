@@ -1,10 +1,20 @@
-🌙 *Lesson 32 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Es* \= who you are\. *Está* \= how you feel right now\. Same adjective, different verb, different meaning\.
+Today we learned that some adjectives change meaning depending on whether you use ser or estar, and you can always play it safe by saying "I am a \[adjective\] person" with ser\.
 
-_Es aburrido_ — Boring \(characteristic\)\.
-_Está aburrido_ — Bored \(state\)\.
-_Soy libre_ — Free person\.
-_Estoy libre_ — Available now\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-When uncertain, add: _Soy una persona_\.
+1️⃣ Where are you from?
+👉 ||¿De dónde eres?||
+
+2️⃣ She is bored\.
+👉 ||Está aburrida\.||
+
+3️⃣ He is a boring person\.
+👉 ||Es una persona aburrida\.||
+
+4️⃣ We are busy people\.
+👉 ||Somos personas ocupadas\.||
+
+5️⃣ I am worried\.
+👉 ||Estoy preocupado\.||

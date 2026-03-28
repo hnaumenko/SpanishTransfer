@@ -1,29 +1,33 @@
-🇪🇸 *Lesson 71*
+🇪🇸 *Lesson 71 — Language Transfer*
 
-Ever notice how Spanish speakers learning English say "you can count with me" instead of "count ON me"? That's not a mistake — it's a clue to how Spanish works\.
+*Key pattern:*
+Spanish uses a personal _a_ before a person when that person is having the action done to them\. This _a_ only appears when there's no other preposition already showing the relationship\. We say _espero que vean a María_ \(I hope that they see María\) because without the _a_, it could sound like María is doing the seeing\. Spanish word order is flexible, so this _a_ clears up who's doing what to whom\.
 
-In Spanish, *contar* means both "to count" AND "to tell a story"\. But here's the twist: you don't count ON someone\.\.\. you count WITH them\.
+*New constructions:*
+\- _contar_ — to count, to recount, or to tell \(especially stories\)
+\- _cuento_ — story \(noun\)
+\- _contar con_ — to count on \(literally "to count with"\)
+\- _ver_ — to see
+\- _veo_ — I see
+\- _vean_ — they see \(mood tense, built on _veo_ to avoid confusion with _van_\)
+\- _personal a_ — the _a_ placed before a specific person when they receive the action
+\- _al_ — to the \(masculine\)\. _a_ \+ _el_ stick together to form _al_
+\- _el hombre_ — the man
+\- _el profesor_ / _la profesora_ — the teacher
 
-*contar con* — to count on, to rely on
+*Remember:*
+The personal _a_ is used with specific humans, not just any human\. You'd say _busco al fontanero_ \(I'm looking for the plumber\) but _busco un fontanero_ \(I'm looking for a plumber\)\. Some speakers also use it with pets or to personify non\-humans, like in _escapar a la muerte_ \(to escape death\)\.
 
-— I need help with this project\.
-— *Puedes contar conmigo\.* You can count on me\.
+*Examples:*
+\- _Quiero que me cuentes_ — I want you to tell me
+\- _Quiero que cuenten conmigo_ — I want you \(plural\) to count on me
+\- _Espero que cuentes conmigo_ — I hope that you count on me
+\- _Esperamos que cuenten con María_ — We hope that they count on María
+\- _Espero que vean a María_ — I hope that they see María
+\- _Espero que comprendas a David_ — I hope that you understand David
+\- _Me gusta que visite al profesor_ — I like that he visits the teacher
+\- _Me gusta que la profesora visite_ — I like that the teacher visits
 
-Here are 8 ways to use *contar*:
-
-_cuento_ — I count / I tell
-_cuento una historia_ — I tell a story
-_quiero que me cuentes_ — I want you to tell me
-_puedes contar conmigo_ — you can count on me
-_espero que cuentes con María_ — I hope you count on María
-_necesito contar contigo_ — I need to count on you
-_cuenta con nosotros_ — count on us
-_siempre cuento con ella_ — I always count on her
-
-💡 When you hear Spanish speakers make "mistakes" in English, flip it around\. "Count with me" tells you exactly how to say it in Spanish\. Their English reveals their Spanish\.
-
-👉 *Say this out loud now:* "Espero que cuentes conmigo" \(I hope you count on me\)\.
-
-Next: Commands in Spanish
+Next: The next lesson covers how Spanish uses the mood tense to give commands — except for one shortcut with informal positive orders\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

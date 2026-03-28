@@ -1,9 +1,19 @@
-🌙 *Lesson 31 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Spanish can't start words with ST\-, SP\-, or SC\-\. So it adds *e* to the front: *student* → _estudiante_, *Spain* → _España_\.
+Today we learned that Spanish can't start words with st\-, sp\-, or s\+consonant clusters, so it adds an _e\-_ at the beginning, and we practiced the verb _ser_ for describing characteristics\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Es especial_ — It's special\.
-_Es estricto_ — He's strict\.
-_La escuela_ — The school\.
+1️⃣ I am a student\.
+👉 ||Soy estudiante\.||
 
-Before sleep: say aloud three times: _Soy estudiante_\.
+2️⃣ What is she like?
+👉 ||¿Cómo es ella?||
+
+3️⃣ You are special\.
+👉 ||Eres especial\.||
+
+4️⃣ We are students\.
+👉 ||Somos estudiantes\.||
+
+5️⃣ How is he doing?
+👉 ||¿Cómo está él?||

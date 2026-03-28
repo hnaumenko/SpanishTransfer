@@ -1,10 +1,20 @@
-🌙 *Lesson 51 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-After *por*, *para*, *de*, *sin* — always use the infinitive form\. Spanish doesn't use \-ing after prepositions like English does\.
+Today we learned that after prepositions like _por_ or _para_, Spanish uses the infinitive form, not the \-ing form, and that _por_ is used for "because of" and when exchanging things\.
 
-_Gracias por venir_ — thanks for coming\.
-_Estoy por ti_ — I'm here because of you\.
-_Lo hago por amor_ — I do it out of love\.
-_Cambiaría esto por eso_ — I'd exchange this for that\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Rule: preposition \+ infinitive, not \-ing form\.
+1️⃣ Thanks for calling\.
+👉 ||Gracias por llamar\.||
+
+2️⃣ I have come because of you\.
+👉 ||He venido por ti\.||
+
+3️⃣ I would change this one for that one\.
+👉 ||Cambiaría esto por eso\.||
+
+4️⃣ I'm tired of working\.
+👉 ||Estoy cansada de trabajar\.||
+
+5️⃣ I don't believe in arguing in this way\.
+👉 ||No creo en discutir de esta forma\.||

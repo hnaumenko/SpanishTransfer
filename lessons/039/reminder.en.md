@@ -1,9 +1,19 @@
-🌙 *Lesson 39 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Spanish drops prepositions\. *Me compra* \(buys me\) — no *para*\. *Le hablo* \(speak to him\) — no *con*\.
+Today we learned that after prepositions, Spanish uses subject pronouns \(él, ella, nosotros\) instead of object pronouns, except for "me" and "you informal," which become _mí_ and _ti_\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Les digo la verdad_ — I tell them the truth\.
-_Te hago un favor_ — I do you a favor\.
-_Me traes agua_ — You bring me water\.
+1️⃣ With him\.
+👉 ||Con él\.||
 
-Except: *con mí, para ti, de él* — preposition stays\.
+2️⃣ For me\.
+👉 ||Para mí\.||
+
+3️⃣ From you \(informal\)\.
+👉 ||De ti\.||
+
+4️⃣ He's doing me a favour\.
+👉 ||Me hace un favor\.||
+
+5️⃣ He buys it for me\.
+👉 ||Me lo compra\.||

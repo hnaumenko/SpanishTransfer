@@ -1,38 +1,27 @@
-🇪🇸 *Урок 30: Де ти? Куди йдеш? І чому іспанці постійно кажуть "debe"?*
+🇪🇸 *Урок 30 — Language Transfer*
 
-Ти вже можеш сказати "soy" і "estoy"\. Але як запитати *куди* хтось йде або *де* має бути? Сьогодні — три слова, які змінять твої діалоги\.
+*Ключовий принцип:*
+Іспанська має два слова для "де": _dónde_ і _adónde_\. _Dónde_ запитує про місце \(де ти?\), а _adónde_ — про напрямок руху \(куди ти йдеш?\)\. Також розбираємо _cómo_ \(як\) і повторюємо всі форми _estar_ із займенниками для впевненості\.
 
-*¿Cómo?* — як
-*¿Dónde?* — де
-*debe* — повинен / мусить
+*Нові конструкції:*
+\- _cómo_ \(how\) — як
+\- _dónde_ \(where\) — де
+\- _adónde_ \(to where\) — куди
+\- _deber_ \(to owe / must\) — мати боргом; виражає обов'язок або ймовірність, як "він напевно тут"
+\- _quedar\(se\)_ \(to remain / to stay\) — залишатися; із _\-se_ означає "я залишаюся"
 
-Уяви діалог:
-— *¿Dónde estás?*
-— *Estoy aquí\.*
-— *¿Dónde vas a estar más tarde?*
-— *No sé\. Debe estar en casa\.*
+*Запам'ятай:*
+_Deber_ працює як англійське "must" не тільки для обов'язку, а й для припущення: _debe estar aquí_ — "він напевно тут"\.
 
-Бачиш? *Donde* \+ *estar* \= де ти *зараз*\. *Donde* \+ *ir a estar* \= де ти *будеш*\.
+*Приклади:*
+\- _¿Cómo estás?_ \(How are you?\) — Як ти?
+\- _No sé dónde estamos_ \(I don't know where we are\) — Я не знаю, де ми\.
+\- _¿Adónde vas a estar más tarde?_ \(Where are you going to be later?\) — Де ти будеш пізніше?
+\- _Él debe estar cansado_ \(He must be tired\) — Він напевно втомлений\.
+\- _No vamos a quedarnos porque estamos muy cansados_ \(We are not going to stay because we are very tired\) — Ми не залишимося, бо ми дуже втомлені\.
+\- _Me quedo aquí_ \(I'm staying here\) — Я залишаюся тут\.
+\- _¿Dónde tienen que estar?_ \(Where do they have to be?\) — Де вони мають бути?
 
-А *debe* — це "мусить" або "напевно":
-_Debe estar aquí_ — Він мусить бути тут / Він напевно тут
-_Deben estar cansados_ — Вони напевно втомлені
-
-*8 прикладів для практики:*
-
-_¿Cómo estás?_ — Як ти?
-_¿Dónde estás?_ — Де ти?
-_¿Dónde vas a estar?_ — Де ти будеш?
-_No sé dónde estamos_ — Не знаю, де ми
-_Voy a estar aquí más tarde_ — Буду тут пізніше
-_¿Dónde tenéis que estar?_ — Де ви маєте бути? \(множина\)
-_Debe estar cansado_ — Він напевно втомлений
-_No vamos a quedarnos_ — Ми не залишимося
-
-💡 *quedarse* \= залишатися \(буквально: "залишити себе"\)\. *Me quedo* — я залишаюся, *nos quedamos* — ми залишаємося\.
-
-👉 Спробуй вголос: "*No vamos a quedarnos porque estamos muy cansados*"\.
-
-Далі: Чому іспанські слова починаються з E?
+Далі: У наступному уроці почнемо вивчати другий іспанський аналог "to be" — дієслово _ser_, яке використовується для характеристик, а не станів\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

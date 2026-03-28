@@ -1,33 +1,25 @@
-🇪🇸 *Lesson 80: When Things Happen TO You in Spanish*
+🇪🇸 *Lesson 80 — Language Transfer*
 
-Ever notice how we say "The battery died *on me*" in English? Spanish does this ALL the time — with almost any verb\. And it sounds way more natural than saying "I accidentally closed the door\."
+*Main idea:*
+Spanish uses _se_ with _me_, _te_, _nos_, and _les_ to create an "on me" structure — like when you say "the door closed on me" or "the battery died on me\." English only does this with a few verbs, but Spanish uses it much more widely\. You add _se_ to show something happened in a way that affects you, and the little word \(_me_, _te_, etc\.\) shows who it affected\.
 
-Here's how it works:
+*New constructions:*
+\- _quemar_ — to burn
+\- _acabar_ — to finish, to run out
+\- _se_ \+ _me_/_te_/_le_/_nos_/_les_ — "on me" structure \(e\.g\., _se me acabó_ — it ran out on me\)
 
-*se* \+ *me/te/le/nos* \= "on me / on you / on them / on us"
+*Remember:*
+If you hear _se_ plus _me_ or another pronoun, you know it's this "on me" structure — the extra _se_ shouldn't cause confusion because the pronoun tells you what's happening\.
 
-Instead of blaming yourself, you make the thing the subject:
+*Examples:*
+\- _La puerta se cierra_ — The door closes
+\- _La cena se quema_ — The dinner gets burnt
+\- _Se me quemó la cena_ — The dinner burnt on me
+\- _La batería se acaba_ — The battery runs out
+\- _La batería siempre se me acaba_ — The battery always runs out on me
+\- _¿Se te acaba la batería?_ — Does the battery run out on you?
+\- _Se nos quemó la cena_ — The dinner burnt on us
 
-— Why are you late?
-— *Se me cerró la puerta\.* The door closed on me\.
-— Again?
-— *Siempre se me acaba la batería\.* The battery always runs out on me\.
-
-You'll hear this everywhere\. Here are 8 ways to use it:
-
-_Se me quemó la cena_ — The dinner burnt on me
-_Se acabó la batería_ — The battery ran out
-_Se me olvidó_ — I forgot \(it forgot itself on me\)
-_Se te cayó_ — You dropped it \(it fell on you\)
-_Se nos perdió_ — We lost it \(it lost itself on us\)
-_Se le rompió el teléfono_ — Their phone broke \(on them\)
-_Se me cerró la puerta_ — The door closed on me
-_¿Se te acaba siempre?_ — Does it always run out on you?
-
-💡 Don't force this pattern yet\. Just recognize it when you hear *se* \+ *me/te/le/nos* together — that's your clue something "happened on someone\."
-
-👉 Say this out loud: *"Se me quemó la cena\."* Feel how you're not taking blame? You're just a victim of circumstances\.
-
-Next: The Past Subjunctive — Easier Than You Think
+Next: Lesson 81 introduces the past subjunctive mood, which you build from the "they" form of the preterite and use after past\-tense verbs like "I wanted" or "we needed\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

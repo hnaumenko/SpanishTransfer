@@ -1,9 +1,20 @@
-🌙 *Lesson 67 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Rule 1: vowel/N/S at end → stress second\-to\-last syllable\. Rule 2: any other consonant → stress last syllable\. Accent marks show exceptions\.
+Today we learned how stress patterns work in Spanish: words ending in a vowel, N, or S stress the second\-to\-last syllable, while words ending in other consonants stress the final syllable\. Written accents mark exceptions\.
 
-_Hablas_ — HA\-blas\.
-_Hablar_ — ha\-BLAR\.
-_Tradición_ — tra\-di\-CIÓN\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Read aloud: hablan, hablaron, café, salud, general\.
+1️⃣ I encounter\.
+👉 ||Encuentro\.||
+
+2️⃣ Lemon\.
+👉 ||Limón\.||
+
+3️⃣ Health\.
+👉 ||Salud\.||
+
+4️⃣ He found\.
+👉 ||Encontró\.||
+
+5️⃣ Tradition\.
+👉 ||Tradición\.||

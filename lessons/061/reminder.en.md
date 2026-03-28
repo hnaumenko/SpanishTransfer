@@ -1,9 +1,19 @@
-🌙 *Lesson 61 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Line \= background\. Dot \= the event that interrupts\.
+Today we learned how the two past tenses work together: the line past describes what was happening, and the dot past marks the moment something happened\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Cocinaba_ — I was cooking\.
-_Sonó el teléfono_ — the phone rang\.
-_Me gustó_ — I liked it \(that moment\)\.
+1️⃣ I was cooking when the phone rang\.
+👉 ||Cocinaba cuando el teléfono sonó\.||
 
-Before sleep: think of something from today — where was the line, where was the dot?
+2️⃣ I liked it \(at that moment\)\.
+👉 ||Me gustó\.||
+
+3️⃣ I was studying when María arrived\.
+👉 ||Estudiaba cuando María llegó\.||
+
+4️⃣ It seemed good to me\.
+👉 ||Me parecía bien\.||
+
+5️⃣ I didn't like it\.
+👉 ||No me gustó\.||

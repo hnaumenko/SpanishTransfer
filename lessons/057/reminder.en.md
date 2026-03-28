@@ -1,11 +1,20 @@
-🌙 *Lesson 57 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Lo* \+ adjective \= "the \[adjective\] thing\." It abstracts adjectives into nouns\.
+Today we learned how to use *lo* with adjectives to mean "the \[adjective\] thing," and how *lo de* means "the thing about\." We also covered *así* for "like this/that\."
 
-_Lo interesante_ — the interesting thing\.
-_Lo difícil_ — the difficult thing\.
-_Lo de Juan_ — that thing about Juan\.
-_Lo de mañana_ — that tomorrow business\.
-_Lo de la fiesta_ — that party situation\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Así_ — shortcut for "this way\."
+1️⃣ The interesting thing is that they live together\.
+👉 ||Lo interesante es que viven juntos\.||
+
+2️⃣ We don't speak like that\.
+👉 ||No hablamos así\.||
+
+3️⃣ The easy thing is that they come together\.
+👉 ||Lo fácil es que vienen juntos\.||
+
+4️⃣ I want to organize the thing about tomorrow\.
+👉 ||Quiero organizar lo de mañana\.||
+
+5️⃣ I don't want to speak about Juan's business like this\.
+👉 ||No quiero hablar de lo de Juan así\.||

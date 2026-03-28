@@ -1,36 +1,31 @@
-🇪🇸 *Lesson 29: The Two "To Be" Verbs — Why Spanish Makes You Think Differently*
+🇪🇸 *Lesson 29 — Language Transfer*
 
-Here's the truth: Spanish doesn't let you be lazy\. It forces you to make a decision every single time you describe something\. Is it a *state* you're in, or a *characteristic* of who you are?
+*What this lesson is about:*
+Spanish has two verbs for "to be": _ser_ and _estar_\. The difference isn't about temporary versus permanent — that simplification will frustrate you\. Instead, Spanish forces you to decide: is this a *characteristic* of something, or a *state* it's in? Your profession is characteristic \(even if you change jobs\)\. Being tired is a state\. Where you are is a state\. Even death, which is very permanent, counts as a state in Spanish\.
 
-English just says "I am tired\." Spanish asks: *Are you tired right now, or are you a tired person?*
+*New constructions:*
+\- _estar_ — to be \(for states\)
+\- _estoy_ — I am
+\- _está_ — he/she/it is, you are \(formal\)
+\- _están_ — they are, you guys are
+\- _estamos_ — we are
+\- _estás_ — you are \(informal\)
+\- _cansado_ — tired
+\- _muerto_ — dead
+\- _siempre_ — always
 
-This is the difference between *ser* and *estar* — the two verbs for "to be\."
+*Remember:*
+_Estar_ is the only verb in the entire Spanish present tense where the accent falls on the last syllable instead of the penultimate one\.
 
-*Ser* → characteristics  
-*Estar* → states
+*Examples:*
+\- _Estoy cansado_ — I'm tired
+\- _Estamos cansados_ — We're tired
+\- _Estoy siempre cansado_ — I'm always tired
+\- _Siempre estoy cansado_ — I'm always tired
+\- _Estoy muy cansado_ — I'm very tired
+\- _Están cansadas_ — They're tired \(all female\)
+\- _Estoy muerto_ — I'm dead
 
-Imagine you're exhausted after work:  
-— ¿Cómo estás?  
-— *Estoy cansado\.* \(I'm tired — right now, a state\)
-
-But your profession? That's *ser*:  
-— *Soy estudiante\.* \(I'm a student — it's characteristic of you, even if temporary\)
-
-Here are 8 examples to lock this in:
-
-_Estoy cansado_ — I'm tired  
-_Estoy en casa_ — I'm at home  
-_Estoy ocupado_ — I'm busy  
-_Soy estudiante_ — I'm a student  
-_Eres agresivo_ — You're aggressive \(as a person\)  
-_Es inteligente_ — He's intelligent  
-_Somos humanos_ — We're human  
-_Son buenos_ — They're good people
-
-💡 Don't fall into the "temporary vs\. permanent" trap\. Death? That's *estar* in Spanish\. *Estoy muerto* \(I'm dead\)\. Why? Because it's a state you enter\.
-
-👉 *Say this out loud now:* "Estoy cansado\." Feel the difference?
-
-Next: Ever notice how Spanish turns "stay" into "I remain myself"? Sounds dramatic, but it's actually h\.\.\.
+Next: Lesson 30 introduces how to ask "how are you?" and "where are you?" using _estar_, and explores the difference between asking about states versus characteristics\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

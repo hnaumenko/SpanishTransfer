@@ -8,7 +8,7 @@
 \- _habrían venido_ \(they would have come\) — множина; _venido_ від _venir_
 \- _me habría gustado_ \(it would have pleased me / I would have liked\) — дослівно "сподобалося б мені"
 \- _nos habrían gustado_ \(we would have liked them\) — дослівно "сподобалися б нам"
-\- _deber_ у умовній формі \(should\) — "повинен був би"; _debería_ = I should, _deberían_ = they should
+\- _deber_ у умовній формі \(should\) — "повинен був би"; _debería_ \= I should, _deberían_ \= they should
 
 *Запам'ятай:*
 Не намагайся перекласти "gone" чи "walked" — знайди форму дієслова, яка йде після _haber_\. В англійській вона різна, в іспанській — завжди \-_ado_ або \-_ido_\.

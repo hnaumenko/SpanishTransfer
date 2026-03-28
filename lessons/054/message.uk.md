@@ -13,7 +13,7 @@
 \- _vender_ \(to sell\) — продавати  
 \- _vendido_ \(sold\) — проданий  
 \- _cansar_ \(to tire\) — втомлювати  
-\- _cansado_ \(tired\) — втомлений; _me canso_ = я втомлююсь  
+\- _cansado_ \(tired\) — втомлений; _me canso_ \= я втомлююсь  
 \- _mojar_ \(to wet\) — мочити  
 \- _mojado_ \(wet\) — мокрий
 

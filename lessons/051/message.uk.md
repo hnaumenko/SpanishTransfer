@@ -5,9 +5,9 @@
 
 *Нові конструкції:*
 \- _por_ \(for, because of, in exchange for\) — використовується для причини \("заради тебе"\), обміну \("це на те"\) або руху через місце
-\- _estoy_ \(I am, from estar\) — "я є" для станів і місцезнаходження; _estar por ti_ = "я тут заради тебе"
-\- _cambiar_ \(to change\) — змінювати; _cambiaría esto por eso_ = "я б поміняв це на те"
-\- _forma_ \(way\) — спосіб; _una forma de hacerlo_ = "спосіб це зробити"
+\- _estoy_ \(I am, from estar\) — "я є" для станів і місцезнаходження; _estar por ti_ \= "я тут заради тебе"
+\- _cambiar_ \(to change\) — змінювати; _cambiaría esto por eso_ \= "я б поміняв це на те"
+\- _forma_ \(way\) — спосіб; _una forma de hacerlo_ \= "спосіб це зробити"
 \- _discutir_ \(to argue\) — сперечатися, а не просто обговорювати; хибний друг англійської "discuss"
 \- _crear_ \(to create\) — створювати; форма _creo_ виглядає так само, як _creo_ від _creer_ \(вірити\)
 

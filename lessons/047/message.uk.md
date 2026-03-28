@@ -9,7 +9,7 @@
 \- _quemar_ \(to burn\) — палити, спалювати
 \- _el sol_ \(the sun\) — сонце
 \- _romper_ \(to break\) — ламати, розбивати; споріднене з "rupture"
-\- _todo el tiempo_ \(all the time\) — весь час; _todo_ = "весь, всі"
+\- _todo el tiempo_ \(all the time\) — весь час; _todo_ \= "весь, всі"
 \- _estos_ \(these\) — ці, для чоловічого роду множини; логіка: _el_ → _este_, _los_ → _estos_
 \- _esos_ \(those\) — ті, для чоловічого роду множини; просто _estos_ без _t_
 

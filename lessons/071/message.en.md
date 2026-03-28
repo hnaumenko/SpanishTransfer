@@ -25,8 +25,8 @@ The personal _a_ is used with specific humans, not just any human\. You'd say _b
 \- _Esperamos que cuenten con María_ — We hope that they count on María
 \- _Espero que vean a María_ — I hope that they see María
 \- _Espero que comprendas a David_ — I hope that you understand David
-\- _Me gusta que visite al profesor_ — I like that he visits the teacher
-\- _Me gusta que la profesora visite_ — I like that the teacher visits
+\- _Me gusta que la profesora visite la escuela_ — I like that the teacher visits the school
+\- _Me gusta que visite a la profesora_ — I like that she visits the teacher
 
 Next: The next lesson covers how Spanish uses the mood tense to give commands — except for one shortcut with informal positive orders\.
 

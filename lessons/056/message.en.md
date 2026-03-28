@@ -19,7 +19,7 @@ You can work backwards from a conjugated verb to find its infinitive\. If you se
 \- _¿De dónde eres?_ — Where are you from?
 \- _¿A dónde vas?_ — Where are you going?
 \- _Es la chica con quien trabajaba\._ — It's the girl I was working with\.
-\- _No sé con cual quiere hacerlo\._ — I don't know which one he wants to do it with\.
+\- _No sé con cuál quiere hacerlo\._ — I don't know which one he wants to do it with\.
 \- _¿Quién está?_ — Who is here?
 \- _¿Quiénes van?_ — Who is going? \(plural\)
 \- _No sé con quien tengo que hacerlo\._ — I don't know who I have to do it with\.

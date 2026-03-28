@@ -19,8 +19,8 @@ Nouns in Spanish change their ending for gender, unlike adjectives that only cha
 Nouns add ES to form the plural when they end in a consonant, not just S\. This applies to words like _profesor_ → _profesores_ and _doctor_ → _doctores_\.
 
 *Examples:*
-\- _El caro es caro_ — The car is expensive
-\- _Los caros son caros_ — The cars are expensive
+\- _El carro es caro_ — The car is expensive
+\- _Los carros son caros_ — The cars are expensive
 \- _Es profesor_ — He is a teacher
 \- _Ella es doctora_ — She is a doctor
 \- _Ellos son profesores_ — They are teachers

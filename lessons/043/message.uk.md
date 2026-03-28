@@ -17,7 +17,7 @@
 \- _Habría ido\._ \(I would have gone\.\) — Я б пішов\.
 \- _Habrían venido\._ \(They would have come\.\) — Вони б прийшли\.
 \- _Me habría gustado\._ \(It would have pleased me\.\) — Мені б сподобалось\.
-\- _Nos habrían gustado\._ \(They would have pleased us\.\) — Нам би сподобались\.
+\- _Nos habrían gustado\._ \(We would have liked them\.\) — Нам би сподобались\.
 \- _Debería hablar\._ \(I should speak\.\) — Мені слід говорити\.
 \- _Me lo darían\._ \(They would give it to me\.\) — Вони б мені це дали\.
 

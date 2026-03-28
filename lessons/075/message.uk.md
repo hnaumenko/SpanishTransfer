@@ -27,7 +27,7 @@
 \- _Haz lo que prefieras_ \(Do what you prefer\) — Роби, що волієш
 \- _Come lo que prefieras_ \(Eat whatever you prefer\) — Їж, що хочеш
 \- _Te sigo adondequiera que vayas_ \(I follow you wherever you go\) — Я йду за тобою, куди б ти не пішов
-\- _Prefiero que sea así_ \(I prefer it to be like this\) — Я воліла б, щоб це було так
+\- _Prefiero que sea así_ \(I prefer it to be like this\) — Я волів би, щоб це було так
 
 Далі: У наступному уроці дізнаємось, що іспанське _hay_ \(there is/are\) не змінюється за числом, а його минула форма _había_ працює і для "був", і для "було", і для "були"\.
 

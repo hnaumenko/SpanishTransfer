@@ -21,7 +21,7 @@
 \- _Depende de si quiere ir_ \(It depends on if she wants to go\) — Залежить від того, чи вона хоче йти\.
 \- _¿Quieres venir conmigo?_ \(Do you want to come with me?\) — Хочеш піти зі мною?
 \- _Tienes que venir conmigo_ \(You have to come with me\) — Ти маєш піти зі мною\.
-\- _¿Puedes venir conmigo?_ \(Can you come with you?\) — Ти можеш піти зі мною?
+\- _¿Puedes venir conmigo?_ \(Can you come with me?\) — Ти можеш піти зі мною?
 
 Далі: У наступному уроці побачимо, як іспанська використовує теперішній час і конструкцію _ir a_ для майбутнього, і чому майбутній час існує, але потрібен рідко\.
 

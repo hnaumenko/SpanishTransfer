@@ -19,7 +19,7 @@ There's an alternative form of the past subjunctive \(like _vieras_ instead of _
 \- _Que lo compraras no es mi problema_ — That you bought it is not my problem\.
 \- _Que le contaras no es mi problema_ — That you told him is not my problem\.
 \- _Si pudiera cocinar, cocinaría_ — If I could cook, I would cook\.
-\- _Si hubieras me lo dicho, habría ido_ — If you had told me it, I would have gone\.
+\- _Si me lo hubieras dicho, habría ido_ — If you had told me it, I would have gone\.
 \- _Si hubiéramos sabido, habríamos ido_ — If we had known, we would have gone\.
 \- _Si vieras su casa_ — If you saw their house\.
 \- _Si lo viera, lo entendería_ — If you saw it, you would understand it\.

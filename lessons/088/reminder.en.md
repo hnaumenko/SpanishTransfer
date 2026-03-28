@@ -1,9 +1,19 @@
-🌙 *Lesson 88 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-The biggest rebels\: _puse, hice, vine, traje, fui_\. Stems shift completely\.
+Today we learned that irregular verbs in the dot\-in\-the\-past change their stem, but use predictable endings like \-e for I, \-o for he/she, and \-ieron for they\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Hice un plan_ — I made a plan\.
-_Trajeron comida_ — They brought food\.
-_Fui a España_ — I went to Spain\.
+1️⃣ Where did you put it?
+👉 ||¿Dónde lo pusiste?||
 
-Pick one verb and say it in three tenses tonight\.
+2️⃣ He came with wine\.
+👉 ||Vino con vino\.||
+
+3️⃣ I didn't go\.
+👉 ||No fui\.||
+
+4️⃣ We brought the car\.
+👉 ||Trajimos el coche\.||
+
+5️⃣ If I were you, I would do it\.
+👉 ||Si yo fuera tú, lo haría\.||

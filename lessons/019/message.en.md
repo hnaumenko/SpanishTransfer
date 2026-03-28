@@ -1,29 +1,27 @@
 🇪🇸 *Lesson 19 — Language Transfer*
 
-*Main idea:*
-Sometimes the easiest way to learn a verb is to work backwards\. Take the word _vamos_ \("we go" or "let's go"\)\. If you chop off the _\-mos_ ending, you are left with the root _va_\. From there, you can easily build all the other forms\!
+*Key pattern:*
+You can work backwards from any verb form to build others\. If you hear _vamos_ \(we go\), you can strip off the _\-amos_ ending to find the stem _v\-_, then add different endings: _va_ \(he/she/you formal go\), _vas_ \(you informal go\), _van_ \(they/you plural go\)\. This backwards skill matters because in real life you'll often hear a conjugated verb first and need to figure out the rest\.
 
 *New constructions:*
-The "to" form is _ir_ \(to go\)\. It is highly irregular, but the "I" form is easy to remember if you think of the English word "voyage"\.
-
-• _ir_ — to go
-• _voy_ — I go
-• _vamos_ — we go / let's go
-• _va_ — he / she goes
-
-• _vas_ — you go \(informal\)
-• _van_ — they go
-• _esta noche_ — tonight
-• _la carne_ — the meat
+\- _siempre_ — always
+\- _bueno_ — good
+\- _ir_ — to go \(infinitive\)
+\- _esta noche_ — tonight \(literally: this night\)
+\- _la noche_ — the night
+\- _la carne_ — the meat
+\- _y_ — and
 
 *Remember:*
-The French word for "good" is "bon"\. In Spanish, when you stress that "O", it splits into "UE"\. That is exactly how we get the word _bueno_\!
+Working backwards strengthens the process of finding words, which is far more useful than memorising individual forms\.
 
 *Examples:*
-• _Tengo que ir esta noche\._ — I have to go tonight\.
-• _¿A dónde vas\?_ — Where are you going\?
-• _No como carne\._ — I do not eat meat\.
+\- _¿A dónde vas?_ — Where are you going?
+\- _Tengo que ir esta noche\._ — I have to go tonight\.
+\- _No como carne\._ — I don't eat meat\.
+\- _No como carne y no tomo alcohol\._ — I don't eat meat and I don't drink alcohol\.
+\- _Como carne y tomo alcohol\._ — I eat meat and I drink alcohol\.
 
-Next: You Don't Need the Future Tense
+Next: Lesson 20 shows how Spanish uses the present tense to talk about the future — either with _ir_ \(to go\) or with words like _mañana_ and _pronto_\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

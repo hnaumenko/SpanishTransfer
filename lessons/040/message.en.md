@@ -1,26 +1,33 @@
-🇪🇸 *Lesson 40*
+🇪🇸 *Lesson 40 — Language Transfer*
 
-Ever notice how prepositions flip between languages? In English you "fall in love *with*" someone\. In Spanish, you fall in love *of* them\. Sounds weird, but here's the thing: these tiny words reveal how we see the world\.
+*Main idea:*
+Prepositions change between languages, and these differences aren't random\. In English we say "fall in love *with*", but Spanish says "fall in love *of*"\. In English we say "dream *about*", but Spanish says "dream *with*"\. Rather than just memorizing these differences, think about what they reveal\. The preposition *with* involves someone in your experience, while *of* is more detached\. Looking at these changes with curiosity helps you remember them and gives you insight into how each language shapes the way we express the world\.
 
-When you say "I fall in love *with* you," that *with* pulls the other person into your experience\. You're involving them\. But Spanish says *me enamoro de ti* — "I fall in love *of* you\." More detached, right? Like you're observing from a distance\.
+*New constructions:*
+\- _enamorarse_ — to fall in love \(literally "to enamor oneself"\)
+\- _de_ — of, from
+\- _en_ — in, on
+\- _pensar_ — to think
+\- _soñar_ — to dream \(the _o_ becomes _ue_ when stressed: _sueño_, but _soñamos_\)
+\- _conmigo_ — with me \(one word, irregular\)
+\- _contigo_ — with you informal \(one word, irregular\)
+\- _tener que_ — to have to
+\- _depender_ — to depend
+\- _si_ — if \(also means "yes"\)
 
-This isn't just grammar trivia\. Understanding *why* the preposition changes makes it stick in your brain way faster than mindless memorizing\.
+*Remember:*
+When a verb uses a different preposition in Spanish than in English, don't just memorize it as a hurdle\. Ask yourself what effect that different preposition might have on how you perceive the concept\. This analytical approach makes the difference stick in your memory much more naturally than rote memorization\.
 
-Here are 8 verbs where Spanish swaps the preposition:
+*Examples:*
+\- _Me enamoro de ti_ — I fall in love with you
+\- _Se enamora de él_ — She falls in love with him
+\- _Pienso en ti_ — I think about you
+\- _Pensamos en ella_ — We think about her
+\- _Sueño contigo_ — I dream about you
+\- _¿Quieres venir conmigo?_ — Do you want to come with me?
+\- _Tienes que venir conmigo_ — You have to come with me
+\- _Depende de si ella quiere ir_ — It depends on if she wants to go
 
-_Me enamoro de ti_ — I fall in love with you
-_Pienso en ti_ — I think about you
-_Sueño contigo_ — I dream about you
-_Depende de ella_ — It depends on her
-_Me olvido de eso_ — I forget about that
-_Hablo de ti_ — I talk about you
-_Me río de él_ — I laugh at him
-_Confío en ti_ — I trust in you
-
-💡 Bonus: *Conmigo* \(with me\) and *contigo* \(with you\) are special merged words\. So: *¿Vienes conmigo?* — Coming with me?
-
-👉 Next time you hit a verb with a "wrong" preposition, don't just memorize it\. Ask yourself: what does this tell me about how Spanish speakers see this idea?
-
-Next: The Future Lives in the Past
+Next: Lesson 41 shows how Spanish uses the present tense and "going to" structures to talk about the future, and introduces the actual future tense built from the sounds of _haber_\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

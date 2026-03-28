@@ -1,34 +1,31 @@
-🇪🇸 *Урок 23: Коли слово виглядає жіночим, але насправді — чоловік*
+🇪🇸 *Урок 23 — Language Transfer*
 
-Ти бачиш слово *problema* і думаєш: "Закінчується на \-a, значить LA problema"\. Помилка\. Це *EL* problema\.
+*Що вчимо:*
+Іменники, що закінчуються на _\-ma_, — чоловічого роду, хоч це й здається дивним\. Причина проста: ці слова прийшли з грецької, де вони були середнього роду\. Коли їх запозичували в латину, а потім в іспанську, їх сприйняли як чоловічий рід\. Тому говоримо _el problema_, _el sistema_, а не _la problema_\.
 
-Чому? Бо ці слова прийшли з грецької\. У грецькій вони були середнього роду, а в іспанській їх прийняли за чоловічі\. От так\.
+*Нові конструкції:*
+\- _el problema_ \(the problem\) — проблема; слово грецького походження, тому чоловічого роду
+\- _comprender_ \(to understand\) — розуміти; альтернатива до _entender_
+\- _el sistema_ \(the system\) — система; теж грецького походження, чоловічий рід
+\- _sentir_ \(to feel\) — відчувати; також використовується для сприйняття запахів
+\- _el aroma_ \(the aroma\) — аромат
+\- _el clima_ \(the climate\) — клімат
+\- _el programa_ \(the program\) — програма
+\- _perder_ \(to lose\) — втрачати
+\- _me he perdido_ \(I have lost myself\) — я загубився/загубилась; буквально "я себе втратив"
 
-Правило просте: **якщо слово закінчується на \-ma, воно, швидше за все, чоловічого роду\.**
+*Запам'ятай:*
+Щоб сказати "я загубився", іспанська використовує зворотню форму: "я втратив себе" — _me he perdido_\. Так само, як "_me preparo_" \(я готуюсь\) — буквально "готую себе"\.
 
-🔹 **8 слів, які здаються жіночими, але чоловічі:**
+*Приклади:*
+\- _¿Has comprendido el problema?_ \(Have you understood the problem?\) — Ти зрозумів проблему?
+\- _¿Has comprendido el sistema?_ \(Have you understood the system?\) — Ти зрозумів систему?
+\- _¿Has sentido el aroma?_ \(Have you felt the aroma?\) — Ти відчув аромат?
+\- _He perdido el programa_ \(I have lost the program\) — Я втратив програму
+\- _Me he perdido_ \(I have got lost\) — Я загубився
+\- _Yo me he perdido_ \(I have got lost\) — Я загубився \(з наголосом\)
+\- _Nos hemos perdido_ \(We have got lost\) — Ми загубилися
 
-_el problema_ — проблема
-_el sistema_ — система
-_el aroma_ — аромат
-_el programa_ — програма
-_el clima_ — клімат
-_el tema_ — тема
-_el drama_ — драма
-_el idioma_ — мова
-
-Тепер подивися, як це працює в реальності:
-
-— ¿Has comprendido *el* problema?
-— Sí, pero no he comprendido *el* sistema\.
-
-— *El* aroma es increíble\.
-— Sí, *el* clima también es perfecto\.
-
-💡 Коротка підказка: побачив \-ma в кінці — кажи *el*\. У 90% випадків спрацює\.
-
-👉 **Спробуй вголос:** "He perdido el aroma\. ¿Has comprendido el sistema?"
-
-Далі: Dar — дієслово, яке ти вже використовуєш щодня
+Далі: У наступному уроці вивчимо дієслово _dar_ \(давати\) та як поєднувати займенники в реченні, коли хтось комусь щось дає\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

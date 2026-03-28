@@ -1,36 +1,28 @@
-🇪🇸 *Lesson 73*
+🇪🇸 *Lesson 73 — Language Transfer*
 
-Ever notice how Spanish gets superstitious about the future? The language literally refuses to treat future events as facts\. Wild\.
+*What this lesson is about:*
+The subjunctive appears after _que_ to express what you want someone else to do, and after _cuando_ when you're talking about a future event rather than something general\. When you say "when we eat together" as a general habit, you use normal verb forms\. But when you mean "when we eat together tomorrow," Spanish treats that future event as uncertain, so you switch to the subjunctive\. It's like the language refuses to state future events as solid facts\.
 
-Here's the thing: when you say "when we speak" and mean *generally*, you use normal present tense\. But when you mean "when we speak *later today*", Spanish switches to subjunctive mood — like the language is saying "who are we to claim this will definitely happen?"
+*New constructions:*
+\- _que \+ subjunctive_ — expresses "let him/her/them\.\.\." \(e\.g\., let him wait, let it finish\)
+\- _cuando \+ subjunctive_ — when referring to a future event \(not general habits\)
+\- _ya_ — already
+\- _juntos/juntas_ — together
+\- _voy_ — I go / I'm going
+\- _vaya, vayamos, vayan_ — subjunctive forms of _ir_ \(to go\)
 
-Check this out:
+*Remember:*
+When _cuando_ refers to the future, you use the subjunctive for the verb right after it, but the main verb can stay in the present because the future context is already established\.
 
-*Generally:*
-— Cuando comemos juntos, hablamos\.
-— When we eat together, we speak\.
+*Examples:*
+\- _Que espere_ — Let him wait
+\- _Que termine ya_ — Let it finish already
+\- _Que se calle_ — Let him shut up
+\- _Cuando comamos juntos, hablamos_ — When we eat together, we speak \(generally\)
+\- _Cuando comamos juntos, hablaremos_ — When we eat together, we will speak \(future event\)
+\- _La vemos cuando vamos_ — We see her when we go \(generally\)
+\- _La veremos cuando vayamos_ — We will see her when we go \(future event\)
 
-*Future event:*
-— Cuando comamos juntos, hablaremos\.
-— When we eat together, we will speak\.
-
-See that shift? *Comemos* → *comamos*\. Same "when", totally different vibe\.
-
-Here are 8 examples to nail this:
-
-_Que espere_ — Let him wait
-_Que termine ya_ — Let it finish already
-_Que se calle_ — Let him shut up
-_Cuando hablemos_ — When we speak \(future\)
-_Cuando vayamos_ — When we go \(future\)
-_Que lo haga él_ — Let him do it
-_Cuando llegues_ — When you arrive \(future\)
-_Que vengan todos_ — Let them all come
-
-💡 If there's a *cuando* and you're talking about something that hasn't happened yet, flip to subjunctive\. It's Spanish being humble about the future\.
-
-👉 Say this out loud: *Cuando comamos juntos, hablaremos*\. Feel that future uncertainty?
-
-Next: Ever notice how some Spanish verbs just refuse to play by the rules? Today you're learning one th\.\.\.
+Next: Lesson 74 introduces _elegir_ \(to choose\) and shows how some verbs turn their stressed _e_ into _i_ instead of splitting — plus how to use the subjunctive after _para que_\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

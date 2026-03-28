@@ -1,30 +1,23 @@
-🇪🇸 *Lesson 62*
+🇪🇸 *Lesson 62 — Language Transfer*
 
-You know *le* \(to him/her\) and *lo* \(it/him\)\. But what happens when both show up in one sentence?
+*The core rule:*
+When two pronoun "l"s would come together in Spanish, the first one automatically changes to _se_\. So _le lo_ becomes _se lo_, and _les lo_ becomes _se lo_\. This change has nothing to do with the reflexive _se_ meaning "himself" or "herself" — it's just that Spanish doesn't like having two "l"s next to each other\. This means _se lo_ could mean "I gave it to him," "to her," "to you formally," "to them," or "to you guys" — all ambiguous\.
 
-"I gave it to him" — you might think *le lo di*\. But Spanish refuses two L\-sounds back to back: *le lo* automatically becomes *se lo\.*
+*New constructions:*
+\- _se lo di_ — I gave it to him/her/you/them \(automatic change from _le_ or _les_ before _lo_\)
+\- _se los di_ — I gave them to him/her/you/them
+\- _a él_ / _a ella_ — to him / to her \(used after the sentence to clarify ambiguity\)
 
-— *Se lo di\.*
-— I gave it to him \(or her, or you formal\)\.
-— *¿A él?*
-— To him?
-— *Sí, se lo di a él\.*
+*Remember:*
+When clarifying who you mean with _se_, you keep the pronoun in the sentence and add _a él_, _a ella_, etc\. afterwards\. You're repeating the information, not replacing it\.
 
-Use *a él*, *a ella*, *a usted* to clarify when *se* is ambiguous — just add it at the end\.
+*Examples:*
+\- _Se lo di a él_ — I gave it to him
+\- _Se lo di a ella_ — I gave it to her
+\- _Se los di a él_ — I gave them to him
+\- _Se lo envió a ella_ — He sent it to her
+\- _Se lo di a ustedes_ — I gave it to you guys
 
-_Se lo di_ — I gave it to him/her
-_Se lo doy_ — I give it to him/her
-_Se lo damos_ — we give it to them
-_Nos lo dio_ — he gave it to us
-_Me lo das_ — will you give it to me?
-_Te lo mando_ — I'll send it to you
-_Se los mando_ — I'll send them to them
-_Se la di_ — I gave it \(fem\.\) to him/her
-
-💡 *Le lo*, *le la*, *les lo* — Spanish won't say these\. It swaps *le/les* for *se*\. Always clarify who with *a él / a ella / a ellos / a usted*\.
-
-👉 Say it: *"Se lo di a ella\."* \(I gave it to her\.\)
-
-Next: The verb that makes you talk about yourself
+Next: Lesson 63 introduces _acordar_, the verb for "to remember," which works reflexively — you literally say "I remember myself" to mean "I remember\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

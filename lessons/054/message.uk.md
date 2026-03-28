@@ -1,35 +1,35 @@
-🇪🇸 *Урок 54*
+🇪🇸 *Урок 54 — Language Transfer*
 
-Ти вже знаєш сотні іспанських прикметників\. І навіть не здогадуєшся\.
+**Ключовий принцип:**
+Форма дієслова, яка стоїть після _haber_ \(наприклад, _vendido_, _perdido_, _cerrado_\), може використовуватись як прикметник — так само, як в англійській "sold" означає і "продав", і "проданий"\. Це дає сотні нових прикметників\. Коли ці форми стають прикметниками, вони узгоджуються в роді та числі \(_cerrado/cerrada/cerrados/cerradas_\) і майже завжди йдуть з _estar_, а не з _ser_\.
 
-Пам'ятаєш форми після *he*, *has*, *hemos*? Типу _vendido_, _perdido_, _terminado_? От ці самі форми можна використовувати як прикметники\. Просто бери й використовуй\.
+**Нові конструкції:**
+\- _cerrar_ \(to close\) — закривати  
+\- _cerrado_ \(closed\) — закритий; форма після _haber_ стає прикметником  
+\- _perder_ \(to lose\) — втрачати  
+\- _perdido_ \(lost\) — втрачений, загублений  
+\- _terminar_ \(to finish\) — закінчувати  
+\- _terminado_ \(finished\) — закінчений  
+\- _vender_ \(to sell\) — продавати  
+\- _vendido_ \(sold\) — проданий  
+\- _cansar_ \(to tire\) — втомлювати  
+\- _cansado_ \(tired\) — втомлений; _me canso_ = я втомлююсь  
+\- _mojar_ \(to wet\) — мочити  
+\- _mojado_ \(wet\) — мокрий
 
-Уяви: двері закриті\. Як сказати?
+**Запам'ятай:**
+Коли ти кажеш "_es una silla mojada_" \(це мокрий стілець\), ти використовуєш _ser_, бо головне слово — "стілець", а прикметник вторинний\. Але "_la silla está mojada_" \(стілець мокрий\) — це стан, тому _estar_\.
 
-— ¿Y la puerta?
-— *Está cerrada\.* Está rota також\.
-— Todo está perdido\.
+**Приклади:**
+\- _He cerrado la puerta_ \(I have closed the door\) — Я закрив двері  
+\- _La puerta está cerrada_ \(The door is closed\) — Двері зачинені  
+\- _Estoy perdida_ \(I am lost, feminine\) — Я загубилась  
+\- _Ella es una persona perdida_ \(She is a lost person\) — Вона загублена людина  
+\- _La película está terminada_ \(The movie is finished\) — Фільм закінчений  
+\- _Están vendidas_ \(They are sold, feminine plural\) — Вони продані  
+\- _Estoy cansado_ \(I am tired\) — Я втомлений  
+\- _Es una silla mojada_ \(It is a wet chair\) — Це мокрий стілець
 
-Ось як це працює:
-
-_Está cerrado_ — Зачинено
-_Estoy perdido_ — Я загубився
-_Está terminado_ — Закінчено
-_Están vendidos_ — Вони продані
-_Estoy cansado_ — Я втомлений
-_Está mojado_ — Воно мокре
-_Estás preparado_ — Ти готовий
-_Está roto_ — Воно зламане
-
-Ці прикметники майже завжди йдуть з *estar*, бо описують стан\.
-
-💡 Якщо кажеш "це сіра річ" \(es una silla gris\), то *ser*\. Якщо кажеш "воно сіре" \(está gris від пилу\), то *estar*\. Різниця: *ser* — постійна ознака, *estar* — тимчасовий стан\.
-
-👉 Спробуй зараз вголос: "Я втомлений", "Двері зачинені", "Все продано"\.
-
-У наступному уроці — винятки, які ламають цю систему\. І вони дуже популярні\.
-
-
-Далі: Знаєш, що в іспанській дієслова після he  можна використовувати як прикметники? Просто додаєш est\.\.\.
+**Далі:** У наступному уроці розглянемо, як утворювати конструкції "_should have_" і "_could have_" та кілька неправильних форм після _haber_ — _roto_, _muerto_, _abierto_, _dicho_ і _hecho_\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

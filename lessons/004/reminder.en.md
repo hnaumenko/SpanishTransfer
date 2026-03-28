@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we turned words ending in *\-tion* into verbs \(preparation → preparar\) and attached *me* \(myself\) to them\.
-Translate these phrases in your head, then tap the black rectangles to check yourself before sleep:
+Today we learned that English words ending in \-tion become \-ción in Spanish, and dropping \-ción and adding \-r gives you the verb\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ I want to get ready \(to prepare myself\)\.
+1️⃣ I want to explore\.
+👉 ||Quiero explorar\.||
+
+2️⃣ I don't want to cancel\.
+👉 ||No quiero cancelar\.||
+
+3️⃣ I want to get ready\.
 👉 ||Quiero prepararme\.||
 
-2️⃣ I want to cancel\.
-👉 ||Quiero cancelar\.||
+4️⃣ I want to cooperate\.
+👉 ||Quiero cooperar\.||
 
-3️⃣ I do not want to cancel, I want to explore\.
-👉 ||No quiero cancelar, quiero explorar\.||
-
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+5️⃣ I don't want to complicate\.
+👉 ||No quiero complicar\.||

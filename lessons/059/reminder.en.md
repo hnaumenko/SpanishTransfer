@@ -1,14 +1,19 @@
-🌙 *Lesson 59 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Simple past for \-er/\-ir verbs: drop the ending and add \-í \(I\) or \-ió \(he/she\)\.
+Today we learned that Spanish uses *que* to mean "than" in comparisons, and that Spanish uses logical pronouns \(like "I" and "he"\) where English often uses "me" and "him"\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Comí_ — I ate\.
-_Comió_ — he ate\.
-_Vi_ — I saw\.
-_Vio_ — she saw\.
-_Salí_ — I left\.
-_Salió_ — he left\.
-_Bebí_ — I drank\.
-_Bebió_ — she drank\.
+1️⃣ I ate more than him\.
+👉 ||Comí más que él\.||
 
-*Que* \= "than" for comparisons\. _Comí más que él_ — I ate more than him\.
+2️⃣ Nobody saw anything\.
+👉 ||Nadie vio nada\.||
+
+3️⃣ It lasted two minutes\.
+👉 ||Duró dos minutos\.||
+
+4️⃣ He ate for half an hour\.
+👉 ||Comió durante media hora\.||
+
+5️⃣ He spoke for half an hour without stopping\.
+👉 ||Habló durante media hora sin parar\.||

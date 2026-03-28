@@ -1,9 +1,19 @@
-🌙 *Lesson 28 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-English words ending in \-ive become \-ivo/\-iva in Spanish\. Drop the _e_, add _o_\.
+Today we learned that nouns change endings for gender, that words ending in a consonant add ES for plural, and that English \-ive words become \-ivo in Spanish\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Es adictivo_ — it's addictive\.
-_Es intuitivo_ — it's intuitive\.
-_Ella es creativa_ — she's creative\.
+1️⃣ She is a teacher\.
+👉 ||Ella es profesora\.||
 
-Watch out: sound changes\. English positive \(Z\), Spanish positivo \(S\)\.
+2️⃣ The cars are expensive\.
+👉 ||Los caros son caros\.||
+
+3️⃣ They are doctors \(feminine\)\.
+👉 ||Ellas son doctoras\.||
+
+4️⃣ He is very negative\.
+👉 ||Él es muy negativo\.||
+
+5️⃣ It is intensive\.
+👉 ||Es intensivo\.||

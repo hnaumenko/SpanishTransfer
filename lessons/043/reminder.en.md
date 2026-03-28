@@ -1,9 +1,19 @@
-🌙 *Lesson 43 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-"Would have done": *habría* \+ past participle\.
+Today we learned how to build "would have" constructions using *habría* \(or *habrían*, *habríamos*, etc\.\) plus the past participle ending in *\-ado* or *\-ido*\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Habría ido_ — I would have gone\.
-_Habría comido_ — I would have eaten\.
-_Habría venido_ — I would have come\.
+1️⃣ They would have come\.
+👉 ||Habrían venido\.||
 
-Before sleep: what would you have done differently today?
+2️⃣ I would have gone\.
+👉 ||Habría ido\.||
+
+3️⃣ We would have liked it\.
+👉 ||Nos habría gustado\.||
+
+4️⃣ I should do it\.
+👉 ||Debería hacerlo\.||
+
+5️⃣ We would have eaten\.
+👉 ||Habríamos comido\.||

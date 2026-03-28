@@ -1,31 +1,44 @@
 🇪🇸 *Lesson 10 — Language Transfer*
 
-*Main idea:*
-In Spanish, all verbs in their base form end in *\-ar*, *\-er*, or *\-ir*\. To say "I do something", simply drop this ending and add *\-o*\.
+*The core rule:*
+All Spanish verbs in the "to" form end in \-_ar_, \-_er_, or \-_ir_\. To make the "I" form, chop off the ending and add \-_o_\. But something crucial happens: the accent moves to the penultimate \(second\-to\-last\) syllable\. _Intentar_ becomes _intento_\. If you say _intentó_ with the accent on the end, it means "he tried" — a completely different tense\.
 
 *New constructions:*
-Transforming words into the "I" form:
-
-• _separo_ — I separate
-• _dono_ — I donate
-• _creo_ — I create
-• _respiro_ — I breathe
-
-• _organizo_ — I organize
-• _como_ — I eat
-• _intento_ — I try
-• _confirmo_ — I confirm
+\- _ventilar_ — to ventilate
+\- _separar_ — to separate
+\- _saber_ — to know
+\- _venir_ — to come
+\- _segregar_ — to segregate
+\- _respirar_ — to breathe
+\- _intentar_ — to try
+\- _donar_ — to donate
+\- _crear_ — to create
+\- _comer_ — to eat
+\- _tarde_ — late
+\- _mañana_ — tomorrow
+\- _con_ — with
+\- _confirmar_ — to confirm
+\- _organizar_ — to organize
+\- _tener_ — to have
+\- _más_ — more
+\- _entre_ — between
+\- _tengo_ — I have \(irregular\)
+\- _vengo_ — I come \(irregular\)
 
 *Remember:*
-The stress shifts\! In the base form, stress is on the last syllable \(_intentAR_\), but in the "I" form, it moves to the penultimate syllable \(_inTENto_\)\. Also, you can use the present tense for the future if you add a context word like _mañana_ \(tomorrow\)\.
+When you have a future context like _mañana_, you can just use the present tense\. _Como mañana_ works perfectly in Spanish\.
 
-*Example:*
-• _Separo, dono, creo, respiro\._ — I separate, donate, create, breathe\.
-• _Mañana organizo todo\._ — Tomorrow I organize everything\.
-• _Confirmo mañana\._ — I confirm tomorrow\.
-• _Intento\._ — I try\.
-• _Mañana como con Pablo\._ — Tomorrow I eat with Pablo\.
+*Examples:*
+\- _Intento_ — I try
+\- _No dono_ — I don't donate
+\- _Creo_ — I create
+\- _Como tarde_ — I eat late
+\- _Como con Pablo mañana_ — I'm eating with Pablo tomorrow
+\- _Voy a comer con Pablo mañana_ — I'm going to eat with Pablo tomorrow
+\- _Organizo_ — I organize
+\- _Voy a tener\_\_lo más tarde_ — I'm going to have it later
+\- _Vengo mañana_ — I'm coming tomorrow
 
-Next: Two mutant verbs that break all the rules\.
+Next: Lesson 11 explains how verbs split into two groups for he/she/you/they forms, and why \-_ar_ verbs use the vowel _a_ throughout\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,44 +1,27 @@
-🇪🇸 *Урок 78: Три дієслова, які змінюють все*
+🇪🇸 *Урок 78 — Language Transfer*
 
-Є дієслова, після яких іспанська працює не так, як ти звикла\. Вони як магніти, які притягають до себе особливі конструкції\.
+*Ключовий принцип:*
+Після _seguir_ \(продовжувати\), _empezar/comenzar_ \(починати\) і _terminar_ \(закінчувати\) можна ставити або інфінітив, або герундій — і зміст речення зміниться\. _Empezar a hablar_ — почати говорити; _empezar hablando_ — почати з того, що говорити\. _Terminar de vender_ — закінчити продавати; _terminar vendiendo_ — закінчити тим, що продати \(end up selling\)\. Ці дієслова сполучаються з інфінітивом через прийменник: _empezar/comenzar_ потребують _a_, _terminar_ — _de_\.
 
-Три головних: *seguir* \(продовжувати\), *empezar/comenzar* \(починати\), *terminar* \(закінчувати\)\.
+*Нові конструкції:*
+\- _seguir_ \(to follow/continue\) — продовжувати; після нього ставимо герундій: _sigo hablando_ — я продовжую говорити
+\- _empezar a \+ infinitivo_ — почати щось робити
+\- _empezar \+ gerundio_ — почати з того, що робити щось відразу
+\- _terminar de \+ infinitivo_ — закінчити щось робити
+\- _terminar \+ gerundio_ — закінчити тим, що \(end up doing\)
+\- _gratis_ \(free\) — безкоштовно; звідси англійське gratuitous
+\- _espectacular_ \(spectacular\) — вражаючий, видовищний
 
-Фокус у тому, що після них можна ставити або інфінітив \(з прийменником\), або герундій \(форму на *\-ando/\-iendo*\) — і сенс зміниться\.
+*Запам'ятай:*
+Якщо дієслово потребує прийменника перед інфінітивом, це натяк: можливо, після нього герундій дасть інший відтінок значення\.
 
-**Seguir \+ герундій**
-— ¿Qué hace María?
-— *Sigue hablando* por teléfono\.
-— Вона все ще розмовляє телефоном\.
+*Приклади:*
+\- _Es probable que él siga hablando_ \(It's probable that he continues speaking\) — Імовірно, що він продовжить говорити\.
+\- _Es imperativo que siga siendo gratis_ \(It's imperative that it continues being free\) — Важливо, щоб це залишалося безкоштовним\.
+\- _Es espectacular que empiecen a hablar español_ \(It's spectacular that they start to speak Spanish\) — Вражаюче, що вони починають говорити іспанською\.
+\- _Quiero que hablen conmigo cuando terminen de venderlos_ \(I want you to speak with me when you finish selling them\) — Хочу, щоб ви поговорили зі мною, коли закінчите їх продавати\.
+\- _Quiero que hablen conmigo cuando terminen vendiendo_ \(I want you to speak with me when you end up selling\) — Хочу, щоб ви поговорили зі мною, коли закінчите тим, що їх продасте\.
 
-**Empezar \+ a \+ інфінітив** vs **empezar \+ герундій:**
-_Empiezo a hablar español_ — Я починаю говорити іспанською \(взагалі\)
-_Empiezo hablando español_ — Я починаю, говорячи іспанську \(з самого початку\)
-
-Бачиш різницю?
-
-**Terminar \+ de \+ інфінітив** vs **terminar \+ герундій:**
-_Termino de vender_ — Я закінчую продавати
-_Termino vendiendo_ — Я закінчую тим, що продаю / зрештою продаю
-
-**8 прикладів:**
-
-_Sigo estudiando_ — Я продовжую вчитися
-_Es importante que sigas practicando_ — Важливо, щоб ти продовжував практикувати
-_Empiezan a trabajar_ — Вони починають працювати
-_Es espectacular que empiecen hablando español_ — Круто, що вони одразу починають говорити іспанською
-_Termino de comer_ — Я закінчую їсти
-_Termino comprando todo_ — Зрештою я купую все
-_Quiero que me hables cuando termines de venderlos_ — Хочу, щоб ти поговорив зі мною, коли закінчиш їх продавати
-_Siguen siendo gratuitos_ — Вони як і раніше безкоштовні
-
-💡 Якщо після цих дієслів потрібен прийменник \(*a*, *de*\) — там інфінітив\. Якщо без прийменника — герундій\.
-
-👉 Спробуй вголос: "Я продовжую вчитися" і "Вони починають з того, що говорять іспанською"\.
-
-У наступному уроці — як розпізнати subjuntivo на слух, коли спілкуєшся онлайн\.
-
-
-Далі: Коли іспанці стають суперстиційними
+Далі: У наступному уроці розберемо дієслово _dejar_ \(залишати повідомлення\) та вираз _ojalá_ \(сподіваюсь\), який прийшов з арабської і завжди працює з умовним способом\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

@@ -1,34 +1,36 @@
-🇪🇸 *Lesson 87: The Rebels of Spanish Past Tense*
+🇪🇸 *Lesson 87 — Language Transfer*
 
-Here's the thing about irregular verbs in the preterite: they're rebels, but they all rebel *the same way*\. Once you crack the pattern, you've got them all\.
+*Key pattern:*
+There's a group of irregular verbs in the point in the past that all behave the same way\. First, the base of the verb changes — sometimes just a little, sometimes dramatically\. Second, they use a mixture of endings: the _\-e_ and _\-o_ endings come from the _\-ar_ verbs, and the rest come from the _\-er/\-ir_ verbs\. Third, these endings are never accented\.
 
-Most verbs in the preterite are predictable\. But there's this gang of irregulars that do three sneaky things:
+*New constructions:*
+\- _tuve_ — I had \(point in the past from _tener_\)
+\- _tuvo_ — he/she/it had, you formal had
+\- _tuvimos_ — we had
+\- _tuviste_ — you informal had
+\- _tuvieron_ — they had, you guys had
+\- _estuve_ — I was \(point in the past from _estar_\)
+\- _estuvo_ — he/she/it was, you formal were
+\- _estuvimos_ — we were
+\- _estuviste_ — you informal were
+\- _estuvieron_ — they were, you guys were
+\- _dije_ — I said
+\- _dijo_ — he/she said, you formal said
+\- _dijimos_ — we said
 
-1️⃣ They change their stem \(sometimes dramatically\)
-2️⃣ They mix endings from *both* \-ar and \-er/\-ir verbs
-3️⃣ They drop the accent on the endings
+*Remember:*
+If you're in conversation and can't find the irregular form, you can use the line in the past instead\. It won't be perfect, but you'll get your meaning across while you learn the irregular forms properly later\.
 
-Take *tener* \(to have\)\. The stem *ten\-* becomes *tuv\-*:
-— *Tuve que irme* — I had to leave
-— *¿Dónde estuviste?* — Where were you?
+*Examples:*
+\- _Tuve que ir_ — I had to go
+\- _¿Dónde estuviste?_ — Where were you?
+\- _Estuvimos allí_ — We were there
+\- _¿Qué dijeron?_ — What did they say?
+\- _Dije la verdad_ — I told the truth
+\- _Tuvo un problema_ — He had a problem
+\- _Estuve en la casa_ — I was in the house
+\- _Dijimos no_ — We said no
 
-See? *Tuve* and *estuvo* use \-e and \-o from \-ar verbs, but *tuvimos* and *estuvieron* use \-imos and \-ieron from \-er/\-ir verbs\.
-
-*Here are 8 rebels you'll use constantly:*
-
-_Tuve_ — I had
-_Estuvo_ — he/she/you was/were
-_Dije_ — I said
-_Pude_ — I was able to
-_Hicimos_ — we did/made
-_Vinieron_ — they came
-_Supiste_ — you knew
-_Quisieron_ — they wanted
-
-💡 Feeling stuck mid\-conversation? Use the *imperfect past* instead\. *Tenía que irme* works just fine instead of *tuve que irme*\. Don't let uncertainty shut you down\.
-
-👉 *Say this now:* Pick three rebels above and create your own sentence\.
-
-Next: The Rebel Verbs
+Next: Lesson 88 shows how _poner_ \(to put\) and _hacer_ \(to do/make\) form their irregular bases in the point in the past, and explains why the English "\-pose" pattern appears in Spanish past forms\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

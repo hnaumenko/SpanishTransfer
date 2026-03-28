@@ -1,10 +1,20 @@
-🌙 *Lesson 56 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Spanish NEVER ends sentences with prepositions\. Put it BEFORE the question word or relative pronoun\.
+Today we learned that prepositions cannot come at the end of a sentence in Spanish — they must come before the question word or pronoun\.
 
-_¿De dónde eres?_ — where are you from?\.
-_¿Con quién vas?_ — who are you going with?\.
-_La chica con la que trabajo_ — the girl I work with\.
-_El restaurante en el que comimos_ — the restaurant we ate at\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Preposition goes BEFORE the question word\.
+1️⃣ Where are you from?
+👉 ||¿De dónde eres?||
+
+2️⃣ Where are you going?
+👉 ||¿A dónde vas?||
+
+3️⃣ It's the girl I was working with\.
+👉 ||Es la chica con quien trabajaba\.||
+
+4️⃣ I don't know which one he wants to do it with\.
+👉 ||No sé con cual quiere hacerlo\.||
+
+5️⃣ I don't know who I have to do it because of\.
+👉 ||No sé por quien tengo que hacerlo\.||

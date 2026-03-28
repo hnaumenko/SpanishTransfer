@@ -1,10 +1,19 @@
-🌙 *Lesson 55 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Irregular past participles break the pattern\. Memorize these common ones\.
+Today we learned that common verbs like _romper_, _morir_, _abrir_, _decir_, and _hacer_ have irregular past participles that don't follow the regular \-ado/\-ido pattern\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Romper_ → _roto_ \(broken\)\.
-_Morir_ → _muerto_ \(dead\)\.
-_Abrir_ → _abierto_ \(open\)\.
-_Hacer_ → _hecho_ \(done\)\.
+1️⃣ I have broken it\.
+👉 ||Lo he roto\.||
 
-_Debería haberlo hecho_ — I should have done it\. _Podría haber ido_ — I could have gone\.
+2️⃣ We could have gone\.
+👉 ||Podríamos haber ido\.||
+
+3️⃣ It has got complicated\.
+👉 ||Se ha complicado\.||
+
+4️⃣ I should have cancelled it\.
+👉 ||Debería haberlo cancelado\.||
+
+5️⃣ Made in Spain\.
+👉 ||Hecho en España\.||

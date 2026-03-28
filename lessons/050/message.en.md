@@ -1,39 +1,28 @@
-🇪🇸 *Lesson 50: The Two Spanish Words for "For" \(and When You're Using the Wrong One\)*
+🇪🇸 *Lesson 50 — Language Transfer*
 
-You've been saying "for" wrong half the time\. Spanish has two completely different words — and mixing them up changes your entire meaning\.
+*The core rule:*
+Spanish has two words for "for": _para_ and _por_\. They're not interchangeable\. _Para_ means something is literally for someone — "this is for you\." _Por_ is more flexible: it means "because of," it's used for periods of time, and it appears in _por qué_ \(why\) and _porque_ \(because\)\. You need to think about which meaning you want before translating "for\."
 
-Here's the split:
+*New constructions:*
+\- _para_ — for \(when something is for someone\)
+\- _por_ — for \(because of, for periods of time\)
+\- _razón_ — reason \(feminine\)
+\- _día_ — day \(masculine, despite ending in \-a\)
+\- _todos los días_ — every day \(literally "all the days"\)
+\- _trabajar_ — to work
 
-*Para* \= for \(as in "for someone"\)
-_Lo compro para ti_ — I'm buying it for you
+*Remember:*
+When you say "why" or "because" in Spanish, you're literally saying "because of what" and "because of that" — both use _por_ to mean "because of\."
 
-*Por* \= for \(as in "because of" or time periods\)
-_Lo compro por ti_ — I'm buying it because of you
+*Examples:*
+\- _Estoy comprándolo para ti_ — I'm buying it for you
+\- _Lo compro por ti_ — I'm buying it because of you
+\- _Me quedo por tres días_ — I'm staying for three days
+\- _Me quedaré por tres días_ — I will stay for three days
+\- _Me quedaría por tres días pero tengo que trabajar_ — I would stay for three days but I have to work
+\- _No quiero ir por esta razón_ — I don't want to go because of this reason
+\- _Trabajo todos los días_ — I work every day
 
-See the difference? One means "this is yours\." The other means "you're the reason I did this\."
-
-Imagine your friend who smokes visits\. You bought an ashtray\.
-— _Lo puse por ti\._ \(I put it here because of you\.\)
-NOT _para ti_ — that means you're giving it to them as a gift\!
-
-Use *por* for time too:
-_Me quedo por tres días_ — I'm staying for three days
-
-*8 examples to lock this in:*
-
-_Lo compro para ti_ — I'm buying it for you
-_Lo compro por ti_ — I'm buying it because of you
-_Este es para él_ — This one is for him
-_Por esta razón_ — For this reason \(because of this reason\)
-_Me quedo por tres días_ — I'm staying for three days
-_Trabajo por dos semanas_ — I'm working for two weeks
-_Es para ella_ — It's for her
-_Todos los días_ — Every day
-
-💡 *Quick memory trick:* Para points to a person\. Por explains why\.
-
-👉 Say this out loud: _Lo hago por ti, pero no es para ti\._ \(I'm doing it because of you, but it's not for you\.\)
-
-Next: Ever notice how "I'm there for you" sounds weird if you translate it word\-for\-word? That's becaus\.\.\.
+Next: Lesson 51 shows how to use both _para_ and _por_ with _estar_, and introduces a key rule about what comes after prepositions in Spanish\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

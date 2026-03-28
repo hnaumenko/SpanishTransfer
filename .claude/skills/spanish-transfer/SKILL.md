@@ -133,7 +133,7 @@ if (process.env.NODE_ENV === 'production') {
 
 ## Telegram message format
 
-Every `lessons/NNN/message.md` uses Telegram MarkdownV2, max 900 characters:
+Every `lessons/NNN/message.md` uses Telegram MarkdownV2, max 1200 characters:
 
 ```
 🇪🇸 *Урок N — Language Transfer*

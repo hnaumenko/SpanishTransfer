@@ -1,9 +1,20 @@
-🌙 *Lesson 71 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Contar* \= count, tell a story, AND rely on \(with *con*\)\. *Cuento contigo* — I count on you\. *Cuenta con nosotros* — count on us\.
+Today we learned that Spanish uses a personal _a_ before a specific person who receives the action, and that _contar_ means to count, tell stories, or with _con_, to count on someone\.
 
-_Cuento una historia_ — I tell a story\.
-_Puedes contar conmigo_ — You can count on me\.
-_Siempre cuento con ella_ — I always count on her\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Try: "Espero que cuentes conmigo\."
+1️⃣ I hope that they see María\.
+👉 ||Espero que vean a María\.||
+
+2️⃣ I want you to count on me\.
+👉 ||Quiero que cuentes conmigo\.||
+
+3️⃣ I like that he visits the teacher\.
+👉 ||Me gusta que visite al profesor\.||
+
+4️⃣ We hope that they count on María\.
+👉 ||Esperamos que cuenten con María\.||
+
+5️⃣ I want you to tell me\.
+👉 ||Quiero que me cuentes\.||

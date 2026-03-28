@@ -1,9 +1,20 @@
-🌙 *Lesson 69 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Subjunctive \= mood for wanting, doubting, hoping\. After "I want that" flip the verb\. AR verbs borrow ER endings, ER verbs borrow AR endings\.
+Today we learned how to use the mood tense \(subjunctive\) after expressions like "I want that" or "it is necessary that" — you swap the verb endings: \-ar verbs take \-er/\-ir endings, and \-er/\-ir verbs take \-ar endings\.
 
-_Quiero que hables_ — I want you to speak\.
-_Necesito que vengas_ — I need you to come\.
-_Espero que entiendas_ — I hope you understand\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Try it: "Quiero que hables\."
+1️⃣ I want you to wait for me\.
+👉 ||Quiero que esperes por mí\.||
+
+2️⃣ It is necessary that we eat soon\.
+👉 ||Hace falta que comamos pronto\.||
+
+3️⃣ Do you want me to wait?
+👉 ||¿Quieres que espere?||
+
+4️⃣ I prefer him to stay\.
+👉 ||Prefiero que se quede\.||
+
+5️⃣ I need you to prepare it\.
+👉 ||Necesito que lo prepare\.||

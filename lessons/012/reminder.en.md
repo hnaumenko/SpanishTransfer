@@ -1,15 +1,20 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned *\-er* verbs \(using the E sound\) and word order: the person always comes before the object \(to\-me it they sell\)\.
+Today we learned that \-er verbs use "e" as their key vowel \(instead of "a" like \-ar verbs\), and you build them the same way: key vowel for he/she/you formal, then add "n" or "s" for other forms\.
+
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ I sell them \(the houses\)\.
-👉 ||Las vendo\.||
+1️⃣ I'm selling something\.
+👉 ||Vendo algo\.||
 
-2️⃣ They sell to us\.
-👉 ||Nos venden\.||
+2️⃣ Why don't they sell it to me?
+👉 ||¿Por qué no me lo venden?||
 
-3️⃣ They do not sell it to me\.
-👉 ||No me lo venden\.||
+3️⃣ He sells it\.
+👉 ||Lo vende\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ They're not selling it to us\.
+👉 ||No nos lo venden\.||
+
+5️⃣ You sell something \(informal\)\.
+👉 ||Vendes algo\.||

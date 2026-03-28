@@ -1,30 +1,33 @@
 🇪🇸 *Lesson 11 — Language Transfer*
 
-*Main idea:*
-The biggest group of verbs in Spanish ends in *\-ar*\. To use them, we chop off the *\-ar* and add new endings\. The "a" sound is the principal vowel for this group\!
+*Key pattern:*
+Spanish splits verbs into two groups for conjugation: \-ar verbs and \-er/\-ir verbs\. Most verbs are \-ar verbs, and all new verbs that enter Spanish join this group\. For \-ar verbs, the key vowel sound running through conjugations is *a*\. You take off the ending and build on this: I speak is _hablo_, he/she/it speaks is _habla_, they speak is _hablan_, you informal speak is _hablas_\.
 
 *New constructions:*
-Here are the basic endings for *\-ar* verbs:
-*\-o* — I
-*\-a* — he / she / it / you \(formal\)
-*\-an* — they / you all
-
-• _elimino_ — I delete / I eliminate
-• _elimina_ — he / she deletes
-• _dura mucho_ — it lasts a lot
-• _exagera_ — he / she exaggerates
-
-• _mastico_ — I chew
-• _colaboran_ — they collaborate
-• _hablo_ — I speak
-• _hablan_ — they speak
+\- _durar_ — to last
+\- _exagerar_ — to exaggerate
+\- _masticar_ — to chew
+\- _morder_ — to bite
+\- _colaborar_ — to collaborate
+\- _hablar_ — to speak
+\- _habla_ — he/she/it speaks, you formal speak
+\- _hablan_ — they speak, you plural speak
+\- _hablas_ — you informal speak
+\- _mucho_ — much, a lot
 
 *Remember:*
-In the present tense, the stress always falls on the *second\-to\-last* syllable: e\-li\-MI\-no, e\-xa\-GE\-ra\. If you accidentally put the stress on the very last syllable \(like elimiNÓ\), a Spanish speaker will think you are talking in the past tense\!
+When you have one changed verb alone, pronouns like _lo_ or _la_ must go before it\. But when you have a complete infinitive, you can attach the pronoun to the end instead\.
 
-*Example:*
-_No exagero, colaboran mucho\._ — I do not exaggerate, they collaborate a lot\.
+*Examples:*
+\- _Dura mucho_ — It lasts a long time
+\- _No dura mucho_ — It doesn't last a long time
+\- _Exagero_ — I exaggerate
+\- _No exagera_ — He's not exaggerating
+\- _Colaboran_ — They collaborate
+\- _Hablo_ — I speak
+\- _No hablan con Pablo_ — They're not speaking with Pablo
+\- _Voy a hablar_ — I'm going to speak
 
-Next: The Magic E
+Next: Lesson 12 shows how \-er and \-ir verbs work with their key vowel sound *e*, and how to build all the same person forms using this different pattern\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

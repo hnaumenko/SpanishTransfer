@@ -1,37 +1,32 @@
-🇪🇸 *Lesson 39: Spanish Hates Prepositions \(And You Should Too\)*
+🇪🇸 *Lesson 39 — Language Transfer*
 
-Here's the secret: Spanish drops prepositions where English keeps them\. Instead of "I buy it FOR her" or "He tells it TO me," Spanish just says "I buy her it" and "He tells me it\." Way simpler\.
+*Key pattern:*
+After most prepositions like _para_ \(for\) and _de_ \(from\), Spanish doesn't say "with him" or "for her"\. Instead, it says "with he" or "for she" — _con él_, _para ella_\. The exception is "me" and "you informal", which become _mí_ and _ti_ after prepositions\. So "for me" is _para mí_ and "from you" is _de ti_\.
 
-Watch this pattern:
-_Me compra flores_ — He buys me flowers \(not "for me"\)
-_Les digo la verdad_ — I tell them the truth \(not "to them"\)
-_Te hago un favor_ — I do you a favor \(not "for you"\)
+*New constructions:*
+\- _con_ — with
+\- _para_ — for
+\- _de_ — of, from
+\- _mí_ — me \(after prepositions\)
+\- _ti_ — you informal \(after prepositions\)
+\- _hacer_ — to do, to make
+\- _favor_ — favour
+\- _decir_ — to say, to tell
+\- _comprar_ — to buy
+\- _le/les_ — to/for him/her/them \(replaces prepositions\)
 
-But wait\. SOME prepositions survive\. After *con* \(with\), *para* \(for\), *de* \(from\), you keep the pronoun:
+*Remember:*
+Spanish uses prepositions much less than English\. When you say "he buys it for me" or "he buys it from me", Spanish just says _me lo compra_ — literally "he buys me it"\. The meaning comes from context, not from extra words\.
 
-_para él_ — for him
-_con ella_ — with her
-_de nosotros_ — from us
-_para ellos_ — for them
-_con ustedes_ — with you guys
-_de mí_ — from me \(notice: *mí*, not *yo*\)
-_para ti_ — for you \(notice: *ti*, not *tú*\)
+*Examples:*
+\- _Con él_ — with him
+\- _Para nosotras_ — for us \(feminine group\)
+\- _De ti_ — from you \(informal\)
+\- _Me hace un favor_ — he's doing me a favour
+\- _Quiero decirle_ — I want to tell him
+\- _Les compro_ — I buy for them
+\- _Me lo compra_ — he buys it for me
 
-Here's the magic: those little words *me*, *te*, *le*, *les* replace the whole prepositional phrase:
-
-_Le compro un regalo_ — I buy him a gift
-_Me dice la verdad_ — She tells me the truth
-_Les hago café_ — I make them coffee
-_Te mando un mensaje_ — I send you a message
-_Le pregunto algo_ — I ask her something
-_Me traes agua_ — You bring me water
-_Les escribo un email_ — I write them an email
-_Te doy la llave_ — I give you the key
-
-💡 English brain says: "I buy it FOR him\." Spanish brain says: "I buy him it\." Drop the preposition\.
-
-👉 *Say this now:* "Le compro flores" \(I buy her flowers\)\.
-
-Next: Ever notice how prepositions flip between languages? In English you "fall in love with" someone\. \.\.\.
+Next: Lesson 40 explores why different languages use different prepositions with the same verbs — and how those differences might actually shape the way speakers see the world\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

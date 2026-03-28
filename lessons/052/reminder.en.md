@@ -1,9 +1,20 @@
-🌙 *Lesson 52 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-When English "to" means "in order to," you need *para* in Spanish\. It marks purpose and intention\.
+Today we learned that when "to" means "in order to," Spanish needs *para* before the infinitive, and how to form adjectives with \-ante/\-iente\.
 
-_Estoy aquí para verte_ — I'm here to see you\.
-_Te he llamado para hablar de ello_ — I called you to talk about it\.
-_Salí para comprar café_ — I went out to buy coffee\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Without *para*, the sentence feels incomplete\. It's required\.
+1️⃣ I'm here to see you\.
+👉 ||Estoy aquí para verte\.||
+
+2️⃣ We have spoken to resolve it\.
+👉 ||Hemos hablado para resolverlo\.||
+
+3️⃣ Dancing is healthy\.
+👉 ||Bailar es saludable\.||
+
+4️⃣ I was eating\.
+👉 ||Estaba comiendo\.||
+
+5️⃣ It is frustrating\.
+👉 ||Es frustrante\.||

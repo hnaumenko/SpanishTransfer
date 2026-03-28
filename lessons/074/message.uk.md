@@ -1,36 +1,28 @@
-🇪🇸 *Урок 74: Коли E перетворюється на I \(і чому це не складно\)*
+🇪🗣 *Урок 74 — Language Transfer*
 
-Чому *elegir* \(обирати\) звучить як *elijo*, а не *elego*? Бо іспанська не любить напружуватись\.
+*Ключовий принцип:*
+Після _para_ \(щоб, для того щоб\) завжди йде subjuntivo\. Коли англійське "to" має значення "in order to" \(щоб\), іспанською це буде _para \+ subjuntivo_\. Не можна скоротити фразу на кшталт _para que ellos coman_ до _para comer_ — це змінить сенс із "щоб вони їли" на "щоб ми їли"\.
 
-Коли наголос падає на E, вона часто перетворюється на I\. Без розколів, без драми — просто *i*\.
+*Нові конструкції:*
+\- _elegir_ \(to choose\) — обирати; під наголосом _e_ перетворюється на _i_: _elijo, eliges, elige_
+\- _romper_ \(to break\) — ламати; спорідн\. з rupture, corrupt
+\- _volver_ \(to return\) — повертатися; під наголосом _o_ → _ue_: _vuelvo, vuelves_
+\- _hecho_ \(done\) — зроблено; неправильна форма від _hacer_
+\- _también_ \(as well, also\) — також; буквально "tan \+ bien", як "as well" англійською
+\- _tan_ \(so, as\) — так, такий; у певних контекстах перекладається як "as"
 
-_Yo elijo_ — Я обираю
-_Tú eliges_ — Ти обираєш
-_Nosotros elegimos_ — Ми обираємо \(тут наголос НЕ на E — тому вона залишається\)
+*Запам'ятай:*
+Якщо кажемо "я не хочу, щоб воно зламалося" без уточнення, хто ламає, використовуємо _no quiero que se rompa_\. Якщо додамо підмет — _no quiero que él lo rompa_ \(не хочу, щоб він це зламав\)\.
 
-Тепер підвищуємо ставки\. Після *para que* \(щоб\) — **завжди subjuntivo**\.
+*Приклади:*
+\- _No quiero que elijas por mí_ \(I don't want you to choose for me\) — Не хочу, щоб ти обирав за мене
+\- _No quiero que se rompa_ \(I don't want it to break\) — Не хочу, щоб воно зламалося
+\- _Nos hemos encontrado para hablar_ \(We have met up to speak\) — Ми зустрілися, щоб поговорити
+\- _Hemos cocinado para que coman_ \(We have cooked so that they eat\) — Ми приготували, щоб вони поїли
+\- _Lo he hecho para que vuelvas_ \(I have done it so that you come back\) — Я зробив це, щоб ти повернувся
+\- _Lo han hecho para que volvamos_ \(They have done it so that we come back\) — Вони зробили це, щоб ми повернулися
+\- _Hemos hecho todo para que tú también vuelvas_ \(We have done everything so that you also come back\) — Ми зробили все, щоб і ти теж повернувся
 
-— *No quiero que elijas por mí\.*
-— Я не хочу, щоб ти обирав за мене\.
-
-Ще приклади — всі з subjuntivo після *para que*:
-
-_Para que vuelvas_ — Щоб ти повернувся
-_Para que también vuelvas_ — Щоб ти теж повернувся
-_Para que ellos coman_ — Щоб вони їли
-_Para que no se rompa_ — Щоб воно не зламалось
-_Para que hables_ — Щоб ти говорив
-_Para que aprendas_ — Щоб ти навчився
-_Para que entiendas_ — Щоб ти зрозумів
-_Para que vengas_ — Щоб ти прийшов
-
-💡 *Para que* в мовленні часто скорочується до *pa' que* — слухай носіїв, звикай\.
-
-👉 Спробуй вголос: *He hecho todo para que vuelvas* \(Я зробив все, щоб ти повернувся\)\.
-
-У наступному уроці — ще один обов'язковий випадок subjuntivo\. І він — всюди\.
-
-
-Далі: Коли "де" стає "куди б не", а "що" перетворюється на "що б не"
+Далі: У наступному уроці побачимо, як subjuntivo перетворює "де" на "де б не було", "що" на "що б не було" — і чому для цього достатньо змінити форму дієслова\.
 
 ▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

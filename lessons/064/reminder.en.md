@@ -1,9 +1,19 @@
-🌙 *Lesson 64 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Hace* \+ time \= ago\. *Hace dos semanas* is two weeks ago\. Past tense shortcuts: *tú* adds \-aste/\-iste, *ellos* adds \-aron/\-ieron\.
+Today we learned how to form the point\-in\-the\-past tense for "you" and "they" — using \-aste/\-aron for \-ar verbs and \-iste/\-ieron for \-er/\-ir verbs\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Hace un mes le respondí_ — I answered him a month ago\.
-_¿Dónde viviste?_ — Where did you live?
-_Comieron hace una hora_ — They ate an hour ago\.
+1️⃣ Did you speak?
+👉 ||¿Hablaste?||
 
-Try saying when you last ate: use "hace" and past tense\.
+2️⃣ They ate\.
+👉 ||Comieron\.||
+
+3️⃣ Didn't you go out last night?
+👉 ||¿No saliste anoche?||
+
+4️⃣ When did you arrive?
+👉 ||¿Cuándo llegaste?||
+
+5️⃣ I responded to her one month ago\.
+👉 ||Le respondí hace un mes\.||

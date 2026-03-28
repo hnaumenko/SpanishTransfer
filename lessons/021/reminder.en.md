@@ -1,9 +1,20 @@
-🌙 *Lesson 21 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Past tense: _he_ \(I have\) \+ verb without \-r \+ \-ado \= done\. You know _he_ and verbs already\.
+Today we learned how to form "I have eaten" style past tense using *haber* plus \-ado for \-ar verbs, and that the forms of *haber* follow an A\-E vowel pattern\.
 
-_He hablado_ — I've spoken\.
-_Has celebrado_ — have you celebrated?
-_He terminado_ — I've finished\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Rule: _he_ \+ any verb \= you're done\.
+1️⃣ I have spoken\.
+👉 ||He hablado\.||
+
+2️⃣ We haven't anticipated that\.
+👉 ||No hemos anticipado eso\.||
+
+3️⃣ Have you celebrated?
+👉 ||¿Has celebrado?||
+
+4️⃣ She has taken it\.
+👉 ||Lo ha tomado\.||
+
+5️⃣ Where have they celebrated?
+👉 ||¿Dónde han celebrado?||

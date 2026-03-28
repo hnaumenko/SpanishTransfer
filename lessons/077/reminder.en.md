@@ -1,9 +1,19 @@
-🌙 *Lesson 77 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*¡Qué \+ adjective\!* \= exclamation\. *Es \[value\] que* \= subjunctive trigger\.
+Today we learned how to use _qué_ to express emotion or emphasis \(like "how good\!"\), and that _que_ connecting clauses after certain expressions triggers the subjunctive mood\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_¡Qué bonito\!_ — How beautiful\!
-_Es bueno que estés_ — it's good that you're here\.
-_No es necesario que respondas_ — you don't have to reply\.
+1️⃣ How beautiful\!
+👉 ||¡Qué bonito\!||
 
-Before sleep: say one good thing about today using *¡qué\!*
+2️⃣ It's incredible that he should come here\.
+👉 ||Es increíble que venga aquí\.||
+
+3️⃣ It's okay that you ask\.
+👉 ||Está bien que pregunte\.||
+
+4️⃣ It's not necessary that I reply\.
+👉 ||No es necesario que responda\.||
+
+5️⃣ It's possible that he'll ask soon\.
+👉 ||Es posible que pregunte pronto\.||

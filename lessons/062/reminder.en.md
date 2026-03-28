@@ -1,9 +1,20 @@
-🌙 *Lesson 62 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Le lo* → *se lo*\. Spanish avoids two L\-sounds back to back\.
+Today we learned that when two pronoun "l"s would come together, the first one changes to *se* — so *le lo* becomes *se lo*\. You can clarify who you mean by adding *a él*, *a ella*, etc\. after the sentence\.
 
-_Se lo di_ — I gave it to him/her\.
-_Nos lo dio_ — he gave it to us\.
-_Me lo das_ — will you give it to me?
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Before sleep: think of something you gave someone today — say it in Spanish\.
+1️⃣ I gave it to him\.
+👉 ||Se lo di a él\.||
+
+2️⃣ He sent it to her\.
+👉 ||Se lo envió a ella\.||
+
+3️⃣ I gave them to him\.
+👉 ||Se los di a él\.||
+
+4️⃣ I gave it to you guys\.
+👉 ||Se lo di a ustedes\.||
+
+5️⃣ I gave it to her\.
+👉 ||Se lo di a ella\.||

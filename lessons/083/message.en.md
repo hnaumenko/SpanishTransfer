@@ -1,32 +1,29 @@
-🇪🇸 *Lesson 83: The "Fact That" Trick*
+🇪🇸 *Lesson 83 — Language Transfer*
 
-Here's the weird part: in Spanish, you can turn entire actions into things just by adding "que" \+ a special verb form\.
+*Key pattern:*
+After _que_ \(that, what\), you use the mood tense when talking about hypothetical or doubtful past events\. In English, we say "may have" to get this feeling\. Spanish also uses the mood tense after _si_ \(if\) whenever you're speaking about the past hypothetically — just like English switches "was" to "were" in "if I were you\."
 
-Like this: *que compraste* doesn't just mean "that you bought"\. It means *the fact that you bought*\. And suddenly you can treat a whole action like it's a noun\.
+*New constructions:*
+\- _que compraras_ — that you bought \(hypothetical mood\)
+\- _que le contaras_ — that you told him
+\- _si pudiera_ — if I could
+\- _si hubieras_ — if you had
+\- _si hubiéramos_ — if we had
+\- _si vieras_ — if you saw
+\- _vieras/viera_ — alternative forms _verías/vería_ exist but mean the same thing
 
-— *Que compraste no es mi problema\.*
-— The fact that you bought it is not my problem\.
+*Remember:*
+There's an alternative form of the past subjunctive \(like _vieras_ instead of _vieras_, _hablara_ vs\. _hablase_\)\. The form we've learned is more common, and both mean exactly the same — you don't need to use the alternative, but you should recognize it\.
 
-— *Que le contaste no es mi problema\.*
-— The fact that you told him is not my problem\.
+*Examples:*
+\- _Que lo compraras no es mi problema_ — That you bought it is not my problem\.
+\- _Que le contaras no es mi problema_ — That you told him is not my problem\.
+\- _Si pudiera cocinar, cocinaría_ — If I could cook, I would cook\.
+\- _Si hubieras me lo dicho, habría ido_ — If you had told me it, I would have gone\.
+\- _Si hubiéramos sabido, habríamos ido_ — If we had known, we would have gone\.
+\- _Si vieras su casa_ — If you saw their house\.
+\- _Si lo viera, lo entendería_ — If you saw it, you would understand it\.
 
-See? You're not just connecting sentences\. You're making actions into \*things\*\.
-
-Here are 8 ways to use it:
-
-_Que compraste_ — The fact that you bought it
-_Que le contaste_ — The fact that you told him
-_Que llegaste tarde_ — The fact that you arrived late
-_Que no viniste_ — The fact that you didn't come
-_Que lo perdiste_ — The fact that you lost it
-_Que lo dijiste_ — The fact that you said it
-_Que comiste todo_ — The fact that you ate everything
-_Que no pagaste_ — The fact that you didn't pay
-
-💡 Use this after *no importa* \(doesn't matter\), *es obvio* \(it's obvious\), or *es triste* \(it's sad\)\.
-
-👉 *Say this now:* Que llegaste tarde no es mi problema\.
-
-Next: The "Go" Verbs That Break All the Rules \(But in a Predictable Way\)
+Next: Lesson 84 wraps up the full panorama of Spanish tenses and moods, then tackles irregular verbs as a group — showing how even irregularities follow their own patterns\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

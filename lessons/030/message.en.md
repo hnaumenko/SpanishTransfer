@@ -1,27 +1,28 @@
-🇪🇸 *Lesson 30*
+🇪🇸 *Lesson 30 — Language Transfer*
 
-Ever notice how Spanish turns "stay" into "I remain myself"? Sounds dramatic, but it's actually how you say one of the most useful everyday verbs\.
+*The core rule:*
+Spanish has two question words that both translate as "where" and "how," but they work differently depending on which verb for "to be" you're using\. _Cómo_ means "how" and pairs with both verbs\. _Dónde_ means "where"\. When asking questions about location or temporary states, you use _estar_\. When asking about characteristics or identity, you use _ser_\.
 
-Here's the magic: *quedar* means "to remain," but Spanish adds a twist\. When you want to say "I'm staying," you literally say "I remain myself" — *me quedo*\.
+*New constructions:*
+\- _cómo_ — how
+\- _dónde_ — where
+\- _tener que_ — to have to, must
+\- _deber_ — to owe, must \(also used for probability\)
+\- _quedarse_ — to stay, to remain \(literally "to remain oneself"\)
 
-— Where are you going to be later?
-— *Me quedo aquí*\. I'm staying right here\.
+*Remember:*
+The verb _tener_ \(to have\) shows up in English words like maintain, contain, sustain, entertain, and obtain — that _\-tain_ comes from _tener_\.
 
-It works for everyone:
+*Examples:*
+\- _¿Cómo estás?_ — How are you?
+\- _¿Dónde estás?_ — Where are you?
+\- _No sé dónde estamos_ — I don't know where we are\.
+\- _Voy a estar aquí más tarde_ — I'm going to be here later\.
+\- _¿Dónde vas a estar?_ — Where are you going to be?
+\- _Debe estar aquí_ — He must be here\.
+\- _Debe estar cansado_ — He must be tired\.
+\- _No vamos a quedarnos porque estamos muy cansados_ — We are not going to stay because we are very tired\.
 
-_Me quedo_ — I stay \(I remain myself\)
-_Te quedas_ — You stay \(you remain yourself\)
-_Se queda_ — He/she stays
-_Nos quedamos_ — We stay
-_Se quedan_ — They stay
-_Os quedáis_ — You all stay \(Spain\)
-_Te quedas aquí_ — You're staying here
-_No nos quedamos_ — We're not staying
-
-💡 Think of it like this: you're "remaining yourself" in a place\. The "yourself" part is what makes it mean "stay\."
-
-🎯 *Say this now:* Pick three people you know and say where they're staying tonight using *se queda* or *se quedan*\.
-
-Next: The E That Spanish Can't Live Without
+Next: Lesson 31 explains why Spanish adds an _e_ before words that start with _s_ plus a consonant — and how this pattern connects hundreds of English and Spanish words\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

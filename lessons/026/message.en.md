@@ -1,34 +1,26 @@
-🇪🇸 *Lesson 26: The Power of "Me" \(myself\)*
+🇪🇸 *Lesson 26 — Language Transfer*
 
-You've been saying "I stay" and "I'm going\." But what if you could *remain yourself*, *call yourself*, or even introduce yourself in Spanish? That's what happens when you add one tiny word: *me*\.
+*The core rule:*
+When you want to ask someone's name in Spanish, you don't say "what is your name?" — you say "how do you call yourself?" This uses the reflexive form of _llamar_ \(to call\), so _me llamo_ literally means "I call myself\." It's the natural, everyday way to introduce yourself in Spanish\.
 
-Here's the magic pattern:
+*New constructions:*
+\- _llamar_ — to call or to phone
+\- _me llamo_ — I call myself \(used for introducing yourself\)
+\- _te llamas_ — you call yourself \(informal\)
+\- _¿Cómo te llamas?_ — How do you call yourself? / What's your name? \(informal\)
+\- _cómo_ — how
 
-*me quedo* — I remain myself \(I stay\)
-*me llamo* — I call myself \(my name is\)
+*Remember:*
+The reflexive pronoun _me_ goes after verbs in the infinitive form and before everything else — specifically before the changed \(conjugated\) verb\.
 
-The rule? *Me* goes right after the tiny words \(*voy*, *quiero*, *puedo*\) and before everything else\.
+*Examples:*
+\- _Voy a quedarme hasta las siete_ — I'm going to stay until seven
+\- _¿Quieres quedarte?_ — Do you want to stay?
+\- _Debemos quedarnos_ — We must stay
+\- _¿Piensas quedarte aquí esta noche?_ — Do you plan on staying here tonight?
+\- _Me he quedado_ — I have stayed
+\- _¿Cómo te llamas?_ — What's your name?
 
-— ¿Por qué no *te quedas* aquí?
-— No *puedo quedarme* esta noche\.
-— Why aren't you staying here?
-— I can't stay tonight\.
-
-Now look at these:
-
-_Me quedo_ — I stay
-_No me quedo_ — I don't stay
-_Voy a quedarme_ — I'm going to stay
-_Quiero quedarme_ — I want to stay
-_Debo quedarme_ — I must stay
-_Puedo quedarme_ — I can stay
-_Me he quedado_ — I have stayed
-_Me llamo Ana_ — My name is Ana \(I call myself Ana\)
-
-💡 To introduce yourself, don't say "my name is\." Say *me llamo* \+ your name\. And to ask someone? *¿Cómo te llamas?* \(How do you call yourself?\)
-
-👉 Say this out loud right now: *"Me llamo \\\[your name\\\]\. Voy a quedarme aquí\."*
-
-Next: Where Adjectives Live in Spanish
+Next: Lesson 27 introduces where adjectives go in Spanish — after the noun they describe, not before it like in English\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

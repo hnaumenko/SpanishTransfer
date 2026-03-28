@@ -1,9 +1,19 @@
-🌙 *Lesson 27 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Adjectives come *after* the noun, not before\. _Cámara digital_ — digital camera\.
+Today we learned that adjectives come after the noun they describe, not before it\. 
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_El coche rojo_ — red car\.
-_La casa grande_ — big house\.
-_Un problema serio_ — serious problem\.
+1️⃣ The global situation\.
+👉 ||La situación global\.||
 
-Plural: adjective pluralizes too — _los coches rojos_\.
+2️⃣ I want to buy a digital camera\.
+👉 ||Quiero comprar una cámara digital\.||
+
+3️⃣ The big houses\.
+👉 ||Las casas grandes\.||
+
+4️⃣ I'm staying in the red car\.
+👉 ||Me quedo en el auto rojo\.||
+
+5️⃣ I have bought a red car\.
+👉 ||He comprado un carro rojo\.||

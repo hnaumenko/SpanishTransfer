@@ -1,27 +1,31 @@
 🇪🇸 *Lesson 5 — Language Transfer*
 
-*Main idea:*
-Everyone worries about the Spanish rolled "RR"\. The secret? The harder you try, the worse it gets\. Tension blocks the sound\. Relax your mouth, keep listening, and one day it will just pop out naturally\.
+*What this lesson is about:*
+Spanish uses a rolled R sound that appears when R starts a word or when you see double R inside a word\. The word _pero_ means "but" with a single R, while _perro_ means "dog" with a doubled, rolled R\. Don't stress if you can't make this sound yet — it comes with relaxed listening, not with forcing it\. Even some native speakers struggle with it\.
 
 *New constructions:*
-A single _R_ inside a word is a quick tap\. A double _RR_ \(or _R_ at the beginning of a word\) is rolled\. Let's see the difference and learn some new words:
-
-• _pero_ — but
-• _perro_ — dog
-• _arroz_ — rice
-• _celebrar_ — to celebrate
-
-• _participar_ — to participate
-• _experimentar_ — to experience / to experiment
-• _existir_ — to exist
-• _influencia_ — influence
+\- _celebrar_ — to celebrate
+\- _cancelar_ — to cancel
+\- _pero_ — but
+\- _perro_ — dog
+\- _participar_ — to participate
+\- _experimentar_ — to experiment / to experience
+\- _existir_ — to exist
+\- _inconsistente_ — inconsistent
+\- _incongruente_ — incongruent
 
 *Remember:*
-In Spanish, "to experiment" and "to experience" are the exact same verb: _experimentar_\. Your experience is your experiment\. Observe and learn\!
+Spanish doubles the R to signal the rolled sound inside a word, but a single R at the start of a word is also rolled\.
 
-*Example:*
-_Quiero experimentar, pero es diferente\._ — I want to experience it, but it is different\.
+*Examples:*
+\- _Pero no quiero cancelar_ — But I don't want to cancel
+\- _Quiero participar_ — I want to participate
+\- _Es importante experimentar_ — It's important to experiment
+\- _No es posible celebrar_ — It's not possible to celebrate
+\- _Es inconsistente_ — It's inconsistent
+\- _Quiero visitar pero es imposible_ — I want to visit but it's impossible
+\- _No es interesante participar_ — It's not interesting to participate
 
-Next: How \-tion nouns become Spanish verbs like intento \(I'm trying\)\.
+Next: Lesson 6 introduces how to say "I try" in Spanish and reveals the logic connecting intention to action through verb patterns\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

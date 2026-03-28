@@ -1,9 +1,19 @@
-🌙 *Lesson 49 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Three rebels: *ser* → _era_ \(I was\), *ver* → _veía_ \(I saw\), *ir* → _iba_ \(I went\)\. They break all patterns\.
+Today we learned the irregular imperfect forms of *ver* \(to see\), *ser* \(to be\), and *ir* \(to go\) — three common verbs that don't follow the regular pattern in the imperfect past tense\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Era estudiante_ — I was a student\.
-_Veía películas_ — I watched movies\.
-_Iba al gimnasio_ — I used to go to the gym\.
+1️⃣ I was a student\.
+👉 ||Era estudiante\.||
 
-Gold: _iba a_ \+ infinitive \= "I was going to…" for plans that didn't happen\.
+2️⃣ We were going to do it\.
+👉 ||Íbamos a hacerlo\.||
+
+3️⃣ I had to see you yesterday\.
+👉 ||Tenía que verte ayer\.||
+
+4️⃣ What was she called?
+👉 ||¿Cómo se llamaba?||
+
+5️⃣ I used to have four but now I don't have any left\.
+👉 ||Tenía cuatro pero no me quedan\.||

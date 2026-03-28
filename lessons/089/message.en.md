@@ -1,38 +1,24 @@
-🇪🇸 *Lesson 89: You Can Make Your Own Spanish Rules*
+🇪🇸 *Lesson 89 — Language Transfer*
 
-Here's something most teachers won't tell you: you don't need to memorize every grammar rule\. You just need to learn *how to spot patterns*\.
+*What this lesson is about:*
+This lesson isn't about learning new words or grammar — it's about stepping back and developing the skill to make your own rules\. When you encounter Spanish you don't understand, you can analyze what's happening by identifying patterns: what type of word is involved, what position it's in, what other features it has\. The teacher walks you through three real examples to show how this analytical thinking works in practice\.
 
-Let me show you what I mean\.
+*New constructions:*
+This lesson teaches a skill rather than introducing specific vocabulary\. The teacher demonstrates how to analyze unfamiliar patterns by examining: \(1\) _demasiado/demasiada/demasiados/demasiadas_ — how it changes with nouns but not adjectives, \(2\) _el agua, el ala, el aula_ — feminine words that take _el_ when they're two syllables starting and ending with stressed _a_, and \(3\) _uno/un, alguno/algún, ninguno/ningún_ — how these lose their final _o_ before masculine nouns\.
 
-Take the word *demasiado* \(too much/too many\)\. Watch how it changes:
+*Remember:*
+The goal isn't to memorize what's correct — it's to analyze and understand why something is correct\. When you solve your technical problems this way, you free yourself to live in the language rather than being controlled by it\.
 
-— *Demasiadas casas* — Too many houses
-— *Demasiados coches* — Too many cars
+*Examples:*
+\- _Tengo demasiadas cosas_ — I have too many things
+\- _Está demasiado cansado_ — He's too tired
+\- _El agua está fría_ — The water is cold
+\- _Un hombre_ — A man
+\- _Algún día_ — Some day
+\- _Ningún problema_ — No problem
+\- _Una mujer_ — A woman
+\- _Algunas casas_ — Some houses
 
-But then:
-
-— *Demasiado altos* — Too tall
-— *Demasiado grandes* — Too big
-
-Wait\. Why does it change with *casas* and *coches*, but NOT with *altos* and *grandes*?
-
-Because *casas* and *coches* are *nouns*\. But *altos* and *grandes* are *adjectives*\. That's it\. That's the rule\.
-
-Here are 8 examples so you can feel it:
-
-_Demasiadas preguntas_ — Too many questions
-_Demasiados libros_ — Too many books
-_Demasiadas personas_ — Too many people
-_Demasiados euros_ — Too many euros
-_Demasiado caro_ — Too expensive
-_Demasiado rápido_ — Too fast
-_Demasiado difícil_ — Too difficult
-_Demasiado tarde_ — Too late
-
-💡 When you hear something weird in Spanish, don't panic\. Ask yourself: *What type of word is this?* Noun? Adjective? Verb? That question solves 80% of Spanish mysteries\.
-
-👉 Try it: Find one Spanish sentence today that confuses you\. Break it down\. What's happening?
-
-Next: You're a Spanish Speaker Now
+Next: The next lesson explores dialect differences across the Spanish\-speaking world — from _le_ and _les_ usage in Spain to _vos_ conjugations around the Río de la Plata\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

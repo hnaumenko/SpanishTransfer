@@ -1,15 +1,20 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned that in the "we" form, the stress moves to the ending, so the vowels never split \(_pienso_ → _pensamos_\)\.
+Today we learned that the "we" form of \-ar verbs is made by adding \-amos, and the stress shift means the stem vowel doesn't split anymore\.
+
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ We think\.
-👉 ||Pensamos\.||
+1️⃣ We don't drink alcohol\.
+👉 ||No tomamos alcohol\.||
 
-2️⃣ We find it\.
-👉 ||Lo encontramos\.||
-
-3️⃣ We close\.
+2️⃣ We close\.
 👉 ||Cerramos\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+3️⃣ What do we plan to do?
+👉 ||¿Qué pensamos hacer?||
+
+4️⃣ We find\.
+👉 ||Encontramos\.||
+
+5️⃣ We eat rice\.
+👉 ||Tomamos arroz\.||

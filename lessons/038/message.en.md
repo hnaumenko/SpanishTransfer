@@ -1,31 +1,25 @@
-🇪🇸 *Lesson 38*
+🇪🇸 *Lesson 38 — Language Transfer*
 
-You already know *se* as "himself/herself\." But *se* has a second life: it anchors the action to the subject — and the verb shifts meaning entirely\.
+*The core rule:*
+When you use reflexive verbs in their dictionary form \(the infinitive\), the reflexive pronoun gets attached to the end as one word\. So _quedar_ \(to remain\) becomes _quedarse_ when it means "to stay" \(literally "to remain oneself"\)\. This isn't just spelling — when a verb is reflexive, it often takes on a different meaning, and you'll find it as a separate entry in the dictionary\.
 
-Take *quedar* — "to remain, to suit\." Add *se* and get *quedarse* — "to stay somewhere\." The difference is subtle, but Spanish speakers hear it\.
+*New constructions:*
+\- _quedarse_ — to stay \(reflexive form of _quedar_, which means "to remain"\)
+\- _darse cuenta_ — to realize \(literally "to give oneself account"\)
+\- _se_ — himself, herself, itself, themselves, yourselves \(formal\)
 
-— *¿Por qué te quedas aquí?*
-— *Me quedo porque me gusta\.*
-— Why are you staying here?
-— I'm staying because I like it\.
+*Remember:*
+The reflexive pronoun always attaches directly to the infinitive and is written as a single word, but when you conjugate the verb, the pronoun separates and goes before the conjugated form\.
 
-And here's a gem: *darse cuenta* — "to realize\." Literally, "to give yourself account\."
+*Examples:*
+\- _Nos damos cuenta_ — We realize
+\- _Se da cuenta_ — He realizes
+\- _Nos quedamos_ — We stay
+\- _Se quedan_ — They stay
+\- _¿Se da cuenta de eso?_ — Does he realize that?
+\- _Ellos se quedan aquí_ — They stay here
+\- _Me quedo en casa_ — I stay at home
 
-8 forms you already have the tools to build:
-
-_Me quedo_ — I stay
-_Te quedas_ — you stay
-_Se queda_ — he/she stays
-_Nos quedamos_ — we stay
-_Se quedan_ — they stay
-_Me doy cuenta_ — I realize
-_Te das cuenta_ — you realize
-_Se da cuenta_ — he/she realizes
-
-💡 The *se* in *quedarse* doesn't mean "himself" — it signals that the action is locked onto the subject\. That's what shifts the meaning\.
-
-👉 Say this now: *"Me quedo aquí\. ¿Te das cuenta?"*
-
-Next: Spanish Hates Prepositions \(And You Should Too\)
+Next: Lesson 39 explores how Spanish uses prepositions differently than English — and why you'll often drop them entirely where English requires them\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

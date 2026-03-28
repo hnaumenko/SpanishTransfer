@@ -1,37 +1,30 @@
-🇪🇸 *Lesson 72: Commands in Spanish*
+🇪🇸 *Lesson 72 — Language Transfer*
 
-Here's something wild: Spanish has a special mood just for telling people what to do\. And you're about to unlock it\.
+*Main idea:*
+Spanish uses the subjunctive mood for commands in almost every case\. Whether you're telling someone not to do something or giving orders to groups, you switch the verb ending to the subjunctive\. The one exception is positive informal commands — when you're telling one person casually to do something\. For those, Spanish takes a shortcut: just drop the _s_ from the informal _tú_ form\.
 
-Most commands use the *subjunctive* mood \(don't worry about the name\)\. It's basically flipping the vowel: \-ar verbs swap to \-e, and \-er/\-ir verbs swap to \-a\.
+*New constructions:*
+\- _ahí_ — there \(spelled a\-h\-i\)
+\- _allí_ — there \(spelled with double _ll_; nearly identical to _ahí_\)
+\- _olvidar_ — to forget \(related to "oblivion" in English\)
+\- _comprar_ — to buy
+\- _faltar_ — to lack, to be missing, to be necessary
+\- _callar_ — to quiet, to shut up
+\- _cállate_ — shut up \(informal, not very polite\)
 
-But here's the twist: *positive informal* commands \(telling ONE friend to DO something\) take a shortcut — just drop the S from the tú form\. That's it\.
+*Remember:*
+With positive commands in Spanish, pronouns like _me_ or _lo_ attach to the end of the verb and are written as one word, which helps your ear recognize that it's a command\.
 
-*compras* → *compra* \(buy\)
-*comes* → *come* \(eat\)
-*hablas* → *habla* \(speak\)
+*Examples:*
+\- _No hables_ — Don't speak
+\- _No te quedes ahí_ — Don't stay there
+\- _Espérenme_ — Wait for me \(speaking to more than one person\)
+\- _No lo olvides_ — Don't forget it \(informal\)
+\- _Cómelo_ — Eat it \(informal\)
+\- _No lo coman_ — Don't eat it \(speaking to more than one person\)
+\- _Véndelo_ — Sell it \(informal\)
+\- _Cállense_ — Shut up \(speaking to more than one person\)
 
-— Buy this\!
-— *Compra esto\.*
-— No, don't buy it\.
-— *No, no lo compres\.*
-
-See? Positive \= shortcut\. Negative \= subjunctive\.
-
-Here are 8 you'll use constantly:
-
-_No hables_ — Don't speak
-_No te quedes_ — Don't stay
-_Espérenme_ — Wait for me \(plural\)
-_Cómelo_ — Eat it \(informal\)
-_No lo comas_ — Don't eat it \(informal\)
-_Olvídalo_ — Forget it \(informal\)
-_Véndelo_ — Sell it \(informal\)
-_Cállate_ — Shut up \(informal\)
-
-💡 With positive commands, those little words \(*lo, la, me*\) stick to the END of the verb: *cóme*\+*lo* \= *cómelo*\. It's instantly recognizable as a command\.
-
-👉 Say this now: *"Cómelo\."* Feel how natural that shortcut is?
-
-Next: Ever notice how Spanish gets superstitious about the future? The language literally refuses to tr\.\.\.
+Next: Lesson 73 shows how the subjunctive works when you want to express what you want someone else to do — like "let him wait" or "let it finish" — and why Spanish treats future events after "when" differently from present habits\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

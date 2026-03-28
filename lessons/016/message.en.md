@@ -1,29 +1,28 @@
 🇪🇸 *Lesson 16 — Language Transfer*
 
 *Main idea:*
-When the stress falls on the vowel "O" in the root of a verb, it often splits into "UE"\. You can see this clearly when words cross from English to Spanish \(like port → puerto, nov → nuevo, mort → muerto\)\.
+In the present tense, vowels in the verb root can split when they're stressed\. An _e_ might split into _ie_, and an _o_ might split into _ue_\. This happens because the present tense puts the accent on the second\-to\-last syllable, which creates pressure on the vowel\. You can see this same pattern between English and Spanish words: port becomes _puerto_, force becomes _fuerza_, school becomes _escuela_\.
 
 *New constructions:*
-Let's look at some new verbs where "O" becomes "UE", alongside our previous rule of "E" splitting to "IE" \(_empezar_\):
-
-• _empezar_ — to start
-• _empiezo_ — I start
-• _dormir_ — to sleep
-• _duermo_ — I sleep
-
-• _encontrar_ — to find
-• _encuentro_ — I find
-• _mostrar_ — to show
-• _muestro_ — I show
+\- _empezar_ — to start
+\- _encontrar_ — to find, to encounter
+\- _mostrar_ — to show
+\- _dormir_ — to sleep
+\- _me duermo_ — I fall asleep \(literally "I sleep myself"\)
+\- _muerto_ — dead \(adjective or noun\)
 
 *Remember:*
-To say "I fall asleep", Spanish speakers literally say "I sleep myself" — _me duermo_\. Always run back to the "to" form of the verb \(_dormir_, _empezar_\) so you do not get confused by the vowels\!
+Always go back to the _tú_ form before you decide whether a vowel splits\. Otherwise you're guessing, and you lose control of the pattern\.
 
 *Examples:*
-• _¿Cuándo empiezas\?_ — When do you start\?
-• _Lo encuentro horrible\._ — I find it horrible\.
-• _Me duermo\._ — I fall asleep\.
+\- _Empiezo mañana_ — I start tomorrow
+\- _¿Cuándo empiezas?_ — When are you starting?
+\- _Él empieza_ — He starts
+\- _Ellos empiezan_ — They start
+\- _No encuentro el libro_ — I don't find the book
+\- _Me duermo_ — I fall asleep
+\- _Él duerme_ — He sleeps
 
-Next: Why "we" saves the verbs
+Next: Lesson 17 shows how the vowel\-splitting pattern applies to verbs like _querer_ \(to want\) and _perder_ \(to lose\), and why the _we_ form behaves differently\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

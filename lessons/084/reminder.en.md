@@ -1,12 +1,19 @@
-🌙 *Lesson 84 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-GO\-verbs add _\-go_ only in the "I" form\: _tengo, vengo, salgo, pongo_\.
+Today we learned that irregular "go verbs" add *go* in the I form of the present tense, and this *go* becomes *g* for all persons in the subjunctive mood\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Tengo_ — I have\.
-_Vengo_ — I come\.
-_Salgo_ — I leave\.
-_Pongo_ — I put\.
+1️⃣ I have a car\.
+👉 ||Tengo un coche\.||
 
-In the subjunctive, that _\-g_ spreads to everyone\: _venga, salga, ponga, haga, diga_\.
+2️⃣ I want you to come\.
+👉 ||Quiero que vengas\.||
 
-Say out loud: "No quiero que me distraigas\."
+3️⃣ I leave tomorrow\.
+👉 ||Salgo mañana\.||
+
+4️⃣ I don't want you to distract me\.
+👉 ||No quiero que me distraigas\.||
+
+5️⃣ I want you to bring the book\.
+👉 ||Quiero que traigas el libro\.||

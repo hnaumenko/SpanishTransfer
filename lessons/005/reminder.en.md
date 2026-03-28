@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned to relax our mouth for the rolled _RR_ and discovered that an experience is an experiment\.
-Translate these phrases in your head, then tap the black rectangles:
+Today we learned that Spanish doubles the R to create a rolled sound inside words, and we practiced new verbs like celebrate, cancel, participate, and the word "but"\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ But \(not a dog\!\)\.
-👉 ||Pero\.||
+1️⃣ I want to participate\.
+👉 ||Quiero participar\.||
 
-2️⃣ Dog\.
-👉 ||Perro\.||
+2️⃣ But I don't want to cancel\.
+👉 ||Pero no quiero cancelar\.||
 
-3️⃣ I want to experience it \(to experiment\)\.
-👉 ||Quiero experimentar\.||
+3️⃣ It's important to experiment\.
+👉 ||Es importante experimentar\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ It's inconsistent\.
+👉 ||Es inconsistente\.||
+
+5️⃣ I want to visit but it's impossible\.
+👉 ||Quiero visitar pero es imposible\.||

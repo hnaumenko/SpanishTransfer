@@ -1,27 +1,24 @@
 🇪🇸 *Lesson 9 — Language Transfer*
 
-*Main idea:*
-You already know the verb "to know" — _saber_ \(think of the English slang "savvy"\)\. More importantly, you are now ready to build huge sentences by breaking them down into small, manageable blocks\!
+*What this lesson is about:*
+This lesson introduces _saber_, the verb for "to know," and _si_, which means both "yes" and "if\." You'll also see how Spanish lets you build longer sentences by thinking block by block — each piece on its own is simple, even when the full sentence looks overwhelming\. The focus is on using what you already have to say things you didn't think you could\.
 
 *New constructions:*
-Note the word _explicar_ \(to explain\) — it is an exception to our usual rules\. We also add _te_ \(informal "you" / "to you"\):
-
-• _saber_ — to know
-• _si_ — if / whether
-• _sí_ — yes
-• _explicar_ — to explain \(think of the English word _inexplicable_\)
-
-• _te_ — you / to you \(informal\)
-• _quiero saber si_ — I want to know if
-• _explicarte_ — to explain to you
-• _justificarme_ — to justify myself
+\- _saber_ — to know \(related to English "savvy"\)
+\- _si_ — if \(also means "yes"\)
+\- _explicar_ — to explain \(from _inexplicable_; not _explicación_\)
+\- _algo_ — something
 
 *Remember:*
-Do not be afraid of long sentences\! Put 100% of your mental energy into one block at a time\. Say "I want to know", then forget it and focus on "if she wants", then "to come"\. Once you say a block, let it go\!
+When building a sentence, give 100% of your attention to one block at a time, then forget it and move to the next\. You don't need to hold everything in your head at once\.
 
-*Example:*
-_No intento justificarme, pero quiero explicarte algo\._ — I am not trying to justify myself, but I want to explain something to you\.
+*Examples:*
+\- _No quiero saber_ — I don't want to know
+\- _Quiero saber si quiere venir_ — I want to know if he wants to come
+\- _¿Por qué no quiere visitarme?_ — Why doesn't he want to visit me?
+\- _Quiero saber si quiere venir a la casa a visitarme_ — I want to know if she wants to come to the house to visit me
+\- _No intento justificarme, pero quiero explicarte algo_ — I'm not trying to justify myself, but I want to explain something to you
 
-Next: discovering that you already know 500 Spanish verbs\.
+Next: Lesson 10 shows how Spanish verbs change their endings to match "I," "you," or "he/she" — and the clear pattern behind it\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

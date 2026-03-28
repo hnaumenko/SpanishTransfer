@@ -1,26 +1,38 @@
-🇪🇸 *Lesson 44: When Spanish breaks its own rules*
+🇪🇸 *Lesson 44 — Language Transfer*
 
-You've learned that words ending in \-o are masculine and words ending in \-a are feminine\. Time to meet the rebels\.
+*Main idea:*
+Most Spanish words ending in \-o are masculine and words ending in \-a are feminine, but there are exceptions\. Many words ending in \-ma came into Spanish through Greek and remained masculine despite their feminine appearance\. There are also a few words ending in \-o that are feminine, like _mano_ \(hand\)\. Words like _foto_ and _moto_ are actually shortened forms of longer feminine words\.
 
-Many Spanish words came from Greek, where they were *neuter*\. When they entered Spanish, they kept their \-a ending but became *masculine*\. Surprise\!
+*New constructions:*
+\- _el problema_ — the problem \(masculine despite \-a ending\)
+\- _el sistema_ — the system
+\- _el paradigma_ — the paradigm
+\- _el esquema_ — the outline or diagram
+\- _el diagrama_ — the diagram
+\- _el planeta_ — the planet
+\- _este/esta_ — this \(masculine/feminine\)
+\- _ese/esa_ — that \(masculine/feminine\)
+\- _esos/esas_ — those \(masculine/feminine\)
+\- _grande_ — big
+\- _la mano_ — the hand \(feminine despite \-o ending\)
+\- _manejar_ — to handle, to manage, to drive
+\- _tomar_ — to take
+\- _la foto_ — the photo \(short for _la fotografía_\)
+\- _la moto_ — the motorbike \(short for _la motocicleta_\)
+\- _la cámara_ — the camera
 
-*el problema* — the problem
-*el sistema* — the system
-*el paradigma* — the paradigm
-*el esquema* — the outline
-*el diagrama* — the diagram
-*el planeta* — the planet
-*el programa* — the program
-*el tema* — the theme
+*Remember:*
+Words beginning with s\+consonant in Spanish need an e\- at the start, like _España_ for Spain or _espagueti_ for spaghetti\. This same pattern applies to _esquema_ from the Greek word for scheme\.
 
-Notice something? They all end in *\-ma*\. Greek fingerprints all over them\.
+*Examples:*
+\- _Quiero ese carro_ — I want that car
+\- _No quiero ese carro porque es muy grande_ — I don't want that car because it's very big
+\- _¿Puedes darme una mano?_ — Can you give me a hand?
+\- _¿Podrías darme una mano?_ — Could you give me a hand?
+\- _Deberías darme una mano_ — You should give me a hand
+\- _Estoy manejando el problema_ — I'm managing the problem
+\- _Me gustaría tomar una foto pero no tengo mi cámara_ — I would like to take a photo but I don't have my camera
 
-And then there's *la mano* \(the hand\) — ends in \-o but it's *feminine*\. Why? Nobody really knows\. Spanish just decided to keep us on our toes\.
-
-💡 When you see \-ma words, think masculine\. When someone says *"el problema,"* don't correct them — they're right\.
-
-👉 Say this now: *"Estoy manejando el problema"* \(I'm managing the problem\)\. Try using one \-ma word in a sentence today\.
-
-Next: The Secret to Sounding Like a Native with "Me Gusta"
+Next: Lesson 45 explores how _gustar_ works differently from English "to like"—using "to be pleasing to" with indirect object pronouns _le_ and _les_ instead of direct objects\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,44 +1,23 @@
-🇪🇸 *Lesson 90: You're a Spanish Speaker Now*
+🇪🇸 *Lesson 90 — Language Transfer*
 
-You made it\. You actually speak Spanish now\. Wild, right?
+*The core rule:*
+This isn't a grammar lesson — it's about dialect variation and what comes next\. In most of Spain, _le_ and _les_ are used for all people \(him, her, you formal, them\), while _lo/la/los/las_ refer only to things\. But in most of Latin America, this distinction doesn't exist\. You'll also hear an aspirated S in some regions, _vos_ instead of _tú_ in parts of Latin America, and _vosotros_ only in Spain\.
 
-Before you run off to celebrate, let's talk about the Spanish you'll *actually* hear out there in the wild — because it's not all the same\.
+*New constructions:*
+Regional variations, not new grammar\. The lesson focuses on recognizing dialectal differences: _le/les_ for people in Spain, aspirated S sounds, _vos_ conjugations like _podés_ or _querés_, and the Spain\-only _vosotros_\.
 
-🗣 *The Spain Thing:*
-In most of Spain, they use *le* and *les* for ALL people \(him, her, you formal, them\) — not just "to him/her\."
+*Remember:*
+Listening is a separate skill from speaking\. At first, you won't understand as much as you can say — but if you insist on breaking down what you hear, just like we built up sentences in the course, Spanish will slow down and you'll understand much more\.
 
-So a Spaniard says:
-*Le veo* — I see him/her/you
-*Le veo* — I see it \(if it's a person\)
+*Examples:*
+\- _Lo veo_ — I see it \(or him, in Latin America\)
+\- _Le veo_ — I see him/her/you \(in most of Spain\)
+\- _¿Podés venir?_ — Can you come? \(_vos_ form\)
+\- _¿Querés algo?_ — Do you want something? \(_vos_ form\)
+\- _Eso es interesante_ — That is interesting
+\- _Estoy practicando español_ — I'm practicing Spanish
+\- _Tienes que insistir_ — You have to insist
 
-But in Latin America? *Lo veo, la veo* — totally different system\. Don't worry, you'll recognize it instantly\.
+Next: This is the final lesson of the course\. Congratulations — you're now a Spanish speaker\.
 
-Spain also has *vosotros* \(you guys, informal\), which doesn't exist in Latin America\.
-
-💨 *The Vanishing S:*
-In many accents, the *s* disappears or gets whispered:
-*¿Cómo estás?* \(sounds like *¿Cómo ehtáh?*\)
-*eso* \(sounds like *eho*\)
-
-Around Buenos Aires and Montevideo, you'll hear *vos* instead of *tú*, with slight verb tweaks:
-*¿Vos querés?* instead of *¿Tú quieres?*
-*Vos podés* instead of *Tú puedes*
-
-🎯 *Regional Flavor — 8 Quick Variations:*
-
-_Le veo_ \(Spain\) — I see him/her/you
-_Lo veo_ \(Latin America\) — I see him
-_¿Vosotros tenéis?_ \(Spain\) — Do you guys have?
-_¿Ustedes tienen?_ \(Latin America\) — Do you guys have?
-_¿Vos querés café?_ \(Argentina\) — Do you want coffee?
-_Estoy cansado_ — I'm tired \(standard pronunciation; some accents aspirate the s\)
-_¿Cómo estás?_ — How are you? \(standard pronunciation; some accents aspirate the s\)
-_Vos podés hacerlo_ — You can do it \(vos form\)
-
-💡 Speak like the people you're practicing with\. The more you mirror their Spanish, the more you'll understand\.
-
-👉 *Your mission now:* Get out there and practice\. Watch movies with subtitles\. Listen to music\. Don't stress if you don't understand everything at first — listening is a separate skill\. The more you break down what you hear, the more Spanish will *slow down*\.
-
-You've reached the last lesson\. The rest is practice\.
-
-▶️ [Complete the course](https://t.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,34 +1,25 @@
-🇪🇸 *Lesson 82: The Mood Tense Escape Hatch*
+🇪🇸 *Lesson 82 — Language Transfer*
 
-You're about to learn a trick that lets you say almost anything in Spanish without wrestling with the subjunctive mood\.
+*The core rule:*
+You can avoid using the subjunctive mood by restructuring your sentence\. Instead of saying "it's important that" \(_es importante que_\), which triggers the subjunctive, you can say "the important thing is that" \(_lo importante es que_\)\. After _es que_, you don't need the subjunctive — you can use regular verb forms\. This gives you flexibility when speaking\.
 
-Here's the deal: saying *"Es importante que\.\.\."* \(It's important that\.\.\.\) forces you into mood tense territory\. But there's a workaround\.
+*New constructions:*
+\- _era_ — was \(the line in the past from _ser_; sounds like the English word "era"\)
+\- _increíble_ — incredible, unbelievable \(from _in\-_ plus _creíble_, believable, from _creer_, to believe\)
+\- _lo importante_ — the important thing \(using _lo_ \+ adjective to create "the \[adjective\] thing"\)
+\- _lo increíble_ — the incredible thing
 
-Instead of saying *"It's important that,"* just say *"The important thing is that\.\.\."* and suddenly\? No mood tense needed\.
+*Remember:*
+The structure _lo_ \+ adjective creates "the \[adjective\] thing" — _lo importante_, _lo increíble_, _lo espectacular_\. You can use any adjective this way to avoid the subjunctive mood when you need to\.
 
-Watch this in action:
+*Examples:*
+\- _No era muy relevante que lo encontraron_ — It wasn't very relevant that they found it\.
+\- _Era muy relevante que lo encontraran_ — It was very relevant that they found it\.
+\- _Lo increíble es que vuelven_ — The incredible thing is that they come back\.
+\- _Lo increíble es que vuelven a hacerlo_ — The incredible thing is that they do it again\.
+\- _Es increíble que vuelvan a hacerlo_ — It's incredible that they do it again\.
+\- _Es increíble que volvieran a hacerlo_ — It's incredible that they did it again\.
 
-— *Es increíble que vuelvan\.*
-— What's so incredible?
-— *Lo increíble es que vuelven\.* The incredible thing is that they're coming back\.
-
-See that? *Lo \+ adjective \+ es que* \= your escape hatch\.
-
-Here are 8 ways to use it:
-
-_Lo importante es que funcionó_ — The important thing is that it worked
-_Lo raro es que no llamaron_ — The weird thing is that they didn't call
-_Lo bueno es que terminamos_ — The good thing is that we finished
-_Lo malo es que cuesta mucho_ — The bad thing is that it costs a lot
-_Lo gracioso es que lo sabía_ — The funny thing is that he knew
-_Lo triste es que no vienen_ — The sad thing is that they're not coming
-_Lo curioso es que lo encontraron_ — The curious thing is that they found it
-_Lo increíble es que lo hacen otra vez_ — The incredible thing is that they're doing it again
-
-💡 Use this pattern when you want to express an opinion without triggering the mood tense\. It's conversational and natural\.
-
-👉 Say this now: *Lo increíble es que funciona\.* The incredible thing is that it works\.
-
-Next: The "Fact That" Trick
+Next: Lesson 83 shows how starting a sentence with _que_ \(that\) can express "the fact that" and introduces the past subjunctive for hypothetical situations like "if I could" or "if you had told me"\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,39 +1,27 @@
-🇪🇸 *Lesson 37*
+🇪🇸 *Lesson 37 — Language Transfer*
 
-Ever wonder why Spanish sometimes sounds like alphabet soup when people start stacking tiny words? Here's the secret: *me*, *te*, and *nos* are the easy ones — they never change whether they mean "me," "to me," "for me," or even "myself\."
+*What this lesson is about:*
+Spanish uses the same small words for direct and indirect objects, but the ones starting with L change form\. _Me_, _te_, and _nos_ stay the same whether you mean "me," "to me," "for me," or even "myself\." But _lo_, _la_, _los_, and _las_ become _le_ and _les_ when you mean "to him," "to her," "to them," or "to you" formal\. When two of these words appear together, the person always comes before the thing\.
 
-But *lo*, *la*, *los*, *las*? They *transform* when you mean "to him/her/them\."
+*New constructions:*
+\- _algo_ — something
+\- _me doy cuenta_ — I realize \(literally "I give myself account"\)
+\- _le_ — to him, to her, to you formal
+\- _les_ — to them, to you guys
 
-Watch what happens:
+*Remember:*
+When you use these small words, think about the feeling of the sentence\. Are you cooking me, or cooking something for me? The grammar follows the meaning, not the English word\-for\-word translation\.
 
-— *¿Me lo das?*
-— *Sí, te lo doy mañana\.*
-— Will you give it to me?
-— Yes, I'll give it to you tomorrow\.
+*Examples:*
+\- _¿Me lo darán?_ — Will you guys give it to me?
+\- _Te darán algo_ — They will give you something
+\- _Me doy cuenta_ — I realize
+\- _Le doy algo_ — I give him something \(or: I give her something, I give you something formal\)
+\- _Les he hablado_ — I have spoken to them
+\- _Nos está cocinando algo_ — He is cooking something for us
+\- _Nos las cocina_ — He is cooking them for us
+\- _Les hablan_ — They are speaking to them
 
-See how *lo* stayed *lo*? That's because it's the thing being given\. But check this out:
-
-*Le hablo* — I speak to him/her
-*Les doy algo* — I give them something
-*Le cocino* — I'm cooking for him/her
-
-When you mean "to someone," *lo/la* becomes *le*, and *los/las* becomes *les*\.
-
-Here are 8 you'll actually use:
-
-_Le doy el libro_ — I give him the book
-_Les hablo mañana_ — I'll speak to them tomorrow
-_¿Le cocinas algo?_ — Are you cooking something for her?
-_Les damos dinero_ — We give them money
-_No le digo nada_ — I don't tell him anything
-_¿Les escribes?_ — Do you write to them?
-_Le compro café_ — I buy him coffee
-_Les mando un mensaje_ — I send them a message
-
-💡 Bonus: *Me doy cuenta* \(I give myself account\) \= I realize\. *¿Te das cuenta?* \= Do you realize?
-
-👉 Say this out loud three times: *"Le hablo, les hablo\."*
-
-Next: You already know se as "himself/herself\." But se has a second life: it anchors the action to the \.\.\.
+Next: Lesson 38 introduces _se_, which adds "himself," "herself," and "themselves" to the system — and changes the meaning of some verbs when you use it\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

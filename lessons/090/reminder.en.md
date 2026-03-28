@@ -1,9 +1,18 @@
-🌙 *Lesson 90 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-You speak Spanish now\. Regional quirks: Spain uses _le veo_ for people\. Argentina uses _vos_\. Some accents drop S\.
+Today we learned about dialect variations across the Spanish\-speaking world and how listening is a separate skill that develops with practice\. Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Le veo_ — I see him \(Spain\)\.
-_Vos sos_ — You are \(Argentina\)\.
-_¿Cómo ehtáh?_ — How are you \(some accents drop S\)\.
+1️⃣ I see it\.
+👉 ||Lo veo\.||
 
-Speak like those around you\. Now go practice: shows, music, conversations\. ¡You've got this\!
+2️⃣ Can you come? \(vos form\)
+👉 ||¿Podés venir?||
+
+3️⃣ That is interesting\.
+👉 ||Eso es interesante\.||
+
+4️⃣ I'm practicing Spanish\.
+👉 ||Estoy practicando español\.||
+
+5️⃣ You have to insist\.
+👉 ||Tienes que insistir\.||

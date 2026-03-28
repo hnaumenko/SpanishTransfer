@@ -1,46 +1,32 @@
-🇪🇸 *Урок 64: Секрет "hace" \+ всі форми минулого часу*
+🇪🇸 *Урок 64 — Language Transfer*
 
-Хочеш сказати "два тижні тому"? В іспанській це буквально "робить два тижні"\. Звучить дивно, але працює\.
+*Головна ідея:*
+Іспанське _hace_ \(робить\) працює як англійське "ago"\. Замість "два тижні тому" іспанці кажуть "робить два тижні"\. Це логічна конструкція: _hace dos semanas_ \= it makes two weeks \= два тижні тому\. Час вимірюється як те, що "зробилося" від того моменту\.
 
-*hace \+ час* \= тому
+*Нові конструкції:*
+\- _hace_ \(it makes\) — "тому" \(у виразах часу: _hace dos semanas_ \= два тижні тому\)
+\- _semana_ \(week\) — тиждень
+\- _mes_ \(month\) — місяць \(чоловічий рід: _un mes_\)
+\- _anoche_ \(last night\) — вчора ввечері \(не плутати з _esta noche_ \= tonight\)
+\- _respondí_ \(I responded\) — я відповів
+\- _le respondí_ \(I responded to her/him\) — я відповів їй/йому
+\- _discriminé_ \(I discriminated\) — я дискримінував
+\- _comiste_ \(you ate\) — ти з'їв \(неформальне "ти"\)
+\- _saliste_ \(you went out\) — ти вийшов \(неформальне "ти"\)
+\- _hablaron_ \(they spoke\) — вони говорили
+\- _comieron_ \(they ate\) — вони їли
 
-— *Cuándo la viste?*
-— *Hace dos semanas\.*
-— Коли ти її бачив?
-— Два тижні тому\.
+*Запам'ятай:*
+У минулому часі іспанці рідше використовують присвійники, ніж англійці\. Замість "I responded to her letter" вони кажуть "I responded her the letter" — _le respondí la carta_\. Займенник _le_ вже вказує на власника\.
 
-І ще фішка: замість "я відповів на її лист", іспанці кажуть просто "я відповів їй його" — *Le respondí la carta* \(буквально: їй відповідав листа\)\. Без "її", бо це зрозуміло з контексту\.
+*Приклади:*
+\- _Le respondí hace dos semanas_ \(I responded to her two weeks ago\) — Я відповів їй два тижні тому\.
+\- _Le respondí hace un mes_ \(I responded to her one month ago\) — Я відповів їй місяць тому\.
+\- _¿No saliste anoche?_ \(Didn't you go out last night?\) — Ти не виходив вчора ввечері?
+\- _¿Cuándo llegaste?_ \(When did you arrive?\) — Коли ти приїхав?
+\- _¿Por qué no me esperaste?_ \(Why didn't you wait for me?\) — Чому ти мене не почекав?
+\- _Ellos comieron hace siete semanas_ \(They ate seven weeks ago\) — Вони їли сім тижнів тому\.
 
-*Hace un mes le respondí\.* — Місяць тому я їй відповів\.
+Далі: У наступному уроці розберемо, як _más_ перетворює _nada_ і _nadie_ на "nothing else" і "nobody else", і чому іспанці кажуть "я не їв нічого більше" замість "я не їв більше нічого"\.
 
-А тепер — фінальні форми минулого часу:
-
-🔹 *Tú*: *\-aste* \(AR\) та *\-iste* \(ER/IR\)
-_Hablaste_ — ти говорив
-_Comiste_ — ти їв
-_Saliste_ — ти вийшов
-
-🔹 *Ellos/ellas*: *\-aron* \(AR\) та *\-ieron* \(ER/IR\)
-_Hablaron_ — вони говорили
-_Comieron_ — вони їли
-_Salieron_ — вони вийшли
-
-8 прикладів у дії:
-
-_Hace dos semanas la vi_ — Два тижні тому я її бачив
-_Hace un mes le respondí_ — Місяць тому я їй відповів
-_¿No saliste anoche?_ — Ти не виходив вчора ввечері?
-_¿Dónde viviste?_ — Де ти жив?
-_¿Por qué no me esperaste?_ — Чому ти мене не почекав?
-_Ellos prepararon todo_ — Вони все підготували
-_Comieron hace una hora_ — Вони їли годину тому
-_Llegaron hace tres días_ — Вони приїхали три дні тому
-
-💡 *Anoche* — вчора ввечері \(не плутай з *esta noche* — сьогодні ввечері\!\)
-
-👉 Спробуй вголос: *"¿Cuándo llegaste? — Hace dos días\."*
-
-У наступному уроці — чому в минулому для ER/IR дієслів буква *i* скрізь, а *e* тільки в одному місці\. І чому це дзеркало теперішнього часу\.
-
-
-▶️ [Наступний урок](https://t\.me/SpanishMeBot?start=next_uk)
+▶️ [Дивитись наступний урок](https://t.me/SpanishMeBot?start=next_uk)

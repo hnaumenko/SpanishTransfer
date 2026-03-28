@@ -1,29 +1,26 @@
 🇪🇸 *Lesson 2 — Language Transfer*
 
-*Main idea:*
-English contains thousands of words ending in *\-al* that come from Latin\. In Spanish, they are exactly the same, but the stress changes\. If a Spanish word ends in a consonant \(like *\-l*\), the stress always falls on the *last* syllable: NOrrmal → normAL\.
+*The core rule:*
+Words ending in \-al in English tend to come from Latin, and you can convert them straight to Spanish\. The key difference is where you stress the word\. In English, we stress the first syllable — _normal_\. In Spanish, you stress the last syllable — _normal_\. If you pronounce all the vowels exactly as they're written \(a, e, i, o, u as ah, eh, ee, oh, oo\), you'll get a perfect Spanish accent\.
 
 *New constructions:*
-Let's add the universal verb _es_ \(it is / he is / she is\):
-
-• _es_ — it is / he is / she is
-• _no es_ — it is not
-
-• _Es normal_ — It is normal
-• _Es metal_ — It is metal
-• _Es legal_ — It is legal
-• _Es ilegal_ — It is illegal
-• _Es natural_ — It is natural
-• _Es ideal_ — It is ideal
-• _No es fatal_ — It is not fatal
-• _Es cultural_ — It is cultural
+\- _es_ — is, it is, he is, she is, or you are \(formal\)
+\- _no_ — no, not, don't
+\- _no es_ — it isn't, he isn't, she isn't, you aren't \(formal\)
 
 *Remember:*
-Want a perfect Spanish accent? Pronounce every vowel exactly as written\. *A* is always "ah", *E* is always "eh", *I* is always "ee"\. No "swallowed" or ambiguous English sounds\!
+With vocabulary, feel free to guess and experiment\. With sentence structure, take your time and think it through\. Making errors with vocabulary is how you learn quickly\.
 
-*Example:*
-_No es fatal, pero es normal\._ — It is not fatal, but it is normal\.
+*Examples:*
+\- _Es normal_ — It is normal
+\- _No es normal_ — It's not normal
+\- _Es legal_ — It is legal
+\- _Es ilegal_ — It is illegal
+\- _Es liberal_ — He is liberal
+\- _Es natural_ — It's natural
+\- _No es ideal_ — It's not ideal
+\- _Es cultural_ — It is cultural
 
-Next: words ending in \-ant or \-ent become \-ante or \-ente in Spanish\.
+Next: Lesson 3 shows how to convert English words ending in \-ant or \-ent to Spanish, and how to turn adjectives into adverbs using a simple pattern\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

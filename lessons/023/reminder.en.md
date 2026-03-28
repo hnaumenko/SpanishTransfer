@@ -1,9 +1,20 @@
-🌙 *Lesson 23 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Words ending in \-ma are usually masculine, even though they look feminine\. They came from Greek\.
+Today we learned that nouns ending in \-ma are masculine \(not feminine\), because they come from Greek through Latin\.
 
-_El problema_ — the problem\.
-_El sistema_ — the system\.
-_El idioma_ — the language\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-Rule: \-ma → _el_, works 90% of the time\.
+1️⃣ The climate is important\.
+👉 ||El clima es importante\.||
+
+2️⃣ Have you understood the system?
+👉 ||¿Has comprendido el sistema?||
+
+3️⃣ We have got lost\.
+👉 ||Nos hemos perdido\.||
+
+4️⃣ I have felt the aroma\.
+👉 ||He sentido el aroma\.||
+
+5️⃣ You have lost the program\.
+👉 ||Has perdido el programa\.||

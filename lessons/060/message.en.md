@@ -1,38 +1,25 @@
-🇪🇸 *Lesson 60*
+🇪🇸 *Lesson 60 — Language Transfer*
 
-Here's something wild: in Spanish, "we speak" and "we spoke" are *the exact same word*\.
+*Main idea:*
+The "we" form for \-ar and \-er verbs in the past tense looks identical to the present tense\. _Hablamos_ means both "we speak" and "we spoke"\. _Comemos_ means both "we eat" and "we ate"\. The context — words like "yesterday" or "tomorrow" or the rest of your sentence — makes it clear which tense you mean\.
 
-Hablamos\. That's it\. Same form, two meanings\.
+*New constructions:*
+\- _cuando_ — when
+\- _esperar_ — to wait, to hope
+\- _a menudo_ — often
 
-It works like this:
-• AR verbs: hablamos \= we speak AND we spoke
-• ER/IR verbs: comemos \= we eat, but comimos \= we ate
+*Remember:*
+Because \-ar verbs end in \-amos for "we" in both present and past, and \-er verbs end in \-emos in both, only \-ir verbs show a clear difference: _vivimos_ \(we live\) vs\. _vivimos_ \(we lived\) — wait, they're also the same\.
 
-The context usually makes it crystal clear:
+*Examples:*
+\- _Cuando hablamos, comprendo todo_ — When we speak, I understand everything
+\- _Cuando hablamos, comprendí todo_ — When we spoke, I understood everything
+\- _Hablamos ayer_ — We spoke yesterday
+\- _Mañana hablamos_ — We will speak tomorrow
+\- _Esperamos mucho ayer_ — We waited a lot yesterday
+\- _Siempre nos perdemos, pero no nos perdimos ayer_ — We always get lost, but we didn't get lost yesterday
+\- _No salimos a menudo, pero salimos ayer_ — We don't go out often, but we went out yesterday
 
-— When do we speak? I understand everything\.
-— Cuando hablamos, comprendo todo\. ✅ *present*
-
-— When we spoke, I understood everything\.
-— Cuando hablamos, comprendí todo\. ✅ *past*
-
-See? The second part of the sentence shows you which tense you're in\.
-
-Here are 8 examples to lock this in:
-
-_Hablamos ayer_ — We spoke yesterday
-_Hablamos mañana_ — We'll speak tomorrow
-_Esperamos mucho_ — We wait a lot / We waited a lot
-_Comimos ayer_ — We ate yesterday
-_No comemos_ — We don't eat / We didn't eat
-_Vivimos aquí_ — We live here / We lived here
-_Vimos todo_ — We saw everything / We see everything
-_Salimos ayer_ — We went out yesterday
-
-💡 When in doubt, drop in "ayer" \(yesterday\) or "mañana" \(tomorrow\) to make it obvious\.
-
-👉 *Say this out loud now:* "No salimos a menudo, pero salimos ayer\." \(We don't go out often, but we went out yesterday\.\)
-
-Next: Spanish storytelling always has two layers: background and event\.
+Next: Lesson 61 shows how the two past tenses work together in sentences like "I was cooking when the phone rang\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

@@ -1,32 +1,31 @@
-🇪🇸 *Lesson 23: The Greek Trick That'll Save You From Embarrassing Mistakes*
+🇪🇸 *Lesson 23 — Language Transfer*
 
-You've been saying "la problema" haven't you? Don't worry — even advanced learners mess this up\. Here's why:
+*Key pattern:*
+Nouns ending in _\-a_ are feminine, but nouns ending in _\-ma_ are masculine\. These words come from Greek, where they were neuter, but when they entered Spanish through Latin they were treated as masculine\. Recognizing this group helps you avoid a very common mistake\.
 
-Words ending in *\-ma* in Spanish are usually *masculine* \(even though they look feminine\)\. They came from Greek, where they were neuter — and got mistaken as masculine when they entered Spanish\.
+*New constructions:*
+\- _el problema_ — the problem
+\- _comprender_ — to understand
+\- _el sistema_ — the system
+\- _sentir_ — to feel, to perceive \(including smell\)
+\- _el aroma_ — the aroma
+\- _el clima_ — the climate
+\- _el programa_ — the program
+\- _perder_ — to lose
+\- _perderse_ — to get lost \(literally: to lose oneself\)
 
-So it's:
-*el problema* — not "la problema"
-*el sistema* — not "la sistema"
+*Remember:*
+When you say _me he perdido_ fluently, the _e_ of _me_ and the _e_ of _he_ blend together, so it sounds almost like _me perdido_\. The pronoun is still there even if you don't hear it clearly\.
 
-Quick check\-in:
-— ¿Has comprendido *el problema*?
-— Sí, pero no he comprendido *el sistema*\.
+*Examples:*
+\- _¿Has comprendido el problema?_ — Have you understood the problem?
+\- _¿Has sentido el aroma?_ — Have you felt the aroma?
+\- _He perdido_ — I have lost
+\- _Yo he perdido_ — I have lost \(emphatic\)
+\- _Me he perdido_ — I have got lost
+\- _Te has perdido_ — You have got lost
+\- _Nos hemos perdido_ — We have got lost
 
-Here are 8 you'll actually use:
-
-_el problema_ — the problem
-_el sistema_ — the system
-_el programa_ — the program
-_el tema_ — the topic / theme
-_el drama_ — the drama
-_el clima_ — the climate
-_el aroma_ — the aroma
-_el idioma_ — the language
-
-💡 *Spot the pattern:* If it ends in *\-ma* and sounds kinda academic or scientific? Probably Greek\. Probably *el*\.
-
-👉 *Say this now:* "¿Has comprendido el sistema?" out loud three times\.
-
-Next: The verb that unlocks half your conversations
+Next: Lesson 24 introduces the verb _dar_ \(to give\) and how to combine two pronouns in one sentence — like "they give it to me\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

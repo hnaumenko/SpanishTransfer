@@ -1,29 +1,36 @@
-🇪🇸 *Lesson 48: The Secret Word That Makes Passive Voice Disappear*
+🇪🇸 *Lesson 48 — Language Transfer*
 
-Ever notice how Spanish loves to talk about things doing themselves? _Se vende_ \(it sells itself\) means "for sale\." _Se rompe_ \(it breaks itself\) means "it's breaking\." This tiny word *se* is everywhere, and once you crack it, Spanish starts to feel *way* more natural\.
+*Main idea:*
+For \-er and \-ir verbs, the line in the past uses the ending _\-ía_ instead of _\-aba_\. You take off the infinitive ending first, then add _\-ía_\. This gives you "I was eating," "he was selling," "they were breaking\." The endings are exactly the same as the "would" form for these verbs — the only difference is that "would" adds to the full infinitive, while the past line removes the ending first\.
 
-Here's the pattern: when you're not doing something *to* someone or something specific, Spanish uses *se* \+ verb to show the action just… happens\.
+*New constructions:*
+\- _comía_ — I was eating / I used to eat
+\- _vendía_ — I was selling / I used to sell / it was for sale
+\- _se vende_ — it sells itself / for sale
+\- _se vendía_ — it was for sale
+\- _rompía_ — I was breaking / it was breaking
+\- _¿cómo se dice?_ — how is it said? / how do you say?
+\- _quedar_ — to remain, be left over
+\- _quedarse_ — to stay
+\- _me queda uno_ — I have one left \(it remains to me one\)
+\- _no me queda ninguno/ninguna_ — I don't have any left
+\- _hablaba_ — I was speaking / he/she was speaking
+\- _se quedaba_ — he/she/it was staying
+\- _nos quedábamos_ — we were staying
 
-— *¿Cómo se dice?*
-— It means "How do you say it?" \(literally: how does it say itself?\)
-— *Se vende el coche\.*
-— The car is for sale \(it sells itself\)\.
+*Remember:*
+The _se_ structure is flexible and creates different meanings depending on context\. _Se vende_ means "for sale" \(it sells itself\), _se dice_ means "it is said," and _quedarse_ changes from "remain" to "stay\."
 
-*Here are 8 ways you'll use this TODAY:*
+*Examples:*
+\- _Comía_ — I was eating
+\- _Se vende_ — For sale
+\- _Se vendía_ — It was for sale
+\- _Lo rompía_ — I was breaking it
+\- _¿Cómo se dice?_ — How do you say it?
+\- _Me quedan dos_ — I have two left
+\- _No me queda ninguno_ — I don't have any left
+\- _Hablaban_ — They were speaking
 
-_Se vende_ — For sale \(it sells itself\)
-_Se rompe_ — It's breaking
-_¿Cómo se dice?_ — How do you say it?
-_Se habla español_ — Spanish spoken \(Spanish speaks itself\)
-_Se abre a las 9_ — It opens at 9
-_Se cierra_ — It's closed \(it closes itself\)
-_No se permite_ — It's not allowed
-_Se necesita_ — It's needed / Wanted
-
-💡 When you see signs in Spain or Latin America saying *Se vende*, *Se alquila* \(for rent\), or *Se habla inglés* — now you know why\. It's not "someone sells it," it's "it sells itself\."
-
-👉 *Say this now:* pick 3 examples above and say them out loud\. Feel how natural *se* becomes\.
-
-Next: Three Rebels in the Smoothest Spanish Tense
+Next: Lesson 49 introduces _llamar_ \(to call\) and shows how to ask someone's name using the reflexive structure — plus how to convert English verbs with "tain" into Spanish verbs\.
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

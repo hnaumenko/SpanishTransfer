@@ -1,9 +1,20 @@
-🌙 *Lesson 45 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-*Gustar, interesar, parecer* — same pattern: *le* \+ verb\.
+Today we learned that verbs like *gustar*, *interesar*, and *parecer* work backwards from English — the thing liked becomes the subject, and we use *le* or *les* to show who's receiving that feeling\.
 
-_Le gusta_ — She/he likes it\.
-_Le interesa_ — Interests her/him\.
-_Le parece bien_ — Seems good to her/him\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-No *yo*, no *él*\. Just *le* \+ verb\.
+1️⃣ We like it\.
+👉 ||Nos gusta\.||
+
+2️⃣ Does dancing tonight interest you?
+👉 ||¿Te interesa bailar esta noche?||
+
+3️⃣ It seems to me that he doesn't want to go out tonight\.
+👉 ||Me parece que no quiere salir esta noche\.||
+
+4️⃣ I would like to put a little more salt on it\.
+👉 ||Quisiera ponerle un poco más de sal\.||
+
+5️⃣ They like them\.
+👉 ||Les gustan\.||

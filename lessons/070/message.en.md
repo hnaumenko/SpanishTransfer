@@ -1,36 +1,30 @@
-🇪🇸 *Lesson 70: The "What" That Changes Everything*
+🇪🇸 *Lesson 70 — Language Transfer*
 
-You've been using "qué" for questions\. But when "what" is *not* a question, everything changes\.
+*The core rule:*
+When "what" isn't a question, it becomes _lo_ in Spanish\. In a sentence like "I saw what you're doing," the "what" isn't asking anything — it's connecting two parts of the sentence\. English uses "what" for both questions and non\-questions, but Spanish keeps them separate: _qué_ for questions, _lo_ for everything else\.
 
-*— I saw what you're doing\.*
-*— I cooked what they're eating\.*
+*New constructions:*
+\- _lo_ — what \(when not a question\)
+\- _necesidad_ — necessity
+\- _necesitar_ — to need
+\- _faltar_ — to lack, to be missing, to be short of
+\- _falta_ — lack \(noun\)
+\- _hace falta_ — it's necessary \(literally "it makes lack"\)
+\- _pronto_ — soon
+\- _preferir_ — to prefer
 
-Notice: "what" here isn't asking anything\. It's connecting two parts of the sentence\. In Spanish, this "what" becomes *lo que*\.
+*Remember:*
+Verbs like _querer_, _necesitar_, _preferir_, and _hace falta_ all express what you want to happen in the world — your subjectivity\. They share a pattern: they're followed by _que_ and the mood tense, just like the structures you've already learned\.
 
-*— I don't want you to speak about what we talked about\.*
-*— No quiero que hables de lo que hablamos\.*
+*Examples:*
+\- _Vi lo que haces_ — I saw what you're doing\.
+\- _Cociné lo que comen_ — I cooked what they're eating\.
+\- _No quiero que hables de lo que hablamos_ — I don't want you to speak about what we spoke about\.
+\- _Necesito que lo prepares_ — I need you to prepare it\.
+\- _Prefiero que se quede_ — I prefer him to stay\.
+\- _Prefiero que no se queden aquí_ — I prefer them not to stay here\.
+\- _Hace falta que comamos pronto_ — It's necessary that we eat soon\.
 
-Here's the pattern you're learning today:
+Next: Lesson 71 introduces _contar_, which means both to count and to tell or recount — and you'll learn when Spanish uses _a_ before a person's name\.
 
-🔹 *lo que* \= what \(not as a question\)
-🔹 *qué* \= what? \(question\)
-
-Let's see it in action:
-
-_lo que necesitas_ — what you need
-_lo que comieron_ — what they ate
-_lo que estoy haciendo_ — what I'm doing
-_lo que falta_ — what's missing
-_lo que preferimos_ — what we prefer
-_lo que hablamos_ — what we talked about
-_lo que vi_ — what I saw
-_lo que cocinaron_ — what they cooked
-
-💡 If your sentence could be turned into a question, use *qué*\. If not, use *lo que*\.
-
-👉 Try it now: "I need you to prepare what's missing" — say it out loud using *lo que*\.
-
-Next lesson: a tiny word that unlocks the subjunctive mood \(and why natives use it in every other sentence\)\.
-
-
-▶️ [Next lesson](https://t\.me/SpanishMeBot?start=next_en)
+▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)

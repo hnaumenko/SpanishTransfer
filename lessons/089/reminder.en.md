@@ -1,9 +1,18 @@
-🌙 *Lesson 89 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-Don't memorize rules — spot patterns\. _Demasiadas casas_ changes \(noun\)\. _Demasiado grande_ doesn't \(adjective\)\.
+Today we learned how certain words like *demasiado*, *alguno*, and *ninguno* change form depending on what follows them, and how some feminine words starting with stressed *a* take *el* instead of *la*\. Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Demasiadas casas_ — Too many houses\.
-_Demasiado grande_ — Too big\.
-_Demasiada gente_ — Too many people\.
+1️⃣ I have too many things\.
+👉 ||Tengo demasiadas cosas\.||
 
-Ask: noun or adjective?
+2️⃣ Some day\.
+👉 ||Algún día\.||
+
+3️⃣ The water is cold\.
+👉 ||El agua está fría\.||
+
+4️⃣ He's too tired\.
+👉 ||Está demasiado cansado\.||
+
+5️⃣ No problem\.
+👉 ||Ningún problema\.||

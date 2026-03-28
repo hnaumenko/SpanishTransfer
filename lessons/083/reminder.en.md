@@ -1,9 +1,19 @@
-🌙 *Lesson 83 — reminder*
+🌙 *Time to recall your Spanish\!*
 
-_Que_ turns actions into facts\: _Que lo compraste_ — the fact that you bought it\.
+Today we learned how to use the subjunctive mood after "que" and "si" when talking about hypothetical or doubtful past events\.
+Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-_Si pudiera_ — hypothetical, not real\.
-_Si lo vieras_ — if you could see it \(but you can't\)\.
-_Que llegaste tarde_ — the fact you arrived late\.
+1️⃣ That you told him is not my problem\.
+👉 ||Que le contaras no es mi problema\.||
 
-Before sleep: think one impossible thing — then frame it with _si_\.
+2️⃣ If I could cook, I would cook\.
+👉 ||Si pudiera cocinar, cocinaría\.||
+
+3️⃣ If we had known, we would have gone\.
+👉 ||Si hubiéramos sabido, habríamos ido\.||
+
+4️⃣ If you saw it, you would understand it\.
+👉 ||Si lo viera, lo entendería\.||
+
+5️⃣ If you had told me it, I would have gone\.
+👉 ||Si hubieras me lo dicho, habría ido\.||

@@ -1,15 +1,19 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned to talk about the future using the present tense and discovered the perfect goodbye \(_nos vemos_\)\.
+Today we learned how to talk about the future using the present tense with words like "pronto," "mañana," or "la semana que viene," or by using "voy a" plus a verb\.
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ See you next week \(the week that comes\)\.
-👉 ||Nos vemos la semana que viene\.||
+1️⃣ I'm seeing him tomorrow\.
+👉 ||Lo veo mañana\.||
 
-2️⃣ I am seeing her tomorrow\.
-👉 ||La veo mañana\.||
+2️⃣ We're seeing her soon\.
+👉 ||La vemos pronto\.||
 
-3️⃣ Are you going to see us soon\?
-👉 ||¿Vas a vernos pronto\?||
+3️⃣ Aren't you going to see us?
+👉 ||¿No vas a vernos?||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ Let's speak next week\.
+👉 ||Hablamos la semana que viene\.||
+
+5️⃣ We'll see each other soon\.
+👉 ||Nos vemos pronto\.||

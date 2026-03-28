@@ -1,15 +1,20 @@
 🌙 *Time to recall your Spanish\!*
 
-Today we learned how to form the "I" perspective \(add *\-o*\) and use the present tense for future plans\.
+Today we learned how to form the "I" form of verbs by dropping \-ar, \-er, or \-ir and adding \-o, with the accent moving to the second\-to\-last syllable\.
+
 Translate these phrases in your head, then tap the black rectangles to check yourself:
 
-1️⃣ I breathe\.
-👉 ||Respiro\.||
+1️⃣ I'm coming tomorrow\.
+👉 ||Vengo mañana\.||
 
-2️⃣ I try\.
-👉 ||Intento\.||
+2️⃣ I don't donate\.
+👉 ||No dono\.||
 
-3️⃣ Tomorrow I eat with Pablo\.
-👉 ||Mañana como con Pablo\.||
+3️⃣ I'm eating with Pablo tomorrow\.
+👉 ||Como con Pablo mañana\.||
 
-Great job\! Your brain will consolidate these patterns while you sleep\. See you tomorrow\! 🇪🇸
+4️⃣ I have more\.
+👉 ||Tengo más\.||
+
+5️⃣ I try to organize\.
+👉 ||Intento organizar\.||

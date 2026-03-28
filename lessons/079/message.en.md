@@ -1,33 +1,25 @@
-🇪🇸 *Lesson 79: When Spanish Gets Superstitious*
+🇪🇸 *Lesson 79 — Language Transfer*
 
-Ever notice how Spanish speakers use the subjunctive after *cuando* \(when\) talking about the future? It's like they don't want to jinx it\. "When he leaves you the message, call me" becomes *Cuando te deje el mensaje, llámame* — not *deja*, but *deje*\. Spanish doesn't trust the future\. 
+*Key pattern:*
+Spanish uses the subjunctive mood after certain expressions that talk about commands, wishes, or things that haven't happened yet\. After _dejar que_ \(to tell someone to do something\), _es esencial que_ \(it's essential that\), _cuando_ \(when — referring to the future\), and _ojalá_ \(hopefully\), you use the subjunctive because you're not stating a fact — you're expressing a desire, necessity, or uncertainty about something that may or may not happen\.
 
-Here's the pattern:
-After *cuando* \+ future event → use subjunctive
-After *quiero decirle que* \(I want to tell him that\) → use subjunctive
-After *es esencial que* \(it's essential that\) → use subjunctive
-After *ojalá* \(hopefully\) → use subjunctive
+*New constructions:*
+\- _dejar_ — to leave \(a message\)
+\- _es esencial_ — it's essential
+\- _ojalá_ — hopefully \(from Arabic, possibly related to _Allah_\)
+\- _ojo_ — watch out, careful
 
-— *When is he coming?*
-— *I want to tell him to call me when he arrives\.*
-— *Quiero decirle que me llame cuando llegue\.*
+*Remember:*
+When you say "I want to tell him to leave me a message," Spanish requires the subjunctive: _quiero decirle que me deje un mensaje_ — literally "I want to tell him that he leaves me a message\." The subjunctive shows it's a command, not a statement of fact\.
 
-*Ojalá* is beautiful — it comes from Arabic "Allah," leftover from 8 centuries of Moorish Spain\. You're literally saying "God willing\."
+*Examples:*
+\- _Déjame un mensaje_ — Leave me a message
+\- _Quiero que me dejes un mensaje_ — I want you to leave me a message
+\- _Cuando te deje el mensaje, llámame_ — When he leaves you the message, call me
+\- _Es esencial que vea mi mensaje_ — It's essential that he sees my message
+\- _Ojalá deje un mensaje_ — Hopefully she leaves a message
+\- _Ojalá sea pronto_ — Hopefully it will be soon
 
-*8 examples to master:*
-_Déjame un mensaje_ — Leave me a message
-_Quiero que me dejes un mensaje_ — I want you to leave me a message
-_Cuando te deje el mensaje, llámame_ — When he leaves you the message, call me
-_Es esencial que vea mi mensaje_ — It's essential that he sees my message
-_Ojalá deje un mensaje_ — Hopefully she leaves a message
-_Ojalá sea pronto_ — Hopefully it's soon
-_Cuando llegue, avísame_ — When he arrives, let me know
-_Es importante que entiendas esto_ — It's important that you understand this
-
-💡 *Fun fact:* Every time you use subjunctive after *cuando*, you're being superstitious about the future\.
-
-👉 Try it: Say *"Ojalá sea pronto"* out loud three times\. 
-
-Next: When Things Happen TO You in Spanish
+Next: Lesson 80 explores all the different uses of _se_ — from reflexive pronouns to a special structure that means "on me," like "the door closed on me\."
 
 ▶️ [Unlock next lesson](https://t.me/SpanishMeBot?start=next_en)
